@@ -256,7 +256,7 @@ var reperc = {
 storyline.intro = `<p>Lets learn about the Rosicrucian, specifically, but not exclusively, about manifestation through visualization techniques</p>
 <div style="font-size:smaller;">
 <p>Credits:</p>
-<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a> with references to <a href="https://www.youtube.com/watch?v=7ShZR5OmFCg" target="_blank">a youtube video</a> by <a href="https://www.youtube.com/@ChristopherCodrington/videos" target="_blank">Christopher Codrington</a></p>
 <p>Translation:<br> AIs</p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
