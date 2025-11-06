@@ -157,7 +157,7 @@ var spanishDictionary =`["abetos - firs","abriendo - opening","acunado - cradled
 var slm =`{"a":{"start":0,"end":21},"á":{"start":17,"end":17},"b":{"start":22,"end":30},"c":{"start":31,"end":60},"d":{"start":61,"end":76},"e":{"start":77,"end":101},"f":{"start":102,"end":107},"g":{"start":108,"end":111},"h":{"start":112,"end":119},"i":{"start":120,"end":128},"í":{"start":123,"end":123},"l":{"start":129,"end":149},"m":{"start":150,"end":156},"n":{"start":157,"end":165},"o":{"start":166,"end":171},"p":{"start":172,"end":207},"q":{"start":208,"end":211},"r":{"start":212,"end":222},"s":{"start":223,"end":253},"t":{"start":254,"end":271},"u":{"start":272,"end":273},"ú":{"start":274,"end":274},"v":{"start":275,"end":283},"y":{"start":284,"end":285}}`;
 
 //var EHIMGURL = './jiveRPG/canada/';
-var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/';
+var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/ca/';
 var reperc = {
     starter:false,
     storylines:[],
