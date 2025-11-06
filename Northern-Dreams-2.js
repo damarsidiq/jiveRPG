@@ -88,7 +88,7 @@ var spanishDictionary = `["abajo - below","abetos - firs","abrazo - embrace","ac
 var slm =`{"a":{"start":0,"end":23},"á":{"start":20,"end":20},"b":{"start":24,"end":27},"c":{"start":28,"end":55},"d":{"start":56,"end":72},"e":{"start":73,"end":89},"f":{"start":90,"end":94},"g":{"start":95,"end":97},"h":{"start":98,"end":104},"i":{"start":105,"end":107},"j":{"start":108,"end":108},"l":{"start":109,"end":123},"m":{"start":124,"end":133},"n":{"start":134,"end":139},"o":{"start":140,"end":145},"p":{"start":146,"end":172},"q":{"start":173,"end":176},"r":{"start":177,"end":184},"s":{"start":185,"end":206},"t":{"start":207,"end":219},"ú":{"start":220,"end":220},"u":{"start":221,"end":222},"v":{"start":223,"end":228},"y":{"start":229,"end":230}}`;
 
 //var EHIMGURL = './jiveRPG/canada/';
-var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/ca';
+var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/ca/';
 var reperc = {
     starter:false,
     storylines:[],
