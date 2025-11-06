@@ -51,7 +51,7 @@ var spanishDictionary =`["acaba - finishes / ends","acogedora - welcoming","acur
 var slm =`{"a":{"start":0,"end":10},"á":{"start":5,"end":5},"b":{"start":11,"end":13},"c":{"start":14,"end":36},"d":{"start":37,"end":46},"e":{"start":47,"end":55},"f":{"start":56,"end":58},"g":{"start":59,"end":59},"h":{"start":60,"end":68},"i":{"start":69,"end":69},"l":{"start":70,"end":78},"m":{"start":79,"end":89},"n":{"start":90,"end":93},"p":{"start":94,"end":110},"q":{"start":111,"end":111},"r":{"start":112,"end":121},"s":{"start":122,"end":141},"t":{"start":142,"end":149},"u":{"start":150,"end":151},"ú":{"start":152,"end":152},"v":{"start":153,"end":155},"y":{"start":156,"end":156}}`;
 
 //var EHIMGURL = './jiveRPG/canada/';
-var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/ca';
+var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/ca/';
 var reperc = {
     starter:false,
     storylines:[],
