@@ -238,7 +238,7 @@ var reperc = {
     storylines:[],
     starterParagraph:false,
     bmidx:false,
-    storyvis:['i.jpg','h.jpg','g.jpg','f.jpg','e.jpg','d.jpg','c.jpg','b.jpg','a.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.png','s.jpg','t.jpg','u.jpg'],
+    storyvis:['i.jpg','h.jpg','g.jpg','f.jpg','e.jpg','d.jpg','c.jpg','b.jpg','a.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.png','s.jpg','t.jpg'],
     setBookmark:function(x){
         if(reperc.localstorage == false){return;}
         reperc.bookmark[reperc.bmidx].cpar = x;
@@ -373,3 +373,4 @@ storyline.dictionfn = function(t,l){
     }
 };
 $('#text5').css('object-fit','contain');
+$('#text5').prop('src',EHIMGURL+'u.jpg');
