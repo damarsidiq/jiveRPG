@@ -407,6 +407,7 @@ var reperc = {
         else {
           storyline.chapters[storyline.current_chap].unfold();
         }
+        $('#text5').css('object-fit','contain');
         var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
         var stvi = reperc.storyvidx[stvidx];
         storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
@@ -459,4 +460,4 @@ storyline.dictionfn = function(t,l){
         window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
-$('#text5').css('object-fit','contain');
+$('#text5').prop('src',EHIMGURL+'1f.jpg');
