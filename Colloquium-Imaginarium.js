@@ -238,7 +238,7 @@ var reperc = {
     storylines:[],
     starterParagraph:false,
     bmidx:false,
-    storyvis:['i.jpg','h.jpg','g.jpg','f.jpg','e.jpg','d.jpg','c.jpg','b.jpg','a.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.png','s.jpg','t.jpg'],
+    storyvis:['i.jpg','h.jpg','g.jpg','f.jpg','e.jpg','d.jpg','c.jpg','b.jpg','a.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.png','s.jpg','t.jpg','u.jpg'],
     setBookmark:function(x){
         if(reperc.localstorage == false){return;}
         reperc.bookmark[reperc.bmidx].cpar = x;
@@ -318,8 +318,9 @@ var reperc = {
           storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
         }
         else {
-          storyline.chapters[storyline.current_chap].unfold();
+          storyline.chapters[storyline.current_chap].unfold();          
         }
+        $('#text5').css('object-fit','contain');
         var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
         var stvi = reperc.storyvidx[stvidx];
         storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
@@ -372,5 +373,4 @@ storyline.dictionfn = function(t,l){
         window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
-$('#text5').css('object-fit','contain');
 $('#text5').prop('src',EHIMGURL+'auditorium.jpg');
