@@ -373,4 +373,4 @@ storyline.dictionfn = function(t,l){
     }
 };
 $('#text5').css('object-fit','contain');
-$('#text5').prop('src',EHIMGURL+'u.jpg');
+$('#text5').prop('src',EHIMGURL+'auditorium.jpg');
