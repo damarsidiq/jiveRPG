@@ -387,14 +387,16 @@ var reperc = {
         }
 	},
     nextHdlr:function(x){
-        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-        var stvi = reperc.storyvidx[stvidx];
-        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-        reperc.storyvidx.splice(stvidx,1);
-        if(!reperc.storyvidx.length){
-            for(var i=0;i<reperc.storyvis.length;i++){
-                reperc.storyvidx[reperc.storyvidx.length] = i;
-            }
+        if(x%3 == 0){
+          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+          var stvi = reperc.storyvidx[stvidx];
+          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+          reperc.storyvidx.splice(stvidx,1);
+          if(!reperc.storyvidx.length){
+              for(var i=0;i<reperc.storyvis.length;i++){
+                  reperc.storyvidx[reperc.storyvidx.length] = i;
+              }
+          }
         }
         reperc.setBookmark(x);
     },
