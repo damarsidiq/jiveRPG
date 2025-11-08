@@ -437,7 +437,7 @@ var slm =`{"a":{"start":0,"end":65},"á":{"start":48,"end":48},"b":{"start":66,"
 
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/eu';
+    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/eu/';
 }
 else{
     EHIMGURL = './jiveRPG/eu/';
