@@ -167,11 +167,12 @@ var dLM =`{"a":{"start":0,"end":28},"ä":{"start":11,"end":11},"b":{"start":29,"
 
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/';
+    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/sc/';
 }
 else{
-    EHIMGURL = './jiveRPG/xternal/easternHead/';
+    EHIMGURL = './jiveRPG/sc/';
 }
+const oImg = '1.jpg';
 const ehbmtitle = 'WTActS';
 
 
@@ -190,7 +191,7 @@ var reperc = {
     storylines:[],
     starterParagraph:false,
     bmidx:false,
-    storyvis:['a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg','1f.jpg','1g.jpg','1h.jpg','1i.jpg','1j.jpg','1k.jpg','1l.jpg','1m.jpg','1n.jpg','1o.jpg','1p.jpg','1q.jpg','1r.jpg','1s.jpg','1t.jpg'],
+    storyvis:['d.jpg','1.jpg','c.jpg','b.jpg','a.jpg','9.jpg','8.jpg','7.jpg','6.jpg','5.jpg','4.jpg','3.jpg','2.jpg','e.jpg','n.jpg','m.jpg','l.jpg','k.jpg','j.jpg','i.jpg','h.jpg','g.jpg','f.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','p.jpg','o.jpg'],
     setBookmark:function(x){
         if(reperc.localstorage == false){return;}
         reperc.bookmark[reperc.bmidx].cpar = x;
@@ -299,7 +300,7 @@ for(var i=0;i<reperc.storylines[1].length;i++){
     //es,en,fr,de,it,ru,ja,ko
 	n.addNarration(null,reperc.storylines[0][i],null,reperc.storylines[1][i],null,null,null,null);
 }
-n.illustration = EHIMGURL+'v.jpg';
+n.illustration = EHIMGURL+oImg;
 config.narration = n;
 chidx = storyline.addChapter(config);
 
@@ -326,4 +327,4 @@ storyline.dictionfn = function(t,l){
         window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
-$('#text5').prop('src',EHIMGURL+'v.jpg');
+$('#text5').prop('src',EHIMGURL+oImg);
