@@ -173,7 +173,7 @@ storyline.intro = `<p>A story from <a href="https://www.youtube.com/@Thewordytal
 <div style="font-size:smaller;">
 <p>Credits:</p>
 <p>Story Text:<br><a href="https://www.youtube.com/watch?v=MOqFpypgBbE" target="_blank">The Power of Consistency</a></p>
-<p>Translation:<br><a hef="https://grok.com/">Grok</a></p>
+<p>Translation:<ul><li><a href="https://grok.com/" target="_blank">Grok</a></li><li><a href="https://gemini.google.com/app" target="_blank">Gemini</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
 storyline.lang = ['EN','DE'];
