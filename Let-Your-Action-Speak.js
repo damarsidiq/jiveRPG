@@ -179,7 +179,7 @@ storyline.intro = `<p>A story from <a href="https://www.youtube.com/@Thewordytal
 <div style="font-size:smaller;">
 <p>Credits:</p>
 <p>Story Text:<br><a href="https://www.youtube.com/watch?v=cuPU0PRdJCo" target="_blank">Let Your Action Speak</a></p>
-<p>Translation:<br><a hef="https://grok.com/">Grok</a></p>
+<p>Translation:<ul><li><a href="https://chat.deepseek.com/" target="_blank">DeepSeek</a></li><li><a href="https://www.kimi.com/" target="_blank">Kimi</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
 storyline.lang = ['EN','DE'];
