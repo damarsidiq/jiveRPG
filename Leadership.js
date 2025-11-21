@@ -253,7 +253,7 @@ storyline.intro = `<p>A conversation/discussion on the concept of 'Leadership' a
 <div style="font-size:smaller;">
 <p>Credits:</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
-<p>Translation:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
+<p>Translation:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li><li><a href="https://grok.com" target="_blank">Grok</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
 storyline.lang = ['EN','NO','DA'];
