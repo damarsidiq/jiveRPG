@@ -1,0 +1,232 @@
+var textSt = `I am finally ready to travel to Europe.
+I have my wallet,my backpack,my airplane ticket, all of my shirts,the t shirts, pants, trousers.
+And my jacket too right here in my suitcase.
+I'm really going to miss my room.
+The carpet, my computer, the clock on the wall.
+The cats, the good people. 
+My office desk, that yellow lamp on the table.
+Maybe i dont want to travel to another country, i like being here.
+But i have to see the world.
+This travel is more important than what i have here.
+I take my passport and walk out the door. 
+The sun is shining and the birds are singing.
+It is a beautiful day to travel.
+I get into a taxi to the airport.
+In the taxi, I look out the window.
+All the houses and trees look so familiar.
+I want to stay.
+But I think of my friends.
+They say "Good luck!" and "Send pictures!"
+I have to be brave.
+New adventures are waiting in Europe.
+I will see Sweden, France, maybe also Italy.
+It will be good.
+I am both nervous and happy. 
+The airplane is big and white.
+Here we go!
+
+<muoborder>
+
+Jag är äntligen redo att resa till Europa.  
+Jag har min plånbok, min ryggsäck, min flygbiljett, alla mina skjortor, t-shirts, byxor, och kavaj.  
+Och min jacka också här i min resväska.  
+Jag kommer verkligen att sakna mitt rum.  
+Mattan, min dator, klockan på väggen.  
+Katterna, de goda människorna.  
+Mitt kontorsbord, den gula lampan på bordet.  
+Kanske vill jag inte resa till ett annat land, jag gillar att vara här.  
+Men jag måste se världen.  
+Denna resa är viktigare än vad jag har här.  
+Jag tar mitt pass och går ut genom dörren.  
+Solen skiner och fåglarna sjunger.  
+Det är en vacker dag att resa.  
+Jag sätter mig i en taxi till flygplatsen.  
+I taxin tittar jag ut genom fönstret.  
+Alla hus och träd ser så bekanta ut.  
+Jag vill stanna.  
+Men jag tänker på mina vänner.  
+De säger "Lycka till!" och "Skicka bilder!"  
+Jag måste vara modig.  
+Nya äventyr väntar i Europa.  
+Jag kommer att se Sverige, Frankrike, kanske även Italien.  
+Det kommer att bli bra.  
+Jag är både nervös och glad.  
+Flygplanet är stort och vitt.  
+Nu kör vi!`;
+
+
+var svDiction=`["alla - all / everyone","annat - other / something else","att - to/that","bekanta - familiar","bilder - pictures","bli - to become","bordet - the table","bra - good, well","byxor - pants / trousers","både - both","dag - day","dator - the computer","de - they/the","den - the/that (common gender)","denna - this (feminine/common form)","det - it/that","dörren - the door","en - a/one","ett - a/one","europa - europe","flygbiljett - airplane ticket","flygplanet - the airplane","flygplatsen - the airport","frankrike - france","fåglarna - the birds","fönstret - the window","genom - through","gillar - like, likes","glad - happy","goda - good","gula - the yellow (here, 'den gula' = the yellow one)","går - goes, walk","har - has","hus - houses","här - here","i - in","inte - not","italien - italy","jacka - jacket (or coat)","jag - i / me","kanske - maybe/perhaps","katterna - the cats","kavaj - blazer / suit jacket","klockan - the clock / the watch","kommer - comes","kontorsbord - the office desk","kör - drive / am driving / go! (as a command)","lampan - the lamp","land - country","lycka - luck / happiness (in 'lycka till!', it means 'good luck!')","mattan - the carpet / the mat","men - but","mig - me / myself","min - my","mina - my","mitt - my / mine","modig - brave","måste - 'must, have to'","människorna - the people","nervös - nervous","nu - now","nya - new","och - and","också - also","pass - passport","plånbok - wallet","på - on/upon","redo - ready","resa - journey / travel","resväska - suitcase","rum - room","ryggsäck - backpack","sakna - to miss (someone/something)","se - see","ser - 'sees, looks'","sjunger - sing","skicka - send","skiner - shines","skjortor - shirts (usually dress shirts)","solen - the sun","stanna - to stay / to stop","stort - big","sverige - sweden","så - so/thus","säger - say","sätter - 'puts, sets'","t-shirts - t-shirts","tar - take","taxi - taxi","taxin - the taxi","till - to","tittar - look","träd - trees","tänker - think / am thinking","ut - out","vacker - beautiful","vad - what","vara - to be","verkligen - really / truly","vi - we","viktigare - more important","vill - want (to)","vitt - white","väggen - the wall","vänner - friends","väntar - wait (are waiting)","världen - the world","än - than, yet","äntligen - finally","är - is/are","även - also / even","äventyr - adventures"]`;
+var sLM=`{"a":{"start":0,"end":2},"b":{"start":3,"end":9},"d":{"start":10,"end":16},"e":{"start":17,"end":19},"f":{"start":20,"end":25},"g":{"start":26,"end":31},"h":{"start":32,"end":34},"i":{"start":35,"end":37},"j":{"start":38,"end":39},"k":{"start":40,"end":46},"l":{"start":47,"end":49},"m":{"start":50,"end":58},"n":{"start":59,"end":61},"o":{"start":62,"end":63},"p":{"start":64,"end":66},"r":{"start":67,"end":71},"s":{"start":72,"end":85},"t":{"start":86,"end":93},"u":{"start":94,"end":94},"v":{"start":95,"end":106},"ä":{"start":107,"end":111}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){
+    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/eu/';
+}
+else{
+    EHIMGURL = './jiveRPG/eu/';
+}
+const svisual=['es_h.jpg','es_i.jpg','ews.jpg','fr_a.jpg','fr_b.jpg','fr_c.jpg','fr_d.jpg','fr_e.jpg','fr_f.jpg','fr_g.jpg','fr_h.jpg','fr_i.jpg','fr_j.jpg','fr_k.jpg','fr_l.jpg','fr_m.jpg','fr_n.jpg','gr_a.jpg','gr_b.jpg','gr_c.jpg','gr_d.jpg','gr_e.jpg','gr_f.jpg','gr_g.jpg','gr_h.jpg','gr_i.jpg','gr_j.jpg','gr_k.jpg','gr_l.jpg','gr_m.jpg','gr_n.jpg','gr_o.jpg','gr_p.jpg','gr_q.jpg','gr_r.jpg','gr_s.jpg','it_a.jpg','it_b.jpg','it_c.jpg','it_d.jpg','it_e.jpg','it_f.jpg','it_g.jpg','it_h.jpg','it_i.jpg','it_j.jpg','it_k.jpg'];
+const ImgRo = 1;
+const oImg = 'it_d.jpg';
+const ehbmtitle = 'svTr';
+
+storyline.intro = `<p>A short story-narrative with basic vocabularies about travelling.</p>
+<div style="font-size:smaller;">
+<p>Credits:</p>
+<p>Story Text:<br><a href="https://www.deepseek.com/" target="_blank">DeepSeek</a></p>
+<p>Translation:<ul>
+<li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
+<li><a href="https://www.deepseek.com/" target="_blank">DeepSeek</a></li>
+</ul>
+</p>
+<p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
+
+storyline.lang = ['EN','SV'];
+storyline.clang = storyline.deflang = 'sv';
+/*eo things to adjust*/
+
+
+var reperc = {
+    starter:false,
+    storylines:[],
+    starterParagraph:false,
+    bmidx:false,
+    storyvis:svisual,
+    setBookmark:function(x){
+        if(reperc.localstorage == false){return;}
+        reperc.bookmark[reperc.bmidx].cpar = x;
+        reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark));
+    },
+    initBookmark:function(){
+        if (typeof localStorage == "object"){
+            reperc.localstorage =  localStorage;
+        } else if (typeof globalStorage == "object"){
+            reperc.localstorage = globalStorage[location.host];
+        } else {
+            reperc.localstorage = false;
+        }
+        if(reperc.localstorage !== false){
+            reperc.bookmark = reperc.localstorage.getItem('southSideBM');
+            if(reperc.bookmark == null){
+                reperc.bookmark = [];
+                reperc.bmidx = 0;
+                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
+            }
+            else{
+                reperc.bookmark = JSON.parse(reperc.bookmark);
+                for(var i=0;i<reperc.bookmark.length;i++){
+                    if(reperc.bookmark[i].title == ehbmtitle){
+                        reperc.starterParagraph = reperc.bookmark[i].cpar;
+                        reperc.bmidx = i;
+                        break;
+                    }
+                }
+                if(reperc.bmidx === false){
+                    reperc.bmidx = reperc.bookmark.length;
+                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
+                }
+            }
+        }
+    },
+    initDictionary:function(){
+		svDiction = JSON.parse(svDiction);
+        reperc.sLM = JSON.parse(sLM);
+    },
+    initStory:function(){
+        reperc.initBookmark();
+        reperc.initDictionary();
+        reperc.storyvidx = [];
+        for(var i=0;i<reperc.storyvis.length;i++){
+            reperc.storyvidx[reperc.storyvidx.length] = i;
+        }
+        textSt = textSt.split('<muoborder>');
+        for(var i=0;i<textSt.length;i++){
+            textSt[i] = textSt[i].trim();
+            if(textSt[i] == '') continue;
+            reperc.storylines[i] = [];
+            textSt[i] = textSt[i].split('\n');
+            for(var ix=0;ix<textSt[i].length;ix++){
+                textSt[i][ix] = textSt[i][ix].trim();
+                if(textSt[i][ix] == '') continue;
+                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
+            }
+        }
+	},
+    nextHdlr:function(x){
+      if(x%ImgRo == 0){
+          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+          var stvi = reperc.storyvidx[stvidx];
+          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+          reperc.storyvidx.splice(stvidx,1);
+          if(!reperc.storyvidx.length){
+              for(var i=0;i<reperc.storyvis.length;i++){
+                  reperc.storyvidx[reperc.storyvidx.length] = i;
+              }
+          }
+          reperc.setBookmark(x);
+      }
+    },
+    rp:function(){
+        storyline.current_chap = reperc.starter;
+        if(reperc.starterParagraph !== false){
+          storyline.unfold_ = true;
+          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
+        }
+        else {
+          storyline.chapters[storyline.current_chap].unfold();
+        }
+        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+        var stvi = reperc.storyvidx[stvidx];
+        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+        reperc.storyvidx.splice(stvidx,1);
+
+        document.addEventListener('unfoldx', e => {
+            reperc.nextHdlr(e.detail);
+        });
+  }
+};
+var chidx;
+var n;
+
+reperc.starter = 1;
+config = {type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};
+chidx = storyline.addChapter(config);
+
+reperc.initStory();
+config = {type:'narration',narration:false};
+n = new narration();
+for(var i=0;i<reperc.storylines[1].length;i++){
+    //en,ru,sv,da,no,fi
+	n.addNarration(reperc.storylines[0][i],null,reperc.storylines[1][i],null,null,null);
+}
+n.illustration = EHIMGURL+oImg;
+config.narration = n;
+chidx = storyline.addChapter(config);
+
+storyline.dictionfn = function(t,l){
+    $('#dictionary').remove();
+    $('.txtfrg.inq').removeClass('inq');
+    const pos = $(l).offset();
+    $(l).addClass('inq');
+    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
+    t = t +' - ';
+    let xx = t[0].toLowerCase();
+
+    if(storyline.clang == 'sv'){
+        if (!reperc.sLM[xx]){
+            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.sLM[xx].start;i<=reperc.sLM[xx].end;i++){
+            if(svDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+				return;
+    }
+};
+$('#text5').prop('src',EHIMGURL+oImg);
