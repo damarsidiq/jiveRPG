@@ -28,7 +28,7 @@ Here we go!
 <muoborder>
 
 Jag är äntligen redo att resa till Europa.  
-Jag har min plånbok, min ryggsäck, min flygbiljett, alla mina skjortor, t-shirts, byxor, och kavaj.  
+Jag har min plånbok, min ryggsäck, min flygbiljett, alla mina skjortor, t-shirts, byxor.
 Och min jacka också här i min resväska.  
 Jag kommer verkligen att sakna mitt rum.  
 Mattan, min dator, klockan på väggen.  
@@ -52,12 +52,44 @@ Jag kommer att se Sverige, Frankrike, kanske även Italien.
 Det kommer att bli bra.  
 Jag är både nervös och glad.  
 Flygplanet är stort och vitt.  
-Nu kör vi!`;
+Nu kör vi!
+
+<muoborder>
+
+Jeg er endelig klar til å reise til Europa.  
+Jeg har lommeboken min, ryggsekken min, flybilletten min, alle skjortene mine, t-skjortene, buksene.  
+Og jakken min også, rett her i kofferten min.  
+Jeg kommer virkelig til å savne rommet mitt.  
+Teppet, datamaskinen min, klokken på veggen.  
+Kattene, de gode menneskene.  
+Kontorpulten min, den gule lampen på bordet.  
+Kanskje jeg ikke vil reise til et annet land, jeg liker å være her.  
+Men jeg må se verden.  
+Denne reisen er viktigere enn det jeg har her.  
+Jeg tar passet mitt og går ut døren.  
+Solen skinner og fuglene synger.  
+Det er en vakker dag å reise.  
+Jeg setter meg inn i en taxi til flyplassen.  
+I taxien ser jeg ut av vinduet.  
+Alle husene og trærne ser så kjent ut.  
+Jeg vil bli.  
+Men jeg tenker på vennene mine.  
+De sier "Lykke til!" og "Send bilder!"  
+Jeg må være modig.  
+Nye eventyr venter i Europa.  
+Jeg skal se Sverige, Frankrike, kanskje også Italia.  
+Det blir bra.  
+Jeg er både nervøs og glad.  
+Flyet er stort og hvitt.  
+Her går vi!`;
 
 
 var svDiction=`["alla - all / everyone","annat - other / something else","att - to/that","bekanta - familiar","bilder - pictures","bli - to become","bordet - the table","bra - good, well","byxor - pants / trousers","både - both","dag - day","dator - the computer","de - they/the","den - the/that (common gender)","denna - this (feminine/common form)","det - it/that","dörren - the door","en - a/one","ett - a/one","europa - europe","flygbiljett - airplane ticket","flygplanet - the airplane","flygplatsen - the airport","frankrike - france","fåglarna - the birds","fönstret - the window","genom - through","gillar - like, likes","glad - happy","goda - good","gula - the yellow (here, 'den gula' = the yellow one)","går - goes, walk","har - has","hus - houses","här - here","i - in","inte - not","italien - italy","jacka - jacket (or coat)","jag - i / me","kanske - maybe/perhaps","katterna - the cats","kavaj - blazer / suit jacket","klockan - the clock / the watch","kommer - comes","kontorsbord - the office desk","kör - drive / am driving / go! (as a command)","lampan - the lamp","land - country","lycka - luck / happiness (in 'lycka till!', it means 'good luck!')","mattan - the carpet / the mat","men - but","mig - me / myself","min - my","mina - my","mitt - my / mine","modig - brave","måste - 'must, have to'","människorna - the people","nervös - nervous","nu - now","nya - new","och - and","också - also","pass - passport","plånbok - wallet","på - on/upon","redo - ready","resa - journey / travel","resväska - suitcase","rum - room","ryggsäck - backpack","sakna - to miss (someone/something)","se - see","ser - 'sees, looks'","sjunger - sing","skicka - send","skiner - shines","skjortor - shirts (usually dress shirts)","solen - the sun","stanna - to stay / to stop","stort - big","sverige - sweden","så - so/thus","säger - say","sätter - 'puts, sets'","t-shirts - t-shirts","tar - take","taxi - taxi","taxin - the taxi","till - to","tittar - look","träd - trees","tänker - think / am thinking","ut - out","vacker - beautiful","vad - what","vara - to be","verkligen - really / truly","vi - we","viktigare - more important","vill - want (to)","vitt - white","väggen - the wall","vänner - friends","väntar - wait (are waiting)","världen - the world","än - than, yet","äntligen - finally","är - is/are","även - also / even","äventyr - adventures"]`;
 var sLM=`{"a":{"start":0,"end":2},"b":{"start":3,"end":9},"d":{"start":10,"end":16},"e":{"start":17,"end":19},"f":{"start":20,"end":25},"g":{"start":26,"end":31},"h":{"start":32,"end":34},"i":{"start":35,"end":37},"j":{"start":38,"end":39},"k":{"start":40,"end":46},"l":{"start":47,"end":49},"m":{"start":50,"end":58},"n":{"start":59,"end":61},"o":{"start":62,"end":63},"p":{"start":64,"end":66},"r":{"start":67,"end":71},"s":{"start":72,"end":85},"t":{"start":86,"end":93},"u":{"start":94,"end":94},"v":{"start":95,"end":106},"ä":{"start":107,"end":111}}`;
 
+
+var noDiction=`["alle - all / everyone","annet - other / different","av - of / from / by","bilder - pictures","bli - become / stay / be","blir - becomes / gets","bordet - the table","bra - good","buksene - the pants","både - both","dag - day","datamaskinen - the computer","de - they / them","den - it / that / the","denne - this","det - it / that","døren - the door","en - a / an / one","endelig - finally","enn - than","er - is / are","et - a / an / one","europa - europe","eventyr - adventures","flybilletten - the plane ticket","flyet - the plane","flyplassen - the airport","frankrike - france","fuglene - the birds","glad - happy","gode - good","gule - yellow","går - goes / walks","har - have / has","husene - the houses","hvitt - white","ikke - not","inn - in / into","italia - italy","jakken - the jacket","jeg - i","kanskje - perhaps","kattene - the cats","kjent - known","klar - clear / ready","klokken - the clock","kofferten - the suitcase","kommer - comes","kontorpulten - the desk","lampen - the lamp","land - country","liker - like","lommeboken - the wallet","lykke - happiness","meg - me","men - but","menneskene - the people","min - my","mine - my / mine","mitt - my","modig - brave","må - must","nervøs - nervous","nye - new","og - and","også - also / too","passet - the passport","på - on / at / in","reise - journey / trip","reisen - the trip","rett - right / straight / just","rommet - the room","ryggsekken - the backpack","savne - miss","se - see","send - send","ser - see / look","setter - puts","sier - says","skal - shall","skinner - shines","skjortene - the shirts","solen - the sun","stort - large / big","sverige - sweden","synger - sing","så - so / thus / then","t-skjortene - the t-shirts","tar - takes","taxi - taxi","taxien - the taxi","tenker - think","teppet - the carpet","til - to / for / until","trærne - the trees","ut - out","vakker - beautiful","veggen - the wall","vennene - the friends","venter - waits","verden - world","vi - we","viktigere - more important","vil - will / want","vinduet - the window","virkelig - real / really","være - be","å - to (infinitive marker)"]`;
+var noLM=`{"a":{"start":0,"end":2},"b":{"start":3,"end":9},"d":{"start":10,"end":16},"e":{"start":17,"end":23},"f":{"start":24,"end":28},"g":{"start":29,"end":32},"h":{"start":33,"end":35},"i":{"start":36,"end":38},"j":{"start":39,"end":40},"k":{"start":41,"end":48},"l":{"start":49,"end":53},"m":{"start":54,"end":61},"n":{"start":62,"end":63},"o":{"start":64,"end":65},"p":{"start":66,"end":67},"r":{"start":68,"end":72},"s":{"start":73,"end":86},"t":{"start":87,"end":94},"u":{"start":95,"end":95},"v":{"start":96,"end":106},"å":{"start":107,"end":107}}`;
 
 /*things to adjust*/
 var EHIMGURL;
@@ -83,7 +115,7 @@ storyline.intro = `<p>A short story-narrative with basic vocabularies about trav
 </p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
-storyline.lang = ['EN','SV'];
+storyline.lang = ['EN','SV','NO'];
 storyline.clang = storyline.deflang = 'sv';
 /*eo things to adjust*/
 
@@ -131,8 +163,11 @@ var reperc = {
         }
     },
     initDictionary:function(){
-		svDiction = JSON.parse(svDiction);
+	svDiction = JSON.parse(svDiction);
         reperc.sLM = JSON.parse(sLM);
+
+	noDiction = JSON.parse(noDiction);
+        reperc.noLM = JSON.parse(noLM);
     },
     initStory:function(){
         reperc.initBookmark();
@@ -198,8 +233,8 @@ reperc.initStory();
 config = {type:'narration',narration:false};
 n = new narration();
 for(var i=0;i<reperc.storylines[1].length;i++){
-    //en,ru,sv,da,no,fi
-	n.addNarration(reperc.storylines[0][i],null,reperc.storylines[1][i],null,null,null);
+	//en,ru,sv,da,no,fi
+	n.addNarration(reperc.storylines[0][i],null,reperc.storylines[1][i],null,reperc.storylines[2][i],null);
 }
 n.illustration = EHIMGURL+oImg;
 config.narration = n;
@@ -227,6 +262,19 @@ storyline.dictionfn = function(t,l){
         }
         window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
 				return;
+    }
+    else if(storyline.clang == 'no'){
+        if (!reperc.noLM[xx]){
+            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){
+            if(noDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
