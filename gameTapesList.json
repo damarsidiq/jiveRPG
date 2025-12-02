@@ -1,5 +1,5 @@
 [
-  ["easternRoutine","de,es,fr,it","beginner"],
+  ["eastBernard","de,es,fr,it","beginner"],["easternRoutine","de,es,fr,it","beginner"],
   ["Time-and-Space","en,fr,it","ai-investigation"],["Walking-Exercise","en,es,de","ai-investigation"],
   ["Subtext","en,it","ai-investigation"],["Count-Rock","en,it","ai-investigation"],
   ["Manipulation","en,de","ai-investigation"],["Dogs-and-Cats","en,de","ai-investigation"],
