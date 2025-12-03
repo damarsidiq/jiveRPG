@@ -143,148 +143,178 @@ Beide lachen, während sie noch an der Ausgangstür stehen.
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/csh/';
+    EHIMGURL = jovuniverse.EHIMGURL+'csh/';
 }
 else{
-EHIMGURL = './jiveRPG/csh/';
+    EHIMGURL = storyline.BIMG+'csh/';
 }
 const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
 const ImgRo = 1;
 const oImg = '1a.jpg';
 const ehbmtitle = 'ebernard';
 
+
+var frSND = ['Afr.mp3',[0.000000,3.429609,1],[3.775267,6.506207,2],[6.721936,10.389338,3],[10.639388,12.737848,4],[13.017316,15.012814,5],[15.248155,17.478995,6],[17.689822,20.533529,7],[20.768870,24.166610,8],[24.426466,27.574156,9],[27.912460,29.947181,10],[30.280581,31.722047,11],[32.045641,33.599874,12],[33.815604,37.262374,13],[37.615385,40.993514,14],[41.253370,44.116689,15],[44.401060,47.431079,16],[47.646809,50.137504,17],[50.495419,51.142608,18],[51.368143,51.882952,19],[52.368344,54.525639,20],[54.803901,57.56,21],[57.723459,60.13,22],[60.151242,63.36,23],[63.337424,65.10,24],[65.331302,68.13,25]];
+
+
+
 storyline.intro = `<p>A story of Bernard's day.</p>
 <div style="font-size:smaller;">
 <p>Credits:</p>
-<p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
-</ul></p>
+<p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
+<p>Voices:<ul><li><a href="https://voicertool.com" target="_blank">VoicerTool</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
 storyline.lang = ['EN','ES','FR','IT','DE'];
-storyline.clang = storyline.deflang = 'es';
+storyline.clang = storyline.deflang = 'fr';
 /*eo things to adjust*/
 
 
 var reperc = {
-starter:false,
-storylines:[],
-starterParagraph:false,
-bmidx:false,
-storyvis:svisual,
-setBookmark:function(x){
-if(reperc.localstorage == false){return;}
-reperc.bookmark[reperc.bmidx].cpar = x;
-reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark));
-},
-initBookmark:function(){
-if (typeof localStorage == "object"){
-	reperc.localstorage =  localStorage;
-} else if (typeof globalStorage == "object"){
-	reperc.localstorage = globalStorage[location.host];
-} else {
-	reperc.localstorage = false;
-}
-if(reperc.localstorage !== false){
-	reperc.bookmark = reperc.localstorage.getItem('easternHeadBM');
-	if(reperc.bookmark == null){
-		reperc.bookmark = [];
-		reperc.bmidx = 0;
-		reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
-	}
-	else{
-		reperc.bookmark = JSON.parse(reperc.bookmark);
-		for(var i=0;i<reperc.bookmark.length;i++){
-			if(reperc.bookmark[i].title == ehbmtitle){
-				reperc.starterParagraph = reperc.bookmark[i].cpar;
-				reperc.bmidx = i;
-				break;
-			}
-		}
-		if(reperc.bmidx === false){
-			reperc.bmidx = reperc.bookmark.length;
-			reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
-		}
-	}
-}
-},
-avdi:0,
-initDictionary:function(){
-if(typeof itDiction !== 'undefined' && itDiction!=''){
-  itDiction = JSON.parse(itDiction);
-  reperc.itLM = JSON.parse(itLM); reperc.avdi++;
-}        
-if(typeof frDiction !== 'undefined' && frDiction!=''){
-  frDiction = JSON.parse(frDiction);
-  reperc.frLM = JSON.parse(frLM);reperc.avdi++;
-}        
-if(typeof deDiction !== 'undefined' && deDiction!=''){
-  deDiction = JSON.parse(deDiction);
-  reperc.deLM = JSON.parse(deLM);reperc.avdi++;
-}        
-if(typeof esDiction !== 'undefined' && esDiction!=''){
-  esDiction = JSON.parse(esDiction);
-  reperc.esLM = JSON.parse(esLM);reperc.avdi++;
-}      
-},
-initStory:function(){
-reperc.initBookmark();
-reperc.initDictionary();
-reperc.storyvidx = [];
-for(var i=0;i<reperc.storyvis.length;i++){
-	reperc.storyvidx[reperc.storyvidx.length] = i;
-}
-textSt = textSt.split('<muoborder>');
-for(var i=0;i<textSt.length;i++){
-	textSt[i] = textSt[i].trim();
-	if(textSt[i] == '') continue;
-	reperc.storylines[i] = [];
-	textSt[i] = textSt[i].split('\n');
-	for(var ix=0;ix<textSt[i].length;ix++){
-		textSt[i][ix] = textSt[i][ix].trim();
-		if(textSt[i][ix] == '') continue;
-		reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
-	}
-}
-},
-nextHdlr:function(x){
-if(x%ImgRo == 0){          
-  var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-  var stvi = reperc.storyvidx[stvidx];
-  storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-  reperc.storyvidx.splice(stvidx,1);
-  if(!reperc.storyvidx.length){
-	  for(var i=0;i<reperc.storyvis.length;i++){
-		  reperc.storyvidx[reperc.storyvidx.length] = i;
-	  }
-  }
-  reperc.setBookmark(x);
-}
-},
-rp:function(){
-storyline.current_chap = reperc.starter;
-if(reperc.starterParagraph !== false){
-  storyline.unfold_ = true;
-  storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
-}
-else {
-  storyline.chapters[storyline.current_chap].unfold();
-}
-//$('#text5').css('object-fit','contain');
-var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-var stvi = reperc.storyvidx[stvidx];
-storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-reperc.storyvidx.splice(stvidx,1);
-
-document.addEventListener('unfoldx', e => {
-	reperc.nextHdlr(e.detail);          
-});
-},
-xDict:function(p){
-$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
-},
-wo:function(r){
-window.open(r, '_blank');
-}
+    starter:false,
+    storylines:[],
+    starterParagraph:false,
+    bmidx:false,
+    storyvis:svisual,
+    setBookmark:function(x){
+        if(reperc.localstorage == false){return;}
+        reperc.bookmark[reperc.bmidx].cpar = x;
+        reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark));
+    },
+    initBookmark:function(){
+        if (typeof localStorage == "object"){
+            reperc.localstorage =  localStorage;
+        } else if (typeof globalStorage == "object"){
+            reperc.localstorage = globalStorage[location.host];
+        } else {
+            reperc.localstorage = false;
+        }
+        if(reperc.localstorage !== false){
+            reperc.bookmark = reperc.localstorage.getItem('easternHeadBM');
+            if(reperc.bookmark == null){
+                reperc.bookmark = [];
+                reperc.bmidx = 0;
+                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
+            }
+            else{
+                reperc.bookmark = JSON.parse(reperc.bookmark);
+                for(var i=0;i<reperc.bookmark.length;i++){
+                    if(reperc.bookmark[i].title == ehbmtitle){
+                        reperc.starterParagraph = reperc.bookmark[i].cpar;
+                        reperc.bmidx = i;
+                        break;
+                    }
+                }
+                if(reperc.bmidx === false){
+                    reperc.bmidx = reperc.bookmark.length;
+                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
+                }
+            }
+        }
+    },
+    avdi:0,
+    initDictionary:function(){
+        if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
+    },
+    initStory:function(){
+        reperc.initBookmark();
+        reperc.initDictionary();
+        reperc.storyvidx = [];
+        for(var i=0;i<reperc.storyvis.length;i++){
+            reperc.storyvidx[reperc.storyvidx.length] = i;
+        }
+        textSt = textSt.split('<muoborder>');
+        for(var i=0;i<textSt.length;i++){
+            textSt[i] = textSt[i].trim();
+            if(textSt[i] == '') continue;
+            reperc.storylines[i] = [];
+            textSt[i] = textSt[i].split('\n');
+            for(var ix=0;ix<textSt[i].length;ix++){
+                textSt[i][ix] = textSt[i][ix].trim();
+                if(textSt[i][ix] == '') continue;
+                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
+            }
+        }
+	},
+    nextHdlr:function(x){
+      if(x%ImgRo == 0){          
+          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+          var stvi = reperc.storyvidx[stvidx];
+          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+          reperc.storyvidx.splice(stvidx,1);
+          if(!reperc.storyvidx.length){
+              for(var i=0;i<reperc.storyvis.length;i++){
+                  reperc.storyvidx[reperc.storyvidx.length] = i;
+              }
+          }
+          reperc.setBookmark(x);
+      }
+    },
+    rp:function(){
+        storyline.current_chap = reperc.starter;
+        if(reperc.starterParagraph !== false){
+          storyline.unfold_ = true;
+          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
+        }
+        else {
+          storyline.chapters[storyline.current_chap].unfold();
+        }
+        //$('#text5').css('object-fit','contain');
+        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+        var stvi = reperc.storyvidx[stvidx];
+        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+        reperc.storyvidx.splice(stvidx,1);
+        
+        document.addEventListener('unfoldx', e => {
+            reperc.nextHdlr(e.detail);          
+        });
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -297,79 +327,87 @@ reperc.initStory();
 config = {type:'narration',narration:false};
 n = new narration();
 for(var i=0;i<reperc.storylines[1].length;i++){
-//es,en,fr,de,it
-n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i]);
+	//es,en,fr,de,it
+	n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i]);
 }
 n.illustration = EHIMGURL+oImg;
 config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-$('#dictionary').remove();
-$('.txtfrg.inq').removeClass('inq');
-const pos = $(l).offset();
-$(l).addClass('inq');
-if(!reperc.avdi){reperc.xDict(pos);return;}
+    $('#dictionary').remove();
+    $('.txtfrg.inq').removeClass('inq');
+    const pos = $(l).offset();
+    $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
 
-t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
-t = t +' - ';
-let xx = t[0].toLowerCase();
+    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
+    t = t +' - ';
+    let xx = t[0].toLowerCase();
 
-if(storyline.clang == 'it'){
-if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
-if (!reperc.itLM[xx]){
-	reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-	return;
-}
-for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
-	if(itDiction[i].indexOf(t) === 0){
-		$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-		return;
-	}
-}
-reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-}
-else if(storyline.clang == 'fr'){
-if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
-if (!reperc.frLM[xx]){
-	reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-	return;
-}
-for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
-	if(frDiction[i].indexOf(t) === 0){
-		$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-		return;
-	}
-}
-reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-}
-else if(storyline.clang == 'es'){
-if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
-if (!reperc.esLM[xx]){
-	reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-	return;
-}
-for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
-	if(esDiction[i].indexOf(t) === 0){
-		$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-		return;
-	}
-}
-reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-}
-else if(storyline.clang == 'de'){
-if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
-if (!reperc.deLM[xx]){
-	reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-	return;
-}
-for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
-	if(deDiction[i].indexOf(t) === 0){
-		$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-		return;
-	}
-}
-reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-}
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
+            if(deDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
+
+var cssa,cssb,cssc;        
+cssa = document.createElement('style');
+cssa.type = "text/css";
+document.getElementsByTagName("BODY")[0].appendChild(cssa);
+cssb = cssa.sheet;
+cssc = '#dialoguebubble{min-height: 140px;}';
+cssb.insertRule(cssc, cssb.cssRules.length);
