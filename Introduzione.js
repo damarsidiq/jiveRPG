@@ -1,0 +1,473 @@
+var textSt = `
+my house is small but beautiful.
+i would like to have a big and beautiful house.
+but i dont think i need that right now.
+right now i am single, i am not married.
+but i would like to someday.
+with a beautiful woman.
+i dont have a lot of money right now.
+i only have some amount of money.
+but maybe i can be a rich man in the future.
+i work every day.
+seven days in one week.
+about eight hours in one day.
+i have one computer and two good hands.
+my favorite color is blue
+but i also like red, orange, yellow, green and purple.
+i like reading articles.
+but its been a while since i read a book.
+i love learning foreign languages.
+spanish, german, french, italian, swedish, norwegian,danish, russian, japanese.
+i drink coffee, milk, tea, juice and water.
+i dont drink wine or beer.
+i eat rice, eggs, chicken, meat.
+i dont eat pigs
+i sometimes write stories.
+i would like to write a book someday.
+i go to bed everynight and exercise in the morning.
+i usually sleep for about five to six hours.
+but when i am tired i can sleep for seven,eight,nine,ten,eleven or twelve hours.
+i usually wake up very early in the morning.
+i like watching movies, soccer and also basketball.
+i also like watching podcasts on youtube and also the news.
+i like walking and running and doing yoga.
+i dont like boxing or fighting sports.
+i dont have a car, bicycle or motorcycle.
+i know how to ride a bicycle and motorcycle.
+but i cant drive a car.
+i am 35 years old.
+my name is...
+<muoborder>
+
+Mi casa es pequeña pero hermosa.  
+Me gustaría tener una casa grande y hermosa.  
+Pero no creo que lo necesite en este momento.  
+Ahora mismo estoy soltero, no estoy casado.  
+Pero me gustaría hacerlo algún día.  
+Con una mujer hermosa.  
+No tengo mucho dinero en este momento.  
+Solo tengo una cierta cantidad de dinero.  
+Pero tal vez pueda ser un hombre rico en el futuro.  
+Trabajo todos los días.  
+Siete días a la semana.  
+Alrededor de ocho horas al día.  
+Tengo una computadora y dos buenas manos.
+mi color favorito es azul  
+pero también me gustan el rojo, el naranja, el amarillo, el verde y el púrpura.  
+me gusta leer artículos.  
+pero ha pasado un tiempo desde que leí un libro.  
+me encanta aprender idiomas extranjeros.  
+español, alemán, francés, italiano, sueco, noruego, danés, ruso, japonés.  
+bebo café, leche, té, jugo y agua.  
+no bebo vino ni cerveza.  
+como arroz, huevos, pollo, carne.  
+no como cerdo.  
+a veces escribo historias.  
+me gustaría escribir un libro algún día.  
+me voy a la cama todas las noches y hago ejercicio por la mañana.  
+Normalmente duermo entre cinco y seis horas.
+pero cuando estoy cansado puedo dormir siete, ocho, nueve, diez, once o doce horas.
+generalmente me despierto muy temprano por la mañana.  
+me gusta ver películas, fútbol y también baloncesto.  
+también me gusta ver pódcast en YouTube y también las noticias.  
+me gusta caminar, correr y hacer yoga.  
+no me gustan los deportes de boxeo o de lucha.  
+no tengo coche, bicicleta ni motocicleta.  
+sé cómo montar en bicicleta y en motocicleta.  
+pero no puedo conducir un coche.
+Tengo 35 años.
+Me llamo ...
+
+
+<muoborder>
+Ma maison est petite mais belle.  
+J'aimerais avoir une grande et belle maison.  
+Mais je ne pense pas en avoir besoin en ce moment.  
+En ce moment, je suis célibataire, je ne suis pas marié.  
+Mais j'aimerais l'être un jour.  
+Avec une belle femme.  
+Je n'ai pas beaucoup d'argent en ce moment.  
+J'ai seulement une certaine somme d'argent.  
+Mais peut-être que je pourrai être un homme riche à l'avenir.  
+Je travaille tous les jours.  
+Sept jours par semaine.  
+Environ huit heures par jour.  
+J'ai un ordinateur et deux bonnes mains.
+ma couleur préférée est le bleu  
+mais j'aime aussi le rouge, l'orange, le jaune, le vert et le violet.  
+j'aime lire des articles.  
+mais cela fait un moment que je n'ai pas lu de livre.  
+j'adore apprendre des langues étrangères.  
+espagnol, allemand, français, italien, suédois, norvégien, danois, russe, japonais.  
+je bois du café, du lait, du thé, du jus et de l'eau.  
+je ne bois pas de vin ni de bière.  
+je mange du riz, des œufs, du poulet, de la viande.  
+je ne mange pas de porc.  
+j'écris parfois des histoires.  
+j'aimerais écrire un livre un jour.  
+Je dors généralement environ cinq à six heures.
+Mais quand je suis fatigué, je peux dormir sept, huit, neuf, dix, onze ou douze heures.
+je vais au lit chaque nuit et je fais de l'exercice le matin.  
+je me réveille généralement très tôt le matin.  
+j'aime regarder des films, du football et aussi du basketball.  
+j'aime aussi regarder des podcasts sur YouTube et aussi les actualités.  
+j'aime marcher, courir et faire du yoga.  
+je n'aime pas la boxe ni les sports de combat.  
+je n'ai pas de voiture, de vélo ou de moto.  
+je sais faire du vélo et de la moto.  
+mais je ne peux pas conduire une voiture.
+J’ai 35 ans.
+Je m’appelle ...
+
+<muoborder>
+La mia casa è piccola ma bella.  
+Vorrei avere una casa grande e bella.  
+Ma non penso di averne bisogno in questo momento.  
+In questo momento sono single, non sono sposato.  
+Ma mi piacerebbe farlo un giorno.  
+Con una donna bella.  
+Non ho molti soldi in questo momento.  
+Ho solo una certa somma di denaro.  
+Ma forse posso diventare un uomo ricco in futuro.  
+Lavoro ogni giorno.  
+Sette giorni alla settimana.  
+Circa otto ore al giorno.  
+Ho un computer e due buone mani.
+Il mio colore preferito è il blu.  
+Ma mi piacciono anche il rosso, l'arancione, il giallo, il verde e il viola.  
+Mi piace leggere articoli.  
+Ma è passato un po' di tempo da quando ho letto un libro.  
+Amo imparare lingue straniere.  
+Spagnolo, tedesco, francese, italiano, svedese, norvegese, danese, russo, giapponese.  
+Bevo caffè, latte, tè, succo e acqua.  
+Non bevo vino né birra.  
+Mangio riso, uova, pollo, carne.  
+Non mangio maiali.  
+A volte scrivo storie.  
+Mi piacerebbe scrivere un libro un giorno.  
+Vado a letto ogni notte e faccio esercizio al mattino.  
+Di solito dormo per circa cinque o sei ore.  
+Ma quando sono stanco posso dormire per sette, otto, nove, dieci, undici o dodici ore.
+Di solito mi sveglio molto presto al mattino.  
+Mi piace guardare film, calcio e anche basket.  
+Mi piace anche guardare podcast su YouTube e anche le notizie.  
+Mi piace camminare, correre e fare yoga.  
+Non mi piacciono il pugilato o gli sport da combattimento.  
+Non ho un'auto, una bicicletta o una motocicletta.  
+So come andare in bicicletta e in motocicletta.  
+Ma non so guidare un'auto.
+Ho 35 anni.
+Mi chiamo ...
+
+
+<muoborder>
+Mein Haus ist klein, aber schön.  
+Ich hätte gerne ein großes und schönes Haus.  
+Aber ich denke nicht, dass ich das gerade jetzt brauche.  
+Im Moment bin ich allein, ich bin nicht verheiratet.  
+Aber ich würde gerne eines Tages.  
+Mit einer schönen Frau.  
+Ich habe gerade nicht viel Geld.  
+Ich habe nur eine gewisse Menge Geld.  
+Aber vielleicht kann ich in der Zukunft ein reicher Mann sein.  
+Ich arbeite jeden Tag.  
+Sieben Tage in einer Woche.  
+Etwa acht Stunden an einem Tag.  
+Ich habe einen Computer und zwei gute Hände.
+Meine Lieblingsfarbe ist blau.  
+Aber ich mag auch rot, orange, gelb, grün und lila.  
+Ich lese gerne Artikel.  
+Aber es ist schon eine Weile her, seit ich ein Buch gelesen habe.  
+Ich liebe es, Fremdsprachen zu lernen.  
+Spanisch, Deutsch, Französisch, Italienisch, Schwedisch, Norwegisch, Dänisch, Russisch, Japanisch.  
+Ich trinke Kaffee, Milch, Tee, Saft und Wasser.  
+Ich trinke keinen Wein oder Bier.  
+Ich esse Reis, Eier, Hühnchen, Fleisch.  
+Ich esse keine Schweine.  
+Manchmal schreibe ich Geschichten.  
+Ich würde gerne eines Tages ein Buch schreiben.  
+Ich gehe jede Nacht ins Bett und mache morgens Sport.  
+Ich schlafe normalerweise etwa fünf bis sechs Stunden.  
+Aber wenn ich müde bin, kann ich sieben, acht, neun, zehn, elf oder zwölf Stunden schlafen.
+Ich wache normalerweise sehr früh am Morgen auf.  
+Ich schaue gerne Filme, Fußball und auch Basketball.  
+Ich schaue auch Podcasts auf YouTube und auch die Nachrichten.  
+Ich gehe gerne spazieren, joggen und mache Yoga.  
+Ich mag kein Boxen oder Kampfsportarten.  
+Ich habe kein Auto, Fahrrad oder Motorrad.  
+Ich weiß, wie man Fahrrad und Motorrad fährt.  
+Aber ich kann kein Auto fahren.
+Ich bin 35 Jahre alt.
+Mein Name ist ...
+`;
+
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){
+    EHIMGURL = jovuniverse.EHIMGURL+'csh/';
+}
+else{
+    EHIMGURL = storyline.BIMG+'csh/';
+}
+const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
+const ImgRo = 1;
+const oImg = '1a.jpg';
+const ehbmtitle = 'brwv';
+
+
+
+storyline.intro = `<p>Introducing myself.</p>
+<div style="font-size:smaller;">
+<p>Credits:</p>
+<p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
+<p>Voices:<ul><li><a href="https://speechma.com/english" target="_blank">Speechma</a></li></ul></p>
+<p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
+
+storyline.lang = ['EN','ES','FR','IT','DE'];
+storyline.clang = storyline.deflang = 'it';
+/*eo things to adjust*/
+
+
+var reperc = {
+    starter:false,
+    storylines:[],
+    starterParagraph:false,
+    bmidx:false,
+    storyvis:svisual,
+    setBookmark:function(x){
+        if(reperc.localstorage == false){return;}
+        reperc.bookmark[reperc.bmidx].cpar = x;
+        reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark));
+    },
+    initBookmark:function(){
+        if (typeof localStorage == "object"){
+            reperc.localstorage =  localStorage;
+        } else if (typeof globalStorage == "object"){
+            reperc.localstorage = globalStorage[location.host];
+        } else {
+            reperc.localstorage = false;
+        }
+        if(reperc.localstorage !== false){
+            reperc.bookmark = reperc.localstorage.getItem('easternHeadBM');
+            if(reperc.bookmark == null){
+                reperc.bookmark = [];
+                reperc.bmidx = 0;
+                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
+            }
+            else{
+                reperc.bookmark = JSON.parse(reperc.bookmark);
+                for(var i=0;i<reperc.bookmark.length;i++){
+                    if(reperc.bookmark[i].title == ehbmtitle){
+                        reperc.starterParagraph = reperc.bookmark[i].cpar;
+                        reperc.bmidx = i;
+                        break;
+                    }
+                }
+                if(reperc.bmidx === false){
+                    reperc.bmidx = reperc.bookmark.length;
+                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
+                }
+            }
+        }
+    },
+    avdi:0,
+    initDictionary:function(){
+        if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
+    },
+    initStory:function(){
+        reperc.initBookmark();
+        reperc.initDictionary();
+        reperc.storyvidx = [];
+        for(var i=0;i<reperc.storyvis.length;i++){
+            reperc.storyvidx[reperc.storyvidx.length] = i;
+        }
+        textSt = textSt.split('<muoborder>');
+        for(var i=0;i<textSt.length;i++){
+            textSt[i] = textSt[i].trim();
+            if(textSt[i] == '') continue;
+            reperc.storylines[i] = [];
+            textSt[i] = textSt[i].split('\n');
+            for(var ix=0;ix<textSt[i].length;ix++){
+                textSt[i][ix] = textSt[i][ix].trim();
+                if(textSt[i][ix] == '') continue;
+                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
+            }
+        }
+	},
+    nextHdlr:function(x){
+      if(x%ImgRo == 0){          
+          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+          var stvi = reperc.storyvidx[stvidx];
+          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+          reperc.storyvidx.splice(stvidx,1);
+          if(!reperc.storyvidx.length){
+              for(var i=0;i<reperc.storyvis.length;i++){
+                  reperc.storyvidx[reperc.storyvidx.length] = i;
+              }
+          }
+          reperc.setBookmark(x);
+      }
+    },
+    rp:function(){
+        storyline.current_chap = reperc.starter;
+        if(reperc.starterParagraph !== false){
+          storyline.unfold_ = true;
+          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
+        }
+        else {
+          storyline.chapters[storyline.current_chap].unfold();
+        }
+        //$('#text5').css('object-fit','contain');
+        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
+        var stvi = reperc.storyvidx[stvidx];
+        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
+        reperc.storyvidx.splice(stvidx,1);
+        
+        document.addEventListener('unfoldx', e => {
+            reperc.nextHdlr(e.detail);          
+        });
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
+};
+var chidx;
+var n;
+
+reperc.starter = 1;
+config = {type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};
+chidx = storyline.addChapter(config);
+
+reperc.initStory();
+config = {type:'narration',narration:false};
+n = new narration();
+for(var i=0;i<reperc.storylines[1].length;i++){
+	//es,en,fr,de,it
+	n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i]);
+}
+n.illustration = EHIMGURL+oImg;
+config.narration = n;
+chidx = storyline.addChapter(config);
+
+storyline.dictionfn = function(t,l){
+    $('#dictionary').remove();
+    $('.txtfrg.inq').removeClass('inq');
+    const pos = $(l).offset();
+    $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
+    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
+    t = t +' - ';
+    let xx = t[0].toLowerCase();
+
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
+            if(deDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+};
+$('#text5').prop('src',EHIMGURL+oImg);
+
+var cssa,cssb,cssc;        
+cssa = document.createElement('style');
+cssa.type = "text/css";
+document.getElementsByTagName("BODY")[0].appendChild(cssa);
+cssb = cssa.sheet;
+cssc = '#dialoguebubble{min-height: 140px;}';
+cssb.insertRule(cssc, cssb.cssRules.length);
