@@ -107,6 +107,7 @@ Matematik, Biologi, Fysik.
 Tråkigt.  
 Idag är fredag  
 Det regnar idag.  
+Jag måste ha på mig min kappa.
 Jag måste ha på mig min jacka.  
 Jag måste komma ihåg mitt schema.  
 Fredag är veckans sista dag.  
@@ -167,7 +168,8 @@ Timeplanen ser full ut.
 Matematikk, biologi, fysikk.  
 Kjedelig.  
 I dag er det fredag  
-Det regner i dag.  
+Det regner i dag.
+Jeg må ha på meg kåpen min.
 Jeg må ha på meg jakken min.  
 Jeg må huske timeplanen min.  
 Fredag er den siste dagen i uken.  
@@ -309,7 +311,6 @@ I dag er det søndag. Jeg er så glad.
 Сегодня воскресенье. Я так счастлива.
 
 <muoborder>
-
 Tänään on maanantai  
 Bess tuntee itsensä hermostuneeksi tänään  
 Hänen täytyy pitää esitys luokan edessä  
@@ -355,7 +356,8 @@ Matematiikkaa, biologiaa, fysiikkaa.
 Tylsää.  
 Tänään on perjantai  
 Sataa tänään.  
-Minun täytyy pukea päälleni takki.  
+Minun täytyy pukea takki päälle.
+Minun täytyy pukea takki päälle.
 Minun täytyy muistaa aikatauluni.  
 Perjantai on viikon viimeinen päivä.  
 Huomenna on viikonloppu.  
@@ -373,6 +375,9 @@ Tänään on sunnuntai. Olen niin onnellinen.
 `;
 
 
+var svSND = ['Csv.mp3',[0.000000,1.817868,0],[2.557697,5.030843,1],[5.812948,9.068200,2],[9.850305,13.021005,3],[13.760834,15.790082,4],[16.635602,18.791677,5],[19.489231,21.243684,6],[21.898962,24.012762,7],[24.816006,26.908667,8],[27.521669,29.804572,9],[30.459850,32.806167,10],[33.545997,36.611006,11],[37.287422,38.745944,12],[39.464636,40.923157,13],[41.768677,43.523131,14],[44.347512,46.080828,15],[46.820658,49.378355,16],[50.075909,54.366922,17],[55.001062,57.749001,18],[58.446555,61.490426,19],[62.124566,65.041609,20],[65.760301,67.028580,21],[67.916376,69.332622,22],[70.178142,71.826905,23],[72.609011,75.145570,24],[75.821986,81.233313,25],[81.825177,84.594254,26],[85.122704,87.088537,27],[87.786091,89.603959,28],[90.470616,92.816934,29],[93.641316,95.649425,30],[96.368117,98.777848,31],[99.538816,103.808691,32],[104.633073,106.514354,33],[107.444426,109.008638,34],[109.833019,112.475269,35],[113.045994,115.793934,36],[116.470350,119.049185,37],[119.915843,121.691434,38],[122.388988,124.439374,39],[125.242617,127.314141,40],[128.138523,131.478326,41],[132.112466,133.528711,42],[134.331955,135.896167,43],[136.805100,138.327036,44],false,[139.109142,141.476597,45],[142.237565,144.774124,46],[145.450540,147.881409,47],[148.726929,150.417969,48],[151.242351,153.757772,49],[154.497602,156.547987,50],[157.245541,158.894305,51],[159.739824,162.191832,52],[162.952799,165.447083,53],[166.229189,169.230784,54],[169.822648,171.450273,55],[172.084413,175.551044,56],[176.290874,178.320121,57],[178.911985,183.224136,58]];
+
+
 
 /*things to adjust*/
 var EHIMGURL;
@@ -385,7 +390,7 @@ else{
 const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
 const ImgRo = 1;
 const oImg = '1a.jpg';
-const ehbmtitle = 'sbernard';
+const ehbmtitle = 'tidskriften';
 
 
 
