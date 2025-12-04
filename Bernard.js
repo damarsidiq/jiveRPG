@@ -54,58 +54,58 @@ Båda skrattar medan de fortfarande står vid utgångsdörren.
 
 <muoborder>
 
-Bernard drikker en kopp kaffe i en kafé på hotellet han bor på.  
-Han ser en gutt løpe nedover gaten gjennom vinduet.  
-En e-postvarsling dukker opp på laptopskjermen hans.  
-Avsenderen er en kvinne ved navn Ester.  
-Han leser teksten i e-posten og smiler.  
-Han begynner å skrive for å skrive et svar.  
-"Takk, Ester, jeg skal gå til banken i ettermiddag."  
-Bernard klikker på send-knappen og lukker laptopen sin.  
-Været ser perfekt ut utenfor, ingen tegn til at det skal regne.  
-Han ser servitøren gå forbi bordet sitt.  
-Kaféen ser veldig tom ut.  
-Bare 2 bord er opptatt.  
-Bernard reiser seg sakte fra stolen sin og går mot utgangsdøren.  
-Når han kommer til utgangsdøren, roper en mann navnet hans.  
-"Bernard! For en hyggelig tilfeldighet å se deg her."  
-"Johan! For en glad dag dette er," svarte Bernard.  
-Det har vært lenge siden jeg har sett deg, min venn.  
-Når var det?  
-10 år?  
-Virkelig? Så lenge?  
-Sannsynligvis ja, hvis hukommelsen min fortsatt er god.  
-Jeg er så glad for at du er frisk og har det bra.  
-Du ser like ung ut som sist gang vi møttes.  
-Jeg er veldig glad for å høre det.  
-Begge ler mens de fortsatt står ved utgangsdøren.  
+Bernard drikker en kopp kaffe i en kafé på hotellet han bor på.
+Han ser en gutt løpe nedover gaten gjennom vinduet.
+En e-postvarsling dukker opp på laptopskjermen hans.
+Avsenderen er en kvinne ved navn Ester.
+Han leser teksten i e-posten og smiler.
+Han begynner å skrive for å skrive et svar.
+"Takk, Ester, jeg skal gå til banken i ettermiddag."
+Bernard klikker på send-knappen og lukker laptopen sin.
+Været ser perfekt ut utenfor, ingen tegn til at det skal regne.
+Han ser servitøren gå forbi bordet sitt.
+Kaféen ser veldig tom ut.
+Bare 2 bord er opptatt.
+Bernard reiser seg sakte fra stolen sin og går mot utgangsdøren.
+Når han kommer til utgangsdøren, roper en mann navnet hans.
+"Bernard! For en hyggelig tilfeldighet å se deg her."
+"Johan! For en glad dag dette er," svarte Bernard.
+Det har vært lenge siden jeg har sett deg, min venn.
+Når var det?
+10 år?
+Virkelig? Så lenge?
+Sannsynligvis ja, hvis hukommelsen min fortsatt er god.
+Jeg er så glad for at du er frisk og har det bra.
+Du ser like ung ut som sist gang vi møttes.
+Jeg er veldig glad for å høre det.
+Begge ler mens de fortsatt står ved utgangsdøren.
 
 <muoborder>
 
-Bernard drikker en kop kaffe i en café på det hotel, han bor på.  
-Han ser en dreng løbe ned ad gaden gennem vinduet.  
-En e-mail-notifikation dukker op på hans laptops skærm.  
-Afsenderen er en kvinde ved navn Ester.  
-Han læser e-mailens tekst og smiler.  
-Han begynder at skrive for at skrive et svar.  
-"Tak, Ester, jeg skal til banken i eftermiddag."  
-Bernard klikker på send-knappen og lukker sin laptop.  
-Vejret ser perfekt ud udenfor, ingen tegn på, at det vil regne.  
-Han ser tjeneren gå forbi sit bord.  
-Caféen ser meget tom ud.  
-Kun 2 borde er optaget.  
-Bernard rejser sig langsomt fra sin stol og går mod udgangsdøren.  
-Da han når udgangsdøren, kalder en mand på ham ved navn.  
-"Bernard! hvilken dejlig tilfældighed at se dig her."  
-"Johan! hvilken lykkelig dag dette er," svarede Bernard.  
-Det er længe siden, jeg har set dig, min ven.  
-Hvornår var det?  
-10 år?  
-Virkelig? Så længe?  
-Sandsynligvis ja, hvis min hukommelse stadig er god.  
-Jeg er så glad for, at du er sund og rask.  
-Du ser lige så ung ud som sidst, vi mødtes.  
-Jeg er meget glad for at høre det.  
+Bernard drikker en kop kaffe i en café på det hotel, han bor på.
+Han ser en dreng løbe ned ad gaden gennem vinduet.
+En e-mail-notifikation dukker op på hans laptops skærm.
+Afsenderen er en kvinde ved navn Ester.
+Han læser e-mailens tekst og smiler.
+Han begynder at skrive for at skrive et svar.
+"Tak, Ester, jeg skal til banken i eftermiddag."
+Bernard klikker på send-knappen og lukker sin laptop.
+Vejret ser perfekt ud udenfor, ingen tegn på, at det vil regne.
+Han ser tjeneren gå forbi sit bord.
+Caféen ser meget tom ud.
+Kun 2 borde er optaget.
+Bernard rejser sig langsomt fra sin stol og går mod udgangsdøren.
+Da han når udgangsdøren, kalder en mand på ham ved navn.
+"Bernard! hvilken dejlig tilfældighed at se dig her."
+"Johan! hvilken lykkelig dag dette er," svarede Bernard.
+Det er længe siden, jeg har set dig, min ven.
+Hvornår var det?
+10 år?
+Virkelig? Så længe?
+Sandsynligvis ja, hvis min hukommelse stadig er god.
+Jeg er så glad for, at du er sund og rask.
+Du ser lige så ung ud som sidst, vi mødtes.
+Jeg er meget glad for at høre det.
 Begge griner, mens de stadig står ved udgangsdøren.
 
 <muoborder>
@@ -165,14 +165,13 @@ Molemmat nauravat seisoessaan edelleen ulko-ovella.
 `;
 
 
-
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/csh/';
+    EHIMGURL = jovuniverse.EHIMGURL+'csh/';
 }
 else{
-    EHIMGURL = './jiveRPG/csh/';
+    EHIMGURL = storyline.BIMG+'csh/';
 }
 const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
 const ImgRo = 1;
@@ -180,10 +179,21 @@ const oImg = '1a.jpg';
 const ehbmtitle = 'sbernard';
 
 
+var svSND = ['Asv.mp3',[0.000000,4.062469,1],[4.240648,8.279360,2],[8.920802,12.828850,3],[13.612835,16.926955,4],[17.544640,20.870638,5],[21.512081,24.707415,6],[25.277586,28.841155,7],[29.945862,33.735124,8],[34.519109,39.972418,9],[39.852585,42.857862,10],[43.713119,46.088832,11],[46.967845,49.997316,12],[50.186937,55.855213,13],[55.627319,60.414354,14],[60.418093,65.581106,15],[66.116092,72.003818,16],[71.995982,74.858716,17],[75.761487,77.418679,18],[77.804600,79.016213,19],[79.907106,83.636140,20],[83.815154,86.998609,21],[87.901380,90.526543,22],[91.334285,94.137626,23],[95.004762,96.869696,24],[97.855617,101.894329,25]];
+
+var noSND = ['Ano.mp3',[0.000000,3.909400,1],[4.470971,7.905196,2],[8.574762,11.900992,3],[12.484162,15.356815,4],[15.983183,19.028627,5],[19.719792,22.592445,6],[23.240412,27.128213,7],[28.359351,31.793575,8],[32.376745,36.350942,9],[36.955711,39.979557,10],[40.541128,42.657820,11],[43.478578,45.314484,12],[45.476476,49.207685,13],[50.033843,53.630059,14],[54.364421,58.770596,15],[60.077329,64.667095,16],[65.520251,68.155316,17],[69.148866,70.077618,18],[71.006371,71.891925,19],[72.799079,75.768927,20],[76.492490,79.807921,21],[80.563882,83.101753,22],[83.954909,86.557576,23],[87.281139,89.289836,24],[90.002600,93.166838,25]];
+
+var daSND = ['Ada.mp3',[0.000000,3.882017,1],[4.606123,7.562892,2],[8.196486,11.666164,3],[12.209244,14.944758,4],[15.467724,17.800957,5],[18.364151,20.938753,6],[21.421490,24.921339,7],[25.746017,28.843584,8],[29.386664,33.389365,9],[33.952559,36.346134,10],[37.130583,39.202333,11],[39.685071,41.676364,12],[42.199330,45.920434,13],[46.624427,49.661652,14],[50.305303,54.408574,15],[55.193023,59.517549,16],[60.120971,63.017398,17],[63.540364,64.747209,18],[65.350631,66.356335,19],[67.020099,69.554473,20],[70.238351,73.476718,21],[74.060026,76.735198,22],[77.700673,80.456302,23],[81.140180,83.010789,24],[83.594098,86.812350,25]];
+
+
+
 storyline.intro = `<p>A story of Bernard's day.</p>
 <div style="font-size:smaller;">
 <p>Credits:</p>
-<p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
+<p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
+<p>Voices:<ul>
+<li><a href="https://voicertool.com" target="_blank">VoicerTool</a></li>
+<li><a href="https://ttsmaker.com/" target="_blank">TTSMaker</a></li>
 </ul></p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
@@ -234,26 +244,59 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
         if(typeof svDiction !== 'undefined' && svDiction!=''){
           svDiction = JSON.parse(svDiction);
-          reperc.svLM = JSON.parse(svLM);  
+          reperc.svLM = JSON.parse(svLM);   reperc.avdi++;
         }        
         if(typeof noDiction !== 'undefined' && noDiction!=''){
           noDiction = JSON.parse(noDiction);
-          reperc.noLM = JSON.parse(noLM);
+          reperc.noLM = JSON.parse(noLM); reperc.avdi++;
         }        
         if(typeof ruDiction !== 'undefined' && ruDiction!=''){
           ruDiction = JSON.parse(ruDiction);
-          reperc.ruLM = JSON.parse(ruLM);
+          reperc.ruLM = JSON.parse(ruLM); reperc.avdi++;
         }        
         if(typeof daDiction !== 'undefined' && daDiction!=''){
           daDiction = JSON.parse(daDiction);
-          reperc.daLM = JSON.parse(daLM);
+          reperc.daLM = JSON.parse(daLM); reperc.avdi++;
         }        
         if(typeof fiDiction !== 'undefined' && fiDiction!=''){
           fiDiction = JSON.parse(fiDiction);
-          reperc.fiLM = JSON.parse(fiLM);
+          reperc.fiLM = JSON.parse(fiLM); reperc.avdi++;
+        }
+        
+        storyline.snd = {};
+        if(typeof svSND !== 'undefined' && svSND.length){            
+            storyline.snd.sv = {};
+            storyline.snd.sv.p = storyline.sndURL+svSND[0];
+            svSND.splice(0,1);
+            storyline.snd.sv.t = svSND;
+        }
+        if(typeof noSND !== 'undefined' && noSND.length){            
+            storyline.snd.no = {};
+            storyline.snd.no.p = storyline.sndURL+noSND[0];
+            noSND.splice(0,1);
+            storyline.snd.no.t = noSND;
+        }
+        if(typeof daSND !== 'undefined' && daSND.length){            
+            storyline.snd.da = {};
+            storyline.snd.da.p = storyline.sndURL+daSND[0];
+            daSND.splice(0,1);
+            storyline.snd.da.t = daSND;
+        }
+        if(typeof fiSND !== 'undefined' && fiSND.length){            
+            storyline.snd.fi = {};
+            storyline.snd.fi.p = storyline.sndURL+fiSND[0];
+            fiSND.splice(0,1);
+            storyline.snd.fi.t = fiSND;
+        }
+        if(typeof ruSND !== 'undefined' && ruSND.length){            
+            storyline.snd.ru = {};
+            storyline.snd.ru.p = storyline.sndURL+ruSND[0];
+            ruSND.splice(0,1);
+            storyline.snd.ru.t = ruSND;
         }
     },
     initStory:function(){
@@ -340,6 +383,7 @@ storyline.dictionfn = function(t,l){
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
     
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
@@ -348,7 +392,7 @@ storyline.dictionfn = function(t,l){
     if(storyline.clang == 'sv'){
         if(typeof reperc.svLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.svLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){
@@ -414,8 +458,7 @@ storyline.dictionfn = function(t,l){
             }
         }
         reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    
+    }    
 };
 $('#text5').prop('src',EHIMGURL+oImg);
 
