@@ -53,7 +53,6 @@ They’re about controlling what *feeds* the feelings.
 Change the inputs, and the governor starts governing differently.
 
 <muoborder>
-
 Das Herz ist der Herrscher unseres physischen Körpers, gemäß den Hadithen.
 Doch es ist dennoch ein Werkzeug.
 Das Herz kann von Krankheiten befallen sein.
@@ -85,7 +84,7 @@ Es zeigt in Richtung des Egos, wenn es verrostet ist.
 Aber eine Kompassnadel kann von Magneten beeinflusst werden.
 Und diese "Magnete" sind die Krankheiten des Herzens.
 Sie sind Verzerrungen der Orientierung.
-Der Trick ist dieser: Das Herz kann durch das, was es *liebt*, oder das, was es *fürchtet*, manipuliert werden.
+Der Trick ist dieser: Das Herz kann durch das, was es 'liebt', oder das, was es 'fürchtet', manipuliert werden.
 Alles, was Anziehung, Bewunderung, Groll oder Verlangen einfängt, kann die Nadel von wahrer Nordrichtung ablenken.
 Das bedeutet, dass der Herrscher nicht unbesiegbar ist.
 Doch wir wissen auch dies: Du kannst das Herz nicht mit den verzerrten Impulsen des Herzens heilen.
@@ -103,33 +102,36 @@ In sehr menschlichen Begriffen:
 - Und die Praxis ist es, die die falschen Magnete schwächt.
 Bewusstsein ist kein Gefühl.
 Deshalb kann es an Gefühlen arbeiten, ohne sich in ihnen zu verfangen.
-Das ist der Grund, warum spirituelle Traditionen von *Dhikr*, *Muraqabah* (Selbstbeobachtung) und diszipliniertem Verhalten besessen sind.
+Das ist der Grund, warum spirituelle Traditionen von 'Dhikr', 'Muraqabah' (Selbstbeobachtung) und diszipliniertem Verhalten besessen sind.
 Es geht nicht darum, Gefühle direkt zu kontrollieren.
-Es geht darum, das zu kontrollieren, was die Gefühle *ernährt*.
+Es geht darum, das zu kontrollieren, was die Gefühle 'ernährt'.
 Ändere die Eingaben, und der Herrscher beginnt, anders zu regieren.
 `;
 
-var deDiction = `["aber - but","ablenken - distract","abseits - aside","alles - everything","als - as / when / than","ändere - change","anderes - other","anders - differently","anerkennung - recognition","anfällig - susceptible","angezogen - attracted","angst - fear","antwort - answer","anziehung - attraction","anziehungskräfte - attractions","arbeiten - to work","arroganz - arrogance","art - kind","auch - also","auf - on / upon","aus - out / from","bedarf - need","bedeutet - means","beeinflusst - influenced","befallen - afflict","beginnt - begins","begriffen - understood","bemerke - notice","bemerkt - noticed","beschreibt - describes","besessen - possessed","bewacht - guarded","bewunderung - admiration","bewusstsein - consciousness","bild - image","bitten - ask","dann - then","darauf - on it","darüber - about it","darum - therefore","das - the / that","dass - that","deckt - covers","dem - the (dative masculine/neuter)","demut - humility","den - the (masculine accusative)","dennoch - nevertheless","der - the","des - of the (genitive masculine/neuter)","deshalb - therefore / that’s why","dhikr - dhikr","die - the (feminine)","dies - this","diese - this / these (feminine)","dieser - this / these (masculine or dative feminine/plural)","dieses - this","ding - thing","direkt - direct","diszipliniertem - disciplined","doch - yet","drängt - presses","du - you (singular informal)","durch - through","egos - egos","eifersucht - jealousy","ein - a / an","eine - a / an (feminine)","einfängt - captures","eingaben - inputs","entbehren - deprive","entfernt - distant","enthüllt - revealed","ernährt - nourished","ertrinken - drown","es - it","etwas - something","falschen - wrong","fühlen - to feel","funktion - function","für - for","fürchtet - fears","gebaut - built","gefühl - feeling","gefühle - feelings","gefühlen - feelings","geht - goes","gemäß - according to","gemildert - mitigated","genug - enough","gerechtigkeit - justice","gibt - gives / there is/are","gier - greed","gottes - god's","grenzen - borders","groll - resentment","grund - ground","hadith-literatur - hadith literature","hadithen - hadiths","heilen - heal","herrscher - ruler","herrschers - ruler's","herz - heart","herzen - hearts","herzens - heart's","heuchelei - hypocrisy","hier - here","hinweise - hints","höhere - higher","ich - i","ideen - ideas","ihnen - them","im - in the (contraction of *in dem*)","impulsen - impulses","innere - inner","instanz - instance","intellekt - intellect","interessant - interesting","irgendwelche - any","irgendwie - somehow","islamische - islamic","ist - is","kann - can / am able to","kannst - can (2nd person singular)","kein - no","klassische - classical","knappheit - scarcity","kommen - come","kompassnadel - compass needle","können - can","kontrollieren - control","körpers - body","krankheiten - diseases","krumm - crooked","kühle - cool","lautet - says","leere - emptiness","lehren - teach","lehrt - teaches","leuchtturm - lighthouse","liebe - love","liebt - loves","lindern - relieve","logische - logical","lücke - gap","macht - power","magnete - magnets","magneten - magnets","man - one / you (impersonal)","manche - some","manipulieren - manipulate","manipuliert - manipulated","menschlichen - human","mich - me (accusative)","misstrauen - mistrust","mit - with","muraqabah - muraqabah","muss - must","nadel - needle","nah - near","neid - envy","neu - new","nicht - not","nordrichtung - north direction","nur - only","nutzung - use","oder - or","offenbart - revealed","offensichtlich - obviously","ohne - without","orientierung - orientation","physischen - physical","poliert - polished","positioniert - positioned","prahlerei - boasting","praxis - practice","quelle - source","rang - rank","regieren - rule","reinigen - clean","reparieren - repair","repariert - repaired","richtung - direction","sagen - say","sagt - says","schärft - sharpen","schätzen - appreciate","schmerz - pain","schmutz - dirt","schmutzigem - dirty","schwächt - weakens","sehen - see","sehr - very","sein - his / to be","selbst - even / self","selbstbeobachtung - self-observation","selbstbewusstsein - self-confidence","seltsam - strange","sich - himself / herself / itself / themselves","sie - they / she / it","signalisiert - signals","sind - are","sitz - seat","sondern - but","spirituelle - spiritual","sprache - language","stolz - proud","traditionell - traditional","traditionen - traditions","trick - trick","über - about / over","übermaß - excess","übertreibung - exaggeration","ufers - shore","um - around / at","unbesiegbar - invincible","und - and","ungelöstem - unsolved","ungleichgewicht - imbalance","uns - us","unser - our","unsere - our","unseren - our","unseres - our","unsicherheit - uncertainty","urteilsvermögen - judgment","verfangen - entangled","verfeinern - refine","verhalten - behavior","verlangen - desire","verletzte - injured","verleumdung - slander","verrostet - rusted","verstand - understood","versuchen - attempts / trying","verwenden - use","verzerrten - distorted","verzerrungen - distortions","von - from / of","vor - before","vorgeben - pretend","wahrer - true / real (strong adjective form)","wäre - would be","warnt - warns","warum - why","wasser - water","weil - because","weit - far","wellen - waves","wenn - if / when","wer - who","werden - become","werkzeug - tool","wie - how / as","will - wants","wir - we","wird - becomes / will","wirklich - really","wissen - to know / knowledge","wollen - want","wozu - for what","würde - would","zeigt - shows","zeuge - witness","zorn - anger","zu - to","zwischen - between"]`;
-var dLM = `{"a":{"start":0,"end":20},"ä":{"start":5,"end":5},"b":{"start":21,"end":35},"d":{"start":36,"end":62},"e":{"start":63,"end":75},"f":{"start":76,"end":80},"g":{"start":81,"end":95},"h":{"start":96,"end":107},"i":{"start":108,"end":120},"k":{"start":121,"end":133},"l":{"start":134,"end":143},"m":{"start":144,"end":156},"n":{"start":157,"end":164},"o":{"start":165,"end":169},"p":{"start":170,"end":174},"q":{"start":175,"end":175},"r":{"start":176,"end":181},"s":{"start":182,"end":205},"t":{"start":206,"end":208},"ü":{"start":209,"end":211},"u":{"start":212,"end":224},"v":{"start":225,"end":239},"w":{"start":240,"end":260},"z":{"start":261,"end":265}}`;
+var deDiction =`["aber - but","ablenken - distract","abseits - aside","alles - everything","als - as / when / than","ändere - change","anderes - other","anders - differently","anerkennung - recognition","anfällig - susceptible","angezogen - attracted","angst - fear","antwort - answer","anziehung - attraction","anziehungskräfte - attractions","arbeiten - to work","arroganz - arrogance","art - kind","auch - also","auf - on / upon","aus - out / from","bedarf - need","bedeutet - means","beeinflusst - influenced","befallen - afflict","beginnt - begins","begriffen - understood","bemerke - notice","bemerkt - noticed","beschreibt - describes","besessen - possessed","bewacht - guarded","bewunderung - admiration","bewusstsein - consciousness","bild - image","bitten - ask","dann - then","darauf - on it","darüber - about it","darum - therefore","das - the / that","dass - that","deckt - covers","dem - the (dative masculine/neuter)","demut - humility","den - the (masculine accusative)","dennoch - nevertheless","der - the","des - of the (genitive masculine/neuter)","deshalb - therefore / that’s why","dhikr - dhikr","die - the (feminine)","dies - this","diese - this / these (feminine)","dieser - this / these (masculine or dative feminine/plural)","dieses - this","ding - thing","direkt - direct","diszipliniertem - disciplined","doch - yet","drängt - presses","du - you (singular informal)","durch - through","egos - egos","eifersucht - jealousy","ein - a / an","eine - a / an (feminine)","einfängt - captures","eingaben - inputs","entbehren - deprive","entfernt - distant","enthüllt - revealed","ernährt - nourished","ertrinken - drown","es - it","etwas - something","falschen - wrong","fühlen - to feel","funktion - function","für - for","fürchtet - fears","gebaut - built","gefühl - feeling","gefühle - feelings","gefühlen - feelings","geht - goes","gemäß - according to","gemildert - mitigated","genug - enough","gerechtigkeit - justice","gibt - gives / there is/are","gier - greed","gottes - god's","grenzen - borders","groll - resentment","grund - ground","hadith-literatur - hadith literature","hadithen - hadiths","heilen - heal","herrscher - ruler","herrschers - ruler's","herz - heart","herzen - hearts","herzens - heart's","heuchelei - hypocrisy","hier - here","hinweise - hints","höhere - higher","ich - i","ideen - ideas","ihnen - them","im - in the (contraction of *in dem*)","impulsen - impulses","innere - inner","instanz - instance","intellekt - intellect","interessant - interesting","irgendwelche - any","irgendwie - somehow","islamische - islamic","ist - is","kann - can / am able to","kannst - can (2nd person singular)","kein - no","klassische - classical","knappheit - scarcity","kommen - come","kompassnadel - compass needle","können - can","kontrollieren - control","körpers - body","krankheiten - diseases","krumm - crooked","kühle - cool","lautet - says","leere - emptiness","lehren - teach","lehrt - teaches","leuchtturm - lighthouse","liebe - love","liebt - loves","lindern - relieve","logische - logical","lücke - gap","macht - power","magnete - magnets","magneten - magnets","man - one / you (impersonal)","manche - some","manipulieren - manipulate","manipuliert - manipulated","menschlichen - human","mich - me (accusative)","misstrauen - mistrust","mit - with","muraqabah - muraqabah","muss - must","nadel - needle","nah - near","neid - envy","neu - new","nicht - not","nordrichtung - north direction","nur - only","nutzung - use","oder - or","offenbart - revealed","offensichtlich - obviously","ohne - without","orientierung - orientation","physischen - physical","poliert - polished","positioniert - positioned","prahlerei - boasting","praxis - practice","quelle - source","rang - rank","regieren - rule","reinigen - clean","reparieren - repair","repariert - repaired","richtung - direction","sagen - say","sagt - says","schärft - sharpen","schätzen - appreciate","schmerz - pain","schmutz - dirt","schmutzigem - dirty","schwächt - weakens","sehen - see","sehr - very","sein - his / to be","selbst - even / self","selbstbeobachtung - self-observation","selbstbewusstsein - self-confidence","seltsam - strange","sich - himself / herself / itself / themselves","sie - they / she / it","signalisiert - signals","sind - are","sitz - seat","sondern - but","spirituelle - spiritual","sprache - language","stolz - proud","traditionell - traditional","traditionen - traditions","trick - trick","über - about / over","übermaß - excess","übertreibung - exaggeration","ufers - shore","um - around / at","unbesiegbar - invincible","und - and","ungelöstem - unsolved","ungleichgewicht - imbalance","uns - us","unser - our","unsere - our","unseren - our","unseres - our","unsicherheit - uncertainty","urteilsvermögen - judgment","verfangen - entangled","verfeinern - refine","verhalten - behavior","verlangen - desire","verletzte - injured","verleumdung - slander","verrostet - rusted","verstand - understood","versuchen - attempts / trying","verwenden - use","verzerrten - distorted","verzerrungen - distortions","von - from / of","vor - before","vorgeben - pretend","wahrer - true / real (strong adjective form)","wäre - would be","warnt - warns","warum - why","was - what,which,something,how much","wasser - water","weil - because","weit - far","wellen - waves","wenn - if / when","wer - who","werden - become","werkzeug - tool","wie - how / as","will - wants","wir - we","wird - becomes / will","wirklich - really","wissen - to know / knowledge","wollen - want","wozu - for what","würde - would","zeigt - shows","zeuge - witness","zorn - anger","zu - to","zwischen - between"]`;
+var deLM =`{"a":{"start":0,"end":20},"ä":{"start":5,"end":5},"b":{"start":21,"end":35},"d":{"start":36,"end":62},"e":{"start":63,"end":75},"f":{"start":76,"end":80},"g":{"start":81,"end":95},"h":{"start":96,"end":107},"i":{"start":108,"end":120},"k":{"start":121,"end":133},"l":{"start":134,"end":143},"m":{"start":144,"end":156},"n":{"start":157,"end":164},"o":{"start":165,"end":169},"p":{"start":170,"end":174},"q":{"start":175,"end":175},"r":{"start":176,"end":181},"s":{"start":182,"end":205},"t":{"start":206,"end":208},"ü":{"start":209,"end":211},"u":{"start":212,"end":224},"v":{"start":225,"end":239},"w":{"start":240,"end":261},"z":{"start":262,"end":266}}`;
 
 
+var deSND = ['Gde.mp3',[0.000000,5.044745,0],[5.746318,8.110419,1],[8.748898,11.941297,2],[12.458983,21.673799,3],[22.260511,28.955920,4],[29.577144,34.684982,5],[35.237180,39.309646,6],[39.930869,45.004195,7],[45.694443,49.111173,8],[49.628859,53.356201,9],[53.873887,57.911840,10],[58.429526,63.192240,11],[63.537364,69.784112,12],[70.301799,77.100745,13],[77.652944,83.278468,14],[83.658105,91.181812,15],[91.734011,96.565750,16],[97.221486,106.160202,17],[106.539839,110.681329,18],[111.302553,117.100639,19],[117.721863,121.414692,20],[122.035915,125.556182,21],[126.039356,127.937539,22],[128.524250,132.527691,23],[133.010865,138.118703,24],[138.601877,142.846904,25],[143.468128,147.229982,26],[147.816693,152.027208,27],[152.682944,157.100534,28],[157.721757,161.932272,29],[162.484471,165.418027,30],[166.039250,174.770892,31],[175.495653,184.192783,32],[184.710469,188.782935,33],[189.438671,195.616394,34],[196.341155,201.172893,35],[201.828629,208.282452,36],[208.800138,216.461895,37],[217.014094,219.637038,38],[220.154724,222.156444,39],[222.743155,229.783689,40],[230.404913,241.724986,41],[242.277185,244.762079,42],[245.141716,248.351371,43],[249.041619,253.183109,44],[253.838845,258.808634,45],[259.498882,263.605860,46],[264.089034,266.746490,47],[267.229664,272.268477,48],[272.820676,283.657576,49],[284.140750,288.247728,50],[288.868951,293.942277,51],[294.390938,299.912925,52]];
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/wk/';
+    EHIMGURL = jovuniverse.EHIMGURL+'wk/';
 }
 else{
-    EHIMGURL = './jiveRPG/wk/';
+    EHIMGURL = storyline.BIMG+'wk/';
 }
 const svisual=['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg'];
+const ImgRo = 1;
 const oImg = 'o.jpg';
 const ehbmtitle = 'hm';
 
-storyline.intro = `<p>A conversation around the topic of the heart.</p>
+storyline.intro = `<p>A conversation around the topic of the heart. 53 slides total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>DE</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Voices:<br><a href="https://freereadtext.com/en" target="_blank">Freereadtext</a></p>
 <p>Translation:<ul><li><a href="https://venice.ai" target="_blank">Venice.ai</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
@@ -180,9 +182,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        deDiction = JSON.parse(deDiction);
-        reperc.dLM = JSON.parse(dLM);
+       if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -205,7 +247,7 @@ var reperc = {
         }
 	},
     nextHdlr:function(x){
-        
+      if(x%ImgRo == 0){          
           var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
           var stvi = reperc.storyvidx[stvidx];
           storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
@@ -214,8 +256,9 @@ var reperc = {
               for(var i=0;i<reperc.storyvis.length;i++){
                   reperc.storyvidx[reperc.storyvidx.length] = i;
               }
-          }        
-        reperc.setBookmark(x);
+          }
+          reperc.setBookmark(x);
+      }
     },
     rp:function(){
         storyline.current_chap = reperc.starter;
@@ -235,7 +278,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -260,22 +309,67 @@ storyline.dictionfn = function(t,l){
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
-    if(storyline.clang == 'de'){
-        if (!reperc.dLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.dLM[xx].start;i<=reperc.dLM[xx].end;i++){
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
             if(deDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
