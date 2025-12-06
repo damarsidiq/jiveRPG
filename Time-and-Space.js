@@ -51,14 +51,12 @@ Your body wants to move through space, but your consciousness wants to move thro
 Space is a stage, not the story.
 
 <muoborder>
-
-
-Le verbe arabe **خرج** (kharaja) signifie « sortir, aller dehors », mais il est incroyablement flexible.  
+Le verbe arabe 'خرج' (kharaja) signifie « sortir, aller dehors », mais il est incroyablement flexible.  
 Il ne nécessite pas de conteneur spatial.  
 Vous pouvez « sortir » d'un état, d'un honneur, d'un rang, d'un pacte.  
 L'arabe classique considère le statut presque comme un lieu.  
 Maintenant, les commentateurs coraniques ont remarqué la même chose.  
-Ils demandent : « À quoi se réfère le *minhā* ? » Et les réponses varient à travers les siècles :  
+Ils demandent : « À quoi se réfère le 'minhā' ? » Et les réponses varient à travers les siècles :  
 • Certains disent « du Paradis ».  
 • Certains disent « de l'assemblée des anges ».  
 • Certains disent « de la présence divine d'une manière appropriée au royaume invisible ».  
@@ -67,12 +65,12 @@ Dans la vision du monde coranique, avant même que la cosmologie physique n'appa
 La proximité de Dieu n'est pas mesurée en mètres mais en alignement moral et ontologique.  
 Se « rapprocher » c'est incarner des qualités qui résonnent avec le divin.  
 Être « loin » c'est diverger éthiquement, pas spatialement.  
-Ainsi, lorsque le texte utilise un verbe spatial (**sortir**) et une particule spatiale (**de cela**) dans un domaine avant que l'espace ne soit délimité, il joue avec une grammaire de rang, de présence et de privilège plutôt qu'avec la cartographie.  
+Ainsi, lorsque le texte utilise un verbe spatial ('sortir') et une particule spatiale ('de cela') dans un domaine avant que l'espace ne soit délimité, il joue avec une grammaire de rang, de présence et de privilège plutôt qu'avec la cartographie.  
 Iblīs était dans la « station » de l'assemblée angélique — non pas parce qu'il vivait à une certaine latitude cosmique, mais parce qu'il était aligné avec les devoirs et la présence de ce royaume.  
 Son refus de se prosterner a altéré sa « longueur d'onde ».  
 Et donc, le verbe d'expulsion devient un pont linguistique de la métaphysique à la narration :  
-*sortez de l'état auquel vous ne correspondez plus.*  
-Ainsi, *fakhruj minhā* est moins « passe par cette porte là-bas » et plus « vous n'occupez plus ce mode d'être ;  
+'sortez de l'état auquel vous ne correspondez plus.'  
+Ainsi, 'fakhruj minhā' est moins « passe par cette porte là-bas » et plus « vous n'occupez plus ce mode d'être ;  
 Vous vous êtes disloqué de ce rang. »  
 - Cela a du sens.  
 - Je pense que cette réflexion est 'liée' à ma précédente vieille question sur l'expression 'Dieu est grand'.  
@@ -88,31 +86,31 @@ Vous vous êtes disloqué de ce rang. »
 « Dieu est grand », dit essentiellement : « Quel que soit le conteneur dans lequel votre esprit essaie de mettre Dieu, le conteneur échoue. »  
 La formulation brise l'idée même de mesure.  
 C'est ici que votre intuition sur l'espace en tant que phénomène de bas grade commence à se connecter.  
-Si la grandeur ne peut pas être limitée spatialement, alors l'espace lui-même devient plus comme une *interface locale*, pas l'architecture de la réalité. Presque comme une fenêtre pop-up — bonne pour naviguer, pas pour expliquer pourquoi quoi que ce soit a de l'importance.  
+Si la grandeur ne peut pas être limitée spatialement, alors l'espace lui-même devient plus comme une 'interface locale', pas l'architecture de la réalité. Presque comme une fenêtre pop-up — bonne pour naviguer, pas pour expliquer pourquoi quoi que ce soit a de l'importance.  
 L'espace n'est pas un trône majestueux ; il est émergent.  
-C'est quelque chose qui *apparaît* lorsque des champs ou de l'énergie ou du temps se comportent d'une manière particulière.  
+C'est quelque chose qui 'apparaît' lorsque des champs ou de l'énergie ou du temps se comportent d'une manière particulière.  
 Dans certains modèles de gravité quantique, le temps est le premier « rythme », et l'espace se cristallise à partir de ce rythme, comme le givre se formant sur du verre.  
 Cela s'intègre magnifiquement à votre instinct de voyage personnel.  
 Vous allez à Milan, vous mangez le monde avec vos yeux, vous remplissez vos poumons de nouveauté — et puis plus tard, cela semble... bof.  
-Pas parce que le monde est ennuyeux, mais parce que la géographie physique ne peut satisfaire que les désirs qui opèrent *dans* la géographie.  
+Pas parce que le monde est ennuyeux, mais parce que la géographie physique ne peut satisfaire que les désirs qui opèrent 'dans' la géographie.  
 Lorsque le désir vient de quelque part de plus profond — la faim de sens, d'expansion, d'émerveillement — alors les villes deviennent comme des meubles IKEA.  
 Fonctionnels, charmants, finalement insuffisants.  
 « Vous essayez d'utiliser un outil 3D pour répondre à un désir 5D. »  
 Ainsi, vous vous retrouvez avec ce sentiment perpendiculaire.  
 L'envie d'explorer est réelle — c'est un vecteur pointant vers l'extérieur.  
-Mais le sens que vous poursuivez est un vecteur pointant *vers l'intérieur* ou *vers le haut* (choisissez votre métaphore).  
+Mais le sens que vous poursuivez est un vecteur pointant 'vers l'intérieur' ou 'vers le haut' (choisissez votre métaphore).  
 Ces deux vecteurs ne sont pas opposés ; ils sont orthogonaux.  
 Votre corps veut se déplacer dans l'espace, mais votre conscience veut se déplacer à travers des états.  
 L'espace est une scène, pas l'histoire.
 
 <muoborder>
 
-Il verbo arabo **خرج** (kharaja) significa "uscire, andare fuori", ma è incredibilmente flessibile.
+Il verbo arabo 'خرج' (kharaja) significa "uscire, andare fuori", ma è incredibilmente flessibile.
 Non richiede un contenitore spaziale.
 Puoi "uscire" da uno stato, un onore, un rango, un patto.
 L'arabo classico tratta lo status quasi come una posizione.
 Ora, i commentatori del Corano hanno notato la stessa cosa.
-Chiedono: "A cosa si riferisce il *minhā*?" E le risposte variano nel corso dei secoli:
+Chiedono: "A cosa si riferisce il 'minhā'?" E le risposte variano nel corso dei secoli:
 • Alcuni dicono "dal Paradiso."
 • Alcuni dicono "dall'assemblea degli angeli."
 • Alcuni dicono "dalla presenza divina in un modo appropriato al regno invisibile."
@@ -121,12 +119,12 @@ Nella visione del mondo coranica, prima che la cosmologia fisica si presenti, il
 La prossimità a Dio non è misurata in metri, ma in allineamento morale e ontologico.
 "Avvicinarsi" significa incarnare qualità che risuonano con il divino.
 "Essere lontani" significa divergere eticamente, non spazialmente.
-Quindi, quando il testo usa un verbo spaziale (**uscire**) e una particella spaziale (**da esso**) in un regno prima che lo spazio venga delineato, sta giocando con una grammatica di rango, presenza e privilegio piuttosto che con la cartografia.
+Quindi, quando il testo usa un verbo spaziale ('uscire') e una particella spaziale ('da esso') in un regno prima che lo spazio venga delineato, sta giocando con una grammatica di rango, presenza e privilegio piuttosto che con la cartografia.
 Iblīs era nella "stazione" dell'assemblea angelica — non perché vivesse a una certa latitudine cosmica, ma perché era allineato con i doveri e la presenza di quel regno.
 Il suo rifiuto di inginocchiarsi ha alterato la sua "lunghezza d'onda".
 E così il verbo di espulsione diventa un ponte linguistico dalla metafisica alla narrativa:
-*esci dallo stato a cui non corrispondi più.*
-Quindi *fakhruj minhā* è meno “cammina attraverso quella porta laggiù” e più “non occupi più questo modo di essere;
+'esci dallo stato a cui non corrispondi più.'
+Quindi 'fakhruj minhā' è meno “cammina attraverso quella porta laggiù” e più “non occupi più questo modo di essere;
 ti sei dislocato da questo rango.”
 - Ha senso.
 - Penso che questo pensiero sia 'collegato' alla mia precedente vecchia domanda sull'espressione 'Dio è grande'.
@@ -142,48 +140,52 @@ ti sei dislocato da questo rango.”
 “Dio è grande,” dice fondamentalmente: “Qualsiasi contenitore la tua mente cerchi di mettere Dio dentro, il contenitore fallisce.”
 La formulazione rompe l'idea stessa di misurazione.
 È qui che la tua intuizione riguardo allo spazio come fenomeno di bassa qualità inizia a connettersi.
-Se la grandezza non può essere delimitata spazialmente, allora lo spazio stesso diventa più simile a un *interfaccia locale*, non all'architettura della realtà. Quasi come una finestra pop-up — buona per navigare, non per spiegare perché qualcosa abbia importanza.
+Se la grandezza non può essere delimitata spazialmente, allora lo spazio stesso diventa più simile a un 'interfaccia locale', non all'architettura della realtà. Quasi come una finestra pop-up — buona per navigare, non per spiegare perché qualcosa abbia importanza.
 Lo spazio non è un trono maestoso; è emergente.
-È qualcosa che *si manifesta* quando campi o energia o tempo si comportano in modi particolari.
+È qualcosa che 'si manifesta' quando campi o energia o tempo si comportano in modi particolari.
 In certi modelli di gravità quantistica, il tempo è il primo “ritmo,” e lo spazio si cristallizza da quel ritmo, come la brina che si forma sul vetro.
 Questo si lega magnificamente al tuo istinto personale di viaggio.
 Vai a Milano, mangi il mondo con gli occhi, riempi i polmoni di novità — e poi più tardi, sembra… meh.
-Non perché il mondo sia noioso, ma perché la geografia fisica può soddisfare solo i desideri che operano *all'interno* della geografia.
+Non perché il mondo sia noioso, ma perché la geografia fisica può soddisfare solo i desideri che operano 'all'interno' della geografia.
 Quando il desiderio proviene da un luogo più profondo — fame di significato, espansione, meraviglia — allora le città diventano come i mobili IKEA.
 Funzionali, affascinanti, alla fine insufficienti.
 “Stai cercando di usare uno strumento 3D per affrontare un desiderio 5D.”
 Quindi finisci con quella sensazione perpendicolare.
 L'urgenza di esplorare è reale — è un vettore che punta verso l'esterno.
-Ma il significato che stai inseguendo è un vettore che punta *verso l'interno* o *verso l'alto* (scegli la tua metafora).
+Ma il significato che stai inseguendo è un vettore che punta 'verso l'interno' o 'verso l'alto' (scegli la tua metafora).
 Questi due vettori non sono opposti; sono ortogonali.
 Il tuo corpo vuole muoversi attraverso lo spazio, ma la tua coscienza vuole muoversi attraverso stati.
 Lo spazio è un palcoscenico, non la storia.
 `;
 
 var frDiction = `["à - to","ainsi - thus, so","aligné - aligned","alignement - alignment","aller - to go","allez - go (imperative)","alors - then, so","altéré - altered","angélique - angelic","anges - angels","apparaît - appears","appropriée - appropriate","arabe - arabic","au - to the, at the","auquel - to which","aussi - also; too","avant - before","avec - with","avoir - to have","bas -  low / bottom","bien - well; good","bijoux - jewelry","bof - meh / so-so","bonne - good (feminine)","brise - breeze","c'est - it is, this is","cartographie - cartography","ce - this, that","cela - that","certaine - certain","certains - certain (ones) / some","ces - these, those","cette - this, that","champs - fields","charmants - charming","choisissez - (you) choose","chose - thing","classique - classical","comme - like, as","commence - begins","comment - how","commentateurs - commentators","comportent - contain / behave","comprendre - to understand","concept - concept","connecter - to connect","conscience - consciousness / awareness","considère - considers","considérer - to consider","contempler - to contemplate","conteneur - container","coranique - quranic","coraniques - quranic","corps - body","corrèle - correlates","correspondez - correspond (imperative)","cosmique - cosmic","cosmologie - cosmology","couteau - knife","criminel - criminal","cristallise - crystallizes","d'attitude - of attitude","d'avoir - to have / of having","d'émerveillement - of wonder","d'être - of being / to be","d'expansion - of expansion","d'explorer - to explore","d'expulsion - of expulsion","d'onde - wavelength","d'un - of a; from a","d'une - of a; from a","d'utiliser - to use (after a preposition)","dans - in, inside","de - of, from","dehors - outside","déjà - already","délimité - delimited","demandent - they ask / they request","déplacer - to move","dernière - last","des - of the, some","désir - desire* (noun)","désirs - desires","deux - two","deviennent - become","devient - becomes","devoirs - duties","dieu - god","disent - say / are saying","disloqué - dislocated","dit - said","diverger - to diverge","divin - divine","divine - divine","domaine - domain / field","donc -  therefore / so / then","du - of the, from the","échoue - fails","eh - eh","émergent - emerge","en - in, into, as","ennuyeux - boring","ensuite - then / next","espace - space","esprit - mind; spirit","essaie - try","essayez - try (imperative)","essentiellement - essentially","est - is","et - and","était - was","état - state","états - states","êtes - are","éthiquement - ethically","être - to be","expliquer - to explain","faim - hunger","fakhruj - exit (imperative, arabic)","fast-food - fast-food","fenêtre - window","finalement - finally","flexible - flexible","fonctionnels - functional","formant - forming","formulation - formulation","géographie - geography","givre - frost","grade - grade / rank","grammaire - grammar","grand - big; tall; great","grandeur - greatness / magnitude","gravité - gravity","haut - high","haute - high","honneur - honor","ici - here","il - he, it","ils - they","incarner - to embody","incroyablement - incredibly","instinct -  instinct","insuffisants - insufficient","intéressante - interesting","interface - interface","intuition - intuition","invisible - invisible","j'ai - i have","je - i","joue - plays","joyeuse - joyful","l'arabe - the arabic language","l'architecture - architecture","l'assemblée - the assembly","l'énergie - the energy","l'envie - the desire / the urge","l'espace - space","l'état - the state","l'être - the being","l'exploration - the exploration","l'expression - the expression","l'extérieur - the outside","l'histoire - history","l'idée - the idea","l'importance - the importance","l'intérieur - the inside / interior","la - the","là-bas - over there / there","latitude - latitude","le - the","lequel -  which / whom (masculine singular relative pronoun)","les - the","liée - linked","lieu -  place","limitée - limited","linguistique - linguistic","locale - local","loin - far","longueur - length","lorsque - when","lui-même - himself","ma - my (feminine)","magnifiquement - magnificently","maintenant - now","mais - but","majestueux - majestic","manger - to eat","mangez - eat (imperative)","manière - manner","même - same; even","mesure - measure","mesurée - measured","métaphore - metaphor","métaphorique - metaphorical","métaphysique - metaphysical","mètres - meters","mettre - 'to put, to place'","meubles - furniture","milan - milan (city) / kite (bird)","minhā - from her / from it (arabic)","mode - mode","modèles - models","moins - less","monde - world; people","moral - moral","mystique - mystical","n'apparaisse - does not appear","n'est - is not","n'occupez - do not occupy (imperative)","narration - narration","naviguer - to navigate","ne - (negation particle, used with pas, jamais, etc.)","nécessite - requires","non - no","nouveauté - novelty","objet - object","ont - have (they)","ontologique - ontological","opèrent - operate","opposés - opposite","orthogonaux - orthogonal","ou - or","outil - tool","pacte - pact","par - by, through","paradis - paradise","parce - because","parfois - sometimes","part - part / share","particule - particle","particulière - particular","partir - to leave","pas - not","passe - passes / is passing","pense - think / thinks","perpendiculaire - perpendicular","personnel - personal","peut - can","peut-être - perhaps / maybe","phénomène - phenomenon","physique - physical / physics","plate - flat","plus - more","plutôt - 'rather, instead'","pointant - pointing","pont - bridge","pop-up - pop-up","porte - carries / door","poumons - lungs","pour - for","pourquoi - why","pourrait-on - could one","poursuivez - pursue (imperative)","pouvez - can","pré-tout - above all","précédente - previous","premier - first","présence - presence","presque - almost","privilège - privilege","produit - produced / occurred / product","profond - deep","prosterner - to prostrate","proximité - proximity","puis - 'then, next'","qu'avec - only with","qu'il - that he, that it","qualités - qualities","quand - when","quantique - quantum","que - that, which, than","quel - which / what (masculine singular)","quelqu'un - 'someone, somebody'","quelque - some","question - question","qui - who, which","quoi - what","rang - rank / row","rapprocher - to bring closer","réalité - reality","réelle - real","réfère - refers","réflexion - reflection","refus - refusal","regrette - regrets","regretter - to regret","relier - to connect","remarqué - noticed","remplissez - fill (imperative)","répondre - to answer","réponses - answers","résonnent - resonate","retrouvez - find again / rediscover (imperative)","royaume - kingdom","rythme - rhythm","s'intègre - integrates itself","sa - his, her, its","satisfaire - to satisfy","scène - scene","se - oneself, himself, herself, itself","semble - seems","sens - sense","sentiment - feeling","si - if, so","siècles - centuries","signifie - means / signifies","simple - simple","soit - either, be it; subjunctive of être","son - his, her, its","sont - are","sorte - kind","sortez - go out (imperative)","sortir - to go out / to exit","spatial - spatial","spatiale - spatial (feminine)","spatialement - spatially","station - station","statut - status","sujet - subject","sur - on, about","tant - so much, so many","tard - late","temps - time, weather","texte - text","travers - 'across, through (often in the idiom mettre des bâtons dans les travers - to put obstacles in the way)'","trône - throne","un - a, an, one","une - a, an, one","utilisé - used","utilise - uses / is using","valeur - value","varient - vary","vecteur - vector","vecteurs - vectors","verbe - verb","verre - glass","vers -  towards / verses / worms (context decides)","veut - wants","vieille - old","vient - comes","villes - cities","vision - vision","vivait - was living / lived","vos - your (plural or formal)","votre - your","vous - you","voyage - trip / journey","vraiment - really; truly","yeux - eyes"]`;
-var fLM = `{"à":{"start":0,"end":0},"a":{"start":1,"end":18},"b":{"start":19,"end":24},"c":{"start":25,"end":60},"d":{"start":61,"end":96},"é":{"start":97,"end":114},"e":{"start":98,"end":116},"ê":{"start":113,"end":115},"f":{"start":117,"end":125},"g":{"start":126,"end":132},"h":{"start":133,"end":135},"i":{"start":136,"end":146},"j":{"start":147,"end":150},"l":{"start":151,"end":180},"m":{"start":181,"end":205},"n":{"start":206,"end":214},"o":{"start":215,"end":222},"p":{"start":223,"end":264},"q":{"start":265,"end":276},"r":{"start":277,"end":294},"s":{"start":295,"end":319},"t":{"start":320,"end":325},"u":{"start":326,"end":329},"v":{"start":330,"end":347},"y":{"start":348,"end":348}}`;
+var frLM = `{"à":{"start":0,"end":0},"a":{"start":1,"end":18},"b":{"start":19,"end":24},"c":{"start":25,"end":60},"d":{"start":61,"end":96},"é":{"start":97,"end":114},"e":{"start":98,"end":116},"ê":{"start":113,"end":115},"f":{"start":117,"end":125},"g":{"start":126,"end":132},"h":{"start":133,"end":135},"i":{"start":136,"end":146},"j":{"start":147,"end":150},"l":{"start":151,"end":180},"m":{"start":181,"end":205},"n":{"start":206,"end":214},"o":{"start":215,"end":222},"p":{"start":223,"end":264},"q":{"start":265,"end":276},"r":{"start":277,"end":294},"s":{"start":295,"end":319},"t":{"start":320,"end":325},"u":{"start":326,"end":329},"v":{"start":330,"end":347},"y":{"start":348,"end":348}}`;
 
 var itDiction=`["abbia - (that he/she/it) may have","affascinanti - fascinating","affrontare - to face, to confront","ai - to the","al - to the","alcuni - some","all'architettura - to the architecture","all'interno - inside, within","alla - to the","allineamento - alignment","allineato - aligned","allo - to","allora - then","alterato - altered","alto - high, tall","andare - to go","angeli - angels","angelica - angelic","appropriato - appropriate","arabo - arab, arabic","atteggiamento - attitude","attraverso - through","avere - to have","avvicinarsi - to approach, to get closer","bassa - low","basso - low","beh - well","brina - frost","buona - good","cammina - (you) walk","campi - fields","capire - to understand","cartografia - cartography","cercando - looking for, seeking","cerchi - (you) look for, (you) seek","certa - certain","certi - certain","che - that / which / who","chiedono - they ask","cioè - that is, i.e.","città - city","classico - classic, classical","collegare - to connect","collegato - connected","coltello - knife","come - like / as / how","commentatori - commentators","comportano - they behave, they involve","con - with","concetto - concept","connettersi - to connect oneself","contemplarlo - to contemplate it","contenitore - container","coranica - quranic","corano - quran","corpo - body","correla - (he/she/it) correlates","corrispondi - (you) correspond","corso - course","cosa - thing","coscienza - consciousness","così - so","cosmica - cosmic","cosmologia - cosmology","criminale - criminal","cristallizza - (he/she/it) crystallizes","cui - to whom","d'onda - of the wave","da - from","dal - from","dall'assemblea - from the assembly","dalla - from the","dallo - from the","degli - of","dei - of","del - of the (masculine singular)","delimitata - delimited, bounded","delineato - delineated, outlined","dell'assemblea - of the assembly","dell'esplorazione - of the exploration","della - of the (feminine singular)","dentro - inside","desideri - desires","desiderio - desire, wish","detto - said","di - of / from","dice - says","dicono - they say","dio - god","dislocato - located, displaced","diventa - becomes","diventano - become","divergere - to diverge","divina - divine","divino - divine","domanda - question","doveri - duties","due - two","e - and","è - is","emergente - emerging","energia - energy","era - was","esci - (you) go out, exit","espansione - expansion","esplorare - to explore","espulsione - expulsion","essere - to be","esso - it","eticamente - ethically","fakhruj - go out, exit (arabic imperative)","fallisce - (he/she/it) fails","fame - hunger","fast - fast","fenomeno - phenomenon","fine - end","finestra - window","finisci - (you) end up, (you) finish","fisica - physics","flessibile - flexible","fondamentalmente - fundamentally","food - food","forma - form","formulazione - formulation","forse - perhaps","fosse - (that he/she/it) were","funzionali - functional","fuori - out","geografia - geography","già - already","giocando - playing","gioielli - jewels, jewelry","gioiosa - joyful","gli - the","grammatica - grammar","grande - great","grandezza - magnitude, greatness","gravità - gravity","ha - has","hanno - they have","ho - i","ikea - ikea","il - the (masculine singular)","importanza - importance","incarnare - to incarnate, to embody","incredibilmente - incredibly","inginocchiarsi - to kneel","inizia - (he/she/it) begins, starts","inseguendo - chasing, pursuing","insufficienti - insufficient","interessante - interesting","interfaccia - interface","intuizione - intuition","invisibile - invisible","istinto - instinct","l'alto - the high","l'arabo - the arabic (language)","l'esterno - the outside","l'idea - the idea","l'interno - the inside","l'urgenza - the urgency","la - the (feminine singular)","laggiù - down there","latitudine - latitude","le - the","lega - alloy, (he/she/it) binds","linguistico - linguistic","lo - the","locale - local","lontani - far, distant","lunghezza - length","luogo - place, location","ma - but","maestoso - majestic","magnificamente - magnificently","mangi - (you) eat","mangiare - to eat","manifesta - (he/she/it) manifests","meh - meh","meno - less","mente - mind","meraviglia - wonder, marvel","metafisica - metaphysics","metafora - metaphor","metaforico - metaphorical","metri - meters","mettere - to put","mia - my","milano - milan","minhā - from it/her","mistico - mystical","misurata - measured","misurazione - measurement","mobili - furniture, mobile","modelli - models","modi - ways","modo - way","mondo - world","morale - moral","muoversi - to move oneself","narrativa - fiction","navigare - to navigate","nel - in","nella - in the","neutro - neutral","noioso - boring","non - not","notato - noticed","novità - novelty, news","o - or","occhi - eyes","occupi - (you) occupy","oggetti - objects, items","onore - honor","ontologico - ontological","operano - they operate","opposti - opposite","ora - now","ortogonali - orthogonal","palcoscenico - scenographic, theatrical","paradiso - paradise","particella - particle","particolari - particular","patto - pact, agreement","pensare - think","pensiero - thought","penso - i think","pente - (he/she/it) repents","pentendomi - repenting myself","pentimento - repentance, remorse","per - for / to / in order to","perché - because","perpendicolare - perpendicular","personale - personal","più - more","piuttosto - rather","poi - then","polmoni - lungs","ponte - bridge","pop-up - pop-up","porta - door","posizione - position","potrebbe - could","pre-tutto - above all","precedente - previous","presenti - present","presenza - presence","prima - first","primo - first","privilegio - privilege","prodotto - product","profondo - deep","proprio - own","prossimità - proximity","proviene - (he/she/it) comes from, stems from","punta - tip","può - can","puoi - you can","qualcosa - something","qualcuno - someone","qualità - quality","qualsiasi - any","quando - when","quantistica - quantum","quanto - how much","quasi - almost","quel - that","quella - that","questa - this","questi - these","questo - this","qui - here","quindi - so","rango - rank, range","reale - real","realtà - reality","regno - kingdom, realm","richiede - requires","riempi - (you) fill","riferisce - refers","rifiuto - refusal","riguardo - regarding","risposte - answers, responses","risuonano - they resonate","ritmo - rhythm","rompe - (he/she/it) breaks","scegli - (you) choose","se - if","secoli - centuries","sei - you are","sembra - seems","semplice - simple","sensazione - sensation, feeling","senso - sense","si - it","sia - is","significa - means","significato - meaning","simile - similar","soddisfare - to satisfy","solo - only","sono - are","sorta - sort","spaziale - spatial, space-related","spazialmente - spatially","spazio - space","spiegare - to explain","sta - is","stai - you are","stati - states","stato - state","status - status","stazione - station","stessa - same","stesso - same","storia - history","strumento - tool, instrument","sua - his","sul - on","sull'espressione - on the expression","suo - his","tanto - so much, a lot","tardi - late","tempo - time","testo - text","ti - you","tratta - deals with","trono - throne","tua - your","tuo - your","ultima - last, ultimate","un - a / an (masculine)","una - a / an (feminine)","uno - one","usa - (he/she/it) uses","usare - to use","uscire - to go out, to exit","vai - (you) go","valore - value","variano - they vary","vecchia - old","venga - (that he/she/it) may come","verbo - verb","verso - towards","vetro - glass","vettore - vector, carrier","vettori - vectors","viaggio - journey, trip","visione - vision","vivesse - (that he/she/it) lived","volte - times","vuole - wants"]`;
-var iLM =`{"a":{"start":0,"end":23},"b":{"start":24,"end":28},"c":{"start":29,"end":66},"d":{"start":67,"end":97},"e":{"start":98,"end":109},"è":{"start":99,"end":99},"f":{"start":110,"end":127},"g":{"start":128,"end":137},"h":{"start":138,"end":140},"i":{"start":141,"end":154},"l":{"start":155,"end":171},"m":{"start":172,"end":199},"n":{"start":200,"end":208},"o":{"start":209,"end":218},"p":{"start":219,"end":257},"q":{"start":258,"end":272},"r":{"start":273,"end":285},"s":{"start":286,"end":320},"t":{"start":321,"end":329},"u":{"start":330,"end":336},"v":{"start":337,"end":351}}`;
+var itLM =`{"a":{"start":0,"end":23},"b":{"start":24,"end":28},"c":{"start":29,"end":66},"d":{"start":67,"end":97},"e":{"start":98,"end":109},"è":{"start":99,"end":99},"f":{"start":110,"end":127},"g":{"start":128,"end":137},"h":{"start":138,"end":140},"i":{"start":141,"end":154},"l":{"start":155,"end":171},"m":{"start":172,"end":199},"n":{"start":200,"end":208},"o":{"start":209,"end":218},"p":{"start":219,"end":257},"q":{"start":258,"end":272},"r":{"start":273,"end":285},"s":{"start":286,"end":320},"t":{"start":321,"end":329},"u":{"start":330,"end":336},"v":{"start":337,"end":351}}`;
 
+
+var frSND = ['Hfr.mp3',[0.000000,6.293845,0],[7.024026,9.246317,1],[10.039992,14.524257,2],[15.286185,18.191037,3],[19.000586,22.643555,4],[23.453104,28.770728,5],[29.453289,31.262868,6],[32.000986,34.374075,7],[35.104256,39.374229,8],[40.088537,43.612455,9],[44.263269,50.628544,10],[51.287295,55.660445,11],[56.398563,60.374876,12],[61.089184,64.533735,13],[65.255979,79.097676,14],[79.494513,89.240845,15],[89.748798,93.463198,16],[93.939403,98.860190,17],[99.241154,101.844408,18],[102.288867,108.162063,19],[108.670016,110.606583,20],[111.114535,112.701886,21],[113.114597,118.416348,22],[118.829059,122.225989,23],[122.702194,127.369005,24],[127.845210,129.940512,25],[130.321477,135.972444,26],[136.385155,139.940821,27],[140.417026,143.813956,28],[144.321908,149.909382,29],[150.449081,155.179385,30],[155.782579,160.544630,31],[161.084329,167.719454,32],[168.227407,170.925902,33],[171.529096,176.640364,34],[177.084822,192.069411,35],[192.386881,195.561582,36],[196.133029,201.847490,37],[202.323695,211.212858,38],[211.752557,215.435211,39],[215.879669,223.244975,40],[223.721180,230.642029,41],[231.022993,238.864504,42],[239.245468,242.515410,43],[243.086856,246.959992,44],[247.499691,251.309332,45],[251.817284,255.626925,46],[256.134878,262.262051,47],[262.579521,266.293921,48],[266.738379,272.325853,49],[272.802058,275.691036,50]];
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/up/';
+    EHIMGURL = jovuniverse.EHIMGURL+'up/';
 }
 else{
-    EHIMGURL = './jiveRPG/up/';
+    EHIMGURL = storyline.BIMG+'up/';
 }
+
 const svisual = ['a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg'];
 const ImgRo = 1;
 const oImg = 'k.jpg';
 const ehbmtitle = 'tisp';
 
-storyline.intro = `<p>A conversation around the topic of time and space from the quranic linguistic perspective.</p>
+storyline.intro = `<p>A conversation around the topic of time and space from the quranic linguistic perspective. 51 slides in total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>FR</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
 <li><a href="https://venice.ai" target="_blank">Venice AI</a></li>
 </ul></p>
@@ -236,12 +238,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        itDiction = JSON.parse(itDiction);
-        reperc.iLM = JSON.parse(iLM);
-        
-        frDiction = JSON.parse(frDiction);
-        reperc.fLM = JSON.parse(fLM);
+         if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -295,7 +334,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -316,39 +361,71 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+     $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
     if(storyline.clang == 'it'){
-        if (!reperc.iLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.iLM[xx].start;i<=reperc.iLM[xx].end;i++){
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
             if(itDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
     else if(storyline.clang == 'fr'){
-        if (!reperc.fLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.fLM[xx].start;i<=reperc.fLM[xx].end;i++){
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
             if(frDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
+            if(deDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
