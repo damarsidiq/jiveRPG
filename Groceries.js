@@ -159,7 +159,9 @@ const ehbmtitle = 'svFridge';
 
 storyline.intro = `<p>A conversation with metaAI about the empty fridge.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voices:<ul>
+<li><a href="https://speechma.com/english" target="_blank">Speechma</a></li>
+</ul></p>
 <p>Story Text:<br><a href="https://www.meta.ai/" target="_blank">MetaAI</a></p>
 <p>Translation:<ul>
 <li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
