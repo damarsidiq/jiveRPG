@@ -120,11 +120,11 @@ const ImgRo = 1;
 const oImg = 'o.jpg';
 const ehbmtitle = 'subtext';
 
-storyline.intro = `<p>A conversation on the subject of movies subtext. 49 sentences total.</p>
+storyline.intro = `<p>A conversation on the subject of movies subtext. 49 slides total.</p>
 <div style="font-size:smaller;">
 <p>Voice Available:<br>IT</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
-<p>Voices:<br><a href="hhttps://voicertool.com/" target="_blank">Voicertool</a></p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translation:<br><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
