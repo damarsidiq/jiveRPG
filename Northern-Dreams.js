@@ -153,11 +153,23 @@ Es hora de descansar ahora.
 Duerme.`;
 
 
-var spanishDictionary =`["abetos - firs","abriendo - opening","acunado - cradled","agua - water","agujas - needles","ahora - now","aire - air","al - to the (a + el)","alarma - alarm","aleja - moves away","anclándote - grounding","ante - before / in the presence of","antiguo - ancient","aparecen - appear","aquí - here","aroma - scent","arriba - above","ártico - Arctic","atardecer - sunset","aterciopelado - velvety","aún - still, yet","azul - blue","bálsamo - balm","besando - kissing","bien - well, good","bienvenido - welcome","borde - edge","boreales - boreal","bosque - forest, woods","bosques - forests","buenas - good (feminine plural)","cada - each, every","cálida - warm","calma - serenity","calor - warmth","canadá - Canada","canadiense - Canadian","centro - center","chapoteo - splashing","charco - puddle","cielo - sky, heaven","cielos - skies","cierra - close","cierre - close","clara - clear","colimbo - loon","comienza - begins","comienzan - begin","como - as, like, how","cómo - how","cómoda - comfortable","con - with","conserva - preserves","contentamiento - contentment","contra - against","convierta - convert","corazón - heart","crepúsculo - twilight","cualquier - any","cuerpo - Body","cúpula - dome","de - of, from","debajo - beneath","deja - let","del - of the (de + el)","descansar - rest","desde - from, since","después - after, afterwards","desvanece - fades","día - day","difusa - diffuse","disolviéndose - dissolving","distinguir - distinguish","dónde - where","dormido - sleeping","dos - two","duerme - sleeps","e - and (used instead of y before words starting with i or hi)","el - the","ellas - they","emite - emits","en - in, on","encuentra - finds","entre - between / among","envuelve - envelops","eres - you are","erige - erects","es - is (from ser)","escenario - scene","escondido - hidden","escucha - listens","espejo - mirror","está - is (from estar)","esta - this (feminine singular)","estás - Are you?","este - this (masculine singular)","estelar - stellar","estrellas - stars","estuvieran - were","exhala - exhale","exterior - outside","extienden - extend","filtra - filters","flores - flowers","flotando - floating","forma - way, form","fresco - fresh","fuerza - strength / force","gentil - gentle","gentiles - gentle","gigante - giant","granito - granite","hace - makes / does / ago","hacia - towards","hasta - until, up to, even","hay - there is, there are (from haber)","hecho - fact, deed, or done/made (past participle of hacer)","hielo - ice","hora - time","húmeda - damp","imitando - imitating","imposible - impossible","inamovible - immovable","índigo - indigo","inhala - inhale","inmensa - immense","inquietud - restlessness","interior - inside","interminables - endless","la - the (feminine singular)","lago - lake","larga - long (feminine)","las - the (feminine plural)","latido - heartbeat","lejana - distant","lejos - far / far away","lentamente - slowly","lento - slow","limpio - clean","línea - line","líquido - liquid","lisa - smooth","llamado - called (past participle of llamar), call","lleva - carries","lluvia - rain","lo - It / Him!","los - the (masculine plural)","lugar - place","luna - moon","luz - light","manta - blanket","más - more","melancólica - melancholic","mira - look","mismo - same, himself/herself/itself (after a pronoun)","momento - moment","montañas - mountains","nana - lullaby","naturaleza - nature","negra - black","negro - black","ni - nor, neither, not even","noche - night","noches - nights","nota - note","notas - notes","oeste - west","ojos - eyes","orilla - shore","oscura - dark","oscuro - dark","otra - other / another (feminine)","pacífica - peaceful","para - for, in order to","párpados - eyelids","parte - part","paz - peace","pensamientos - thoughts","pequeño - small","perfectamente - perfectly","permite - allows","pero - but","persistente - persistent","pesada - heavy","pesado - heavy","pesados - heavy","pie - foot","pies - feet","pino - pine","pinos - pines","plana - flat","plantas - plants","plateado - silver","poco - little / few / bit","por - by, for, through","posición - position","preocupaciones - worries","presencia - presence","primeras - first","profunda - deep","profundamente - deeply","profundice - deepen","profundiza - deepens","profundo - deep","protectora - protective","puedes - you can (from poder)","puntear - to dot","pura - pure","que - that, what","querido - Dear / Beloved","quieto - still","quietud - stillness","ralentice - slow down","rama - branch","reconfortante - soothing","reflejo - reflection","relajándote - relaxing","respiración - breath","resuena - resonates","rítmico - rhythmic","roca - rock","rocosas - rocky","rostro - face","salvaje - wild","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","seguridad - security / safety","seguro - safe / sure / insurance","sentirla - feel it","sereno - serene","shhhhh - shh","si - if","sientas - feel","siente - feels","siglos - centuries","silencio - silence","silueta - silhouette","sino - but, but rather (used after a negative clause)","sintiendo - feeling","sobre - on / over / about","sol - sun / alone","sola - alone","solas - alone","sólida - solid","solitaria - solitary","solo - only, alone","somnolientos - drowsy","son - are","sonido - sound","sostiene - holds","su - his, her, its, their, your (formal)","suave - soft","suavizada - softened","sus - his, her, its, their, your (formal) (plural)","susurro - whisper","tan - so / such / as","te - you (informal singular) (direct or indirect object pronoun)","tensión - tension","tenue - faint","termina - ends","ti - you (after a preposition)","tiembla - trembles","tiempo - time, weather","tienen - have","tierra - earth","tímidas - timid","todo - all, whole, everything","tranquila - calm","tranquilo - calm","través - through","tú - you (informal subject pronoun)","tu - your (informal singular)","tus - your (informal plural)","un - a, an (masculine)","una - a, an (feminine)","único - unique, only","vamos - let's go","vastedad - vastness","vasto - vast","vez - time / occasion","viajero - traveler","viento - wind","violeta - violet","vuelva - return","vuelven - return","y - and","ya - already, now"]`;
-var slm =`{"a":{"start":0,"end":21},"á":{"start":17,"end":17},"b":{"start":22,"end":30},"c":{"start":31,"end":60},"d":{"start":61,"end":76},"e":{"start":77,"end":101},"f":{"start":102,"end":107},"g":{"start":108,"end":111},"h":{"start":112,"end":119},"i":{"start":120,"end":128},"í":{"start":123,"end":123},"l":{"start":129,"end":149},"m":{"start":150,"end":156},"n":{"start":157,"end":165},"o":{"start":166,"end":171},"p":{"start":172,"end":207},"q":{"start":208,"end":211},"r":{"start":212,"end":222},"s":{"start":223,"end":253},"t":{"start":254,"end":271},"u":{"start":272,"end":273},"ú":{"start":274,"end":274},"v":{"start":275,"end":283},"y":{"start":284,"end":285}}`;
+var esDiction =`["abetos - firs","abriendo - opening","acunado - cradled","agua - water","agujas - needles","ahora - now","aire - air","al - to the (a + el)","alarma - alarm","aleja - moves away","anclándote - grounding","ante - before / in the presence of","antiguo - ancient","aparecen - appear","aquí - here","aroma - scent","arriba - above","ártico - Arctic","atardecer - sunset","aterciopelado - velvety","aún - still, yet","azul - blue","bálsamo - balm","besando - kissing","bien - well, good","bienvenido - welcome","borde - edge","boreales - boreal","bosque - forest, woods","bosques - forests","buenas - good (feminine plural)","cada - each, every","cálida - warm","calma - serenity","calor - warmth","canadá - Canada","canadiense - Canadian","centro - center","chapoteo - splashing","charco - puddle","cielo - sky, heaven","cielos - skies","cierra - close","cierre - close","clara - clear","colimbo - loon","comienza - begins","comienzan - begin","como - as, like, how","cómo - how","cómoda - comfortable","con - with","conserva - preserves","contentamiento - contentment","contra - against","convierta - convert","corazón - heart","crepúsculo - twilight","cualquier - any","cuerpo - Body","cúpula - dome","de - of, from","debajo - beneath","deja - let","del - of the (de + el)","descansar - rest","desde - from, since","después - after, afterwards","desvanece - fades","día - day","difusa - diffuse","disolviéndose - dissolving","distinguir - distinguish","dónde - where","dormido - sleeping","dos - two","duerme - sleeps","e - and (used instead of y before words starting with i or hi)","el - the","ellas - they","emite - emits","en - in, on","encuentra - finds","entre - between / among","envuelve - envelops","eres - you are","erige - erects","es - is (from ser)","escenario - scene","escondido - hidden","escucha - listens","espejo - mirror","está - is (from estar)","esta - this (feminine singular)","estás - Are you?","este - this (masculine singular)","estelar - stellar","estrellas - stars","estuvieran - were","exhala - exhale","exterior - outside","extienden - extend","filtra - filters","flores - flowers","flotando - floating","forma - way, form","fresco - fresh","fuerza - strength / force","gentil - gentle","gentiles - gentle","gigante - giant","granito - granite","hace - makes / does / ago","hacia - towards","hasta - until, up to, even","hay - there is, there are (from haber)","hecho - fact, deed, or done/made (past participle of hacer)","hielo - ice","hora - time","húmeda - damp","imitando - imitating","imposible - impossible","inamovible - immovable","índigo - indigo","inhala - inhale","inmensa - immense","inquietud - restlessness","interior - inside","interminables - endless","la - the (feminine singular)","lago - lake","larga - long (feminine)","las - the (feminine plural)","latido - heartbeat","lejana - distant","lejos - far / far away","lentamente - slowly","lento - slow","limpio - clean","línea - line","líquido - liquid","lisa - smooth","llamado - called (past participle of llamar), call","lleva - carries","lluvia - rain","lo - It / Him!","los - the (masculine plural)","lugar - place","luna - moon","luz - light","manta - blanket","más - more","melancólica - melancholic","mira - look","mismo - same, himself/herself/itself (after a pronoun)","momento - moment","montañas - mountains","nana - lullaby","naturaleza - nature","negra - black","negro - black","ni - nor, neither, not even","noche - night","noches - nights","nota - note","notas - notes","oeste - west","ojos - eyes","orilla - shore","oscura - dark","oscuro - dark","otra - other / another (feminine)","pacífica - peaceful","para - for, in order to","párpados - eyelids","parte - part","paz - peace","pensamientos - thoughts","pequeño - small","perfectamente - perfectly","permite - allows","pero - but","persistente - persistent","pesada - heavy","pesado - heavy","pesados - heavy","pie - foot","pies - feet","pino - pine","pinos - pines","plana - flat","plantas - plants","plateado - silver","poco - little / few / bit","por - by, for, through","posición - position","preocupaciones - worries","presencia - presence","primeras - first","profunda - deep","profundamente - deeply","profundice - deepen","profundiza - deepens","profundo - deep","protectora - protective","puedes - you can (from poder)","puntear - to dot","pura - pure","que - that, what","querido - Dear / Beloved","quieto - still","quietud - stillness","ralentice - slow down","rama - branch","reconfortante - soothing","reflejo - reflection","relajándote - relaxing","respiración - breath","resuena - resonates","rítmico - rhythmic","roca - rock","rocosas - rocky","rostro - face","salvaje - wild","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","seguridad - security / safety","seguro - safe / sure / insurance","sentirla - feel it","sereno - serene","shhhhh - shh","si - if","sientas - feel","siente - feels","siglos - centuries","silencio - silence","silueta - silhouette","sino - but, but rather (used after a negative clause)","sintiendo - feeling","sobre - on / over / about","sol - sun / alone","sola - alone","solas - alone","sólida - solid","solitaria - solitary","solo - only, alone","somnolientos - drowsy","son - are","sonido - sound","sostiene - holds","su - his, her, its, their, your (formal)","suave - soft","suavizada - softened","sus - his, her, its, their, your (formal) (plural)","susurro - whisper","tan - so / such / as","te - you (informal singular) (direct or indirect object pronoun)","tensión - tension","tenue - faint","termina - ends","ti - you (after a preposition)","tiembla - trembles","tiempo - time, weather","tienen - have","tierra - earth","tímidas - timid","todo - all, whole, everything","tranquila - calm","tranquilo - calm","través - through","tú - you (informal subject pronoun)","tu - your (informal singular)","tus - your (informal plural)","un - a, an (masculine)","una - a, an (feminine)","único - unique, only","vamos - let's go","vastedad - vastness","vasto - vast","vez - time / occasion","viajero - traveler","viento - wind","violeta - violet","vuelva - return","vuelven - return","y - and","ya - already, now"]`;
+var esLM =`{"a":{"start":0,"end":21},"á":{"start":17,"end":17},"b":{"start":22,"end":30},"c":{"start":31,"end":60},"d":{"start":61,"end":76},"e":{"start":77,"end":101},"f":{"start":102,"end":107},"g":{"start":108,"end":111},"h":{"start":112,"end":119},"i":{"start":120,"end":128},"í":{"start":123,"end":123},"l":{"start":129,"end":149},"m":{"start":150,"end":156},"n":{"start":157,"end":165},"o":{"start":166,"end":171},"p":{"start":172,"end":207},"q":{"start":208,"end":211},"r":{"start":212,"end":222},"s":{"start":223,"end":253},"t":{"start":254,"end":271},"u":{"start":272,"end":273},"ú":{"start":274,"end":274},"v":{"start":275,"end":283},"y":{"start":284,"end":285}}`;
 
-//var EHIMGURL = './jiveRPG/canada/';
-var EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/ca/';
+
+var esSND = ['Ies.mp3',[0.000000,2.904284,0],[3.000833,9.807221,1],[10.312314,17.762434,2],[17.993935,20.245808,3],[20.561491,23.129046,4],[23.507866,27.422336,5],[27.716974,29.674209,6],[30.116165,33.272996,7],[33.546588,37.271648,8],[37.440012,40.765207,9],[41.122982,45.921364,10],[46.216002,49.225514,11],[49.646425,52.655937,12],[53.118938,59.832465,13],[60.169194,65.641034,14],[66.019853,73.133245,15],[73.575201,75.490345,16],[75.869165,79.888863,17],[80.330819,85.402794,18],[85.697431,92.495140,19],[92.789778,100.324080,20],[100.702900,105.522328,21],[105.901148,107.900474,22],[108.174066,110.783713,23],[111.183578,113.582770,24],[113.793225,115.729414,25],[116.108234,121.474846,26],[121.958894,126.083819,27],[126.462639,129.011780,28],[129.861493,135.291242,29],[135.796335,142.699272,30],[143.317484,145.474981,31],[146.116870,148.158287,32],[148.844569,154.242749,33],[154.095094,160.966799,34],[161.703393,168.574761,35],[169.248218,174.572739,36],[175.056787,179.413213,37],[179.792033,182.359588,38],[183.033046,187.010652,39],[187.620973,191.893217,40],[192.335173,196.060234,41],[196.628463,202.100303,42],[202.794806,205.846409,43],[206.519866,215.653630,44],[216.074540,218.873597,45],[219.399736,224.745302,46],[225.208304,228.196770,47],[228.849182,230.364461,48],[230.953736,232.384833,49],[232.953062,235.920483,50],[236.488713,237.751445,51],[238.403856,241.055594,52],[240.855325,249.852629,53],[250.631314,257.134385,54],[257.849934,269.172433,55],[269.803799,274.686364,56],[275.359822,279.232201,57],[279.842521,284.872405,58],[285.566908,290.175880,59],[290.765155,298.320504,60],[298.909779,304.844621,61],[305.512010,309.855072,62],[310.445576,316.662535,63],[317.291136,321.938974,64],[322.319944,325.691532,65],[326.205842,328.891683,66],[329.520284,332.663289,67],[333.215696,337.577806,68],[338.282601,340.987490,69],[341.520849,344.473369,70],[345.082921,347.692568,71],[348.702140,350.492700,72],[351.711805,354.111918,73],[354.835762,356.092964,74]];
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){
+    EHIMGURL = jovuniverse.EHIMGURL+'ca/';
+}
+else{
+    EHIMGURL = storyline.BIMG+'ca/';
+}
+const oImg = 'ca_6.jpg';
+const ehbmtitle = 'NDss1';
+
 var reperc = {
     starter:false,
     storylines:[],
@@ -171,8 +183,6 @@ var reperc = {
         reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark));
     },
     initBookmark:function(){
-        const ehbmtitle = 'NDss1';
-        
         if (typeof localStorage == "object"){
             reperc.localstorage =  localStorage;
         } else if (typeof globalStorage == "object"){
@@ -203,9 +213,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        spanishDictionary = JSON.parse(spanishDictionary);
-        reperc.letterMap = JSON.parse(slm);
+        if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -255,16 +305,22 @@ var reperc = {
         reperc.storyvidx.splice(stvidx,1);
 
         document.addEventListener('unfoldx', e => {
-            reperc.nextHdlr(e.detail);          
+            reperc.nextHdlr(e.detail);
         });
-        
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 
-storyline.intro = `<p>One of a series of stories of the sleep-story genre in EasternHead's free Library designed to help you sleep, but also learn new words in foreign languages</p>
+storyline.intro = `<p>One of a series of stories of the sleep-story genre in EasternHead's free Library designed to help you sleep, but also learn new words in foreign languages. 75 slides in total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
-<p>Stories:<br> AIs</p>
+<p>Voice Available:<br>ES</p>
+<p>Story Text:<br> AIs</p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translation:<br> AIs</p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
@@ -284,30 +340,76 @@ for(var i=0;i<reperc.storylines[1].length;i++){
     //es,en,fr,de,it,ru,ja,ko
 	n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],null,null,null,null,null,null);
 }
+n.illustration = EHIMGURL+oImg;
 config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+     $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
-    if(storyline.clang == 'es'){
-        if (!reperc.letterMap[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.letterMap[xx].start;i<=reperc.letterMap[xx].end;i++){
-            if(spanishDictionary[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+spanishDictionary[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
+            if(deDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
-$('#text5').prop('src',EHIMGURL+'ca_6.jpg');
+$('#text5').prop('src',EHIMGURL+oImg);
