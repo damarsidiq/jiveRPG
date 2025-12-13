@@ -1,5 +1,4 @@
-var textSt = `
-my house is small but beautiful.
+var textSt = `my house is small but beautiful.
 i would like to have a big and beautiful house.
 but i dont think i need that right now.
 right now i am single, i am not married.
@@ -76,7 +75,7 @@ Jag har ingen bil, cykel eller motorcykel.
 Jag vet hur man cyklar och kör motorcykel.  
 Men jag kan inte köra bil.
 Jag är 35 år gammal.
-Jag heter ...
+Jag heter...
 
 <muoborder>
 Huset mitt er lite, men vakkert.  
@@ -116,7 +115,7 @@ jeg har ikke bil, sykkel eller motorsykkel.
 jeg vet hvordan jeg skal sykle og kjøre motorsykkel.  
 men jeg kan ikke kjøre bil.  
 Jeg er 35 år gammel.
-Jeg heter ...
+Jeg heter...
 
 <muoborder>
 Mit hus er lille, men smukt.  
@@ -156,7 +155,7 @@ jeg har ikke en bil, cykel eller motorcykel.
 jeg ved, hvordan man cykler og kører motorcykel.  
 men jeg kan ikke køre bil.
 Jeg er 35 år gammel.
-Jeg hedder ...
+Jeg hedder...
 
 <muoborder>
 Мой дом маленький, но красивый.  
@@ -239,23 +238,29 @@ Olen 35-vuotias.
 Minun nimeni on…
 `;
 
+var svSND = ['Jsv.mp3',[0.000000,3.106995,0],[3.846756,7.175680,1],[7.841465,11.096412,2],[11.780691,15.276061,3],[15.941845,18.882395,4],[19.622155,21.601016,5],[22.340776,25.059397,6],[25.651206,28.591755,7],[29.165070,32.789898,8],[33.566647,35.970869,9],[36.618160,39.059371,10],[39.780638,42.480764,11],[43.257513,46.456979,12],[47.196740,49.656444,13],[50.359217,55.556037,14],[56.351280,58.718514,15],[58.875713,62.167649,16],[62.990633,66.014405,17],[66.818895,77.286511,18],[77.804343,83.038151,19],[83.777912,86.459545,20],[87.236293,91.619376,21],[92.451607,94.818842,22],[95.706555,98.573128,23],[99.294395,102.364402,24],[103.067175,106.913931,25],[107.653692,111.592918,26],[112.258703,119.656311,27],[119.758028,123.244151,28],[124.131864,128.505700,29],[129.421154,133.684025,30],[134.608726,138.048614,31],[139.019550,142.108052,32],[142.986517,146.694569,33],[147.619270,151.105392,34],[151.937623,154.230882,35],[155.109348,157.698511,36],[158.179355,160.241438,37]];
+var noSND = ['Jno.mp3',[0.000000,2.684401,0],[3.496350,6.164180,1],[6.843566,9.295982,2],[9.942226,13.388865,3],[13.968828,16.122977,4],[16.868644,18.707956,5],[19.503334,21.939179,6],[22.800839,24.971558,7],[25.783507,28.782745,8],[29.627834,31.632850,9],[32.361947,34.400103,10],[35.228622,37.681038,11],[38.360423,41.541936,12],[42.204751,44.557744,13],[45.369693,49.959687,14],[50.655643,53.000000,15],[53.054610,55.874422,16],[56.504986,59.189387,17],[59.951625,69.529303,18],[70.258399,74.434134,19],[75.196372,77.499654,20],[78.245321,82.437626,21],[83.166723,85.006035,22],[85.768272,88.436103,23],[89.330903,91.849601,24],[92.644979,95.627647,25],[96.555588,100.002226,26],[100.764464,106.713229,27],[107.409185,110.209579,28],[110.255147,114.165756,29],[114.882425,118.979451,30],[119.671264,122.985339,31],[123.681295,126.713674,32],[127.459341,130.806557,33],[131.568795,135.131426,34],[135.877093,137.848968,35],[138.594635,140.980769,36],[141.577303,143.598889,37]];
+var daSND = ['Jda.mp3',[0.000000,2.269805,0],[2.415461,5.122234,1],[5.267890,7.865420,2],[8.059628,10.560055,3],[10.802815,12.769170,4],[12.829860,14.322833,5],[14.492765,16.422707,6],[16.568362,18.643960,7],[18.826029,21.836252,8],[22.042598,23.474881,9],[23.705503,25.307718,10],[25.429098,27.541109,11],[27.735317,30.308572,12],[30.490642,32.238513,13],[32.335617,36.001292,14],[36.195500,38.186131,15],[38.368201,41.167526,16],[41.367802,43.654297,17],[43.812091,50.527057,18],[50.745162,54.099041,19],[54.287180,55.931879,20],[56.156431,59.027067,21],[59.209137,60.683903,22],[60.872042,63.093295,23],[63.329986,65.624067,24],[65.812206,68.731394,25],[68.864912,72.008652,26],[72.154308,77.391853,27],[77.543578,80.511317,28],[80.711594,84.201268,29],[84.365131,88.364600,30],[88.540601,91.259511,31],[91.399098,94.051250,32],[94.227251,97.152508,33],[97.322440,100.460111,34],[100.648250,102.280810,35],[102.475018,104.289649,36],[104.447443,105.467034,37]];
+var fiSND = ['Jfi.mp3',[0.000000,2.507305,0],[2.807580,5.731518,1],[5.930451,8.903183,2],[9.068335,12.450193,3],[12.679154,15.287801,4],[15.550543,17.314664,5],[17.547378,20.309917,6],[20.523864,23.034922,7],[23.256375,27.467746,8],[27.692953,29.502116,9],[29.708556,31.866789,10],[32.065722,34.490451,11],[34.708151,38.127544,12],[38.348997,40.390874,13],[40.593560,46.580313,14],[46.839301,48.975014,15],[49.192714,52.533284,16],[52.803533,55.592346,17],[55.855087,64.183993,18],[64.289089,68.387856,19],[68.522981,70.684968,20],[70.790064,74.198197,21],[74.303293,75.699577,22],[75.834701,78.086771,23],[78.221895,81.059503,24],[81.179614,84.632787,25],[84.752898,88.070948,26],[88.206072,96.869034,27],[97.019172,100.006918,28],[100.172070,104.616155,29],[104.796320,109.105281,30],[109.300460,112.363275,31],[112.528427,115.711352,32],[115.846477,120.230506,33],[120.365630,123.983956,34],[124.104066,126.326109,35],[126.476247,128.953523,36],[129.103661,130.424876,37]];
+
+ 
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/cls/';
+    EHIMGURL = jovuniverse.EHIMGURL+'cls/';
 }
 else{
-    EHIMGURL = './jiveRPG/cls/';
+    EHIMGURL = storyline.BIMG+'cls/';
 }
 const svisual = ['q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
 const ImgRo = 1;
 const oImg = 'g.jpg';
 const ehbmtitle = 'intro1';
 
-storyline.intro = `<p>Introducing myself.</p>
+storyline.intro = `<p>Introducing myself. 38 slides in total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>NO,DA,SV,FI</p>
 <p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
 <li><a href="https://grok.com/" target="_blank">Grok</a></li>
 </ul></p>
@@ -308,26 +313,59 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        if(typeof svDiction !== 'undefined' && svDiction!=''){
+      if(typeof svDiction !== 'undefined' && svDiction!=''){
           svDiction = JSON.parse(svDiction);
-          reperc.svLM = JSON.parse(svLM);  
+          reperc.svLM = JSON.parse(svLM);   reperc.avdi++;
         }        
         if(typeof noDiction !== 'undefined' && noDiction!=''){
           noDiction = JSON.parse(noDiction);
-          reperc.noLM = JSON.parse(noLM);
+          reperc.noLM = JSON.parse(noLM); reperc.avdi++;
         }        
         if(typeof ruDiction !== 'undefined' && ruDiction!=''){
           ruDiction = JSON.parse(ruDiction);
-          reperc.ruLM = JSON.parse(ruLM);
+          reperc.ruLM = JSON.parse(ruLM); reperc.avdi++;
         }        
         if(typeof daDiction !== 'undefined' && daDiction!=''){
           daDiction = JSON.parse(daDiction);
-          reperc.daLM = JSON.parse(daLM);
+          reperc.daLM = JSON.parse(daLM); reperc.avdi++;
         }        
         if(typeof fiDiction !== 'undefined' && fiDiction!=''){
           fiDiction = JSON.parse(fiDiction);
-          reperc.fiLM = JSON.parse(fiLM);
+          reperc.fiLM = JSON.parse(fiLM); reperc.avdi++;
+        }
+        
+        storyline.snd = {};
+        if(typeof svSND !== 'undefined' && svSND.length){            
+            storyline.snd.sv = {};
+            storyline.snd.sv.p = storyline.sndURL+svSND[0];
+            svSND.splice(0,1);
+            storyline.snd.sv.t = svSND;
+        }
+        if(typeof noSND !== 'undefined' && noSND.length){            
+            storyline.snd.no = {};
+            storyline.snd.no.p = storyline.sndURL+noSND[0];
+            noSND.splice(0,1);
+            storyline.snd.no.t = noSND;
+        }
+        if(typeof daSND !== 'undefined' && daSND.length){            
+            storyline.snd.da = {};
+            storyline.snd.da.p = storyline.sndURL+daSND[0];
+            daSND.splice(0,1);
+            storyline.snd.da.t = daSND;
+        }
+        if(typeof fiSND !== 'undefined' && fiSND.length){            
+            storyline.snd.fi = {};
+            storyline.snd.fi.p = storyline.sndURL+fiSND[0];
+            fiSND.splice(0,1);
+            storyline.snd.fi.t = fiSND;
+        }
+        if(typeof ruSND !== 'undefined' && ruSND.length){            
+            storyline.snd.ru = {};
+            storyline.snd.ru.p = storyline.sndURL+ruSND[0];
+            ruSND.splice(0,1);
+            storyline.snd.ru.t = ruSND;
         }
     },
     initStory:function(){
@@ -414,6 +452,7 @@ storyline.dictionfn = function(t,l){
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
     
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
@@ -422,7 +461,7 @@ storyline.dictionfn = function(t,l){
     if(storyline.clang == 'sv'){
         if(typeof reperc.svLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.svLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){
@@ -489,7 +528,6 @@ storyline.dictionfn = function(t,l){
         }
         reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
-    
 };
 $('#text5').prop('src',EHIMGURL+oImg);
 
