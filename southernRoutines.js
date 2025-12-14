@@ -75,22 +75,25 @@ var fiDiction='';
 var fiLM='';
 
 
+var svSND = ['Msv.mp3',[0.000000,7.202914,0],[7.489987,14.353634,1],[14.823389,21.086793,2],[21.556548,27.376294,3],[28.002635,32.021652,4],[32.674090,37.423838,5],[37.815301,45.748946,6],[46.244799,52.456007,7],[52.821373,56.501122,8]];
+
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/up/';
+    EHIMGURL = jovuniverse.EHIMGURL+'up/';
 }
 else{
-    EHIMGURL = './jiveRPG/up/';
+    EHIMGURL = storyline.BIMG+'up/';
 }
 const svisual = ['a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg'];
 const ImgRo = 1;
 const oImg = 'k.jpg';
 const ehbmtitle = 'Srtn';
 
-storyline.intro = `<p>Routine listing.</p>
+storyline.intro = `<p>Routine listing. 9 slides in total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>SV</p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
 <li><a href="https://grok.com/" target="_blank">Grok</a></li>
 </ul></p>
@@ -143,26 +146,59 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
         if(typeof svDiction !== 'undefined' && svDiction!=''){
           svDiction = JSON.parse(svDiction);
-          reperc.svLM = JSON.parse(svLM);  
+          reperc.svLM = JSON.parse(svLM);   reperc.avdi++;
         }        
         if(typeof noDiction !== 'undefined' && noDiction!=''){
           noDiction = JSON.parse(noDiction);
-          reperc.noLM = JSON.parse(noLM);
+          reperc.noLM = JSON.parse(noLM); reperc.avdi++;
         }        
         if(typeof ruDiction !== 'undefined' && ruDiction!=''){
           ruDiction = JSON.parse(ruDiction);
-          reperc.ruLM = JSON.parse(ruLM);
+          reperc.ruLM = JSON.parse(ruLM); reperc.avdi++;
         }        
         if(typeof daDiction !== 'undefined' && daDiction!=''){
           daDiction = JSON.parse(daDiction);
-          reperc.daLM = JSON.parse(daLM);
+          reperc.daLM = JSON.parse(daLM); reperc.avdi++;
         }        
         if(typeof fiDiction !== 'undefined' && fiDiction!=''){
           fiDiction = JSON.parse(fiDiction);
-          reperc.fiLM = JSON.parse(fiLM);
+          reperc.fiLM = JSON.parse(fiLM); reperc.avdi++;
+        }
+        
+        storyline.snd = {};
+        if(typeof svSND !== 'undefined' && svSND.length){            
+            storyline.snd.sv = {};
+            storyline.snd.sv.p = storyline.sndURL+svSND[0];
+            svSND.splice(0,1);
+            storyline.snd.sv.t = svSND;
+        }
+        if(typeof noSND !== 'undefined' && noSND.length){            
+            storyline.snd.no = {};
+            storyline.snd.no.p = storyline.sndURL+noSND[0];
+            noSND.splice(0,1);
+            storyline.snd.no.t = noSND;
+        }
+        if(typeof daSND !== 'undefined' && daSND.length){            
+            storyline.snd.da = {};
+            storyline.snd.da.p = storyline.sndURL+daSND[0];
+            daSND.splice(0,1);
+            storyline.snd.da.t = daSND;
+        }
+        if(typeof fiSND !== 'undefined' && fiSND.length){            
+            storyline.snd.fi = {};
+            storyline.snd.fi.p = storyline.sndURL+fiSND[0];
+            fiSND.splice(0,1);
+            storyline.snd.fi.t = fiSND;
+        }
+        if(typeof ruSND !== 'undefined' && ruSND.length){            
+            storyline.snd.ru = {};
+            storyline.snd.ru.p = storyline.sndURL+ruSND[0];
+            ruSND.splice(0,1);
+            storyline.snd.ru.t = ruSND;
         }
     },
     initStory:function(){
@@ -243,10 +279,11 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+      $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
     
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
@@ -255,7 +292,7 @@ storyline.dictionfn = function(t,l){
     if(storyline.clang == 'sv'){
         if(typeof reperc.svLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.svLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){
@@ -269,7 +306,7 @@ storyline.dictionfn = function(t,l){
     else if(storyline.clang == 'no'){
         if(typeof reperc.noLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.noLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){
@@ -278,12 +315,12 @@ storyline.dictionfn = function(t,l){
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
     else if(storyline.clang == 'da'){
         if(typeof reperc.daLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.daLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){
@@ -292,12 +329,12 @@ storyline.dictionfn = function(t,l){
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
     else if(storyline.clang == 'ru'){
         if(typeof reperc.ruLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.ruLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){
@@ -306,12 +343,12 @@ storyline.dictionfn = function(t,l){
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
     else if(storyline.clang == 'fi'){
         if(typeof reperc.fiLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.fiLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){
@@ -320,7 +357,7 @@ storyline.dictionfn = function(t,l){
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
