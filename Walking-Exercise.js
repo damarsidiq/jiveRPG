@@ -157,26 +157,27 @@ var esDiction =`["activa - active","adelante - forward / ahead","aeróbico - aer
 var esLM = `{"a":{"start":0,"end":21},"á":{"start":9,"end":9},"b":{"start":22,"end":28},"c":{"start":29,"end":66},"d":{"start":67,"end":90},"e":{"start":91,"end":123},"f":{"start":124,"end":131},"g":{"start":132,"end":133},"h":{"start":134,"end":141},"i":{"start":142,"end":150},"j":{"start":151,"end":151},"l":{"start":152,"end":167},"m":{"start":168,"end":195},"n":{"start":196,"end":201},"o":{"start":202,"end":207},"p":{"start":208,"end":236},"q":{"start":237,"end":238},"r":{"start":239,"end":250},"s":{"start":251,"end":271},"t":{"start":272,"end":283},"u":{"start":284,"end":288},"v":{"start":289,"end":294},"y":{"start":295,"end":295},"z":{"start":296,"end":296}}`;
 
 var deDiction =`["ab - from / starting at","aber - but","achtsamkeit - mindfulness","aerobe - aerobic","aktiviert - activated","aktivität - activity","als - as / when / than","anderen - other","anderes - other","anstatt - instead of","anstrengung - effort, strain","anthropologie - anthropology","antike - ancient","aristoteles - aristotle","art - kind","aspekte - aspects","assoziative - associative","auch - also","auf - on / upon","aufmerksamkeit - attention","aufrechter - upright","aus - out / from","ausdauer - endurance","ausdauerlaufen - endurance running","auseinandernehmen - take apart, dismantle","baut - builds","begeisterte - enthusiastic","beide - both","bein - leg","benutzer - user","bergaufgehen - uphill walking","bescheidenes - modest","besonders - especially / particular","betrachten - to consider, to observe","betrachtet - observes, considers","bewege - move","bewegung - movement","bewegungsmuster - movement pattern","beweise - evidence, proofs","bewusstsein - consciousness","bezeichnet - refers to","bilaterale - bilateral","bin - am","biologischer - biological","biophilie-effekt - biophilia effect","bis - until / to","buchstäblich - literally","cardio - cardio","cortex - cortex","cortisolspiegel - cortisol levels","dann - then","darauf - on it","das - the / that","dass - that","deines - your","dem - the (dative masculine/neuter)","demenz - dementia","den - the (masculine accusative)","denken - to think","denker - thinker","depressionen - depressions","der - the","des - of the (genitive masculine/neuter)","deshalb - therefore / that’s why","dial - dial","die - the (feminine)","diejenigen - those","dies - this","durchblutung - blood flow","effizient - efficient","ein - a / an","eine - a / an (feminine)","einem - one / a (dative masculine/neuter)","einen - a / an (accusative)","einfachste - simplest","eingestellt - set, adjusted","einige - some / a few","emotionale - emotional","entscheidungsfindung - decision-making","entwickelt - developed","erhöht - increases","erholung - recovery, relaxation","erzeugt - generated","es - it","etwa - about","evolutionären - evolutionary","experimente - experiments","fast - almost","federnde - springy, elastic","fördern - promote","fördert - promotes","freien - open, free","für - for","gang - gait, walk","gebaut - built","gedächtnis - memory","geduld - patience","gegenüberzustehen - to face, to confront","gehen - to go","gehens - going","gehirnchemie - brain chemistry","gehirns - brain's","gehmeditation - walking meditation","geist - spirit, mind","geistige - mental, spiritual","gemacht - made / done","gemütliches - leisurely, relaxed","gerät - device","geräusch - sound","gesamtsterblichkeit - overall mortality","gesundheit - health","gibt - gives / there is/are","gingen - went","gleiche - same","gleichmäßigen - regular, steady","grundlegende - fundamental, basic","haben - have","hat - has","hatten - had","herz - heart","herz-kreislauf - cardiovascular","herz-kreislauf-erkrankungen - cardiovascular diseases","hielt - held / lasted","hier - here","hinaus - out, beyond","hippocampus - hippocampus","hörbaren - audible","hügel - hill","ich - i","ideen - ideas","identität - identity","im - in the (contraction of *in dem*)","intensität - intensity","interagiert - interacts","intervall - interval","ist - is","jedem - every / each (dative form)","jobs - jobs","kann - can / am able to","klar - clear","klick - click","km/h - kilometers per hour","kontinuität - continuity","konzentration - concentration","körper - body","körpers - body","kreative - creative","kreativen - creative","kreativität - creativity","krebsarten - types of cancer","kühlende - cooling","kulturelle - cultural","langlebigkeit - longevity","langsames - slow","langstrecken-gehen - long-distance walking","lasst - let","laufen - run","lektionen - lessons","lockern - relax, loosen","mal - time, instance","man - one / you (impersonal)","manchmal - sometimes","manifestation - manifestation","mehr - more","menschen - people","menschliche - human","metronom - metronome","mich - me (accusative)","minute - minute","minuten - minutes","mit - with","mitochondrien-system - mitochondrial system","moderne - modern","mystisch - mystical","natur - nature","neurochemie - neurochemistry","neurologie - neurology","neurologisch - neurological","nicht - not","niedrig-intensives - low-intensity","niedrigere - lower","nietzsche - nietzsche","noch - still / yet","nuancen - nuances","nur - only","oder - or","offenheit - openness","oft - often","optimiert - optimized","parallele - parallel","parasympathische - parasympathetic","peripatetische - peripatetic","perspektive - perspective","philosophen - philosophers","physiologie - physiology","physische - physical","pilgerstil - pilgrim style","präfrontale - prefrontal","pro - for","reagieren - react","reduziert - reduced","regulierung - regulation","rem-augenbewegung - rem eye movement","rhythmus - rhythm","richtung - direction","risiko - risk","ruhe - rest, calm","rumpfkraft - core strength","sagen - say","saßen - sat","sauerstoffversorgung - oxygen supply","schalter - switch","schauen - look, watch","scheinen - seem","schlägen - beats","schlendern - stroll","schritte - steps","schule - school","schweißdrüsen - sweat glands","sehnen - tendons","seite - page, side","senkt - lowers","sich - himself / herself / itself / themselves","sicht - view, sight","sie - they / she / it","signifikant - significant","sind - are","sogar - even","soziale - social","spaziergänger - stroller, walker","spaziergespräche - walking conversations","stanford - stanford","stärkt - strengthens","sterblichkeit - mortality","stetige - steady, continuous","steve - steve","stimulation - stimulation","stoffwechsel - metabolism","stressreaktion - stress response","studien - studies","subtil - subtle","system - system","tag - day","tägliches - daily","taten - actions, deeds","teil - part","tempo - pace","thoreau - thoreau","tiefgründig - profound, deep","traditionen - traditions","träumens - dreaming","treppen - stairs","typ-2-diabetes - type 2 diabetes","typischerweise - typically","überraschend - surprising","übung - exercise","und - and","uns - us","unter - under","unterstützt - supports","verändert - changed","verbessert - improved","verbunden - connected","verdauungs - digestive","vielleicht - perhaps / maybe","vom - from the (contraction of *von dem*)","von - from / of","vorteile - benefits, advantages","vorwärts - forward","während - during","wahrheit - truth","waren - were","weise - wise, way","wenn - if / when","werden - become","wie - how / as","winkel - angle","wir - we","wird - becomes / will","wissenschaft - science","wörtlich - literally","wozu - for what","wurde - became / was (passive)","z.b - e.g. (for example)","zählt - counts","zeigen - show","zeigten - showed / pointed","zen - zen","zu - to","zügigen - brisk, quick","zügiges - brisk","zur - to","zwei - two"]`;
-var dLM =`{"a":{"start":0,"end":24},"b":{"start":25,"end":46},"c":{"start":47,"end":49},"d":{"start":50,"end":68},"e":{"start":69,"end":86},"f":{"start":87,"end":92},"g":{"start":93,"end":115},"h":{"start":116,"end":127},"i":{"start":128,"end":135},"j":{"start":136,"end":137},"k":{"start":138,"end":151},"l":{"start":152,"end":158},"m":{"start":159,"end":173},"n":{"start":174,"end":184},"o":{"start":185,"end":188},"p":{"start":189,"end":198},"r":{"start":199,"end":207},"s":{"start":208,"end":241},"t":{"start":242,"end":253},"ü":{"start":254,"end":255},"u":{"start":256,"end":259},"v":{"start":260,"end":268},"w":{"start":269,"end":282},"z":{"start":283,"end":292}}`;
+var deLM =`{"a":{"start":0,"end":24},"b":{"start":25,"end":46},"c":{"start":47,"end":49},"d":{"start":50,"end":68},"e":{"start":69,"end":86},"f":{"start":87,"end":92},"g":{"start":93,"end":115},"h":{"start":116,"end":127},"i":{"start":128,"end":135},"j":{"start":136,"end":137},"k":{"start":138,"end":151},"l":{"start":152,"end":158},"m":{"start":159,"end":173},"n":{"start":174,"end":184},"o":{"start":185,"end":188},"p":{"start":189,"end":198},"r":{"start":199,"end":207},"s":{"start":208,"end":241},"t":{"start":242,"end":253},"ü":{"start":254,"end":255},"u":{"start":256,"end":259},"v":{"start":260,"end":268},"w":{"start":269,"end":282},"z":{"start":283,"end":292}}`;
 
-
+var esSND = ['Oes.mp3',[0.000000,6.879366,0],[7.354333,11.169393,1],[11.629039,17.466541,2],[17.926187,22.108964,3],[22.461359,24.667659,4],[24.928125,27.471498,5],[28.069038,34.749224,6],[35.147583,38.886036,7],[39.315039,48.063631,8],[48.431347,59.217702,9],[59.646705,64.656845,10],[65.177776,68.334011,11],[68.854943,79.717906,12],[80.192873,82.828176,13],[83.180571,92.082378,14],[92.404130,95.315220,15],[95.774866,98.502098,16],[99.068994,105.611287,17],[106.086254,115.325135,18],[115.784781,118.113653,19],[118.619263,127.781536,20],[128.271825,133.634360,21],[134.170613,138.169532,22],[138.644499,143.945747,23],[144.451358,147.576949,24],[147.868058,150.564647,25],[151.116222,154.027312,26],[154.502280,161.657433,27],[162.163043,166.315177,28],[166.790144,169.992344,29],[170.436668,174.650088,30],[175.155698,179.001402,31],[179.522333,186.999239,32],[187.412920,190.201438,33],[190.553833,193.633460,34],[194.062463,196.284084,35],[196.774373,200.788613,36],[201.309545,205.431036,37],[205.906003,208.985630,38],[209.475919,212.601511,39],[213.107121,217.596328,40],[218.055974,220.629991,41],[220.905778,225.165163,42],[225.640130,232.335638,43],[232.764640,239.490791,44],[239.935115,246.094369,45],[246.462086,254.122849,46],[254.705067,260.944759,47],[261.262681,266.058319,48]];
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/wk/';
+    EHIMGURL = jovuniverse.EHIMGURL+'wk/';
 }
 else{
-    EHIMGURL = './jiveRPG/wk/';
+    EHIMGURL = storyline.BIMG+'wk/';
 }
+
 const svisual=['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg'];
 const ImgRo = 1;
 const oImg = '9.jpg';
 const ehbmtitle = 'walk';
 
-storyline.intro = `<p>The benefits of walking for our lives.</p>
+storyline.intro = `<p>The benefits of walking for our lives. 49 slides in total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>ES</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Translation:<ul><li><a href="https://www.meta.ai" target="_blank">Meta AI</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
@@ -228,11 +229,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        esDiction = JSON.parse(esDiction);
-        reperc.esLM = JSON.parse(esLM);
-        deDiction = JSON.parse(deDiction);
-        reperc.dLM = JSON.parse(dLM);
+         if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -286,7 +325,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -307,17 +352,48 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+     $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
-    if(storyline.clang == 'es'){
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
         if (!reperc.esLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
         for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
@@ -326,20 +402,21 @@ storyline.dictionfn = function(t,l){
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
     else if(storyline.clang == 'de'){
-        if (!reperc.dLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.dLM[xx].start;i<=reperc.dLM[xx].end;i++){
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
             if(deDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
