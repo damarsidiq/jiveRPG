@@ -125,7 +125,7 @@ const ehbmtitle = 'kaffe';
 
 storyline.intro = `<p>A conversation with chatGPT(cynic-mode) about the history of coffee as a beverage.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>SV</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Translation:<ul>
 <li><a href="https://chat.deepseek.com/" target="_blank">DeepSeek</a></li>
