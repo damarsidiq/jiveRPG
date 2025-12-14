@@ -1,5 +1,4 @@
-var textSt = `
-In a small town, there lived a boy named Ethan.
+var textSt = `In a small town, there lived a boy named Ethan.
 He had a big dream.
 He wanted to do something great in life.
 Every day, he watched motivational videos, read inspiring stories, and listened to successful people speak.
@@ -157,23 +156,26 @@ Würde er lächeln und sagen: „Motivation kommt und geht, aber Disziplin ist d
 `;
 
 var deDiction =`["ab - from / starting at  ","aber - but  ","allein - alone  ","allem - everything (dative)  ","alles - everything  ","alten - old (dative plural)  ","alter - old (nominative)","anderen - other  ","ändern - change  ","angeln - fishing (noun) / to fish  ","angesehensten - most respected  ","anstatt - instead of  ","antwortete - answered  ","auch - also  ","auf - on / upon  ","aufgegeben - given up  ","aufgeregt - excited  ","aufmerksam - attentive / carefully  ","aufregung - excitement  ","augen - eyes  ","aus - out / from  ","ausreden - excuses  ","bambus - bamboo  ","bambusbaum - bamboo tree  ","bambussamen - bamboo seed  ","bauer - farmer  ","baum - tree  ","baute - built  ","bedeutet - means  ","bei - at / with  ","ben - Ben (proper name)  ","bestimmt - certainly / definitely  ","bleibe - stay (1st person)  ","bleibst - stay (2nd person singular)  ","bleibt - stays  ","brennt - burns  ","da - there  ","dachte - thought  ","dann - then  ","daran - about it / on it  ","das - the / that  ","dass - that  ","dazu - to it / in addition  ","dein - your (singular informal)  ","deine - your (plural / feminine accusative)  ","dem - the (dative masculine/neuter)  ","den - the (masculine accusative)  ","denen - those / to whom  ","der - the  ","des - of the (genitive masculine/neuter)  ","die - the (feminine)  ","diese - this / these (feminine)  ","diesem - this (dative masculine/neuter)  ","diesen - this / these  ","dinge - things  ","dir - you (dative singular informal)  ","disziplin - discipline  ","diszipliniert - disciplined  ","dort - there  ","dritten - third (dative)  ","du - you (singular informal)  ","egal - doesn’t matter / no matter  ","eigene - own  ","ein - a / an  ","eine - a / an (feminine)  ","einen - a / an (accusative)  ","einer - one / a (masculine nominative)  ","eines - one / a (genitive)  ","einmal - once  ","einst - once / one day  ","einzelnen - individual / single  ","entschluss - decision  ","er - he  ","erde - earth / soil  ","erfolg - success  ","erfolgreichen - successful (dative plural)  ","erfolgsgeheimnis - secret to success  ","ergebnisse - results  ","erstellte - created / made  ","erzählen - tell  ","erzählt - told  ","erzählte - told  ","es - it  ","ethan - Ethan (proper name)  ","ethans ethan's","etwas - something  ","familie - family  ","fange - catch (1st person singular)  ","fangen - catch  ","fasste - made / grasped  ","faulen - lazy  ","feuer - fire  ","fische - fish (plural)  ","fischer - fisherman  ","fischers - fisher’s (genitive)  ","fluss - river  ","flussufer - riverbank  ","folgen - follow  ","folgte - followed  ","fort - on / away  ","fragte - asked  ","freund - friend  ","früh - early  ","frustrierte - frustrated  ","fühlte - felt  ","fuhr - continued / drove  ","fundament - foundation  ","fünften - fifth (dative)  ","funkeln - sparkle  ","für - for  ","fuß - foot","gab - gave  ","ganz - completely / whole  ","ganze - whole / entire  ","gar - even / at all  ","gedanke - thought  ","geduldig - patient  ","gehört - heard  ","geht - goes  ","genau - exactly  ","geschah - happened  ","geschichte - story / history  ","geschichten - stories  ","gestalten - shape / design","gewartet - waited  ","gewohnheiten - habits  ","gewollt - wanted  ","ging - went  ","glaube - believe  ","glücklich - happy  ","goss - watered  ","große - big / great  ","großen - great / big (dative)  ","großes - great / big (accusative neuter)  ","gutes - good (accusative neuter)  ","haben - have  ","hände - hands  ","hast - have (2nd person singular)  ","hatte - had  ","hätte - would have  ","hell - bright  ","herum - around  ","heute - today  ","hey - hey  ","hielt - held / lasted  ","hierher - here / to here  ","hoch - high  ","höre - hear / listen  ","hörte - heard  ","hungern - starve / go hungry  ","ich - I  ","ihm - him (dative)  ","ihn - him  ","im - in the (contraction of *in dem*)  ","immer - always  ","in - in  ","ins - into the (contraction of *in das*)  ","inspirierende - inspiring  ","ist - is  ","jahr - year  ","jahre - years  ","jahren - years (dative plural)  ","jeden - every / each  ","jemals - ever  ","jemand - someone  ","jetzt - now  ","junge - boy  ","kalt - cold  ","käme - came (subjunctive)  ","kannst - can (2nd person singular)  ","keine - no / none  ","klar - clear  ","kleine - small (nominative/accusative)  ","kleinen - small (dative)  ","komm - come (imperative)  ","komme - come (1st person singular)  ","kommen - come  ","kommt - comes  ","könntest - could (2nd person singular)  ","kopf - head  ","kräftig - strong / powerful  ","lächeln - smile  ","lächelte - smiled  ","lachte - laughed  ","lachten - laughed  ","lag - lay  ","lange - long  ","langsam - slowly  ","las - read  ","leben - life / to live  ","lebte - lived  ","leise - quietly / softly  ","leisten - achieve / accomplish  ","lernen - learn  ","lernte - learned  ","leuchtet - lights up / shines  ","leute - people  ","lichtblitz - flash of light  ","lieben - love  ","ließ - let / allowed  ","lust - desire / pleasure / lust  ","machen - do / make  ","machst - do / make (2nd person singular)  ","machte - made / did  ","man - one / you (impersonal)  ","manche - some  ","mein - my  ","meine - my (feminine)  ","menschen - people  ","mich - me (accusative)  ","mir - me (dative)  ","mit - with  ","möchte - would like  ","moment - moment  ","monate - months  ","monaten - months (dative plural)  ","morgen - morning / tomorrow  ","motivation - motivation  ","motivationsvideos - motivational videos  ","motiviert - motivated  ","müde - tired  ","müsste - would have to  ","nach - after / to  ","nächsten - next  ","nähe - near / vicinity  ","namens - named  ","nein - no  ","netz - net  ","nicht - not  ","nichts - nothing  ","nickte - nodded  ","nie - never  ","noch - still / yet  ","nur - only  ","ob - whether / if  ","oder - or  ","oft - often  ","opa - grandpa  ","paar - a few / pair  ","passiert - happens  ","perfekten - perfect (accusative)  ","pflanzte - planted  ","pflegte - cared for / tended  ","plötzlich - suddenly  ","pünktlich - punctual / on time  ","regnet - rains  ","richtig - right / correctly  ","riesiges - huge  ","routine - routine  ","sagen - say  ","sagte - said  ","sagten - said  ","sah - saw  ","sahen - saw (3rd person plural)  ","saß - sat  ","scheint - shines  ","scheitern - failing  ","schien - seemed  ","schläfrig - sleepy  ","schlüssel - key  ","schnelle - fast (nominative/accusative)  ","schon - already  ","schüttelte - shook  ","sehen - see  ","sehr - very  ","sein - his / to be  ","seine - his / its  ","seinen - his (accusative)  ","selbst - even / self  ","sich - himself / herself / itself / themselves  ","sie - they / she / it  ","siehst - see (2nd person singular)  ","sieht - sees  ","sitze - sit (1st person singular)  ","sogar - even  ","sohn - son  ","sonne - sun  ","sonnenaufgang - sunrise  ","sonnenlicht - sunlight  ","sport - sport  ","stadt - city  ","stand - stood  ","ständige - constant  ","starkes - strong (accusative neuter)  ","stunden - hours  ","suchte - searched / sought  ","tag - day  ","tage - days  ","tagen - days (dative plural)  ","tages - day's (genitive)  ","traf - met  ","traum - dream  ","trotzdem - nevertheless / still  ","tun - do  ","über - about / over  ","überrascht - surprised  ","um - around / at  ","und - and  ","unter - under  ","veränderte - changed  ","verantwortung - responsibility  ","verbesserte - improved  ","verfiel - fell into / lapsed  ","verging - passed  ","verlasse - leave (imperative / 1st person)  ","verschwende - waste (imperative)  ","verstand - understood  ","versuche - try  ","versuchen - attempts / trying  ","vertraue - trust (imperative / 1st person)  ","verwirrt - confused  ","viel - much / a lot  ","vieler - many (genitive plural)  ","vielleicht - perhaps / maybe  ","vier - four  ","vierten - fourth (dative)  ","vom - from the (contraction of *von dem*)  ","von - from / of  ","vor - before  ","wachsen - grow  ","wachte - woke up  ","wahre - true  ","wann - when  ","war - was  ","warte - wait (imperative / 1st person singular)  ","warten - wait  ","warum - why  ","wasser - water  ","weg - way / path  ","weil - because","weisheit - wisdom  ","weißt - know (2nd person singular)  ","weiter - further / continue  ","weitermacht - continues / keeps going  ","weiteten - widened / expanded  ","welt - world  ","wenig - little / few  ","wenn - if / when  ","werde - will become / become  ","werden - become  ","werfe - throw (1st person singular)  ","wetter - weather  ","wie - how / as  ","wieder - again  ","wird - becomes / will  ","wirklich - really  ","wirst - will (2nd person singular)  ","wochen - weeks  ","wollte - wanted  ","wuchs - grew  ","wurde - became / was (passive)  ","würde - would  ","wurden - became / were (plural)  ","wurzeln - roots  ","zeigen - show  ","zeigte - showed  ","zeigten - showed / pointed  ","zeit - time  ","zeitpunkt - moment / point in time  ","zu - to  ","zuerst - first  ","zukunft - future  ","zum - to the (contraction of *zu dem*)  ","zweiten - second (dative)  "]`;
-var dLM =`{"a":{"start":0,"end":21},"ä":{"start":8,"end":8},"b":{"start":22,"end":35},"d":{"start":36,"end":60},"e":{"start":61,"end":85},"f":{"start":86,"end":110},"g":{"start":111,"end":134},"h":{"start":135,"end":149},"i":{"start":150,"end":158},"j":{"start":159,"end":166},"k":{"start":167,"end":180},"l":{"start":181,"end":200},"m":{"start":201,"end":221},"n":{"start":222,"end":233},"o":{"start":234,"end":237},"p":{"start":238,"end":244},"r":{"start":245,"end":248},"s":{"start":249,"end":285},"t":{"start":286,"end":293},"ü":{"start":294,"end":295},"u":{"start":296,"end":298},"v":{"start":299,"end":318},"w":{"start":319,"end":353},"z":{"start":354,"end":363}}`;
+var deLM =`{"a":{"start":0,"end":21},"ä":{"start":8,"end":8},"b":{"start":22,"end":35},"d":{"start":36,"end":60},"e":{"start":61,"end":85},"f":{"start":86,"end":110},"g":{"start":111,"end":134},"h":{"start":135,"end":149},"i":{"start":150,"end":158},"j":{"start":159,"end":166},"k":{"start":167,"end":180},"l":{"start":181,"end":200},"m":{"start":201,"end":221},"n":{"start":222,"end":233},"o":{"start":234,"end":237},"p":{"start":238,"end":244},"r":{"start":245,"end":248},"s":{"start":249,"end":285},"t":{"start":286,"end":293},"ü":{"start":294,"end":295},"u":{"start":296,"end":298},"v":{"start":299,"end":318},"w":{"start":319,"end":353},"z":{"start":354,"end":363}}`;
 
+var deSND = ['Lde.mp3',[0.000000,3.135577,0],[3.633947,5.814315,1],[6.291919,9.199076,2],[9.738977,17.131463,3],[17.546771,24.534331,4],[25.167676,29.175400,5],[29.632239,32.435569,6],[32.975470,39.391982,7],[40.087623,43.680039,8],[44.271853,46.909060,9],[47.521639,50.003106,10],[50.480710,57.343678,11],[57.977023,59.887441,12],[60.572699,62.680388,13],[63.168375,67.892506,14],[68.442789,76.115608,15],[76.821632,82.708626,16],[83.248526,88.118015,17],[88.606002,90.807135,18],[91.409332,95.915426,19],[96.403413,98.355362,20],[98.988707,104.231972,21],[104.719960,112.475840,22],[113.015741,115.580269,23],[116.192848,122.318644,24],[122.879310,131.060881,25],[131.663078,137.051702,26],[137.498158,139.792736,27],[140.467612,142.128845,28],[142.751807,147.330580,29],[147.984690,154.079338,30],[154.650386,159.198011,31],[159.820973,164.711227,32],[165.334190,167.441879,33],[168.075224,169.975259,34],[170.535925,172.851268,35],[173.287341,181.126283,36],[181.624653,184.220329,37],[184.687551,188.757571,38],[189.276707,196.658810,39],[197.011822,198.994918,40],[199.514053,208.837722,41],[209.325709,211.879855,42],[212.295163,216.001788,43],[216.500158,221.400795,44],[221.878399,224.089915,45],[224.577902,227.370850,46],[227.869220,232.987893,47],[233.372053,236.808729,48],[237.234420,239.134454,49],[239.715886,241.740513,50],[242.280414,246.682681,51],[247.181051,248.645012,52],[249.143382,250.140121,53],[250.742318,255.653338,54],[256.286683,260.865455,55],[261.311912,263.398835,56],[263.917971,272.608294,57],[273.054751,275.401242,58],[276.003439,282.959851,59],[283.530900,287.538624,60],[288.016228,291.131040,61],[291.660557,294.162789,62],[294.775369,298.938833,63],[299.509882,303.725260,64],[304.337840,308.750489,65],[309.269625,312.955485,66],[313.422707,317.824973,67],[318.427170,322.268771,68],[322.715227,327.833901,69],[328.332270,334.323091,70],[334.790313,340.376208,71],[340.864195,344.913450,72],[345.453351,353.531095,73],[353.925638,355.451895,74],[356.012561,360.664013,75]];
 
+/*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/sc/';
+    EHIMGURL = jovuniverse.EHIMGURL+'sc/';
 }
 else{
-    EHIMGURL = './jiveRPG/sc/';
+    EHIMGURL = storyline.BIMG+'sc/';
 }
 const oImg = 'd.jpg';
 const ehbmtitle = 'WTCon';
 
-storyline.intro = `<p>A story from <a href="https://www.youtube.com/@Thewordytales" target="_blank">Thewordytales</a> about the power of consistency.</p>
+storyline.intro = `<p>A story from <a href="https://www.youtube.com/@Thewordytales" target="_blank">Thewordytales</a> about the power of consistency. 76 slides in total.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Voice Available:<br>DE</p>
 <p>Story Text:<br><a href="https://www.youtube.com/watch?v=MOqFpypgBbE" target="_blank">The Power of Consistency</a></p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translation:<ul><li><a href="https://grok.com/" target="_blank">Grok</a></li><li><a href="https://gemini.google.com/app" target="_blank">Gemini</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
@@ -222,9 +224,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        deDiction = JSON.parse(deDiction);
-        reperc.dLM = JSON.parse(dLM);
+         if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -278,7 +320,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -299,26 +347,71 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+     $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
-    if(storyline.clang == 'de'){
-        if (!reperc.dLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.dLM[xx].start;i<=reperc.dLM[xx].end;i++){
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
             if(deDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
