@@ -104,16 +104,20 @@ Och oförmågan att skapa tillräckligt med jobb.
 `;
 
 var svDiction = `["afrikas - africa's","alla - all / everyone","alldeles - quite, entirely","allt - everything","andra - others","annanstans - elsewhere","annat - other / something else","annorlunda - different","anpassningsbara - adaptable","antagande - assumption","antagandet - the assumption","använder - use, uses","arabica - arabica","argument - arguments","art - species","arten - the species","arter - species","att - to/that","av - of/from","bakom - behind","bara - only/just","begränsad - limited","bergiga - mountainous","berättelsen - the story","bestämma - to decide","betydelse - importance, significance","betyder - means","bland - among","blev - became","blomstrade - flourished, bloomed","bra - good, well","brukade - used to (do something)","bryggandet - the brewing","byggts - built (past participle)","bönan - the bean","började - began, started","canephora - canephora (the species name for robusta)","coffea - coffea (the botanical genus)","de - they/the","debatterar - debate, debates","dedikerat - dedicated","delar - parts, share","dem - them","den - the/that (common gender)","deras - their","det - it/that","detta - this","din - your","ditt - your","doomscrolling - doomscrolling","du - you","dyker - dives/appears","där - 'there, where'","därifrån - from there","effekten - the effect","efter - after","ekologiska - ecological, organic","ekonomi - economy","ekonomin - the economy","ekonomiskt - economically","elektricitet - electricity","eller - or","en - a/one","energi-vinkel - energy-angle (context needed, likely a specific concept)","enkla - simple (plural/definite form)","etiopien - ethiopia","etiopiens - ethiopia's","etiopierna - the ethiopians","etiopiska - ethiopian","ett - a/one","europa - europe","exklusiv - exclusive","faktiskt - 'actually, in fact'","fattigare - poorer","fattigaste - poorest","favoritlagliga - favorite legal (likely a compound, e.g., favorite legal drug)","finns - exists","fler - more","folk - people, folk","fortfarande - still","frågor - questions","från - from","full - full","fullfjädrade - full-fledged","fullt - fully, quite","för - for","förblir - remains","förhållanden - conditions","förmodligen - probably","försvann - disappeared","försökt - tried (past participle)","förvandlade - transformed, turned into","förvandlades - was transformed","ganska - quite, fairly, rather","generellt - generally","genom - through","ger - gives","getherde - herded goats (archaic/past tense)","getter - goats","gick - went","gillar - like, likes","gjorde - 'did, made'","global - global","grund - foundation, basis, ground","grunden - the foundation, the base","går - goes, walk","gäller - concerns, is about, applies","gör - does / makes","ha - to have","hade - had","hans - his","har - has","havet - 'the sea, the ocean'","hej - hello, hi","hela - the whole / entire","helst - preferably, rather","hjälper - help, helps","hjärna - brain","hjärnor - brains","hur - how","huvudsakliga - main, primary","hyperaktiva - hyperactive","hyperaktivitet - hyperactivity","hårdföra - hardy, resilient","hälften - half","hämningar - inhibitions","härstammar - originates, stems from","högkvalitativ - high-quality","högland - highland","höglandsområden - highland areas","högljudda - loud, noisy","höjder - heights, altitudes","ibland - sometimes","idén - the idea","igen - again / through (depending on context)","igenkännbara - recognizable","inflation - inflation","infrastruktur - infrastructure","institution - institution","inte - not","intellektuella - intellectuals, intellectual (plural/definite)","intrycket - the impression","investering - investment","islamiska - islamic","istället - instead","ja - yes","jag - i / me","jemen - yemen","jobb - jobs","kaffe - coffee","kaffe-familjen - the coffee family","kaffebönor - coffee beans","kaffehus - coffee house","kaffehusen - the coffee houses","kaffeplantan - the coffee plant","kaffeproducent - coffee producer","kaffeproducenterna - the coffee producers","kaffets - the coffee's","kallade - called","kallt - cold","kan - can","klimatförhållande - climate condition","klimatförhållanden - climate conditions","knutpunkter - 'junctions, focal points'","koffein - caffeine","koffein-drivna - caffeine-driven","koffeinryckningar - caffeine jitters/shocks","kokade - boiled","kommer - comes","komplicerad - complicated","korrekt - correct","kort - 'short, card'","krav - demands, requirements","kring - around","krossade - crushed","kräver - demands/requires","kulturella - cultural","kusinen - the cousin","kvarstår - remains","kämpar - 'fights, struggles'","körsbär - cherry","lade - laid, put","landet - the country","ledda - led","letar - look for, search","lite - a little","livliga - lively","lokala - local","låt - let","låtsas - pretend","lägre - lower","länder - countries","länderna - the countries","länge - long (time)","läser - read, reads","lätt - easy, light","med - with","medeltida - medieval","mellanöstern - the middle east","men - but","mening - meaning/sentence","mer - more","mesta - most","musik - music","muterade - mutated","mystiken - the mystery","mystiskt - mysteriously","mått - measurements, dimensions","måttliga - moderate","mäktiga - powerful, mighty","människor - people/humans","människorna - the people","mänskliga - human (plural/definite)","mänsklighetens - humanity's","märke - notice; brand","nationella - national","nav - hub","nederbörd - precipitation, rainfall","nederbördsmönster - precipitation patterns","nej - no","nu - now","nyktra - sober","nådde - reached","någon - someone","något - something","några - some","när - when","nästan - almost","nätverket - the network","och - and","odla - 'cultivate, grow'","offentligt - publicly","oförmågan - the inability","olika - different","om - if/about","osmanska - ottoman (definite form)","oss - us","penny - penny","plus - plus","plötsligt - suddenly","politik - politics","politiska - political","prata - talk","pratar - talk, talks","prestationshöjare - performance enhancer","privat - private","problem - problems","producerade - produced","producerar - produce, produces","pubar - pubs","på - on/upon","regionen - the region","reste - traveled","resten - the rest","rika - rich (plural), the rich","riket - the empire, the kingdom","ritual - ritual","robust - robust","robusta - robusta","rostade - roasted","rum - room","runt - around","röda - red","salonger - salons","samhällets - society's","sedan - then / since / afterwards","sig - oneself","sippar - sip, sips","sitt - his/her/its (reflexive possessive)","sitter - sit, sits","situationen - the situation","skapa - to create","skillnad - difference","skogar - forests","skuggförhållanden - shade conditions","skuld - debt/guilt","skvallrar - gossip","slumpmässigt - randomly","smak - taste, flavor","småningom - eventually","snarare - rather","social - social","sociala - social","sol - sun","som - as/like","sovit - slept (past participle)","speciella - special","spel - game, play","spelande - playing","spelar - play, plays","spred - spread (past tense)","spåra - to trace","starten - the start","statligt - state, public (adj.)","stimulant - stimulant","stora - big / large (plural or definite)","strikta - strict","strukturella - structural","ställena - the places","största - the biggest, the largest","sublimation - sublimation","svar - answer","svepte - swept","sydvästra - southwestern","så - so/thus","särskilt - particularly, especially","sätt - way, manner","talet - the number, the speech","tankesmedjor - think tanks","teater - theater","tecken - signs","temperaturer - temperatures","teologi - theology","terrängförhållanden - terrain conditions","tidiga - early","tidigaste - the earliest","till - to","tillbaka - back","tillräcklig - sufficient","tillräckligt - 'enough, sufficient'","ton - ton (metric ton)","traditionen-grejen - the tradition-thing","tror - believe, thinks","trots - despite","trötta - tired","tuffare - tougher","tuggandet - the chewing","tuggat - chewed (past participle)","tung - heavy","turbo - turbo","tål - tolerate, withstands","universellt - universally","universities - universities (english word)","upp - up","upptäckte - discovered","ursprung - origin","ursprunget - the origin","utmaningar - challenges","utvecklingsmodeller - development models","vaccinationer - vaccinations","vad - what","vakna - to wake up","valuta - currency","vanliga - common / ordinary (plural or definite)","var - was","vara - to be","varade - lasted","vardaglig - everyday, daily","varför - why","varje - every","varmt - warm, hot","vattentillgång - water access, water supply","verkar - seems, appears","verkligheten - the reality","versionen - the version","vilket - which","vingårdar - vineyards","vissa - certain/some","visst - sure, certainly, of course","värderas - is valued, are valued","världen - the world","världens - the world's","växa - to grow","växten - the plant","ytterligare - further, additional","år - year","än - than, yet","är - is/are","även - also / even","över - over / above","överallt - everywhere","övervärderad - overvalued, overrated"]`;
-var sLM = `{"a":{"start":0,"end":18},"b":{"start":19,"end":35},"c":{"start":36,"end":37},"d":{"start":38,"end":53},"e":{"start":54,"end":71},"f":{"start":72,"end":92},"g":{"start":93,"end":107},"h":{"start":108,"end":131},"i":{"start":132,"end":144},"j":{"start":145,"end":148},"k":{"start":149,"end":180},"l":{"start":181,"end":195},"m":{"start":196,"end":214},"n":{"start":215,"end":228},"o":{"start":229,"end":236},"p":{"start":237,"end":250},"r":{"start":251,"end":262},"s":{"start":263,"end":306},"t":{"start":307,"end":330},"u":{"start":331,"end":338},"v":{"start":339,"end":363},"y":{"start":364,"end":364},"å":{"start":365,"end":365},"ä":{"start":366,"end":368},"ö":{"start":369,"end":371}}`;
+var svLM = `{"a":{"start":0,"end":18},"b":{"start":19,"end":35},"c":{"start":36,"end":37},"d":{"start":38,"end":53},"e":{"start":54,"end":71},"f":{"start":72,"end":92},"g":{"start":93,"end":107},"h":{"start":108,"end":131},"i":{"start":132,"end":144},"j":{"start":145,"end":148},"k":{"start":149,"end":180},"l":{"start":181,"end":195},"m":{"start":196,"end":214},"n":{"start":215,"end":228},"o":{"start":229,"end":236},"p":{"start":237,"end":250},"r":{"start":251,"end":262},"s":{"start":263,"end":306},"t":{"start":307,"end":330},"u":{"start":331,"end":338},"v":{"start":339,"end":363},"y":{"start":364,"end":364},"å":{"start":365,"end":365},"ä":{"start":366,"end":368},"ö":{"start":369,"end":371}}`;
+
+
+var svSND = ['cfst.mp3',[0.000000,9.409640,0],[9.857718,14.537644,1],[15.060402,24.096644,2],[24.619401,32.834166,3],[33.456497,40.028309,4],[40.526173,53.570224,5],false,false,false,false,[53.815613,59.135575,10],[59.415573,64.735535,11],[65.351530,72.183481,12],[72.631478,83.201402,13],[83.845397,90.705348,14],[91.461343,98.391293,15],[99.119288,110.599205,16],[111.187201,114.729175,17],[115.003788,120.515448,18],[120.862822,126.027108,19],[126.467114,129.662950,20],[130.126115,137.143060,21],[137.745174,146.985309,22],[147.471632,153.793830,23],[154.280153,162.223427,24],[162.732908,174.404658,25],[174.914139,184.686914,26],[185.150078,186.678522,27],[187.280636,195.733391,28],[196.381822,201.569266,29],[202.055589,205.483007,30],[205.923014,211.064142,31],[211.758889,216.575801,32],[217.038966,220.304277,33],[220.744283,226.533842,34],[226.973848,229.799153,35],[230.679166,236.700306,36],[237.209787,241.494061,37],[242.003542,249.321544,38],[249.831025,255.250052,39],[255.875324,263.957547,40],[264.490187,268.427086,41],[268.867093,270.881859,42],[271.229233,275.629297,43],[276.046145,279.427247,44],[280.006203,287.648420,45],[287.972636,291.955852,46],[292.419017,297.490670,47],[298.000151,303.974975,48],[304.716039,312.358256,49],[312.798262,315.924624,50],];
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/mena/';
+    EHIMGURL = jovuniverse.EHIMGURL+'mena/';
 }
 else{
-    EHIMGURL = './jiveRPG/mena/';
+    EHIMGURL = storyline.BIMG+'mena/';
 }
+
 const svisual=['a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg','1f.jpg','1g.jpg','1h.jpg','1i.jpg','1j.jpg','1k.jpg','1l.jpg','1m.jpg','1n.jpg','1o.jpg','1p.jpg'];
 const ImgRo = 1;
 const oImg = 'c.jpg';
@@ -175,9 +179,60 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-		svDiction = JSON.parse(svDiction);
-        reperc.sLM = JSON.parse(sLM);
+        if(typeof svDiction !== 'undefined' && svDiction!=''){
+          svDiction = JSON.parse(svDiction);
+          reperc.svLM = JSON.parse(svLM);   reperc.avdi++;
+        }        
+        if(typeof noDiction !== 'undefined' && noDiction!=''){
+          noDiction = JSON.parse(noDiction);
+          reperc.noLM = JSON.parse(noLM); reperc.avdi++;
+        }        
+        if(typeof ruDiction !== 'undefined' && ruDiction!=''){
+          ruDiction = JSON.parse(ruDiction);
+          reperc.ruLM = JSON.parse(ruLM); reperc.avdi++;
+        }        
+        if(typeof daDiction !== 'undefined' && daDiction!=''){
+          daDiction = JSON.parse(daDiction);
+          reperc.daLM = JSON.parse(daLM); reperc.avdi++;
+        }        
+        if(typeof fiDiction !== 'undefined' && fiDiction!=''){
+          fiDiction = JSON.parse(fiDiction);
+          reperc.fiLM = JSON.parse(fiLM); reperc.avdi++;
+        }
+        
+        storyline.snd = {};
+        if(typeof svSND !== 'undefined' && svSND.length){            
+            storyline.snd.sv = {};
+            storyline.snd.sv.p = storyline.sndURL+svSND[0];
+            svSND.splice(0,1);
+            storyline.snd.sv.t = svSND;
+        }
+        if(typeof noSND !== 'undefined' && noSND.length){            
+            storyline.snd.no = {};
+            storyline.snd.no.p = storyline.sndURL+noSND[0];
+            noSND.splice(0,1);
+            storyline.snd.no.t = noSND;
+        }
+        if(typeof daSND !== 'undefined' && daSND.length){            
+            storyline.snd.da = {};
+            storyline.snd.da.p = storyline.sndURL+daSND[0];
+            daSND.splice(0,1);
+            storyline.snd.da.t = daSND;
+        }
+        if(typeof fiSND !== 'undefined' && fiSND.length){            
+            storyline.snd.fi = {};
+            storyline.snd.fi.p = storyline.sndURL+fiSND[0];
+            fiSND.splice(0,1);
+            storyline.snd.fi.t = fiSND;
+        }
+        if(typeof ruSND !== 'undefined' && ruSND.length){            
+            storyline.snd.ru = {};
+            storyline.snd.ru.p = storyline.sndURL+ruSND[0];
+            ruSND.splice(0,1);
+            storyline.snd.ru.t = ruSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -230,7 +285,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -255,23 +316,81 @@ storyline.dictionfn = function(t,l){
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+    
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
-
+    
     if(storyline.clang == 'sv'){
-        if (!reperc.sLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        if(typeof reperc.svLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.svLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.sLM[xx].start;i<=reperc.sLM[xx].end;i++){
+        for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){
             if(svDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-				return;
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'no'){
+        if(typeof reperc.noLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.noLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){
+            if(noDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'da'){
+        if(typeof reperc.daLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.daLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){
+            if(daDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'ru'){
+        if(typeof reperc.ruLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.ruLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){
+            if(ruDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fi'){
+        if(typeof reperc.fiLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.fiLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){
+            if(fiDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
