@@ -106,15 +106,18 @@ Y todos los Loros llevaban un grano de arroz en sus picos, y lo dejaban caer al 
 Así que las agradecidas bestias cumplieron su promesa, y el Príncipe ingrato fue asesinado, y el Ermitaño gobernó a su pueblo con bondad, y todos vivieron felices hasta que murieron.
 Y cuando murieron, todos fueron al cielo; y la Serpiente, la Rata y el Loro también fueron allí, porque finalmente habían superado su amor por el dinero y lo habían dado para mostrar cuán agradecidos estaban al Ermitaño por ser amable con ellos.`;
 
-var spanishDictionary = `["abajo - below","absoluto - absolute","acercó - approached","acoso - harassment / pursuit","adiós - goodbye / farewell","aferrado - clinging / gripped / stubbornly attached","agarrando - grabbing / seizing","agarrarlo - to grab him / it","agradecidas - grateful (feminine plural)","agradecido - grateful / thankful","agradecidos - grateful","agradeció - he/she thanked","agua - water","agujero - hole","ahogando - drowning / choking","ahora - now","aire - air","ajá - aha / uh-huh","al - to the (a + el)","alcanzarlo - to reach him / it; to catch up with him / it","alegrarás - you will make happy / cheer up","alerta - alert / warning","alguna - some","alimentar - to feed / nourish","allí - there","alma - soul","amaba - he/she loved","amabilidad - kindness","amable - kind, friendly","amor - love","animales - animals","aquí - here","árbol - tree","arena - sand","arrancado - torn out / pulled up / yanked free","arrastrado - dragged","arrojamos - we threw / we cast","arrojaron - they threw / they cast","arroz - rice","asesinado - murdered / assassinated","así - thus, so, in this way","atendió - he/she attended to / took care of / served","atormentaría - he/she would torment","atrapadas - trapped (feminine plural)","atrápalo - catch him/it! (command)","atraparon - they caught","aunque - although / even though","azótalo - whip him/it! (command)","azotaré - I will whip / I will beat","azotaron - they whipped / beat","baja - low","bajó - went down / got off / lowered","bañar - to bathe / to wash over","bañarse - to bathe oneself","báñenme - bathe me (formal or plural command)","baño - bath / bathroom","bastón - cane / walking-stick","bestias - beasts","bien - well, good","boca - mouth","bondad - kindness","bosque - forest, woods","bribón - rascal / scoundrel","buen - good (short form of 'bueno')","bueno - good / well / okay","cabaña - cabin","cabeza - head","cabo - end; “llevar a cabo” = to carry out","cada - each, every","caer - to fall","calentó - warmed","campo - field / countryside","carne - meat, flesh","casa - house, home","cayó - he/she fell","cerca - near","cielo - sky, heaven","cierto - true, certain","ciudad - city","clávale - stab him/it! (command)","clavaron - they stabbed / nailed","comenzó - he/she/it began/started (from comenzar)","como - as, like, how","cómo - how","con - with","conseguiré - I will get / obtain","consolado - consoled / comforted","construyó - he/she built / constructed","contó - told / counted","contra - against","corazón - heart","corriente - current","criaturas - creatures","cruel - cruel","cruzaba - he/she used to cross / was crossing","cuán - how (intensifier)","cuando - when","cuatro - four","cuerpo - body","culpa - blame / guilt / fault","cumplieron - they fulfilled / carried out","curva - curve / bend","dado - given / die (dice)","dar - to give","de - of, from","debatía - he/she was debating / arguing","decía - said","decir - say","dejaban - they left / were leaving","dejado - left / allowed","déjalo - leave him/it! let him go!","dejamos - we leave / let","dejándolo - leaving him / it","dejaron - they left","dejó - left / let / dropped","del - of the (de + el)","deleitaba - he/she used to delight / was delighting","demasiado - too much / too many","desagradable - unpleasant","desagradecido - ungrateful","desató - unleashed","descubre - he/she discovers / reveals","despidieron - they fired / dismissed / said goodbye","después - after, afterwards","detuvo - stopped","día - day","días - days","diciendo - saying","dijeron - they said","dijo - he/she/it said (from decir)","dinero - money","dio - he/she/it gave (from dar)","donde - where","dos - two","echarlo - to throw him/it out; to dismiss him","eh - hey / eh","él - he","el - the","ellas - they","ellos - they (masculine)","embargo - however (used in the phrase sin embargo - nevertheless)","en - in, on","enfureció - enraged / infuriated","enojaron - they got angry","enrolló - he/she coiled / wrapped","enterrado - buried","entonces - then, so","era - was, used to be (from ser)","eran - they were, used to be (from ser)","ermitaño - hermit","es - is (from ser)","escucharon - they listened","ese - that (masculine)","eso - that (neuter)","espero - I hope","espesas - thick (feminine plural)","espina - thorn","está - is (from estar)","esta - this (feminine singular)","estaba - was (from estar)","estaban - they were (from estar)","estaca - stake","estar - to be (temporary state)","estas - these (feminine) / you are (informal)","este - this (masculine singular)","esto - this (neuter)","eterno - eternal","extremo - extreme / end / tip","fácilmente - easily","felices - happy","final - end, final","finalmente - finally","fingió - he/she pretended / feigned","fingir - to pretend / to feign","flotando - floating","frotó - rubbed","fue - was, went (from ser or ir)","fuego - fire","fuera - outside, away, or were/was (subjunctive of ser or ir)","fueron - they were / they went","fuerte - strong","gente - people","gobernó - he/she governed / ruled","golpe - blow / hit / strike","golpeado - beaten / struck / hit","golpear - to hit","golpearon - struck / hit","gotas - drops / droplets","gran - great (shortened form of grande)","grandes - large","grano - grain / seed / pimple","gritaba - he/she was shouting / kept shouting","gritó - he/she/it shouted/cried out (from gritar)","grito - shout / scream","había - there was, there were, had (from haber)","habían - they had, there were (from haber)","hablaba - he/she spoke","hacer - to do, to make","hacia - towards","hacía - was doing/making, used to do/make (from hacer)","háganlo - do it (formal or plural command)","hagas - you do / you make (subjunctive)","hambre - hunger","has - you have (present perfect auxiliary)","hasta - until, up to, even","hecho - fact, deed, or done/made (past participle of hacer)","hicieron - they did / made","hijo - son","historia - story / history","hizo - he/she/it did/made (from hacer)","hombre - man","hombres - men","huevos - eggs","imaginar - to imagine","importaba - it mattered","incluso - even, including","ingrato - ungrateful","inmediato - immediate","instante - instant","insultaba - he/she used to insult / was insulting","intención - intention","intentó - tried / attempted","inundación - flood","joven - young","junto - together","juraba - he/she used to swear / was swearing","juramento - oath","la - the (feminine singular)","lamentaba - he/she regretted / lamented","las - the (feminine plural)","lastimar - to hurt / to injure","látigo - whip","le - to him, to her, to it, to you (formal) (indirect object pronoun)","les - to them / for them (indirect object pronoun)","llama - calls / flame","llamaban - called","llamaron - they called","llamó - he/she/it called (from llamar)","llegaron - they arrived","llevaban - they carried / wore / were taking","llevado - taken / carried / worn","llevó - took / carried / led","llovía - it was raining","lluvia - rain","lo - it / him!","lobo - wolf","logró - he/she managed to / succeeded in","loro - parrot","loros - parrots","los - the (masculine plural)","luego - then, later","lugar - place","mala - bad (feminine)","maldecía - he/she cursed / was cursing","malvado - evil","mano - hand","más - more","matón - bully / thug / killer","medio - means / medium","mejor - better / best","mentira - lie","menudo - small / minor / often (context-dependent)","metido - put in / stuck in / involved in (slang: “meddled”)","mí - me (object pronoun)","mi - my","miedo - fear","mientras - while","mimaban - they spoiled / pampered","miserable - miserable / wretched / stingy","mismo - same, himself/herself/itself (after a pronoun)","modos - ways / manners / modes","montón - pile / heap / lot","morir - to die","mosca - fly (insect)","mostrar - to show","mostró - showed","mucho - much, a lot","muerte - death","mundo - world","murieron - they died","murió - he/she died","muy - very","nació - he/she/it was born (from nacer)","nada - nothing","nadando - swimming","nadie - nobody / no one","nariz - nose","necesitas - you need","ni - nor, neither, not even","ningún - no, not any (masculine singular, shortened form of ninguno)","nos - us / to us / ourselves","nubes - clouds","nuevo - new","número - number","nunca - never","o - or","obstinado - stubborn","odiaba - he/she hated","ojo - eye","oportunidad - opportunity, chance","orilla - shore","orillas - shores / banks / edges","oro - gold","oscureció - darkened / got dark","oscuro - dark","otro - other, another (masculine singular)","otros - others (masculine plural)","pagaré - (repeated) I will pay","pague - he/she pay (subjunctive)","país - country","pájaro - bird","paloma - dove / pigeon","par - pair","para - for, in order to","pareces - you seem / you look","parecía - it seemed / he/she seemed","parte - part","paseo - walk / ride / stroll","pensaba - I thought","pensar - to think","pensaron - they thought","pensó - he/she/it thought (from pensar)","pequeña - small","perezosas - lazy (feminine plural)","perezoso - lazy / sloth (animal)","pero - but","picos - beaks / peaks / picks","piedra - stone","pies - feet","plata - silver","pobre - poor","poco - little / few / bit","podemos - we can","poder - power / to be able","podíamos - we could / we were able to","pondría - he/she would put / place","pone - he/she puts / places","por - by, for, through","porque - because","preguntaron - they asked","preocupaba - he/she was worrying / used to worry","primero - first","príncipe - prince","promesa - promise","promete - he/she promises","pronto - soon","propia - own (feminine singular)","proverbio - proverb","prueba - test / proof / try","pudiera - could","pueblo - town, village, people","puede - he/she can / you can (formal)","puedes - you can (from poder)","puedo - i can, i am able to (from poder)","puré - puree / mashed (as in *puré de papas* = mashed potatoes)","que - that, what","qué - what","quejó - he/she complained","quienes - those who","quieras - you want (subjunctive)","quiere - he/she wants","quieres - you want","raíz - root","rápido - fast, quick, quickly","rata - rat","recompensarte - to reward you","refrán - proverb / saying","renunciaría - he/she would resign / would give up","resto - rest, remainder","rey - king","rico - tasty / delicious","riéndose - laughing (reflexive)","río - river","riquezas - riches / wealth","robarme - to rob me / steal from me","sabía - knew (from saber)","sacarlo - to take it / him out","sacó - took out","salió - went out / came out","salvado - saved","salvar - to save","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","secó - dried / wiped","seguía - continued","sentado - seated","sentidos - senses","ser - to be","serpiente - snake","si - if","sí - yes, himself/herself/itself/themselves (reflexive after a preposition)","sido - been (past participle of ser)","siempre - always","sin - without","sirvientes - servants","sobre - on / over / about","sol - sun / alone","solo - only, alone","son - are","soy - i am","su - his, her, its, their, your (formal)","subiéndose - climbing up / getting on","subió - went up","sucedió - happened","suelo - ground / floor","suerte - luck","suficiente - sufficient","superado - overcome / surpassed","supongo - i suppose","sus - his, her, its, their, your (formal) (plural)","tal - such","también - also, too","tan - so / such / as","tanto - so much, as much","te - you (informal singular) (direct or indirect object pronoun)","tendrás - you will have","tener - to have","tengo - i have","tenía - had (from tener)","tenido - had","tesoro - treasure","ti - you (after a preposition)","tiempo - time, weather","tiene - has","tienes - you have (from tener)","tipo - type / kind / guy","toda - all, whole (feminine singular)","todas - all (feminine plural)","todo - all, whole, everything","todos - all (masculine plural)","tomó - he/she took","tormenta - storm","través - through","tres - three","tuviera - i/he/she had (subjunctive)","tuvo - he/she/it had (from tener)","último - final","un - a, an (masculine)","una - a, an (feminine)","uno - one (masculine)","usarlo - to use it / him","ven - come","venir - to come","vez - time / occasion","viajó - he/she traveled","vida - life","vidas - lives","vieron - they saw","vio - he/she/it saw (from ver)","visita - visit (noun or 3rd-person verb: “he/she visits”)","vivía - lived / was living","vivieron - they lived","vivir - to live","volaba - he/she was flying / used to fly","volar - to fly","voló - flew","volvió - returned","voz - voice","y - and","zapato - shoe"]`;
-var slm = `{"a":{"start":0,"end":49},"á":{"start":32,"end":32},"b":{"start":50,"end":64},"c":{"start":65,"end":101},"d":{"start":102,"end":133},"e":{"start":134,"end":167},"é":{"start":136,"end":136},"f":{"start":168,"end":180},"g":{"start":181,"end":193},"h":{"start":194,"end":212},"i":{"start":213,"end":222},"j":{"start":223,"end":226},"l":{"start":227,"end":251},"m":{"start":252,"end":281},"n":{"start":282,"end":294},"o":{"start":295,"end":306},"p":{"start":307,"end":354},"q":{"start":355,"end":361},"r":{"start":362,"end":374},"s":{"start":375,"end":408},"t":{"start":409,"end":434},"ú":{"start":435,"end":435},"u":{"start":436,"end":439},"v":{"start":440,"end":456},"y":{"start":457,"end":457},"z":{"start":458,"end":458}}`;
+var esDiction = `["abajo - below","absoluto - absolute","acercó - approached","acoso - harassment / pursuit","adiós - goodbye / farewell","aferrado - clinging / gripped / stubbornly attached","agarrando - grabbing / seizing","agarrarlo - to grab him / it","agradecidas - grateful (feminine plural)","agradecido - grateful / thankful","agradecidos - grateful","agradeció - he/she thanked","agua - water","agujero - hole","ahogando - drowning / choking","ahora - now","aire - air","ajá - aha / uh-huh","al - to the (a + el)","alcanzarlo - to reach him / it; to catch up with him / it","alegrarás - you will make happy / cheer up","alerta - alert / warning","alguna - some","alimentar - to feed / nourish","allí - there","alma - soul","amaba - he/she loved","amabilidad - kindness","amable - kind, friendly","amor - love","animales - animals","aquí - here","árbol - tree","arena - sand","arrancado - torn out / pulled up / yanked free","arrastrado - dragged","arrojamos - we threw / we cast","arrojaron - they threw / they cast","arroz - rice","asesinado - murdered / assassinated","así - thus, so, in this way","atendió - he/she attended to / took care of / served","atormentaría - he/she would torment","atrapadas - trapped (feminine plural)","atrápalo - catch him/it! (command)","atraparon - they caught","aunque - although / even though","azótalo - whip him/it! (command)","azotaré - I will whip / I will beat","azotaron - they whipped / beat","baja - low","bajó - went down / got off / lowered","bañar - to bathe / to wash over","bañarse - to bathe oneself","báñenme - bathe me (formal or plural command)","baño - bath / bathroom","bastón - cane / walking-stick","bestias - beasts","bien - well, good","boca - mouth","bondad - kindness","bosque - forest, woods","bribón - rascal / scoundrel","buen - good (short form of 'bueno')","bueno - good / well / okay","cabaña - cabin","cabeza - head","cabo - end; “llevar a cabo” = to carry out","cada - each, every","caer - to fall","calentó - warmed","campo - field / countryside","carne - meat, flesh","casa - house, home","cayó - he/she fell","cerca - near","cielo - sky, heaven","cierto - true, certain","ciudad - city","clávale - stab him/it! (command)","clavaron - they stabbed / nailed","comenzó - he/she/it began/started (from comenzar)","como - as, like, how","cómo - how","con - with","conseguiré - I will get / obtain","consolado - consoled / comforted","construyó - he/she built / constructed","contó - told / counted","contra - against","corazón - heart","corriente - current","criaturas - creatures","cruel - cruel","cruzaba - he/she used to cross / was crossing","cuán - how (intensifier)","cuando - when","cuatro - four","cuerpo - body","culpa - blame / guilt / fault","cumplieron - they fulfilled / carried out","curva - curve / bend","dado - given / die (dice)","dar - to give","de - of, from","debatía - he/she was debating / arguing","decía - said","decir - say","dejaban - they left / were leaving","dejado - left / allowed","déjalo - leave him/it! let him go!","dejamos - we leave / let","dejándolo - leaving him / it","dejaron - they left","dejó - left / let / dropped","del - of the (de + el)","deleitaba - he/she used to delight / was delighting","demasiado - too much / too many","desagradable - unpleasant","desagradecido - ungrateful","desató - unleashed","descubre - he/she discovers / reveals","despidieron - they fired / dismissed / said goodbye","después - after, afterwards","detuvo - stopped","día - day","días - days","diciendo - saying","dijeron - they said","dijo - he/she/it said (from decir)","dinero - money","dio - he/she/it gave (from dar)","donde - where","dos - two","echarlo - to throw him/it out; to dismiss him","eh - hey / eh","él - he","el - the","ellas - they","ellos - they (masculine)","embargo - however (used in the phrase sin embargo - nevertheless)","en - in, on","enfureció - enraged / infuriated","enojaron - they got angry","enrolló - he/she coiled / wrapped","enterrado - buried","entonces - then, so","era - was, used to be (from ser)","eran - they were, used to be (from ser)","ermitaño - hermit","es - is (from ser)","escucharon - they listened","ese - that (masculine)","eso - that (neuter)","espero - I hope","espesas - thick (feminine plural)","espina - thorn","está - is (from estar)","esta - this (feminine singular)","estaba - was (from estar)","estaban - they were (from estar)","estaca - stake","estar - to be (temporary state)","estas - these (feminine) / you are (informal)","este - this (masculine singular)","esto - this (neuter)","eterno - eternal","extremo - extreme / end / tip","fácilmente - easily","felices - happy","final - end, final","finalmente - finally","fingió - he/she pretended / feigned","fingir - to pretend / to feign","flotando - floating","frotó - rubbed","fue - was, went (from ser or ir)","fuego - fire","fuera - outside, away, or were/was (subjunctive of ser or ir)","fueron - they were / they went","fuerte - strong","gente - people","gobernó - he/she governed / ruled","golpe - blow / hit / strike","golpeado - beaten / struck / hit","golpear - to hit","golpearon - struck / hit","gotas - drops / droplets","gran - great (shortened form of grande)","grandes - large","grano - grain / seed / pimple","gritaba - he/she was shouting / kept shouting","gritó - he/she/it shouted/cried out (from gritar)","grito - shout / scream","había - there was, there were, had (from haber)","habían - they had, there were (from haber)","hablaba - he/she spoke","hacer - to do, to make","hacia - towards","hacía - was doing/making, used to do/make (from hacer)","háganlo - do it (formal or plural command)","hagas - you do / you make (subjunctive)","hambre - hunger","has - you have (present perfect auxiliary)","hasta - until, up to, even","hecho - fact, deed, or done/made (past participle of hacer)","hicieron - they did / made","hijo - son","historia - story / history","hizo - he/she/it did/made (from hacer)","hombre - man","hombres - men","huevos - eggs","imaginar - to imagine","importaba - it mattered","incluso - even, including","ingrato - ungrateful","inmediato - immediate","instante - instant","insultaba - he/she used to insult / was insulting","intención - intention","intentó - tried / attempted","inundación - flood","joven - young","junto - together","juraba - he/she used to swear / was swearing","juramento - oath","la - the (feminine singular)","lamentaba - he/she regretted / lamented","las - the (feminine plural)","lastimar - to hurt / to injure","látigo - whip","le - to him, to her, to it, to you (formal) (indirect object pronoun)","les - to them / for them (indirect object pronoun)","llama - calls / flame","llamaban - called","llamaron - they called","llamó - he/she/it called (from llamar)","llegaron - they arrived","llevaban - they carried / wore / were taking","llevado - taken / carried / worn","llevó - took / carried / led","llovía - it was raining","lluvia - rain","lo - it / him!","lobo - wolf","logró - he/she managed to / succeeded in","loro - parrot","loros - parrots","los - the (masculine plural)","luego - then, later","lugar - place","mala - bad (feminine)","maldecía - he/she cursed / was cursing","malvado - evil","mano - hand","más - more","matón - bully / thug / killer","medio - means / medium","mejor - better / best","mentira - lie","menudo - small / minor / often (context-dependent)","metido - put in / stuck in / involved in (slang: “meddled”)","mí - me (object pronoun)","mi - my","miedo - fear","mientras - while","mimaban - they spoiled / pampered","miserable - miserable / wretched / stingy","mismo - same, himself/herself/itself (after a pronoun)","modos - ways / manners / modes","montón - pile / heap / lot","morir - to die","mosca - fly (insect)","mostrar - to show","mostró - showed","mucho - much, a lot","muerte - death","mundo - world","murieron - they died","murió - he/she died","muy - very","nació - he/she/it was born (from nacer)","nada - nothing","nadando - swimming","nadie - nobody / no one","nariz - nose","necesitas - you need","ni - nor, neither, not even","ningún - no, not any (masculine singular, shortened form of ninguno)","nos - us / to us / ourselves","nubes - clouds","nuevo - new","número - number","nunca - never","o - or","obstinado - stubborn","odiaba - he/she hated","ojo - eye","oportunidad - opportunity, chance","orilla - shore","orillas - shores / banks / edges","oro - gold","oscureció - darkened / got dark","oscuro - dark","otro - other, another (masculine singular)","otros - others (masculine plural)","pagaré - (repeated) I will pay","pague - he/she pay (subjunctive)","país - country","pájaro - bird","paloma - dove / pigeon","par - pair","para - for, in order to","pareces - you seem / you look","parecía - it seemed / he/she seemed","parte - part","paseo - walk / ride / stroll","pensaba - I thought","pensar - to think","pensaron - they thought","pensó - he/she/it thought (from pensar)","pequeña - small","perezosas - lazy (feminine plural)","perezoso - lazy / sloth (animal)","pero - but","picos - beaks / peaks / picks","piedra - stone","pies - feet","plata - silver","pobre - poor","poco - little / few / bit","podemos - we can","poder - power / to be able","podíamos - we could / we were able to","pondría - he/she would put / place","pone - he/she puts / places","por - by, for, through","porque - because","preguntaron - they asked","preocupaba - he/she was worrying / used to worry","primero - first","príncipe - prince","promesa - promise","promete - he/she promises","pronto - soon","propia - own (feminine singular)","proverbio - proverb","prueba - test / proof / try","pudiera - could","pueblo - town, village, people","puede - he/she can / you can (formal)","puedes - you can (from poder)","puedo - i can, i am able to (from poder)","puré - puree / mashed (as in *puré de papas* = mashed potatoes)","que - that, what","qué - what","quejó - he/she complained","quienes - those who","quieras - you want (subjunctive)","quiere - he/she wants","quieres - you want","raíz - root","rápido - fast, quick, quickly","rata - rat","recompensarte - to reward you","refrán - proverb / saying","renunciaría - he/she would resign / would give up","resto - rest, remainder","rey - king","rico - tasty / delicious","riéndose - laughing (reflexive)","río - river","riquezas - riches / wealth","robarme - to rob me / steal from me","sabía - knew (from saber)","sacarlo - to take it / him out","sacó - took out","salió - went out / came out","salvado - saved","salvar - to save","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","secó - dried / wiped","seguía - continued","sentado - seated","sentidos - senses","ser - to be","serpiente - snake","si - if","sí - yes, himself/herself/itself/themselves (reflexive after a preposition)","sido - been (past participle of ser)","siempre - always","sin - without","sirvientes - servants","sobre - on / over / about","sol - sun / alone","solo - only, alone","son - are","soy - i am","su - his, her, its, their, your (formal)","subiéndose - climbing up / getting on","subió - went up","sucedió - happened","suelo - ground / floor","suerte - luck","suficiente - sufficient","superado - overcome / surpassed","supongo - i suppose","sus - his, her, its, their, your (formal) (plural)","tal - such","también - also, too","tan - so / such / as","tanto - so much, as much","te - you (informal singular) (direct or indirect object pronoun)","tendrás - you will have","tener - to have","tengo - i have","tenía - had (from tener)","tenido - had","tesoro - treasure","ti - you (after a preposition)","tiempo - time, weather","tiene - has","tienes - you have (from tener)","tipo - type / kind / guy","toda - all, whole (feminine singular)","todas - all (feminine plural)","todo - all, whole, everything","todos - all (masculine plural)","tomó - he/she took","tormenta - storm","través - through","tres - three","tuviera - i/he/she had (subjunctive)","tuvo - he/she/it had (from tener)","último - final","un - a, an (masculine)","una - a, an (feminine)","uno - one (masculine)","usarlo - to use it / him","ven - come","venir - to come","vez - time / occasion","viajó - he/she traveled","vida - life","vidas - lives","vieron - they saw","vio - he/she/it saw (from ver)","visita - visit (noun or 3rd-person verb: “he/she visits”)","vivía - lived / was living","vivieron - they lived","vivir - to live","volaba - he/she was flying / used to fly","volar - to fly","voló - flew","volvió - returned","voz - voice","y - and","zapato - shoe"]`;
+var esLM = `{"a":{"start":0,"end":49},"á":{"start":32,"end":32},"b":{"start":50,"end":64},"c":{"start":65,"end":101},"d":{"start":102,"end":133},"e":{"start":134,"end":167},"é":{"start":136,"end":136},"f":{"start":168,"end":180},"g":{"start":181,"end":193},"h":{"start":194,"end":212},"i":{"start":213,"end":222},"j":{"start":223,"end":226},"l":{"start":227,"end":251},"m":{"start":252,"end":281},"n":{"start":282,"end":294},"o":{"start":295,"end":306},"p":{"start":307,"end":354},"q":{"start":355,"end":361},"r":{"start":362,"end":374},"s":{"start":375,"end":408},"t":{"start":409,"end":434},"ú":{"start":435,"end":435},"u":{"start":436,"end":439},"v":{"start":440,"end":456},"y":{"start":457,"end":457},"z":{"start":458,"end":458}}`;
 
+var esSND=['Tes.mp3',[0.000000,3.774731,0],[4.367768,7.285889,1],[7.878927,16.708596,2],[17.132194,26.131303,3],[26.601967,29.105903,4],[29.463609,36.034087,5],[36.335313,44.016560,6],[44.430745,61.638246,7],[61.788858,83.552393,8],[83.703006,94.848345,9],[95.149570,101.964795,10],[102.228367,111.340435,11],[111.566354,115.821163,12],[116.160041,132.915704,13],[133.292236,147.675748,14],[147.675748,161.795688,15],[161.795688,174.635420,16],[174.786033,186.646783,17],[186.797396,192.257106,18],[192.595984,195.382319,19],[195.645891,204.908572,20],[205.059185,211.799103,21],[211.949716,216.279831,22],[216.430443,222.793830,23],[222.793830,234.767539,24],[234.767539,238.269284,25],[238.269284,246.891861,26],[247.042474,254.008311,27],[254.196577,263.572217,28],[263.572217,285.900549,29],[285.900549,299.455692,30],[299.719264,305.894385,31],[305.894385,319.788406,32],[320.089631,327.168428,33],[327.168428,339.481016,34],[339.481016,345.128992,35],[345.279604,361.621082,36],[361.809348,375.628063,37],[375.628063,380.560628,38],[380.786547,388.731367,39],[388.994939,392.270765,40],[392.421378,397.768129,41],[397.768129,403.416105,42],[403.416105,413.770728,43],[413.770728,419.079825,44],[419.079825,427.212911,45],[427.438830,436.400285,46],[436.663857,449.691856,47],[449.880121,460.046478,48],[460.121785,472.735598,49],[472.735598,484.822267,50],[484.972879,500.937825,51]];
+
+/*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/';
+    EHIMGURL = jovuniverse.EHIMGURL;
 }
 else{
-    EHIMGURL = './jiveRPG/xternal/easternHead/';
+    EHIMGURL = storyline.BIMG+'xternal/easternHead/';
 }
 const ehbmtitle = 'beastPrince';
 
@@ -122,8 +125,10 @@ const ehbmtitle = 'beastPrince';
 storyline.intro = `<p>The source of this story comes from The Project Gutenberg eBook of "The Giant Crab, and Other Tales from Old India" written by W. H. D. Rouse, meant to
 amuse children</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Total Slides:<br> 52</p>
+<p>Voice Available:<br>ES</p>
 <p>Story Text:<br><a href="https://www.gutenberg.org/ebooks/36039" target="_blank">The Giant Crab, and Other Tales from Old India by W. H. D. Rouse - The Project Gutenberg</a></p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translation:<br> AIs</p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
@@ -172,9 +177,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        spanishDictionary = JSON.parse(spanishDictionary);
-        reperc.letterMap = JSON.parse(slm);
+        if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -197,7 +242,7 @@ var reperc = {
         }
 	},
     nextHdlr:function(x){
-     if(x%2 == 0){
+        if(x%2 == 0){
           var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
           var stvi = reperc.storyvidx[stvidx];
           storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
@@ -228,7 +273,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 
 var chidx;
@@ -250,26 +301,71 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+   $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
-    if(storyline.clang == 'es'){
-        if (!reperc.letterMap[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.letterMap[xx].start;i<=reperc.letterMap[xx].end;i++){
-            if(spanishDictionary[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+spanishDictionary[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
+            if(deDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+'1m.jpg');

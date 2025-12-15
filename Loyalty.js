@@ -170,22 +170,22 @@ Med andra ord: lojalitet till Gud visar sig ofta i hur vi förblir konsekventa m
 `;
 
 var svDiction=`["abstrakt - abstract","absurda - absurd","alltid - always","andra - others","ansikten - faces","att - to/that","av - of/from","band - bonds","bara - only/just","befinner - finds oneself","begreppet - the concept","behov - need","behöver - need","bekvämlighet - comfort","betalning - payment","betyder - means","binda - bind","biografens - the cinema’s","blind - blind","blir - becomes","blodsedlar - blood bills (metaphor for blood money)","borde - should/ought","bortom - beyond","bristfälliga - deficient/flawed","både - both","bär - carries/bears","chewbacca - Chewbacca","corleones - Corleone’s","dag - day","de - they/the","delat - shared/divided","den - the/that (common gender)","deras - their","dessa - these","det - it/that","detta - this","din - your","ditt - your","dobbys - Dobby’s","dold - hidden","du - you","dyker - dives/appears","då - then","dött - dead/died","efter - after","eld - fire","eller - or","en - a/one","enkel - simple","ett - a/one","fallet - the case","familjen - the family","film - film/movie","filmer - films/movies","finns - exists","fram - forward","framtiden - the future","fri - free","frodo - Frodo","frågan - the question","frågar - asks","från - from","främmande - foreign/strange","följer - follows","för - for","föra - bring/carry/lead","förankrad - anchored","förbli - remain","förblir - remains","förkroppsligande - embodiment/incarnation","förkroppsligar - embodies","förkunnade - proclaimed","förkunnat - proclaimed","förståelse - understanding","förväxla - confuse/mix up","galaxen - the galaxy","gamgee - Gamgee","gemensam - common/shared","genast - immediately","genom - through","goda - good","gränsen - the border/limit","gud - God","gudfadern - The Godfather","gå - go","göra - do/make","görande… - doing/acts…","hachiko - Hachiko","han - he","handla - act/deal","handlar - is about/deals with","hans - his","hanterar - handles","har - has","heder - honor","hjärtskärande - heartbreaking","honom - him","hos - at/with","hund - dog","hur - how","husdjur - pets","husse - pet owner/master (esp. of a dog)","håller - holds/keeps","hängivenheten - the devotion","här - here","högre - higher","ibland - sometimes","ideal - ideal","idealen - the ideals","inför - before/in front of","inga - none/no","ingen - no one/none","inte - not","intressanta - interesting","kan - can","kanske - maybe/perhaps","karaktären - the character","knuten - tied/attached","koder - codes","kommer - comes","konsekvens - consequence","konsekventa - consistent","kopplas - connected/linked","korrumpera - corrupt","kostar - costs","kostsam - costly","kostymer - costumes/suits","kring - around","kräver - demands/requires","känslomässigt - emotionally","kärlek - love","kärleken - the love","landet - the country","landos - Lando’s","leder - leads","lera - clay/mud","lidande - suffering","liknande - similar","liv - life","livet - the life","livets - life’s","lojal - loyal","lojalitet - loyalty","lojaliteten - the loyalty","lojalitetens - loyalty’s","långt - far/long","längre - longer/further","löften - promises","maffians - the mafia’s","mark - ground/land","med - with","mellan - between","men - but","menige - private (soldier rank)","mening - meaning/sentence","mer - more","michael - Michael","mindre - less","mjuka - soft","moralen - the morality","mordor - Mordor","mot - against/towards","mål - goal","målen - the goals","många - many","män - men","människor - people/humans","möter - meets","nå - reach","någon - someone","något - something","några - some","när - when","nära - near/close","nästan - almost","objekt - object","och - and","också - also","offrar - sacrifices","ofta - often","olika - different","om - if/about","ord - word","orsaker - causes","orubblig - unyielding/steadfast","oss - us","pakt - pact","perfektionist - perfectionist","perspektiv - perspective","pluton - platoon","pris - price","prövad - tested/tried","prövas - be tested/tried","på - on/upon","påminnelser - reminders","redan - already","renaste - purest","ringen-trilogin - the Ring trilogy","riskerar - risk","rutin - routine","rutiner - routines","rymdimperiet - the Empire (lit. “space empire”)","rädda - save/rescue","rädsla - fear","rättvisa - justice","röriga - messy","sagan - the saga/story","saker - things","samwise - Samwise","sanna - true","satts - set/placed","se - see","sig - oneself","sin - his/her/its (reflexive)","sina - their (reflexive)","sinne - mind","själva - themselves/the very","skeenden… - events/happenings…","skildringarna - the depictions","skrämmande - frightening","skuld - debt/guilt","slutit - closed/concluded","slår - strikes/hits","smidd - forged","snurrar - spins","soldat - soldier","som - as/like","spektrum - spectrum","star - Star","starkaste - strongest","stationen - the station","stort - big/great","strikta - strict","sträcks - stretches","ståndaktig - steadfast","står - stands","svek - betrayal","synlig - visible","så - so/thus","säger - says","sällan - seldom","sättet - the way/manner","tankarna - the thoughts","till - to","tillbaka - back","tragisk - tragic","trions - the trio’s","tro - faith/belief","trogen - faithful","trygghet - security/safety","tänka - think","upp - up","uppoffrande - sacrificing","uppoffring - sacrifice","ut - out","uttalade - spoken/expressed","vacker - beautiful","vad - what","var - was","vara - to be","vardagliga - everyday","varje - every","vi - we","vid - at/by","vilka - which/who","visar - shows","visas - shown","visionen - the vision","vissa - certain/some","vår - our","vårt - our","väcker - awakens","vän - friend","vänds - turns","vänner - friends","vänskap - friendship","väntar - waits","värld - world","värt - worth","wars - Wars","ytan - the surface","zoomar - zooms","ädel - noble","är - is/are","Är - is/are","ögonblick - moment","överger - abandons","övervakning - surveillance"]`;
-var sLM=`{"a":{"start":0,"end":6},"b":{"start":7,"end":25},"c":{"start":26,"end":27},"d":{"start":28,"end":43},"e":{"start":44,"end":49},"f":{"start":50,"end":74},"g":{"start":75,"end":86},"h":{"start":87,"end":105},"i":{"start":106,"end":113},"k":{"start":114,"end":131},"l":{"start":132,"end":147},"m":{"start":148,"end":167},"n":{"start":168,"end":174},"o":{"start":175,"end":185},"p":{"start":186,"end":194},"r":{"start":195,"end":205},"s":{"start":206,"end":241},"t":{"start":242,"end":250},"u":{"start":251,"end":255},"v":{"start":256,"end":278},"w":{"start":279,"end":279},"y":{"start":280,"end":280},"z":{"start":281,"end":281},"ä":{"start":282,"end":284},"ö":{"start":285,"end":287}}`;
+var svLM=`{"a":{"start":0,"end":6},"b":{"start":7,"end":25},"c":{"start":26,"end":27},"d":{"start":28,"end":43},"e":{"start":44,"end":49},"f":{"start":50,"end":74},"g":{"start":75,"end":86},"h":{"start":87,"end":105},"i":{"start":106,"end":113},"k":{"start":114,"end":131},"l":{"start":132,"end":147},"m":{"start":148,"end":167},"n":{"start":168,"end":174},"o":{"start":175,"end":185},"p":{"start":186,"end":194},"r":{"start":195,"end":205},"s":{"start":206,"end":241},"t":{"start":242,"end":250},"u":{"start":251,"end":255},"v":{"start":256,"end":278},"w":{"start":279,"end":279},"y":{"start":280,"end":280},"z":{"start":281,"end":281},"ä":{"start":282,"end":284},"ö":{"start":285,"end":287}}`;
 
 var ruDiction = `["«верным» - 'faithful'","«властелин - 'the lord","«гарри - 'harry","«звёздные - 'star","«как - 'how","«крёстный - 'the godfather","«лёгкую» - 'easy' (feminine accusative)","«спасти - 'saving","«хатико - 'hachiko","«храброе - 'brave","1980 - 1980","а - and / but","абстрактный - abstract","абсурда - absurdity","безопасности - of safety","благородных - noble","бог - god","бога - god (genitive)","богу - to god","более - more","больше - more","бросает - abandons / throws","будущем - in the future","быть - to be","в - in","вам - to you (formal/plural)","великую - great (feminine accusative)","вера - faith","верен - faithful","верности - of loyalty","верность - loyalty","верность - loyalty","верность» - loyalty'","верностью - loyalty","верный - faithful","верным - faithful (masculine/instrumental)","верой - with faith","вещи - things","взвод - platoon","взгляд - perspective","видению - to the vision","видима - visible (feminine)","вне - outside","возможно - possibly","возможно - possibly / perhaps","вознаграждение - reward","возникает - arises","войны - wars'","вокруг - around","воплощает - embodies","воплощение - embodiment","вопрос - question","вот - here is / here are","вращается - revolves","всегда - always","вступаем - we enter","выглядеть - look like","выкована - forged (feminine)","высокий - high / elevated","высоким - high / lofty (plural)","галактика - galaxy","где - where","герою - to the hero","говоришь - you say","голову - head (accusative)","грязи - mud","гэмджи - gamgee","даже - even","делам - to deeds","делать - to do","день - day","для - for","до - to / until","до - until / before","добби - dobby","добра - of goodness","долга - of duty","долго - long","должна - should (feminine)","дорогостоящая - costly (feminine)","достижение - achievement","доходит - reaches","друг» - friend'","другими - others","дружба - friendship","друзей - friends","душераздирающей - heartbreaking (feminine)","его - him / his","его - his","если - if","если - if","ждущая - waiting (feminine)","же - also / too","жертва - sacrifice","жертвенной - sacrificial (feminine)","жертвуешь - you sacrifice","жёстких - harsh / strict","жизненными - life (adjective, plural)","жизни - of life","жизнь - life","жизнями - lives","за - after / behind","закалённая - tempered","заключил - concluded / entered into","запутанной - tangled / complicated (feminine)","здесь - here","значит - means","и - and","идеал - ideal","идеалам - to ideals","идеалах - in ideals","идеалы - ideals","идти - to go","или - or","именно - it is precisely","именно - precisely","империя - the empire","иногда - sometimes","иногда - sometimes","интересно - interestingly","иными - in other","испытан - tested (masculine)","испытывается - is tested","истины - of truth","к - toward","каждый - every","как - how","какие - what kind of / which","кем - by whom","кино - movie / cinema","клятвы - oaths","когда - when","кодексов - codes","колец» - of the rings'","коллективна - collective (feminine)","комфорта - of comfort","корлеоне - corleone","которое - which","которые - which","который - which / who","крови - of blood","кто-то - someone","ли - whether / if","лица - faces","лэндо - lando","любви - of love","любовью - by love","людьми - people","людям - to people","майкла - of michael","масок - masks","мафии - of the mafia","мафиозном - mafia (adjective, prepositional)","между - between","меньше - less","мир - world","многих - of many","множество - multitude","может - may / can","моменты - moments","морали - to morality","мордор - mordor","мощные - powerful","мы - we","мягкой - gentle (feminine)","на - on / to","надзор - supervision","наносит - strikes","напоминания - reminders","направляет - directs","нас - us","насколько - how much / to what extent","наших - our (plural)","нашу - our (feminine)","не - not","незнакомую - unfamiliar (feminine)","непоколебим - unwavering","непоколебима - unwavering","несёт - carries","несколько - several","несовершенными - imperfect (plural)","нечто - something","но - but","но - but","носит - wears / carries","нужды - needs","нужен - is needed (masculine)","о - about","обещания - promises","оборачивается - turns into","образы - images","обстоятельствами… - circumstances…","общем - common","объект - object","огне - fire","одна - one (feminine)","одновременно - simultaneously","одного - one (person)","озвученные - voiced / articulated (plural)","он - he","она - she","определённые - certain","оставаться - to remain","остаёмся - we remain","от - from","от - from","ответный - back / retaliatory","отдалиться - to distance oneself","отец» - '","перед - before / in front of","перфекционизмом - perfectionism","питомца - of a pet","повседневную - everyday (feminine)","повториться - to repeat","показывает - shows","показывают - show","понимании - in understanding","понятие - concept","после - after","последовательности - consistency / sequence","последовательными - consistent (plural/instrumental)","поступков… - actions…","поттер» - potter'","почти - almost","появляются - appear","преданности - devotion","предательство - betrayal","прекрасной - beautiful (feminine)","привнести - bring in","приходишь - you come","приходят - come","провозгласили - (we) proclaimed","провозглашённые - proclaimed (plural)","просто - simply","проявляется - manifests / is revealed","пугающих - frightening","путаем - we confuse","развращать - to corrupt","разные - different","райана» - ryan'","реагируем - we react","редко - rarely","рискует - risks","родине - to homeland","рутиной - with routine","рутину - routine","рядового - private","с - with","самое - the most","самые - the most","самый - the most","свободен - free (masculine)","своих - his (plural)","связана - is connected","связанная - bound (feminine)","связывать - to bind","сдерживаешь - you restrain / keep","семье - to family","сердце» - heart'","скорее - rather","скрытая - hidden (feminine)","следует - follows","слепа - blind (feminine)","словами - words","смысле - sense","со - from (variant of 'с')","собака - dog","собой - ourselves","сознании - in the mind","солдат - of soldiers","союз - union","спасти - to save","спектр - spectrum","справедливости - of justice","спросит - asks","сразу - immediately / at once","становится - becomes","станции - station (genitive)","стоит - costs","стоит - is worth","стороны - side","страдании - suffering","страх - fear","существует - there exists","сэмвайз - samwise","так - so / thus","такие - such","такое - such a thing","твоём - your (locative)","территорию - territory","тесно - closely","то - then / that","тогда - then","того - of that","том - that / volume","трагичных - tragic","требуется - is required","трилогия - trilogy","троицы - of the trio","ты - you (informal)","удар» - blow'","уже - already","уз - bonds / ties","ум - mind","умер - died","установленной - established (feminine)","фильмы - films","фродо - frodo","хан - han","хозяин - master / owner","хозяина - owner (genitive)","цели - of a goal","целям - goals","ценой - at the cost","часто - often","чего-то - something","через - through","честь - honor","чистое - purest","что - what / that","что-то - something","чтобы - in order to","чтобы - in order to / so that","чубакка - chewbacca","эмоционально - emotionally","этих - these","это - this / it","этого - of this"]`;
-var rLM = `{"а":{"start":11,"end":13},"б":{"start":14,"end":23},"в":{"start":24,"end":59},"г":{"start":60,"end":66},"д":{"start":67,"end":86},"е":{"start":87,"end":90},"ж":{"start":91,"end":100},"з":{"start":101,"end":106},"и":{"start":107,"end":123},"к":{"start":124,"end":141},"л":{"start":142,"end":148},"м":{"start":149,"end":164},"н":{"start":165,"end":186},"о":{"start":187,"end":208},"п":{"start":209,"end":236},"р":{"start":237,"end":246},"с":{"start":247,"end":284},"т":{"start":285,"end":299},"у":{"start":300,"end":305},"ф":{"start":306,"end":307},"х":{"start":308,"end":310},"ц":{"start":311,"end":313},"ч":{"start":314,"end":323},"э":{"start":324,"end":327}}`;
+var ruLM = `{"а":{"start":11,"end":13},"б":{"start":14,"end":23},"в":{"start":24,"end":59},"г":{"start":60,"end":66},"д":{"start":67,"end":86},"е":{"start":87,"end":90},"ж":{"start":91,"end":100},"з":{"start":101,"end":106},"и":{"start":107,"end":123},"к":{"start":124,"end":141},"л":{"start":142,"end":148},"м":{"start":149,"end":164},"н":{"start":165,"end":186},"о":{"start":187,"end":208},"п":{"start":209,"end":236},"р":{"start":237,"end":246},"с":{"start":247,"end":284},"т":{"start":285,"end":299},"у":{"start":300,"end":305},"ф":{"start":306,"end":307},"х":{"start":308,"end":310},"ц":{"start":311,"end":313},"ч":{"start":314,"end":323},"э":{"start":324,"end":327}}`;
 
-
-
+var svSND =['Ssv.mp3',[0.000000,6.430719,0],[6.905716,15.126806,1],[15.272959,18.963315,2],[19.219082,22.434442,3],[22.726747,28.938237,4],[29.194005,33.140128,5],[33.140128,37.268942,6],[37.268942,44.613116,7],[44.613116,49.436155,8],[50.130381,54.916882,9],[55.063035,58.059166,10],[58.205318,62.845667,11],[62.845667,74.720575,12],[74.866728,81.662829,13],[81.845520,87.435861,14],[87.655090,96.205024,15],[96.643482,101.795365,16],[102.051132,111.441444,17],[111.624135,115.351029,18],[115.533720,121.489443,19],[121.854825,126.275945,20],[126.750941,131.720133,21],[132.012439,136.543173,22],[136.725864,139.356613,23],[139.758533,145.568103,24],[146.335405,149.404612,25],[149.879608,152.802662,26],[153.241121,158.064160,27],[158.319927,161.644902,28],[161.937207,167.052552,29],[167.308319,173.958268,30],[173.958268,179.219765,31],[179.548609,184.444725,32],[184.883183,190.400448,33],[190.765830,195.990789,34],[196.246557,200.009989,35],[200.265756,206.367632,36],[206.367632,211.409901,37],[211.592592,216.086787,38],[216.232940,224.271339,39],[224.417492,231.396284,40],[231.688590,236.328938,41],[236.694320,242.686581,42],[242.686581,247.692312,43],[247.875003,252.515351,44],[252.661504,256.863395,45],[257.009547,260.736442,46],[260.919132,264.865256,47],[265.340252,274.620949,48],[274.803640,284.778563,49],[284.924716,290.770824,50],[290.990053,294.753486,51],[295.118868,307.432234,52],[307.614925,317.553309,53]];
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/anc/m/';
+    EHIMGURL = jovuniverse.EHIMGURL+'anc/m/';
 }
 else{
-    EHIMGURL = './jiveRPG/anc/m/';
+    EHIMGURL = storyline.BIMG+'anc/m/';
 }
+
 const svisual=['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg','1f.jpg','1g.jpg'];
 const ImgRo = 1;
 const oImg = '5.jpg';
@@ -245,12 +245,60 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        ruDiction = JSON.parse(ruDiction);
-        reperc.rLM = JSON.parse(rLM);
-				
-				svDiction = JSON.parse(svDiction);
-        reperc.sLM = JSON.parse(sLM);
+        if(typeof svDiction !== 'undefined' && svDiction!=''){
+          svDiction = JSON.parse(svDiction);
+          reperc.svLM = JSON.parse(svLM);   reperc.avdi++;
+        }        
+        if(typeof noDiction !== 'undefined' && noDiction!=''){
+          noDiction = JSON.parse(noDiction);
+          reperc.noLM = JSON.parse(noLM); reperc.avdi++;
+        }        
+        if(typeof ruDiction !== 'undefined' && ruDiction!=''){
+          ruDiction = JSON.parse(ruDiction);
+          reperc.ruLM = JSON.parse(ruLM); reperc.avdi++;
+        }        
+        if(typeof daDiction !== 'undefined' && daDiction!=''){
+          daDiction = JSON.parse(daDiction);
+          reperc.daLM = JSON.parse(daLM); reperc.avdi++;
+        }        
+        if(typeof fiDiction !== 'undefined' && fiDiction!=''){
+          fiDiction = JSON.parse(fiDiction);
+          reperc.fiLM = JSON.parse(fiLM); reperc.avdi++;
+        }
+        
+        storyline.snd = {};
+        if(typeof svSND !== 'undefined' && svSND.length){            
+            storyline.snd.sv = {};
+            storyline.snd.sv.p = storyline.sndURL+svSND[0];
+            svSND.splice(0,1);
+            storyline.snd.sv.t = svSND;
+        }
+        if(typeof noSND !== 'undefined' && noSND.length){            
+            storyline.snd.no = {};
+            storyline.snd.no.p = storyline.sndURL+noSND[0];
+            noSND.splice(0,1);
+            storyline.snd.no.t = noSND;
+        }
+        if(typeof daSND !== 'undefined' && daSND.length){            
+            storyline.snd.da = {};
+            storyline.snd.da.p = storyline.sndURL+daSND[0];
+            daSND.splice(0,1);
+            storyline.snd.da.t = daSND;
+        }
+        if(typeof fiSND !== 'undefined' && fiSND.length){            
+            storyline.snd.fi = {};
+            storyline.snd.fi.p = storyline.sndURL+fiSND[0];
+            fiSND.splice(0,1);
+            storyline.snd.fi.t = fiSND;
+        }
+        if(typeof ruSND !== 'undefined' && ruSND.length){            
+            storyline.snd.ru = {};
+            storyline.snd.ru.p = storyline.sndURL+ruSND[0];
+            ruSND.splice(0,1);
+            storyline.snd.ru.t = ruSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -304,7 +352,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -325,40 +379,85 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+      $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+    
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
-
-    if(storyline.clang == 'ru'){
-        if (!reperc.rLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    
+    if(storyline.clang == 'sv'){
+        if(typeof reperc.svLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.svLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.rLM[xx].start;i<=reperc.rLM[xx].end;i++){
-            if(ruDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-				return;
-    }
-		if(storyline.clang == 'sv'){
-        if (!reperc.sLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.sLM[xx].start;i<=reperc.sLM[xx].end;i++){
+        for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){
             if(svDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'no'){
+        if(typeof reperc.noLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.noLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){
+            if(noDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'da'){
+        if(typeof reperc.daLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.daLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){
+            if(daDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'ru'){
+        if(typeof reperc.ruLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.ruLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){
+            if(ruDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fi'){
+        if(typeof reperc.fiLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.fiLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){
+            if(fiDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);

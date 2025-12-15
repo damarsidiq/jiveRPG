@@ -1,5 +1,4 @@
-var textSt = `
-my house is small but beautiful.
+var textSt = `my house is small but beautiful.
 i would like to have a big and beautiful house.
 but i dont think i need that right now.
 right now i am single, i am not married.
@@ -202,6 +201,10 @@ Mein Name ist ...
 `;
 
 
+var esSND = ['Pes.mp3',];
+var frSND = ['Pfr.mp3',];
+var itSND = ['Pit.mp3',];
+var deSND = ['Pde.mp3',];
 
 /*things to adjust*/
 var EHIMGURL;
@@ -220,9 +223,10 @@ const ehbmtitle = 'zione';
 
 storyline.intro = `<p>Introducing myself.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Total Slides:<br> 38</p>
+<p>Voice Available:<br>ES,FR,IT,DE</p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
-<p>Voices:<ul><li><a href="https://speechma.com/english" target="_blank">Speechma</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
 storyline.lang = ['EN','ES','FR','IT','DE'];
