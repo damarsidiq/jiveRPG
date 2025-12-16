@@ -138,12 +138,8 @@ storyline.intro = `<p>An inquiry to the concept of shirk as it is explained in t
 <br>
 <div style="font-size:smaller;">
 <p>Total Slides:<br>56</p>
-<p>Voice Available:<br>SV</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Translations:<br><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></p>
-<p>Voices:<br>
-<a href="https://voicertool.com" target="_blank">VoicerTool</a>
-</p>
 <p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
 
 storyline.lang = ['EN','SV'];
