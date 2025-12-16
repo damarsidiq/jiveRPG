@@ -105,22 +105,28 @@ Löwen mögen die Savanne regieren, aber Tiger regieren die Vorstellungskraft.
 `;
 
 var deDiction=`["ab - from / starting at","aber - but","abspaltete - split off","abstammen - descend","abstammung - descent","acinonyx - acinonyx (genus name, no direct translation)","affe - monkey","afrika - africa","afrikanischen - african","aggressiver - more aggressive","ahnen - ancestors","ähnlichkeit - similarity","albtraum - nightmare","alle - all / everyone","als - as / when / than","alte - old","andere - others","anderen - other","angeblich - allegedly","anpassungsfähigkeit - adaptability","anstatt - instead of","antilopen - antelopes","anzeichen - signs","asien - asia","assoziation - association","auch - also","auf - on / upon","aufteilung - division","aus - out / from","ausgestorben - extinct","bedeutet - means","beeinflussen - influence","beginnen - begin","beherrscht - dominates","bei - at / with","beide - both","beiden - both","beispielsweise - for example","bereits - already","bestehenden - existing","bestimmen - determine","beträchtliche - significant","betrifft - concerns","beute - prey","bevor - before","bewaldetes - forested","beweis - evidence","bezeichnet - refers to","bezeichnungen - designations","biologischer - biological","bis - until / to","brüllenden - roaring","büffel - buffaloes","caniden - canids","catus - catus (no direct translation, might be a specific term)","chinesen - chinese","chinesische - chinese","clever - clever","concolor - concolor (no direct translation, might be a specific term)","da - there","dann - then","darin - in it","das - the / that","dass - that","dasselbe - the same","dem - the (dative masculine/neuter)","den - the (masculine accusative)","denselben - the same","der - the","des - of the (genitive masculine/neuter)","destilliert - distilled","deutlich - clearly","die - the (feminine)","diese - this / these (feminine)","dieser - this / these (masculine or dative feminine/plural)","direkten - direct","dna - dna","dna-sequenzierung - dna sequencing","doch - yet","domestikation - domestication","dominanz - dominance","drache - dragon","dritten - third (dative)","dschungeln - jungles","dschungels - jungles","du - you (singular informal)","duell - duel","durch - through","durchzuführen - to carry out","ebenen - plains","ebenfalls - also","edel - noble","ehrlichkeit - honesty","eigenen - own","eigenschaften - characteristics","ein - a / an","eine - a / an (feminine)","einem - one / a (dative masculine/neuter)","einen - a / an (accusative)","einer - one / a (masculine nominative)","eines - one / a (genitive)","eingriff - intervention","elften - eleventh","eliminieren - eliminate","enger - closer","entwickelt - developed","erfinden - invent","erklären - explain","erlangen - achieve","ernährung - nutrition","erstaunliche - amazing","ersten - first (accusative masculine or dative plural)","erwähnt - mentioned","es - it","etwa - about","etwas - something","evolution - evolution","evolutionsweg - evolutionary path","extrem - extreme","familie - family","felidae - felidae (family name, no direct translation)","felinae - felinae (subfamily name, no direct translation)","felis - felis (genus name)","flexibilität - flexibility","folklore - folklore","fossilien - fossils","fossilienaufzeichnungen - fossil records","freier - free","frühe - early","führung - leadership","fünften - fifth (dative)","für - for","futter - food","ganz - completely / whole","gazellen - gazelles","geborene - born","geburt - birth","geburtsjahr - year of birth","geburtsjahre - birth years","gegen - against","gegeneinander - against each other","gehalten - held","gehandelt - dealt","gehören - belong","gehört - heard","geistermuster - ghost patterns","gemeinsamkeit - commonality","genetik - genetics","genetische - genetic","genetischen - genetic","genus - genus","geparden - cheetahs","gepardenkübchen - cheetah cubs","gesichtskommunikation - facial communication","gesucht - sought","graslandschaften - grasslands","grauwölfen - gray wolves","größe - size","großen - great / big (dative)","größeren - larger","großtenteils - mostly","gruppe - group","gruppen - groups","habe - have (1st person singular)","haben - have","habitat - habitat","hahn - rooster","hase - rabbit","hast - have (2nd person singular)","hat - has","hatten - had","hauptsächlich - mainly","hauskatze - domestic cat","herrscher - ruler","hier - here","hierarchische - hierarchical","himmlischer - heavenly","hingegen - however","hinterhalt - ambush","hinweisen - indicate","hirsche - deer","hoch - high","hund - dog","hunde - dogs","hyänen - hyenas","ich - i","ihnen - them","ihr - you (plural) / her / their","ihre - their","ihrem - their","ihrer - their","im - in the (contraction of *in dem*)","impalas - impalas","impulsiv - impulsive","indem - by","indonesien - indonesia","innerhalb - within","interessante - interesting","ist - is","ja - yes","jadekaiser - jade emperor (a reference to chinese mythology)","jagd - hunt","jagdmethoden - hunting methods","jagen - hunt","jaguare - jaguars","jahr - year","jahre - years","jahren - years (dative plural)","jahres-zyklus - year cycle","jedes - each","jetzt - now","jubatus - jubatus (no direct translation, might be a specific term)","kalender - calendar","kam - came","kampf - fight","kämpfen - fight","kann - can / am able to","kannst - can (2nd person singular)","katzen - cats","kein - no","kg - kg","kleinen - small (dative)","kleineren - smaller","kojoten - coyotes","komfortsuche - comfort seeking","kommen - come","komplexen - complex","könig - king","könige - kings","konkurrenz - competition","können - can","konnotation - connotation","könnten - could","kontinent - continent","konvergieren - converge","kooperativer - cooperative","kooperatives - cooperative","koordinierten - coordinated","körnchen - grain","kraft - strength","kreuzung - crossbreed","krone - crown","künstliche - artificial","lass - let / allow (imperative)","latent - latent","laufvermögen - running ability","leben - life / to live","leoparden - leopards","list - cunning","löwe - lion","löwen - lions","lud - played","lybica - lybica","macan - (tiger)","macht - power","machte - made / did","mähne - mane","majestät - majesty","man - one / you (impersonal)","manchmal - sometimes","männchen - males","marionettenspieler - puppeteer","masse - mass","mehr - more","menschen - people","menschliche - human","merkmale - features","millionen - millions","mischung - mixture","mit - with","mitochondriale - mitochondrial","moderne - modern","mögen - may","möglicherweise - possibly","morgengrauen - dawn","mut - courage","mythisch - mythical","nach - after / to","nacht - night","nahrungsgründen - for food","natur - nature","natürlichen - natural","nennen - call","neuinterpretation - reinterpretation","nicht - not","nun - now","nur - only","nutzen - use","obwohl - although","ochse - ox","ochsen - oxen","oder - or","offenbar - apparently","offenen - open","opportunistisch - opportunistic","ost - east","panthera - panthera (genus name, no direct translation)","panthera-linie - panthera line","pantherinae - pantherinae (subfamily name, no direct translation)","partner - partner","person - person","persönlichkeit - personality","pferd - horse","phrase - phrase","platz - place / position","poetischer - poetic","population - population","prädisponiert - predisposed","pride - pride","psychologisches - psychological","puma - puma","ratte - rat","regieren - rule","reihenfolge - order","rennen - race","ritt - ride","rücken - back","rudel - pack","rudeltiere - pack animals","savanne - savannah","schädel - skulls","schakalen - jackals","schicksal - fate","schlange - snake","schnauzen - snouts","schwein - pig","schwesterzweig - sister branch","seh - see","sein - his / to be","selbstbewusstsein - self-confidence","selektion - selection","shēngxiào - (shēngxiào,not a german word;)","shio - shio","sich - himself / herself / itself / themselves","sie - they / she / it","sieht - sees","silvestris - silvestris","sind - are","sodass - so that","sogar - even","sondern - but","soziale - social","sozialen - social","spekulativ - speculative","spezies - species","spezifische - specific","spiel - play","sprang - sprang","sprints - sprints","stammen - stem","starkem - strong","steckt - is hidden","steht - stands","sterberate - mortality rate","stolz - proud","strukturen - structures","südostasien - southeast asia","symbolisch - symbolic","tagsüber - during the day","tatsächlich - actually","teil - part","teilen - to share","territorialen - territorial","tier - animal","tierarchetypen - animal archetypes","tiere - animals","tieren - animals","tierzeichen - zodiac signs","tiger - tigers","tigern - tigers","tigers - tigers","tigerzeichen - tiger sign","titel - title","töten - kill","trägt - carries","trainiert - trained","trotz - despite","über - about / over","überfordern - overwhelm","übergangsproben - transition tests","überlappende - overlapping","um - around / at","umgangssprachlich - colloquially","und - and","unmöglich - impossible","uns - us","unterfamilie - subfamily","unterscheiden - distinguish","ursprungsgeschichte - origin story","variieren - vary","verbindet - connects","verbreitet - widespread","verhalten - behavior","verhaltensbezogenen - behavior-related","verhaltensweisen - behaviors","verkörpert - embodies","verkürzten - shortened","verlassen - leave","verstärkt - enhanced","viel - much / a lot","vielfalt - diversity","völlig - completely","von - from / of","vor - before","vorstellungskraft - imagination","vorteil - advantage","wahrheit - truth","wahrscheinlich - probably","war - was","waren - were","wegen - because of","weil - because","weisheit - wisdom","weniger - less / fewer","wenn - if / when","wie - how / as","wildbahn - wilderness","wildebeest-kälber - wildebeest calves","wildkatze - wildcat","wildkatzenart - wildcat species","wildschweine - wild boars","willen - will","wir - we","wird - becomes / will","wirklich - really","wissen - to know / knowledge","wohl - well","wölfe - wolves","wölfen - wolves","wolfsähnliche - wolf-like","wort - word","wörtlich - literally","wurden - became / were (plural)","würden - would","y-chromosom-studien - y-chromosome studies","zähnen - teeth","zeigen - show","ziege - goat","zielen - to aim","zielsprung - leap","zodiac - zodiac","zodiaksystem - zodiac system","zu - to","zum - to the (contraction of *zu dem*)","zur - to","zurückreichen - go back","zusammen - together","zwischen - between","生肖 - zodiac"]`;
-var dLM =`{"a":{"start":0,"end":29},"ä":{"start":11,"end":11},"b":{"start":30,"end":52},"c":{"start":53,"end":58},"d":{"start":59,"end":88},"e":{"start":89,"end":118},"f":{"start":119,"end":132},"g":{"start":133,"end":162},"h":{"start":163,"end":184},"i":{"start":185,"end":198},"j":{"start":199,"end":211},"k":{"start":212,"end":242},"l":{"start":243,"end":252},"m":{"start":253,"end":277},"n":{"start":278,"end":288},"o":{"start":289,"end":296},"p":{"start":297,"end":311},"r":{"start":312,"end":319},"s":{"start":320,"end":358},"t":{"start":359,"end":377},"ü":{"start":378,"end":381},"u":{"start":382,"end":389},"v":{"start":390,"end":406},"w":{"start":407,"end":434},"y":{"start":435,"end":435},"z":{"start":436,"end":448},"生":{"start":449,"end":449}}`;
+var deLM =`{"a":{"start":0,"end":29},"ä":{"start":11,"end":11},"b":{"start":30,"end":52},"c":{"start":53,"end":58},"d":{"start":59,"end":88},"e":{"start":89,"end":118},"f":{"start":119,"end":132},"g":{"start":133,"end":162},"h":{"start":163,"end":184},"i":{"start":185,"end":198},"j":{"start":199,"end":211},"k":{"start":212,"end":242},"l":{"start":243,"end":252},"m":{"start":253,"end":277},"n":{"start":278,"end":288},"o":{"start":289,"end":296},"p":{"start":297,"end":311},"r":{"start":312,"end":319},"s":{"start":320,"end":358},"t":{"start":359,"end":377},"ü":{"start":378,"end":381},"u":{"start":382,"end":389},"v":{"start":390,"end":406},"w":{"start":407,"end":434},"y":{"start":435,"end":435},"z":{"start":436,"end":448},"生":{"start":449,"end":449}}`;
 
+var deSND=['Vde.mp3',[0.000000,11.016070,0],[11.296735,21.190148,1],[21.634533,25.633998,2],[26.031606,34.053925,3],[34.194257,48.297633,4],[48.601686,52.414042,5],[52.414042,64.412437,6],[64.716490,70.703993,7],[71.031435,76.995549,8],[77.159270,85.602585,9],[85.696140,99.004301,10],[99.168022,111.564025,11],[111.868078,121.831657,12],[122.065544,133.900218,13],[133.900218,142.670975,14],[142.904862,150.599739,15],[150.740071,156.844518,16],[157.101793,168.164641,17],[168.445305,179.695263,18],[179.858983,189.892729,19],[190.009672,193.213922,20],[193.494586,195.529402,21],[195.810066,199.786143,22],[200.090195,209.258560,23],[209.445669,214.825067,24],[215.012176,219.245528,25],[219.385860,229.700270,26],[229.863991,235.921660,27],[236.108770,242.049495,28],[242.259994,248.153942,29],[248.247497,254.983438,30],[255.170547,261.602436,31],[261.836322,265.414791,32],[265.859176,269.718309,33],[270.256249,280.570659,34],[280.944878,295.937024,35],[296.311243,309.689571,36],[309.900069,312.683322,37],[312.940598,321.500856,38],[321.781521,333.733138,39],[334.013803,344.141103,40],[344.491933,354.408736,41],[354.666011,362.758496,42],[362.968994,368.371780,43],[368.605667,376.581208,44],[376.885261,378.779745,45],[379.130575,381.937217,46],[382.288047,394.146110,47],[394.379997,401.232882,48],[401.513546,406.401781,49]];
+
+/*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/cd/';
+    EHIMGURL = jovuniverse.EHIMGURL+'cd/';
 }
 else{
-    EHIMGURL = './jiveRPG/cd/';
+    EHIMGURL = storyline.BIMG+'cd/';
 }
+
 const oImg = 'o.jpg';
 const ehbmtitle = 'species';
 
 storyline.intro = `<p>A conversation around the topic of animal species, such as cats and dogs.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Total Slides:<br> 50</p>
+<p>Voice Available:<br>DE</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translation:<ul><li><a href="https://venice.ai" target="_blank">Venice.ai</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
@@ -169,9 +175,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        deDiction = JSON.parse(deDiction);
-        reperc.dLM = JSON.parse(dLM);
+       if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -225,7 +271,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -246,26 +298,71 @@ config.narration = n;
 chidx = storyline.addChapter(config);
 
 storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
+   $('#dictionary').remove();
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
-    if(storyline.clang == 'de'){
-        if (!reperc.dLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    if(storyline.clang == 'it'){
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.dLM[xx].start;i<=reperc.dLM[xx].end;i++){
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
+            if(itDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
             if(deDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);

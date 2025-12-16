@@ -190,16 +190,17 @@ In ogni caso, il cinismo non è uno stato finale.
 `;
 
 var itDiction =`["abbandonati - abandoned","abbandonato - abandoned","abbastanza - enough","abituale - habitual","accademici - academic","accompagnava - accompanied","acuta - sharp","ad - to","affatto - at all","affinché - so that","affrettati - hurry","aggirano - bypass","agiscono - act","al - to the","alcune - some","alimentato - fed","all'assurdità - to absurdity","all'intelligenza - intelligence","alla - to the","allargato - expanded","altri - others","ambasciatori - ambassadors","ambizione - ambition","amore - love","anche - also","ancora - still","anima - soul","anno - year","antichi - ancient","apre - opens","archiviato - archived","ascoltando - listening","aspetta - waits","assomiglia - resembles","assunte - hired","assunzione - assumption","astuto - clever","attraverso - through","attrito - friction","attuale - current","auto-sigillante - self-sealing","autosufficiente - self-sufficient","bambini - children","baroni - barons","basato - based","bisogna - must","bisogno - need","buco - hole","caldo - warm","calli - calluses","calma - calm","calore - warmth","cambio - exchange","caotico - chaotic","cappellani - chaplains","cappelle - chapels","caratterizzazione - characterization","casa - home","caso - case","castelli - castles","castello - castle","catene - chains","ceca - czech","che - that / which / who","chi - who","chiarezza - clarity","chiave - key","chiocciola - snail","chiusa - closed","chiuse - closed","chiuso - closed","ciascun - each","cicatriziale - scar tissue","cima - top","cinica - cynical","ciniche - cynical","cinici - cynics","cinico - cynical","cinismo - cynicism","ciò - what","circa - about","città - city","clero - clergy","cognitiva - dissonance","col - with","collocare - place","colpo - blow","com'è - how it is","come - like / as / how","comes - as","commenti - comments","compagno - companion","compassione - compassion","complesso - complex","complicata - complicated","comte - comte","con - with","concludono - conclude","conquista - conquest","considera - considers","consistenza - consistency","conte - count","contessa - countess","conti - counts","continuato - continued","contro - against","controllato - controlled","convincerla - to convince her","corridoio - corridor","corruzione - corruption","cortile - courtyard","cosa - thing","costo - cost","costringono - force","costruisce - builds","costruite - built","costruttiva - constructive","count - count","crea - creates","creano - create","creare - create","credeva - believed","crepe - cracks","crosta - crust","culturali - cultural","cuochi - cooks","cuore - heart","curato - cared for","curiosità - curiosity","custodi - guardians","d.c - a.d.","da - from","dal - from","dall'esperienza - from experience","dall'interazione - from interaction","dalla - from the","dare - to give","dati - data","decide - decides","dei - of","del - of the (masculine singular)","delicatamente - gently","dell'intimità - of intimacy","della - of the (feminine singular)","delle - of the","delusioni - disappointments","dentro - inside","deridono - mock","deriva - derives","detiene - detains","di - of / from","diario - diary","dicono - they say","difese - defenses","differiscono - differ","dimostrato - demonstrated","disconnessioni - disconnections","disordinata - disordered","dispositivi - devices","distante - distant","distretto - district","diventa - becomes","diventano - become","diversa - different","diverse - different","diversi - different","diverso - different","dolore - pain","dominio - domain","dopo - after","dove - where","duchi - dukes","due - two","e - and","è - is","eccessiva - excessive","ecco - here","echeggiante - echoing","echi - echoes","egoistiche - selfish","emotivi - emotional","entra - enters","entrambi - both","entrare - to enter","eppure - and yet","equipaggiamento - equipment","era - was","erano - were","esclusivamente - exclusively","eseguita - executed","esibito - exhibited","espandersi - to expand","esplorando - exploring","esposizione - exposure","essenzialmente - essentially","essere - to be","esseri - beings","esso - it","esteriormente - outwardly","esterna - external","estetica - aesthetic","europa - europe","eventi - events","evitare - avoid","fa - does","facce - faces","facoltosi - wealthy","fallimenti - failures","famiglia - family","fanno - they do","fede - faith","ferita - wound","ferito - wounded","feste - festivities","festività - holiday","fidato - trusted","fiducia - trust","filosofico - philosophical","finale - final","fine - end","finestra - window","finzione - fiction","follia - madness","fondamenta - foundations","fondamentali - fundamental","forgiato - forged","formassero - formed","fortezza - fortress","fortificato - fortified","fossato - moat","fossilizzati - fossilized","fraintesa - misunderstood","francese - french","fretta - hurry","fungevano - served","funziona - works","funzionali - functional","fuori - out","fuoriescano - come out","gand - ghent","genialità - brilliance","gentilezza - kindness","geografie - geographies","gestione - management","gestiscono - manage","gestito - managed","giudizi - judgments","giusta - right","giustificare - justify","gli - the","grande - great","grandiosità - grandeur","grave - serious","gravensteen - gravensteen","guardie - guards","guarnigione - garrison","guidato - guided","ha - has","hai - you have","hanno - they have","hrah-vuh - hrah-vuh","ideali - ideals","identica - identical","il - the (masculine singular)","immagina - imagines","immaginazione - imagination","immergi - immerse","imparato - learned","impressioni - impressions","inaffidabili - unreliable","incentivi - incentives","inciampano - stumble","incoerenza - inconsistency","incontra - meets","indossarlo - wear it","intellettuale - intellectual","intellettualmente - intellectually","intelligente - intelligent","intelligenti - intelligent","interiore - inner","interiori - interior","interiorità - interiority","interno - interior","invita - invites","ipocrisia - hypocrisy","ironia - irony","istituzioni - institutions","l'etimologia - the etymology","l'inglese - the english","l'interno - the inside","l'osservatore - the observer","la - the (feminine singular)","là - there","laboratorio - laboratory","lasci - leave","lasciato - left","latino - latin","le - the","leali - loyal","lentamente - slowly","lettore - reader","levatoio - raised","linee - lines","loro - their","lungo - long","lusinghieri - flattering","ma - but","mai - never","male - evil","manifestano - manifest","maschera - mask","medaglia - medal","medievale - medieval","medievali - medieval","medio - medium","memoria - memory","meno - less","mente - mind","mentre - while","meravigliosi - wonderful","mercanti - merchants","mezze - half","mi - me","modellato - shaped","modelli - models","molte - many","monarchi - monarchs","monastico - monastic","mondo - world","montagna - mountain","morali - moral","motivazioni - motivations","motivi - reasons","motore - engine","movimento - movement","mura - walls","museo - museum","narratore - narrator","nasce - is born","nel - in","nell'archeologia - in archaeology","nella - in the","nelle - in the","nobile - noble","nominato - named","non - not","nota - note","notazione - notation","nulla - nothing","nutri - nourish","o - or","occasionali - occasional","occasionalmente - occasionally","occupanti - occupants","oggi - today","ogni - every","olandese - dutch","ora - now","ordinaria - ordinary","ordinato - ordered","organismo - organism","orgoglioso - proud","originariamente - originally","origini - origins","ospita - hosts","ospiti - guests","osservano - observe","osservatore - observer","osservazione - observation","palazzo - palace","paranoico - paranoid","parola - word","parte - part","passato - past","passi - steps","pensando - thinking","pensare - think","per - for / to / in order to","percependo - perceiving","percepisce - perceives","percettiva - perceptive","perché - because","permesso - permission","persino - even","persona - person","personale - personal","persone - people","pettegolezzi - gossip","piacevolmente - pleasantly","piangere - cry","pianto - cry","pietra - stone","più - more","piuttosto - rather","pizzico - pinch","po - po","poeta - poet","poi - then","politici - prisoners","polvere - dust","ponte - bridge","porta - door","portatori - carriers","porti - ports","posto - place","postura - posture","potere - power","potrebbe - could","praga - prague","preferire - prefer","presenza - presence","presume - presumes","prevedibile - predictable","prevedibili - predictable","prigioni - prisons","prigionieri - political","prime - first","privata - private","programmi - programs","pronunciato - pronounced","propri - own","proprietari - owners","proteggo - i protect","protettiva - protective","protettivo - protective","prove - evidence","psiche - psyche","pubblico - public","pulita - clean","pulite - clean","pungono - sting","può - can","puoi - you can","qual - which","qualche - some","qualcosa - something","qualcuno - someone","quale - which","quando - when","quasi - almost","quella - that","quello - that","questa - this","queste - these","questi - these","questo - this","quindi - so","raramente - rarely","re - king","realtà - reality","record - records","registri - records","regnante - ruling","rende - makes","repubblica - republic","responsabile - responsible","ribelle - rebel","ricerca - research","richiede - requires","riconoscimento - recognition","ricorda - reminds","ricordi - memories","ridimensionano - resize","riesci - can you","riguardo - regarding","ripetute - repeated","risalgono - date back","riscoprire - rediscover","rispetto - respect","rispondere - respond","ritirano - withdraw","roccia - rock","romantica - romantic","rotti - broken","saggezza - wisdom","sala - hall","sangue - blood","scaffali - shelves","scala - stairs","scarso - scarce","scelta - choice","scena - scene","schemi - patterns","sciocchezze - nonsense","scrivere - to write","se - if","sé - self","secco - dry","secoli - centuries","segni - signs","sembra - seems","semplicemente - simply","sempre - always","sensoriale - sensory","sente - feels","sentimentalità - sentimentality","sentimenti - feelings","sentire - feel","sentito - felt","sentono - feel","senza - without","serve - serves","servitori - servants","sfiducia - distrust","sfiorando - brushing","si - it","siano - are","sicura - sure","significa - means","significava - meant","signore - lord","silenzio - silence","singola - single","sito - site","sola - alone","solito - usual","solo - only","sono - are","sopravvivenza - survival","sorprendente - surprising","sorta - sort","sospettosamente - suspiciously","sospettosità - suspiciousness","sottopagate - underpaid","sovrano - sovereign","speciali - special","spesse - thick","spesso - often","splendore - splendor","sta - is","stagionali - seasonal","stanza - room","stato - state","stavo - i was","steen - stone","sterile - sterile","stessa - same","stesso - same","steward - steward","storia - history","storico - historical","storie - stories","stranamente - strangely","strano - strange","strati - layers","strato - layer","strumenti - tools","struttura - structure","su - on","sue - his","sugli - on the","sul - on","sulla - on","suo - his","suoi - his","svaniscono - fade away","taglienti - cutting","tangibile - tangible","tavolo - table","tazza - cup","tempo - time","tende - tents","tenevano - kept","tengono - hold","termine - term","terreno - ground","terrore - terror","teso - tense","tessuto - fabric","ti - you","tipi - types","tipo - type","tornare - return","torre - tower","tra - between","tradimento - betrayal","troppa - too much","troppi - too many","troppo - too","truppe - troops","tuo - your","tutori - guardians","tutto - everything","ulteriori - further","umana - human","umani - humans","umorismo - humor","un - a / an (masculine)","un'anima - a soul","un'armatura - an armor","un'atmosfera - a different atmosphere","una - a / an (feminine)","unificato - unified","uno - one","vasto - vast","vecchia - old","vedo - i see","ventre - belly","verifica - verification","verità - truth","vero - true","versi - verses","verso - towards","vibra - vibrates","violato - violated","visione - vision","visita - visit","visitatori - visitors","vissuto - lived","vita - life","vite - lives","volta - time","volte - times"]`;
-var iLM=`{"a":{"start":0,"end":41},"b":{"start":42,"end":47},"c":{"start":48,"end":129},"d":{"start":130,"end":172},"e":{"start":173,"end":203},"è":{"start":174,"end":174},"f":{"start":204,"end":238},"g":{"start":239,"end":256},"h":{"start":257,"end":260},"i":{"start":261,"end":286},"l":{"start":287,"end":305},"m":{"start":306,"end":336},"n":{"start":337,"end":349},"o":{"start":350,"end":368},"p":{"start":369,"end":432},"q":{"start":433,"end":446},"r":{"start":447,"end":473},"s":{"start":474,"end":555},"t":{"start":556,"end":582},"u":{"start":583,"end":593},"v":{"start":594,"end":612}}`;
+var itLM=`{"a":{"start":0,"end":41},"b":{"start":42,"end":47},"c":{"start":48,"end":129},"d":{"start":130,"end":172},"e":{"start":173,"end":203},"è":{"start":174,"end":174},"f":{"start":204,"end":238},"g":{"start":239,"end":256},"h":{"start":257,"end":260},"i":{"start":261,"end":286},"l":{"start":287,"end":305},"m":{"start":306,"end":336},"n":{"start":337,"end":349},"o":{"start":350,"end":368},"p":{"start":369,"end":432},"q":{"start":433,"end":446},"r":{"start":447,"end":473},"s":{"start":474,"end":555},"t":{"start":556,"end":582},"u":{"start":583,"end":593},"v":{"start":594,"end":612}}`;
 
+var  itSND=['Wit.mp3',[0.000000,4.394539,0],[4.394539,10.533969,1],[10.598594,14.508442,2],[14.508442,19.743113,3],[19.807739,21.633411,4],[21.633411,27.126585,5],[27.126585,31.763470,6],[31.763470,37.014298,7],[37.014298,43.202197,8],[43.202197,47.451328,9],[47.451328,60.053316,10],[60.150254,67.133855,11],[67.259067,77.938443,12],[78.019225,81.751352,13],[81.815978,90.928184,14],[91.041279,100.347362,15],[100.880523,108.474028,16],[108.732530,113.773325,17],[114.031827,117.594312,18],[117.723563,123.757976,19],[123.935696,133.249857,20],[133.427578,143.816139,21],[144.115032,151.983196,22],[152.128603,162.387914,23],[162.761530,167.937635,24],[168.042651,174.279019,25],[174.392114,180.054930,26],[180.790046,187.301073,27],[187.365698,190.273849,28],[190.273849,194.474511,29],[194.474511,198.093544,30],[198.093544,201.001695,31],[201.179415,204.846916,32],[204.846916,207.302688,33],[207.302688,211.357943,34],[211.487194,217.190401,35],[217.384278,220.922528,36],[221.084092,228.968412,37],[229.388478,236.368040,38],[236.545761,240.794892,39],[241.247271,246.821227,40],[247.112042,254.447045,41],[254.689391,257.080537,42],[257.322883,264.932545,43],[265.158734,269.747150,44],[270.037965,276.565148,45],[276.742868,281.702881,46],[281.767507,287.551496,47],[287.664591,292.899262,48],[293.222390,299.281038,49],[299.474914,308.441713,50],[308.700215,312.593906,51],[312.884721,320.946762,52],[321.237577,326.585343,53],[327.005409,336.521525,54],[337.410127,344.276594,55],[344.470471,352.613293,56],[352.774857,356.571610,57],[356.813956,364.569025,58],[364.762902,371.322397,59],[371.532431,374.392112,60],[374.682927,381.371674,61],[381.694802,387.801919,62],[387.995796,396.639466,63],[396.865656,399.515305,64],[399.822276,404.669194,65],[405.040791,413.345178,66],[413.716775,421.584938,67],[421.762659,424.670810,68],[424.977781,430.729457,69],[431.052585,434.752399,70],[434.978589,441.182644,71],[441.570397,445.060178,72],[445.431776,449.810158,73],[450.020191,456.692782,74],[456.999753,463.413842,75],[463.736970,471.815167,76],[472.041356,477.195246,77],[477.550686,482.930765,78],[482.930765,486.986020,79],[486.921395,494.757246,80],[494.934966,504.612646,81],[504.709584,508.231678,82],[508.231678,512.206151,83],[512.206151,516.729941,84],[516.859192,519.460372,85],[519.541154,526.310683,86],[526.310683,534.501974,87],[534.501974,538.670324,88],[538.848044,544.874379,89],[544.874379,550.561430,90],[550.706837,554.180462,91],[554.245087,564.423615,92]];
 
 /*things to adjust*/
 var EHIMGURL;
 if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/eu/';
+    EHIMGURL = jovuniverse.EHIMGURL+'eu/';
 }
 else{
-    EHIMGURL = './jiveRPG/eu/';
+    EHIMGURL = storyline.BIMG+'eu/';
 }
 const svisual=['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg'];
 const ImgRo = 1;
@@ -208,7 +209,8 @@ const ehbmtitle = 'ghent';
 
 storyline.intro = `<p>An inquiry on the Ghent's castle ‘Gravensteen’ and other components of a story idea.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Total Slides:<br> 93</p>
+<p>Voice Available:<br><a href="https://ik.imagekit.io/pnscgil5d/SND/Wit.mp3" target="_blank">IT</a></p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Translation:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.rawpixel.com" target="_blank">rawpixel.com</a></li><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
@@ -260,9 +262,49 @@ var reperc = {
             }
         }
     },
+    avdi:0,
     initDictionary:function(){
-        itDiction = JSON.parse(itDiction);
-        reperc.iLM = JSON.parse(iLM);
+         if(typeof itDiction !== 'undefined' && itDiction!=''){
+            itDiction = JSON.parse(itDiction);
+            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
+        }        
+        if(typeof frDiction !== 'undefined' && frDiction!=''){
+          frDiction = JSON.parse(frDiction);
+          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
+        }        
+        if(typeof deDiction !== 'undefined' && deDiction!=''){
+          deDiction = JSON.parse(deDiction);
+          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
+        }        
+        if(typeof esDiction !== 'undefined' && esDiction!=''){
+          esDiction = JSON.parse(esDiction);
+          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
+        }
+        storyline.snd = {};
+        if(typeof frSND !== 'undefined' && frSND.length){            
+            storyline.snd.fr = {};
+            storyline.snd.fr.p = storyline.sndURL+frSND[0];
+            frSND.splice(0,1);
+            storyline.snd.fr.t = frSND;
+        }
+        if(typeof esSND !== 'undefined' && esSND.length){            
+            storyline.snd.es = {};
+            storyline.snd.es.p = storyline.sndURL+esSND[0];
+            esSND.splice(0,1);
+            storyline.snd.es.t = esSND;
+        }
+        if(typeof itSND !== 'undefined' && itSND.length){            
+            storyline.snd.it = {};
+            storyline.snd.it.p = storyline.sndURL+itSND[0];
+            itSND.splice(0,1);
+            storyline.snd.it.t = itSND;
+        }
+        if(typeof deSND !== 'undefined' && deSND.length){            
+            storyline.snd.de = {};
+            storyline.snd.de.p = storyline.sndURL+deSND[0];
+            deSND.splice(0,1);
+            storyline.snd.de.t = deSND;
+        }
     },
     initStory:function(){
         reperc.initBookmark();
@@ -316,7 +358,13 @@ var reperc = {
         document.addEventListener('unfoldx', e => {
             reperc.nextHdlr(e.detail);          
         });
-  }
+    },
+    xDict:function(p){
+        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
+    },
+    wo:function(r){
+      window.open(r, '_blank');
+    }
 };
 var chidx;
 var n;
@@ -341,22 +389,67 @@ storyline.dictionfn = function(t,l){
     $('.txtfrg.inq').removeClass('inq');
     const pos = $(l).offset();
     $(l).addClass('inq');
+    if(!reperc.avdi){reperc.xDict(pos);return;}
+
     t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
     t = t +' - ';
     let xx = t[0].toLowerCase();
 
     if(storyline.clang == 'it'){
-        if (!reperc.iLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.itLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
             return;
         }
-        for(var i=reperc.iLM[xx].start;i<=reperc.iLM[xx].end;i++){
+        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
             if(itDiction[i].indexOf(t) === 0){
                 $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
                 return;
             }
         }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'fr'){
+        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.frLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
+            if(frDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'es'){
+        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.esLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
+            if(esDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+    }
+    else if(storyline.clang == 'de'){
+        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
+        if (!reperc.deLM[xx]){
+            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
+            return;
+        }
+        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
+            if(deDiction[i].indexOf(t) === 0){
+                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
+                return;
+            }
+        }
+        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
     }
 };
 $('#text5').prop('src',EHIMGURL+oImg);
