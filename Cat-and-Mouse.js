@@ -95,266 +95,36 @@ Bien qu'ils ne changent pas souvent le nom du fichier manifeste, YouTube peut (e
 Les URL vidéo fournies dans le manifeste sont souvent limitées dans le temps et liées à la session.  
 Elles peuvent n'être valables que quelques minutes et uniquement utilisables depuis l'adresse IP qui les a demandées.  
 Cela empêche un service de simplement saisir une URL et de la partager largement.  
-Conclusion sur la chasse : Le défi n'est pas de trouver le manifeste ; c'est de décoder et de signer correctement les URL à l'intérieur du manifeste avant qu'elles n'expirent.
-`;
+Conclusion sur la chasse : Le défi n'est pas de trouver le manifeste ; c'est de décoder et de signer correctement les URL à l'intérieur du manifeste avant qu'elles n'expirent.`;
+
+
+var esDiction =`["absolutamente - absolutely","activamente - actively","actividad - activity","actualizar - update","aislada - isolated","al - to the (a + el)","aldea - village","algoritmo - algorithm","algunas - some","algunos - some (masculine plural)","ampliamente - widely","analizar - analyze","animales - animals","antes - before","archivo - file","arrepentido - repentant","asignaron - assigned","ataque - attack","aunque - although / even though","autor - author","barco - ship / boat","barcos - boats","bloqueo - blockage / block","busca - seeks","cada - each, every","cambia - change or it changes","cambiado - changed","cambiando - changing","cambiar - to change","camino - path, road, way","cantidad - amount","casa - house, home","casco - hull","cercana - close / nearby","cifrado - encryption","clave - key","codificación - coding","código - code","comer - to eat","comida - food","comido - eaten","comiera - ate","comió - ate","cómo - how","comparta - share","con - with","concepto - concept","conclusión - conclusion","consistente - consistent","contó - told / counted","contra - against","control - control","correctamente - correctly","cors - cors","cruzando - crossing","cuando - when","dañaron - damaged","darle - give","datos - data","ddos - ddos","de - of, from","decía - said","decidió - decided","decodificar - decode","del - of the (de + el)","delegación - delegation","delegado - delegate","demás - the rest / the others","dentro - inside, within","derechos - rights","desafío - challenge","desaprobado - disapproved","descarga - download","descargadores - downloaders","descargue - download","descifrado - decryption","desconocida - unknown","descubrir - discover","desde - from, since","después - after, afterwards","diarias - daily","días - days","dijo - he/she/it said (from decir)","dirección - direction / address","directa - direct","distribución - distribution","dos - two","e - and (used instead of y before words starting with i or hi)","ejemplo - example","el - the","emplean - employ","en - in, on","encontrar - find","encontró - he/she found","entre - between / among","enviar - to send","era - was, used to be (from ser)","es - is (from ser)","está - is (from estar)","esta - this (feminine singular)","estaba - was (from estar)","están - they are, you (plural) are (from estar)","este - this (masculine singular)","esto - this (neuter)","estos - these (masculine plural)","estrategias - strategies","estructura - structure","excavación - excavation","excavando - digging","expiren - expire","explotando - exploiting","extracción - extraction","extraer - extract","extranjero - foreign","finalmente - finally","firma - signature","firmar - sign","formatos - formats","frecuentemente - frequently","gato - cat","genera - generates","genere - generate","gente - people","geográficas/basadas - geographic/based","granja - farm","granjero - farmer","grupo - group","haberlo - having it","había - there was, there were, had (from haber)","hace - makes / does / ago","hizo - he/she/it did/made (from hacer)","impide - prevents","implementación - implementation","inconsistentes - inconsistent","inferior - lower","informaron - informed","ingresos - revenues","intenta - tries","intentaron - they tried / attempted","interceptar - intercept","interna - internal","invitado - invited","isla - island","juego - game","la - the (feminine singular)","las - the (feminine plural)","le - to him, to her, to it, to you (formal) (indirect object pronoun)","limitadas - limited","llegara - arrived","llegó - arrived / reached","lo - it / him!","logró - managed","los - the (masculine plural)","luchar - fight","luego - then, later","manifiesto - manifesto","manos - hands","más - more","mayor - older / greater / main","medio - means / medium","menudo - small / minor / often (context-dependent)","mesa - table","métodos - methods","mientras - while","minutos - minutes","mitad - half","mundo - world","naciones - nations","necesidades - needs","noche - night","nombre - name","nombres - names","nuevo - new","o - or","obstáculo - obstacle","océano - ocean","oculta - hidden","ofuscada - obfuscated","orilla - shore","otra - other / another (feminine)","otras - others (feminine)","para - for, in order to","parámetros - parameters","parque - park","parte - part","pasaron - passed","paseo - walk","pequeña - small","pérdida - loss","pero - but","persecución - chase / pursuit","pescador - fisherman","pidió - he/she/it asked for, requested (from pedir)","población - population","podía - could, was able to (from poder)","política - policy","por - by, for, through","porque - because","preciados - valued","preciosos - precious","prevenir - prevent","principal - main","propios - own","proporcionadas - provided","publicitarios - advertising","puede - he/she can / you can (formal)","pueden - can","que - that, what","quedarse - stay","quiere - wants","rápidamente - quickly, rapidly","ratón - mouse","razones - reasons","real - real, royal","recursos - resources","región - region","regresaron - they returned","regresó - he/she returned","requiere - requires","responsable - responsible","reunieron - they gathered / met","rompió - broke","salió - went out / came out","salvajes - wild","satisfacer - satisfy","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","ser - to be","servicio - service","servicios - services","sesiones - sessions","sido - been (past participle of ser)","simple - simple","simplemente - simply","sirva - serve","sistemas - systems","sobre - on / over / about","sobrevivió - survived","solicitó - requested","solo - only, alone","sucedido - happened","sufriendo - suffering","sus - his, her, its, their, your (formal) (plural)","tiempo - time, weather","tienen - have","toda - all, whole (feminine singular)","todos - all (masculine plural)","tome - take","tormenta - storm","traído - brought","transmisión - transmission","través - through","tripulación - crew","un - a, an (masculine)","una - a, an (feminine)","unidad - unity","unidas - united","uno - one (masculine)","unos - some / a few / about (masculine plural)","utilizables - usable","vacías - empty","válidas - valid","varias - several","vela - candle","versión - version","vez - time / occasion","video - video","videos - videos","vinculadas - linked","vio - he/she/it saw (from ver)","y - and","yendo - going"]`;
+var esLM=`{"a":{"start":0,"end":19},"b":{"start":20,"end":23},"c":{"start":24,"end":55},"d":{"start":56,"end":86},"e":{"start":87,"end":113},"f":{"start":114,"end":118},"g":{"start":119,"end":126},"h":{"start":127,"end":130},"i":{"start":131,"end":142},"j":{"start":143,"end":143},"l":{"start":144,"end":154},"m":{"start":155,"end":166},"n":{"start":167,"end":172},"o":{"start":173,"end":180},"p":{"start":181,"end":206},"q":{"start":207,"end":209},"r":{"start":210,"end":221},"s":{"start":222,"end":241},"t":{"start":242,"end":251},"u":{"start":252,"end":258},"v":{"start":259,"end":268},"y":{"start":269,"end":270}}`;
+var frDiction=`["à - to","absolument - absolutely","activement - employ","ajouté - added","algorithme - algorithm","alors - then, so","analyser - analyze","animaux - animals","apportée - brought","après - after","arrivée - arrival","assigné - assigned","attaque - attack","atteint - reached","au - to the, at the","autre - other","autres - others","avait - had","avant - before","avec - with","bateau - boat","bateaux - boats","besoins - needs","bien - well; good","blocus - blockade","brisé - broken","c'est - it is, this is","c'était - it was, this was","cachée - hidden","car - because / for","cdn - cdn","ce - this, that","cela - that","certaines - certain (feminine plural)","certains - certain (ones) / some","ces - these, those","change - 'change (noun or verb, e.g., he/she/it changes)'","changent - change","changer - change","chaque - each; every","chasse - hunt","chat - cat","clé - key","code - code","comment - how","comprendre - to understand","concept - concept","conclusion - conclusion","consommée - consumed","constant - constant","contre - against","contrôle - control","coque - hull","correctement - correctly","course-poursuite - chase","cryptage - encryption","crypté - encrypted","d'auteur - of author","d'encodage - of encoding","d'envoyer - to send","d'un - of a; from a","dans - in, inside","ddos - ddos","de - of, from","décidé - decided","déclaré - declared","décoder - decode","décryptage - decryption","défi - challenge","délégation - delegation","délégué - delegate","demandé - asked","demandées - requested","déprécié - depreciated","depuis - since / from","des - of the, some","deux - two","directe - direct","distribution - distribution","dit - said","doivent - must/should","données - data","donner - give","droits - rights","du - of the, from the","elle - she, it","elles - they (feminine)","empêche - prevents","empêcher - prevent","emploient - actively","en - in, into, as","endommagé - damaged","enfin - finally","entièrement - entirely","entre - between / among / (he/she) enters","essaie - try","essayé - tried","est - is","et - and","était - was","été - been; summer","être - to be","excavant - excavating","exemple - example","exploitant - operator","extraire - extract","fait - done, made; fact","ferme - 'firm, steady (adjective) or farm (noun)'","fermier - farmer","fichier - file","fichiers - files","finalement - finally","flux - flow","fois -  time / occasion","formats - formats","fournies - provided","fréquemment - frequently","génère - generates","générée - generated","gens - people","grand - big; tall; great","groupe - group","hachage - hashing","il - he, it","ils - they","incohérents - incoherent","inconnue - unknown","inférieure - lower","intercepter - intercept","interne - internal","invité - invited","isolée - isolated","jeu - game / play","jour - day","jours - days","l'a - has","l'activité - the activity","l'adresse - the address","l'avoir - having","l'équipage - the crew","l'étranger - the foreigner","l'excavation - the excavation","l'île - the island","l'intérieur - the inside / interior","l'océan - the ocean","l'un - the one","l'url - the url","la - the","largement - widely","le - the","les - the","leurs - their","liées - related","limitées - limited","lorsque - when","lui - him, to him","lutter - struggle","mains - hands","mais - but","maison - house; home","mangé - eaten","manger - to eat","manifeste - manifest","méthodes - methods","mettre - 'to put, to place'","mi-chemin - midway","milieu - middle","minutes - minutes","mise - put/placed","modifié - modified","monde - world; people","n'est - is not","n'être - not to be","n'expirent - do not expire","nations - nations","naufrage - shipwreck","navire - ship","ne - (negation particle, used with pas, jamais, etc.)","nécessite - requires","nom - name","noms - names","nourriture - food","nouveau - new","nouvel - new","nuit - night","obfusquée - obfuscated","obstacle - obstacle","œuvre - work","ont - have (they)","ou - or","par - by, through","paramètres - parameters","parc - park","partager - share","parti - party","partie - part / game / match","pas - not","passé - past / passed / (he) passed","pêcheur - fisherman","perte - loss","petite - small / little (feminine)","peut - can","peuvent - can","plus - more","plusieurs - several","politique - policy","population - population","pour - for","pouvait - could / was able to","précieuses - precious","principale - main","promenade - walk","propres - own","provoqué - provoked","publicitaires - advertising","qu'elles - that they","qu'il - that he, that it","qu'ils - that they; that they're","quantité - quantity","que - that, which, than","quelques - some","qui - who, which","quotidiens - daily","raconté - told","raisons - reasons","rapidement - quickly","rapporté - reported","recherche - research","réelle - real","région - region","regrettant - regretting","regroupées - grouped","rencontré - met","rendant - making","responsable - responsible","ressources - resources","rester - 'to stay, to remain'","réussi - successful","revenu - income","revenus - revenues","rive - shore","s'était - had been","saisir - enter","satisfaire - to satisfy","sauvages - wild","se - oneself, himself, herself, itself","serve - serve","service - service","services - services","ses - his, her, its (plural things)","session - session","signature - signature","signer - sign","simple - simple","simplement - simply","soit - either, be it; subjunctive of être","sont - are","souris - mouse","souvent - often","stratégies - strategies","structure - structure","subissait - 'he/she/it was undergoing, suffering (imperfect of subir)'","sur - on, about","survécu - survived","systèmes - systems","table - table","téléchargement - download","téléchargent - downloading","téléchargeurs - downloaders","tempête - storm","temps - time, weather","tous - all, everyone","toute - all, whole (feminine)","travers - 'across, through (often in the idiom mettre des bâtons dans les travers - to put obstacles in the way)'","traversant - crossing","trouver - find","un - a, an, one","une - a, an, one","unies - united","uniquement - only","unité - unit","utilisables - usable","valables - valid","version - version","veut - wants","vidéo - video","vidéos - videos","vides - empty","village - village","voile - sail","voisin - neighbor","vu - seen"]`;
+var frLM=`{"à":{"start":0,"end":0},"a":{"start":1,"end":19},"b":{"start":20,"end":25},"c":{"start":26,"end":56},"d":{"start":57,"end":84},"e":{"start":85,"end":105},"é":{"start":99,"end":100},"ê":{"start":101,"end":101},"f":{"start":106,"end":116},"g":{"start":117,"end":121},"h":{"start":122,"end":122},"i":{"start":123,"end":131},"j":{"start":132,"end":134},"l":{"start":135,"end":156},"m":{"start":157,"end":170},"n":{"start":171,"end":184},"o":{"start":185,"end":189},"œ":{"start":187,"end":187},"p":{"start":190,"end":214},"q":{"start":215,"end":222},"r":{"start":223,"end":240},"s":{"start":241,"end":264},"t":{"start":265,"end":275},"u":{"start":276,"end":281},"v":{"start":282,"end":291}}`;
 
 
 var esSND = ['cmice.mp3',[0.000000,16.052877,0],[16.613560,32.839982,1],[33.213770,43.599748,2],[43.973536,47.471128,3],[47.947854,51.792535,4],[52.219722,55.236728,5],[55.637216,61.591131,6],[61.968778,66.320743,7],[66.828028,72.648447,8],[73.129032,77.667891,9],[78.041680,86.585415,10],[86.985902,92.459233,11],[92.806322,100.896171,12],[101.403455,103.245698,13],[103.619487,105.461730,14],[105.888916,117.689950,15],[118.117137,121.321038,16],[121.855021,130.585650,17],[131.146333,136.299273,18],[136.779858,141.692506,19],[142.173091,154.668304,20],[155.175588,160.221731,21],[160.515422,173.838309,22],[174.318894,177.309201,23],[177.789787,180.860191,24],[181.420874,196.452508,25],[196.879695,201.418554,26],[201.952537,208.814224,27],[209.321509,215.008432,28],[215.382221,220.989047,29],[221.309437,231.748813,30]];
 
 /*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'ca/';}else{EHIMGURL = storyline.BIMG+'ca/';}
+
+const svisual = ['ca_z.jpg','ca_y.jpg','ca_xy.jpg','ca_xx.jpg','ca_x.jpg','ca_w.jpg','ca_v.jpg','ca_u.jpg','ca_t.jpg','ca_s.jpg','ca_r.jpg','ca_q.jpg','ca_p.jpg','ca_o.jpg','ca_n.jpg','ca_m.jpg','ca_l.jpg','ca_k.jpg','ca_j.jpg','ca_i.jpg','ca_h.jpg','ca_g.jpg','ca_f.jpg','ca_e.jpg','ca_d.jpg','ca_c.jpg','ca_b.jpg','ca_a.jpg','ca_9.jpg','ca_8.jpg','ca_7.jpg','ca_5.jpg','ca_4.jpg','ca_3.jpg','ca_2.jpg','ca_1o.jpg','ca_1n.jpg','ca_1m.jpg','ca_1l.jpg','ca_1k.jpg','ca_1j.jpg','ca_1i.jpg','ca_1h.jpg','ca_1g.jpg','ca_1f.jpg','ca_1e.jpg','ca_1d.jpg','ca_1c.jpg','ca_1b.jpg','ca_1a.jpg','ca_1.jpg'];
+
 storyline.intro = `<p>Tech theme story(a chatGPT grammar-edited story in line 1-14) followed by a Q&A session with Google Gemini. 31 slides in total.</p>
 <div style="font-size:smaller;">
+<p>Total Slides:<br> 31</p>
 <p>Voice Available:<br>ES</p>
 <p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translation:<br><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></p>
-<p>Images:<br>
-<a href="https://www.pixabay.com" target="_blank">pixabay.com</a>
-</p></div>`;
+<p>Images:<br> <a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
 
 storyline.lang = ['EN','ES','FR'];
 storyline.clang = storyline.deflang = 'es';
 
-var EHIMGURL;
-if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = jovuniverse.EHIMGURL+'ca/';
-}
-else{
-    EHIMGURL = storyline.BIMG+'ca/';
-}
 const oImg = 'ca_6.jpg';
 const ehbmtitle = 'cmice';
+/*eo things to adjust*/
 
-var reperc = {
-    starter:false,
-    storylines:[],
-    starterParagraph:false,
-    bmidx:false,
-    storyvis:['ca_z.jpg','ca_y.jpg','ca_xy.jpg','ca_xx.jpg','ca_x.jpg','ca_w.jpg','ca_v.jpg','ca_u.jpg','ca_t.jpg','ca_s.jpg','ca_r.jpg','ca_q.jpg','ca_p.jpg','ca_o.jpg','ca_n.jpg','ca_m.jpg','ca_l.jpg','ca_k.jpg','ca_j.jpg','ca_i.jpg','ca_h.jpg','ca_g.jpg','ca_f.jpg','ca_e.jpg','ca_d.jpg','ca_c.jpg','ca_b.jpg','ca_a.jpg','ca_9.jpg','ca_8.jpg','ca_7.jpg','ca_5.jpg','ca_4.jpg','ca_3.jpg','ca_2.jpg','ca_1o.jpg','ca_1n.jpg','ca_1m.jpg','ca_1l.jpg','ca_1k.jpg','ca_1j.jpg','ca_1i.jpg','ca_1h.jpg','ca_1g.jpg','ca_1f.jpg','ca_1e.jpg','ca_1d.jpg','ca_1c.jpg','ca_1b.jpg','ca_1a.jpg','ca_1.jpg'],
-    setBookmark:function(x){
-        if(reperc.localstorage == false){return;}
-        console.log('currentPar:'+x);
-        reperc.bookmark[reperc.bmidx].cpar = x;
-        reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark));
-    },
-    initBookmark:function(){
-        if (typeof localStorage == "object"){
-            reperc.localstorage =  localStorage;
-        } else if (typeof globalStorage == "object"){
-            reperc.localstorage = globalStorage[location.host];
-        } else {
-            reperc.localstorage = false;
-        }
-        if(reperc.localstorage !== false){
-            reperc.bookmark = reperc.localstorage.getItem('easternHeadBM');
-            if(reperc.bookmark == null){
-                reperc.bookmark = [];
-                reperc.bmidx = 0;
-                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
-            }
-            else{
-                reperc.bookmark = JSON.parse(reperc.bookmark);
-                for(var i=0;i<reperc.bookmark.length;i++){
-                    if(reperc.bookmark[i].title == ehbmtitle){
-                        reperc.starterParagraph = reperc.bookmark[i].cpar;
-                        reperc.bmidx = i;
-                        break;
-                    }
-                }
-                if(reperc.bmidx === false){
-                    reperc.bmidx = reperc.bookmark.length;
-                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
-                }
-            }
-        }
-    },
-    avdi:0,
-    initDictionary:function(){
-        if(typeof itDiction !== 'undefined' && itDiction!=''){
-            itDiction = JSON.parse(itDiction);
-            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
-        }        
-        if(typeof frDiction !== 'undefined' && frDiction!=''){
-          frDiction = JSON.parse(frDiction);
-          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
-        }        
-        if(typeof deDiction !== 'undefined' && deDiction!=''){
-          deDiction = JSON.parse(deDiction);
-          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
-        }        
-        if(typeof esDiction !== 'undefined' && esDiction!=''){
-          esDiction = JSON.parse(esDiction);
-          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
-        }
-        storyline.snd = {};
-        if(typeof frSND !== 'undefined' && frSND.length){            
-            storyline.snd.fr = {};
-            storyline.snd.fr.p = storyline.sndURL+frSND[0];
-            frSND.splice(0,1);
-            storyline.snd.fr.t = frSND;
-        }
-        if(typeof esSND !== 'undefined' && esSND.length){            
-            storyline.snd.es = {};
-            storyline.snd.es.p = storyline.sndURL+esSND[0];
-            esSND.splice(0,1);
-            storyline.snd.es.t = esSND;
-        }
-        if(typeof itSND !== 'undefined' && itSND.length){            
-            storyline.snd.it = {};
-            storyline.snd.it.p = storyline.sndURL+itSND[0];
-            itSND.splice(0,1);
-            storyline.snd.it.t = itSND;
-        }
-        if(typeof deSND !== 'undefined' && deSND.length){            
-            storyline.snd.de = {};
-            storyline.snd.de.p = storyline.sndURL+deSND[0];
-            deSND.splice(0,1);
-            storyline.snd.de.t = deSND;
-        }
-    },
-    initStory:function(){
-        reperc.initBookmark();
-        reperc.initDictionary();
-        reperc.storyvidx = [];
-        for(var i=0;i<reperc.storyvis.length;i++){
-            reperc.storyvidx[reperc.storyvidx.length] = i;
-        }
-        textSt = textSt.split('<muoborder>');
-        for(var i=0;i<textSt.length;i++){
-            textSt[i] = textSt[i].trim();
-            if(textSt[i] == '') continue;
-            reperc.storylines[i] = [];
-            textSt[i] = textSt[i].split('\n');
-            for(var ix=0;ix<textSt[i].length;ix++){
-                textSt[i][ix] = textSt[i][ix].trim();
-                if(textSt[i][ix] == '') continue;
-                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
-            }
-        }
-	},
-    nextHdlr:function(x){
-        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-        var stvi = reperc.storyvidx[stvidx];
-        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-        reperc.storyvidx.splice(stvidx,1);
-        if(!reperc.storyvidx.length){
-            for(var i=0;i<reperc.storyvis.length;i++){
-                reperc.storyvidx[reperc.storyvidx.length] = i;
-            }
-        }
-        reperc.setBookmark(x);
-    },
-    rp:function(){
-        storyline.current_chap = reperc.starter;
-        if(reperc.starterParagraph !== false){
-          storyline.unfold_ = true;
-          console.log('startingPar:'+reperc.starterParagraph);
-          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
-        }
-        else {
-          storyline.chapters[storyline.current_chap].unfold();
-        }
-        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-        var stvi = reperc.storyvidx[stvidx];
-        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-        reperc.storyvidx.splice(stvidx,1);
-
-        document.addEventListener('unfoldx', e => {
-            reperc.nextHdlr(e.detail);
-        });
-    },
-    xDict:function(p){
-        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
-    },
-    wo:function(r){
-      window.open(r, '_blank');
-    }
-};
-
-
-var chidx;
-var n;
-
-reperc.starter = 1;
-config = {type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};
-chidx = storyline.addChapter(config);
-
-reperc.initStory();
-config = {type:'narration',narration:false};
-n = new narration();
-for(var i=0;i<reperc.storylines[1].length;i++){
-    //es,en,fr,de,it
-	n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],null,null);
-}
-n.illustration = EHIMGURL+oImg;
-config.narration = n;
-chidx = storyline.addChapter(config);
-
-storyline.dictionfn = function(t,l){
-     $('#dictionary').remove();
-    $('.txtfrg.inq').removeClass('inq');
-    const pos = $(l).offset();
-    $(l).addClass('inq');
-    if(!reperc.avdi){reperc.xDict(pos);return;}
-
-    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
-    t = t +' - ';
-    let xx = t[0].toLowerCase();
-
-    if(storyline.clang == 'it'){
-        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.itLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
-            if(itDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'fr'){
-        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.frLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
-            if(frDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'es'){
-        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.esLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
-            if(esDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'de'){
-        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.deLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
-            if(deDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-};
-$('#text5').prop('src',EHIMGURL+oImg);
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}console.log('currentPar:'+x);reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof itDiction!=='undefined'&&itDiction!=''){itDiction=JSON.parse(itDiction);reperc.itLM=JSON.parse(itLM);reperc.avdi++}if(typeof frDiction!=='undefined'&&frDiction!=''){frDiction=JSON.parse(frDiction);reperc.frLM=JSON.parse(frLM);reperc.avdi++}if(typeof deDiction!=='undefined'&&deDiction!=''){deDiction=JSON.parse(deDiction);reperc.deLM=JSON.parse(deLM);reperc.avdi++}if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}storyline.snd={};if(typeof frSND!=='undefined'&&frSND.length){storyline.snd.fr={};storyline.snd.fr.p=storyline.sndURL+frSND[0];frSND.splice(0,1);storyline.snd.fr.t=frSND}if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}if(typeof itSND!=='undefined'&&itSND.length){storyline.snd.it={};storyline.snd.it.p=storyline.sndURL+itSND[0];itSND.splice(0,1);storyline.snd.it.t=itSND}if(typeof deSND!=='undefined'&&deSND.length){storyline.snd.de={};storyline.snd.de.p=storyline.sndURL+deSND[0];deSND.splice(0,1);storyline.snd.de.t=deSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;console.log('startingPar:'+reperc.starterParagraph);storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='it'){if(typeof reperc.itLM==='undefined'){reperc.xDict(pos);return}if(!reperc.itLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fr'){if(typeof reperc.frLM==='undefined'){reperc.xDict(pos);return}if(!reperc.frLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='de'){if(typeof reperc.deLM==='undefined'){reperc.xDict(pos);return}if(!reperc.deLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);
