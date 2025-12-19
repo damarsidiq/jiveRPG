@@ -198,6 +198,84 @@ Ich weiß, wie man Fahrrad und Motorrad fährt.
 Aber ich kann kein Auto fahren.
 Ich bin 35 Jahre alt.
 Mein Name ist ...
+<muoborder>
+Evimin küçük ama güzel.  
+Büyük ve güzel bir evim olmasını isterim.  
+Ama şu anda buna ihtiyacım olduğunu düşünmüyorum.  
+Şu anda bekarım, evli değilim.  
+Ama bir gün evlenmek isterim.  
+Güzel bir kadınla.  
+Şu anda çok param yok.  
+Sadece bir miktar param var.  
+Ama belki gelecekte zengin bir adam olabilirim.  
+Her gün çalışıyorum.  
+Bir haftada yedi gün.  
+Bir günde yaklaşık sekiz saat.  
+Bir bilgisayarım ve iki iyi elim var.  
+En sevdiğim renk mavi.  
+Ama kırmızı, turuncu, sarı, yeşil ve moru da seviyorum.  
+Makaleleri okumayı seviyorum.  
+Ama bir kitabı okumamıştım bir süredir.  
+Yabancı diller öğrenmeyi seviyorum.  
+İspanyolca, Almanca, Fransızca, İtalyanca, İsveççe, Norveççe, Danca, Rusça, Japonca.  
+Kahve, süt, çay, meyve suyu ve su içiyorum.  
+Şarap veya bira içmiyorum.  
+Pirinç, yumurta, tavuk, et yiyorum.  
+Domuz eti yemiyorum.  
+Bazen hikayeler yazıyorum.  
+Bir gün bir kitap yazmak isterim.  
+Her gece yatağa gidiyorum ve sabah egzersiz yapıyorum.  
+Genellikle yaklaşık beş ila altı saat uyuyorum.  
+Ama yorgun olduğumda yedi, sekiz, dokuz, on, on bir veya on iki saat uyuyabilirim.  
+Genellikle sabah çok erken uyanırım.  
+Film izlemeyi, futbolu ve ayrıca basketbolu seviyorum.  
+Ayrıca YouTube'da podcast izlemeyi ve haberleri de seviyorum.  
+Yürümeyi, koşmayı ve yoga yapmayı seviyorum.  
+Boks veya dövüş sporlarını sevmiyorum.  
+Bir arabam, bisikletim veya motosikletim yok.  
+Bisiklet ve motosiklet sürmeyi biliyorum.  
+Ama araba süremiyorum.  
+35 yaşındayım.  
+Adım...
+<muoborder>
+Id-dar tiegħi hija żgħira iżda sabiħa.  
+Nixtieq li nkolli dar kbira u sabiħa.  
+Iżda ma naħsibx li għandi bżonnhom bħalissa.  
+Bħalissa jien waħdi, m'għandix żwieġ.  
+Iżda nixtieq li xi darba.  
+Ma' mara sabiħa.  
+M'għandix ħafna flus bħalissa.  
+Għandi biss xi ammont ta' flus.  
+Iżda forsi nista' nsir raġel sinjur fil-futur.  
+Naħdem kuljum.  
+Seba' ijiem f'ġimgħa waħda.  
+Madwar tmien sigħat f'ġurnata waħda.  
+Għandi kompjuter wieħed u żewġ idejn tajbin.  
+Il-kulur favorit tiegħi huwa blu.  
+Iżda wkoll inħobb aħmar, oranġjo, isfar, aħdar u vjola.  
+Inħobb naqra artikli.  
+Iżda għaddew ftit żmien minn meta qrajt ktieb.  
+Inħobb nitgħallem lingwi barranin.  
+Spanjol, Ġermaniż, Franċiż, Taljan, Svediż, Norveġiż, Daniż, Russu, Ġappuniż.  
+Nixrob kafè, ħalib, tè, ġuħ eżatt u ilma.  
+Ma nixrob inbid jew birra.  
+Nieklu r-Riċe, bajd, tiġieġa, laħam.  
+Ma niekolx maħżen.  
+Xi drabi nikteb storja.  
+Nixtieq li nikteb ktieb xi darba.  
+Nmur torqod kull lejl u neżerċita fil-għodu.  
+Normalment norqod għal madwar ħamsa sa sitt sigħat.  
+Iżda meta nkun imtaqqab nista' norqod għal seba', tmien, disa', għaxar, ħdax jew tnax sigħat.  
+Normalment nqum kmieni ħafna fil-għodu.  
+Inħobb naraw films, futbol u wkoll basketball.  
+Inħobb ukoll naraw podcasts fuq YouTube u wkoll l-aħbarijiet.  
+Inħobb nimxi u naqbeż u nagħmel yoga.  
+Ma nħobbx il-boxing jew is-sportijiet ta' ġlied.  
+M'għandix karozza, ċiklet jew mutur.  
+Naf kif inqiegħed ċiklet u mutur.  
+Iżda ma nista' nxerred karozza.  
+Għandi 35 sena.  
+Isem tiegħi huwa...
 `;
 
 
@@ -206,22 +284,13 @@ var frSND = ['Pfr.mp3',[0.000000,2.020107,0],[2.342763,4.825810,1],[5.022210,7.9
 var itSND = ['Pit.mp3',[0.000000,2.300796,0],[2.655952,5.651619,1],[5.960451,9.125975,2],[9.403924,13.156228,3],[13.557709,15.858505,4],[16.167337,18.035768,5],[18.329158,21.000552,6],[21.139526,23.841803,7],[23.980777,27.532341,8],[27.655874,29.647838,9],[29.910345,32.334673,10],[32.473648,34.728119,11],[34.913418,37.631136,12],[37.631136,40.317971,13],[40.534154,46.062240,14],[46.417397,48.702751,15],[49.181440,52.717562,16],[52.964627,55.311748,17],[55.543372,66.120856,18],[66.537778,70.753330,19],[71.093045,73.254867,20],[73.378399,77.547626,21],[77.671159,79.647682,22],[80.018280,82.087452,23],[82.365400,85.206651,24],[85.330184,89.190580,25],[89.344995,92.989209,26],[92.989209,99.999687,27],[99.999687,103.396835,28],[103.396835,107.380764,29],[107.380764,112.105888,30],[112.105888,115.657452,31],[115.780984,119.764913,32],[119.764913,123.841490,33],[123.965023,127.331288,34],[127.331288,129.832824,35],[129.832824,132.025529,36],[132.149062,134.094701,37]];
 var deSND = ['Pde.mp3',[0.000000,2.344272,0],[2.700364,5.712309,1],[5.816169,9.451275,2],[9.658995,13.308938,3],[13.516659,16.157674,4],[16.291209,18.234878,5],[18.294226,20.831382,6],[20.890730,23.694955,7],[23.783978,27.359735,8],[27.626804,29.614984,9],[29.689170,32.063117,10],[32.256000,34.674458,11],[34.897016,38.116681,12],[38.324401,40.579650,13],[40.861557,44.971452,14],[45.550101,47.567956,15],[47.864699,51.944920,16],[52.345523,55.060725,17],[55.446491,62.894749,18],[63.132144,66.885947,19],[67.212364,69.541799,20],[70.075937,73.310440,21],[73.607183,75.506340,22],[75.817921,78.162193,23],[78.488611,81.515393,24],[81.841810,85.105987,25],[85.387893,88.978488,26],[89.245557,95.581027,27],[95.996467,99.097435,28],[99.245807,102.969936,29],[103.370539,107.005645,30],[107.450760,110.774285,31],[111.189726,114.023625,32],[114.542925,117.718079,33],[117.881288,121.412534,34],[121.605417,123.949689,35],[124.350293,126.753914,36],[127.006145,128.727257,37]];
 
-
-
 /*things to adjust*/
 var EHIMGURL;
-if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = jovuniverse.EHIMGURL+'csh/';
-}
-else{
-    EHIMGURL = storyline.BIMG+'csh/';
-}
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'csh/';}else{EHIMGURL = storyline.BIMG+'csh/';}
 const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
 const ImgRo = 1;
 const oImg = '1a.jpg';
 const ehbmtitle = 'zione';
-
-
 
 storyline.intro = `<p>Introducing myself.</p>
 <div style="font-size:smaller;">
@@ -231,249 +300,8 @@ storyline.intro = `<p>Introducing myself.</p>
 <p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
 
-storyline.lang = ['EN','ES','FR','IT','DE'];
+storyline.lang = ['EN','ES','FR','IT','DE','TR','MT'];
 storyline.clang = storyline.deflang = 'it';
 /*eo things to adjust*/
 
-
-var reperc = {
-    starter:false,
-    storylines:[],
-    starterParagraph:false,
-    bmidx:false,
-    storyvis:svisual,
-    setBookmark:function(x){
-        if(reperc.localstorage == false){return;}
-        reperc.bookmark[reperc.bmidx].cpar = x;
-        reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark));
-    },
-    initBookmark:function(){
-        if (typeof localStorage == "object"){
-            reperc.localstorage =  localStorage;
-        } else if (typeof globalStorage == "object"){
-            reperc.localstorage = globalStorage[location.host];
-        } else {
-            reperc.localstorage = false;
-        }
-        if(reperc.localstorage !== false){
-            reperc.bookmark = reperc.localstorage.getItem('easternHeadBM');
-            if(reperc.bookmark == null){
-                reperc.bookmark = [];
-                reperc.bmidx = 0;
-                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
-            }
-            else{
-                reperc.bookmark = JSON.parse(reperc.bookmark);
-                for(var i=0;i<reperc.bookmark.length;i++){
-                    if(reperc.bookmark[i].title == ehbmtitle){
-                        reperc.starterParagraph = reperc.bookmark[i].cpar;
-                        reperc.bmidx = i;
-                        break;
-                    }
-                }
-                if(reperc.bmidx === false){
-                    reperc.bmidx = reperc.bookmark.length;
-                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
-                }
-            }
-        }
-    },
-    avdi:0,
-    initDictionary:function(){
-        if(typeof itDiction !== 'undefined' && itDiction!=''){
-            itDiction = JSON.parse(itDiction);
-            reperc.itLM = JSON.parse(itLM); reperc.avdi++;
-        }        
-        if(typeof frDiction !== 'undefined' && frDiction!=''){
-          frDiction = JSON.parse(frDiction);
-          reperc.frLM = JSON.parse(frLM);reperc.avdi++;
-        }        
-        if(typeof deDiction !== 'undefined' && deDiction!=''){
-          deDiction = JSON.parse(deDiction);
-          reperc.deLM = JSON.parse(deLM);reperc.avdi++;
-        }        
-        if(typeof esDiction !== 'undefined' && esDiction!=''){
-          esDiction = JSON.parse(esDiction);
-          reperc.esLM = JSON.parse(esLM);reperc.avdi++;
-        }
-        storyline.snd = {};
-        if(typeof frSND !== 'undefined' && frSND.length){            
-            storyline.snd.fr = {};
-            storyline.snd.fr.p = storyline.sndURL+frSND[0];
-            frSND.splice(0,1);
-            storyline.snd.fr.t = frSND;
-        }
-        if(typeof esSND !== 'undefined' && esSND.length){            
-            storyline.snd.es = {};
-            storyline.snd.es.p = storyline.sndURL+esSND[0];
-            esSND.splice(0,1);
-            storyline.snd.es.t = esSND;
-        }
-        if(typeof itSND !== 'undefined' && itSND.length){            
-            storyline.snd.it = {};
-            storyline.snd.it.p = storyline.sndURL+itSND[0];
-            itSND.splice(0,1);
-            storyline.snd.it.t = itSND;
-        }
-        if(typeof deSND !== 'undefined' && deSND.length){            
-            storyline.snd.de = {};
-            storyline.snd.de.p = storyline.sndURL+deSND[0];
-            deSND.splice(0,1);
-            storyline.snd.de.t = deSND;
-        }
-    },
-    initStory:function(){
-        reperc.initBookmark();
-        reperc.initDictionary();
-        reperc.storyvidx = [];
-        for(var i=0;i<reperc.storyvis.length;i++){
-            reperc.storyvidx[reperc.storyvidx.length] = i;
-        }
-        textSt = textSt.split('<muoborder>');
-        for(var i=0;i<textSt.length;i++){
-            textSt[i] = textSt[i].trim();
-            if(textSt[i] == '') continue;
-            reperc.storylines[i] = [];
-            textSt[i] = textSt[i].split('\n');
-            for(var ix=0;ix<textSt[i].length;ix++){
-                textSt[i][ix] = textSt[i][ix].trim();
-                if(textSt[i][ix] == '') continue;
-                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
-            }
-        }
-	},
-    nextHdlr:function(x){
-      if(x%ImgRo == 0){          
-          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-          var stvi = reperc.storyvidx[stvidx];
-          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-          reperc.storyvidx.splice(stvidx,1);
-          if(!reperc.storyvidx.length){
-              for(var i=0;i<reperc.storyvis.length;i++){
-                  reperc.storyvidx[reperc.storyvidx.length] = i;
-              }
-          }
-          reperc.setBookmark(x);
-      }
-    },
-    rp:function(){
-        storyline.current_chap = reperc.starter;
-        if(reperc.starterParagraph !== false){
-          storyline.unfold_ = true;
-          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
-        }
-        else {
-          storyline.chapters[storyline.current_chap].unfold();
-        }
-        //$('#text5').css('object-fit','contain');
-        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-        var stvi = reperc.storyvidx[stvidx];
-        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-        reperc.storyvidx.splice(stvidx,1);
-        
-        document.addEventListener('unfoldx', e => {
-            reperc.nextHdlr(e.detail);          
-        });
-    },
-    xDict:function(p){
-        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
-    },
-    wo:function(r){
-      window.open(r, '_blank');
-    }
-};
-var chidx;
-var n;
-
-reperc.starter = 1;
-config = {type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};
-chidx = storyline.addChapter(config);
-
-reperc.initStory();
-config = {type:'narration',narration:false};
-n = new narration();
-for(var i=0;i<reperc.storylines[1].length;i++){
-	//es,en,fr,de,it
-	n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i]);
-}
-n.illustration = EHIMGURL+oImg;
-config.narration = n;
-chidx = storyline.addChapter(config);
-
-storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
-    $('.txtfrg.inq').removeClass('inq');
-    const pos = $(l).offset();
-    $(l).addClass('inq');
-    if(!reperc.avdi){reperc.xDict(pos);return;}
-
-    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
-    t = t +' - ';
-    let xx = t[0].toLowerCase();
-
-    if(storyline.clang == 'it'){
-        if(typeof reperc.itLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.itLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){
-            if(itDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'fr'){
-        if(typeof reperc.frLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.frLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){
-            if(frDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'es'){
-        if(typeof reperc.esLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.esLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){
-            if(esDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'de'){
-        if(typeof reperc.deLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.deLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){
-            if(deDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-};
-$('#text5').prop('src',EHIMGURL+oImg);
-
-var cssa,cssb,cssc;        
-cssa = document.createElement('style');
-cssa.type = "text/css";
-document.getElementsByTagName("BODY")[0].appendChild(cssa);
-cssb = cssa.sheet;
-cssc = '#dialoguebubble{min-height: 140px;}';
-cssb.insertRule(cssc, cssb.cssRules.length);
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof itDiction!=='undefined'&&itDiction!=''){itDiction=JSON.parse(itDiction);reperc.itLM=JSON.parse(itLM);reperc.avdi++}if(typeof frDiction!=='undefined'&&frDiction!=''){frDiction=JSON.parse(frDiction);reperc.frLM=JSON.parse(frLM);reperc.avdi++}if(typeof deDiction!=='undefined'&&deDiction!=''){deDiction=JSON.parse(deDiction);reperc.deLM=JSON.parse(deLM);reperc.avdi++}if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}if(typeof trDiction!=='undefined'&&trDiction!=''){trDiction=JSON.parse(trDiction);reperc.trLM=JSON.parse(trLM);reperc.avdi++}if(typeof mtDiction!=='undefined'&&mtDiction!=''){mtDiction=JSON.parse(mtDiction);reperc.mtLM=JSON.parse(mtLM);reperc.avdi++}storyline.snd={};if(typeof frSND!=='undefined'&&frSND.length){storyline.snd.fr={};storyline.snd.fr.p=storyline.sndURL+frSND[0];frSND.splice(0,1);storyline.snd.fr.t=frSND}if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}if(typeof itSND!=='undefined'&&itSND.length){storyline.snd.it={};storyline.snd.it.p=storyline.sndURL+itSND[0];itSND.splice(0,1);storyline.snd.it.t=itSND}if(typeof deSND!=='undefined'&&deSND.length){storyline.snd.de={};storyline.snd.de.p=storyline.sndURL+deSND[0];deSND.splice(0,1);storyline.snd.de.t=deSND}if(typeof trSND!=='undefined'&&trSND.length){storyline.snd.tr={};storyline.snd.tr.p=storyline.sndURL+trSND[0];trSND.splice(0,1);storyline.snd.tr.t=trSND}if(typeof mtSND!=='undefined'&&mtSND.length){storyline.snd.mt={};storyline.snd.mt.p=storyline.sndURL+mtSND[0];mtSND.splice(0,1);storyline.snd.mt.t=mtSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();n.addCustomLang(['tr','mt']);for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i]);n.cLNarr('tr',reperc.storylines[5][i]);n.cLNarr('mt',reperc.storylines[6][i])}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='it'){if(typeof reperc.itLM==='undefined'){reperc.xDict(pos);return}if(!reperc.itLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fr'){if(typeof reperc.frLM==='undefined'){reperc.xDict(pos);return}if(!reperc.frLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='de'){if(typeof reperc.deLM==='undefined'){reperc.xDict(pos);return}if(!reperc.deLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='tr'){if(typeof reperc.trLM==='undefined'){reperc.xDict(pos);return}if(!reperc.trLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.trLM[xx].start;i<=reperc.trLM[xx].end;i++){if(trDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+trDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='mt'){if(typeof reperc.mtLM==='undefined'){reperc.xDict(pos);return}if(!reperc.mtLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.mtLM[xx].start;i<=reperc.mtLM[xx].end;i++){if(mtDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+mtDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);var cssa,cssb,cssc;cssa=document.createElement('style');cssa.type="text/css";document.getElementsByTagName("BODY")[0].appendChild(cssa);cssb=cssa.sheet;cssc='#dialoguebubble{min-height:180px;}';cssb.insertRule(cssc,cssb.cssRules.length);
