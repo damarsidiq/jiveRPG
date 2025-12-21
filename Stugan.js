@@ -254,6 +254,7 @@ const ehbmtitle = 'stugan';
 storyline.intro = `<p>Bernard's Cabin.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 36</p>
+<p>Voices Available:<br>SV</p>
 <p>Translations:<br><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></p>
 <p>Voices:<br><a href="https://voicertool.com" target="_blank">VoicerTool</a></p>
 <p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
