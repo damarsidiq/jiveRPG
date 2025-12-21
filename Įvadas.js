@@ -36,9 +36,7 @@ i know how to ride a bicycle and motorcycle.
 but i cant drive a car.
 i am 35 years old.
 my name is...
-
 <muoborder>
-
 Mano namas mažas, bet gražus.  
 Norėčiau turėti didelį ir gražų namą.  
 Bet nemanau, kad man to dabar reikia.  
@@ -77,7 +75,6 @@ Moku važiuoti dviračiu ir motociklu.
 Bet negaliu vairuoti automobilio.  
 Man 35 metai.  
 Mano vardas yra...
-
 <muoborder>
 A házam kicsi, de szép.  
 Szeretnék egy nagy és szép házat.  
@@ -117,7 +114,6 @@ Tudok biciklizni és motorozni.
 De nem tudok autót vezetni.  
 35 éves vagyok.  
 A nevem...
-
 <muoborder>
 Minu maja on väike, aga ilus.  
 Ma tahaksin omada suurt ja ilusat maja.  
@@ -157,7 +153,6 @@ Ma oskan sõita jalgrattaga ja mootorrattaga.
 Aga ma ei oska autot juhtida.  
 Ma olen 35 aastat vana.  
 Minu nimi on...
-
 <muoborder>
 Mans māja ir maza, bet skaista.  
 Es vēlētos, lai man būtu liela un skaista māja.  
@@ -197,7 +192,6 @@ Es zinu, kā braukt ar velosipēdu un motociklu.
 Bet es nevaru vadīt automašīnu.  
 Man ir 35 gadi.  
 Mans vārds ir...
-
 <muoborder>
 мій дім маленький, але красивий.  
 я хотів би мати великий і красивий дім.  
@@ -237,8 +231,6 @@ Mans vārds ir...
 але я не можу водити автомобіль.  
 мені 35 років.  
 мене звати...
-
-
 <muoborder>
 мой дом маленькі, але прыгожы.  
 я хацеў бы мець вялікі і прыгожы дом.  
@@ -318,6 +310,7 @@ Ale nie potrafię prowadzić samochodu.
 Mam 35 lat.  
 Nazywam się...
 `;
+
 
 
 /*things to adjust*/

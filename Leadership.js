@@ -225,8 +225,7 @@ Ikke i den sekteriske forstand af at få andre til at adoptere en bestemt doktri
 Men i den dybere forstand af at guide folk ud af falskhed og ind i klarhed.
 Lederkab, i denne forståelse, handler ikke om kontrol, men om at fjerne forhindringer, så folk kan se den mere sande vej.
 Det er derfor *12 vrede mænd* resonerer: juryen begynder i en tåge af fordomme, vrede, bekvemmelighed.
-Henry Fondas karakter er ikke "lyset", men den, der nægter at lade mørket (falskhed) lukke sagen.
-`;
+Henry Fondas karakter er ikke "lyset", men den, der nægter at lade mørket (falskhed) lukke sagen.`;
 
 var noDiction =`["administrerende - managing / executive","adoptere - adopt","akkurat - exactly","alene - alone","alle - all / everyone","allerede - already","alt - everything / all","andre - others / other","angry - angry (english loanword, as in '12 angry men')","annet - other / different","anonyme - anonymous","apofatisk - apophatic","apofatiske - apophatic","av - of / from / by","avgrunnen - the abyss","avhenger - depends","avhengig - dependent","avleder - distracts","avslutte - conclude / close","bare - only / just","barnslige - childish","bedre - better","begynner - begins","bekvemmelighet - convenience","bemerkning - remark / note","beskrive - describe","beskrives - is described","bestemme - determine","bestemt - certain / definite","bevegelse - movement","bilde - image / picture","bli - become / stay / be","blir - becomes / gets","brennende - burning","bringe - bring","bærer - carries","både - both","da - then / when","de - they / them","defineres - is defined","dekode - decode","deling - sharing","dem - them","den - it / that / the","denne - this","der - there","derfor - therefore","dermed - thereby","det - it / that","dette - this","dine - your","direkte - direct / most direct","direktører - directors","diskusjonstemaene - the discussion topics","doktrine - doctrine","du - you (singular)","dukker - appears / emerges","dybden - the depth","dypere - deeper","dypeste - deepest","egentlig - actually / really","egoet - the ego","eller - or","en - a / an / one","enheten - the unity","enhver - any / every","enkeltperson - individual","enkle - simple","enn - than","er - is / are","et - a / an / one","faktisk - actually","faktiske - actual","falsk - false","falskhet - falsehood / falsity","fast - firm / fixed / fast","feid - swept","feilbarlige - fallible","fellesskap - community","film - film / movie","filmen - the movie","filmene - the films","finne - find","finnes - exists","fjerne - remove","fleste - most","folk - people","fordi - because","fordommer - prejudices","forestille - imagine","forestilt - imagined","forfatter - author","forfatteren - the author","forlate - leave / abandon","form - form / shape","fornuft - reason / sense","forstand - reason / understanding","forstå - understand","forstår - understands","forstått - understood","forsvinner - disappears","fortsatt - still","fortvilelse - despair","fra - from","fravær - absence","fraværende - absent","frem - forward / out","frykt - fear","frykter - fear","fullt - fully","fysisk - physical","føles - feels","først - first","få - few / get","gang - time (as in 'this time')","ganger - times","ganske - quite","generaler - generals","gjelder - applies / concerns","gjennom - through","gjette - guess","gjøre - make / do","grense - boundary / limit","grep - grasp / grip","gruppe - group","gruppe/samfunn - group / society","gruppepress - group pressure / peer pressure","gud - god","går - goes / walks","ham - him","han - he","handler - is about / deals with","hans - his","har - have / has","helst - rather / preferably","herre - lord","hevder - claims","hindrer - hinders","hindringer - obstacles","historie - story","historien - the story","holde - hold / keep","hule - cave","hulen - the cave","husker - remember","hva - what","hvilken - which","hvis - if","hvor - where","hvordan - how","høyere - higher","identifisere - identify","ikke - not","indre - inner","ingen - no / none","inn - in / into","inneholder - contains","inspirasjon - inspiration","inspirerende - inspiring","ja - yes","jeg - i","johannes - john","jurymedlemmene - the jury members","juryrom - jury room","kaller - calls","kan - can / may","kandidater - candidates","kanskje - perhaps","karakter - character","karisma - charisma","karismatiske - charismatic","kastet - thrown","kategorier - categories","kilden - the source","klar - clear / ready","klargjort - clarified","klarhet - clarity","knytte - tie / connect / link","kom - come","kommer - comes","kompass - compass","kompilere - compile","komplisert - complicated","konger-det - kings – it","kontroll - control","korset - of the cross","kraft - power / force","kristent - christian","kritiske - critical","kunnskapen - the knowledge","la - let","laget - made / created / team","lede - lead","leder - leader","lederne - the leaders","lederskap - leadership","lesningen - the reading","lettere - easier","ligning - equation","lik - like / similar","liten - small / little","lommelykten - the flashlight","lommelykter - flashlights","lys - light","lyseste - brightest","lyset - the light","lysstyrke - brightness","løgner - lies","man - one / you (general)","mange - many","mann - man","matematiker - mathematician","med - with","meg - me","men - but","mening - meaning","menn - men","mennesker - people","mentale - mental","mentalt - mental","mest - most","metafor - metaphor","metaforer - metaphors","metafysisk - metaphysical","mine - my / mine","mot - against / towards","motet - the courage","motsetning - contrast / opposition","motvillige - reluctant","mystikere - mystics","mørk - dark","mørke - darkness","mørkeste - darkest","mørket - the darkness","møte - meeting / face","møter - encounters / meets","mål/slutt - goal / end","måten - the way","måter - ways","natten - the night","negasjonen - the negation","negative - negative","nekter - refuses","nettopp - precisely / just","noen - some / any","nok - enough","nyttig - useful","nå - now","når - when","offer - victim / sacrifice","ofte - often","og - and","også - also / too","om - about / if / whether","opp - up","opplysning - enlightenment","opplyst - illuminated / enlightened","ordre - order (command)","oss - us","over - over / above","overgivelsen - the surrender","paradoksalt - paradoxically","peke - point","perspektiv - perspective","perspektivet - the perspective","praktiserer - practices","prinsippet - the principle","prøver - tries","på - on / at / in","påvirker - affects / influences","reduseres - be reduced","reise - journey / trip","relevant - relevant","remember - remember (english word, often used)","resonerer - reasons","respekt - respect","retningssans - sense of direction","rett - right / straight / just","ringenes - of the rings","rolig - calm","rom - space / room","roper - shouts / calls out","rotete - messy","rydde - clear / clean up","sagt - said","saken - the case","samlende - unifying","samme - same","sannere - truer","sannhet - truth","sannheten - the truth","sanser - senses","se - see","sees - is seen","seg - himself / herself / themselves","sekteriske - sectarian","selv - self / even","selvstendig - independent","ser - see / look","si - say","siden - since / because","sier - says","sies - is said","sikker - sure","sin - his","sinne - anger","sinns - mind’s","sinte - angry","sitt - his / her / its / their (possessive)","sjarmere - charmers","sjelen - the soul","skiftet - the shift / switched","skisset - the sketch / outline","skjerper - sharpens","skjult - hidden","skyen - the cloud","skygge - shadow","skygger - shadows","slett - not at all / delete","slik - such / in this way","snakker - talks / speaks","snarere - rather","sniker - sneaks / creeps","snur - turns","som - that / which / who","sosial - social","sosialt - social","språklens - the language’s","spørsmål - question","spørsmålet - the question","st - st. (saint)","stand - stand / position","stedet - the place / instead","sterkt - strongly","stille - quiet","stillhet - silence / stillness","stort - large / big","stå - stand","svaret - the answer","svikter - fails","symbolsk - symbolic","så - so / thus / then","ta - take","tanken - the thought","tema - theme","tenk - think (imperative)","teologi - theology","til - to / for / until","tilbake - back","tilslører - veils / obscures","tilstanden - the state","tingen - the thing","titanene - the titans","titans - titans","tolkien - tolkien","tolv - twelve","tomhet - emptiness","tradisjonen - the tradition","tradisjoner - traditions","triks - tricks","tror - believe / think","trukket - drawn / pulled","tråden - the thread","tvil - doubt","type - type","tåke - fog","uendelig - infinite / endless","ukjente - the unknown","usikkerhet - uncertainty","ut - out","ute - outside / out","uten - without","utenfor - outside","utholdenhet - endurance / perseverance","utledet - derived","uvitende - ignorant / unaware","uvitenhet - ignorance","valget - the choice","vanlig - ordinary / common","vanlige - ordinary / usual","vanligvis - usually","var - was","ved - by / at / about","veien - the way / the road","veilede - guide","vet - know(s)","vi - we","vil - will / want","ville - would / want to","vinkel - angle","virkelig - real / really","visjoner - visions","visjonært - visionary","vitnesbyrd - testimony / witness","vurdere - assess / consider","være - be","våre - our","ytre - outer / external","ønsker - wants / wishes","øyeblikket - the moment","å - to (infinitive marker)"]`;
 var noLM =`{"a":{"start":0,"end":18},"b":{"start":19,"end":36},"d":{"start":37,"end":59},"e":{"start":60,"end":70},"f":{"start":71,"end":113},"g":{"start":114,"end":128},"h":{"start":129,"end":150},"i":{"start":151,"end":158},"j":{"start":159,"end":163},"k":{"start":164,"end":189},"l":{"start":190,"end":207},"m":{"start":208,"end":238},"n":{"start":239,"end":248},"o":{"start":249,"end":260},"p":{"start":261,"end":269},"r":{"start":270,"end":283},"s":{"start":284,"end":341},"t":{"start":342,"end":365},"u":{"start":366,"end":376},"v":{"start":377,"end":396},"y":{"start":397,"end":397},"ø":{"start":398,"end":399},"å":{"start":400,"end":400}}`;
@@ -235,15 +234,9 @@ var daDiction=`["administrerende - managing / executive","adoptere - adopt","af 
 var daLM =`{"a":{"start":0,"end":17},"b":{"start":18,"end":36},"c":{"start":37,"end":37},"d":{"start":38,"end":60},"e":{"start":61,"end":70},"f":{"start":71,"end":112},"g":{"start":113,"end":124},"h":{"start":125,"end":142},"i":{"start":143,"end":151},"j":{"start":152,"end":155},"k":{"start":156,"end":177},"l":{"start":178,"end":198},"m":{"start":199,"end":231},"n":{"start":232,"end":244},"o":{"start":245,"end":258},"p":{"start":259,"end":270},"r":{"start":271,"end":286},"s":{"start":287,"end":342},"t":{"start":343,"end":362},"u":{"start":363,"end":370},"v":{"start":371,"end":389},"y":{"start":390,"end":390},"ø":{"start":391,"end":392}}`;
 
 
-
 /*things to adjust*/
 var EHIMGURL;
-if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = 'https://ik.imagekit.io/pnscgil5d/anc/m/';
-}
-else{
-    EHIMGURL = './jiveRPG/anc/m/';
-}
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'anc/m/';}else{EHIMGURL = storyline.BIMG+'anc/m/';}
 const svisual=['1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg','1f.jpg','1g.jpg'];
 const ImgRo = 1;
 const oImg = '5.jpg';
@@ -251,7 +244,8 @@ const ehbmtitle = 'LEADERSHIP';
 
 storyline.intro = `<p>A conversation/discussion on the concept of 'Leadership' as seen/can be learned from watching movies.</p>
 <div style="font-size:smaller;">
-<p>Credits:</p>
+<p>Total Slides:<br> 74</p>
+<p>Voice Available:<br>-</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Translation:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li><li><a href="https://grok.com" target="_blank">Grok</a></li></ul></p>
 <p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
@@ -261,162 +255,4 @@ storyline.clang = storyline.deflang = 'da';
 /*eo things to adjust*/
 
 
-var reperc = {
-    starter:false,
-    storylines:[],
-    starterParagraph:false,
-    bmidx:false,
-    storyvis:svisual,
-    setBookmark:function(x){
-        if(reperc.localstorage == false){return;}
-        reperc.bookmark[reperc.bmidx].cpar = x;
-        reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark));
-    },
-    initBookmark:function(){
-        if (typeof localStorage == "object"){
-            reperc.localstorage =  localStorage;
-        } else if (typeof globalStorage == "object"){
-            reperc.localstorage = globalStorage[location.host];
-        } else {
-            reperc.localstorage = false;
-        }
-        if(reperc.localstorage !== false){
-            reperc.bookmark = reperc.localstorage.getItem('southSideBM');
-            if(reperc.bookmark == null){
-                reperc.bookmark = [];
-                reperc.bmidx = 0;
-                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
-            }
-            else{
-                reperc.bookmark = JSON.parse(reperc.bookmark);
-                for(var i=0;i<reperc.bookmark.length;i++){
-                    if(reperc.bookmark[i].title == ehbmtitle){
-                        reperc.starterParagraph = reperc.bookmark[i].cpar;
-                        reperc.bmidx = i;
-                        break;
-                    }
-                }
-                if(reperc.bmidx === false){
-                    reperc.bmidx = reperc.bookmark.length;
-                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
-                }
-            }
-        }
-    },
-    initDictionary:function(){
-        daDiction = JSON.parse(daDiction);
-        reperc.daLM = JSON.parse(daLM);
-				
-		noDiction = JSON.parse(noDiction);
-        reperc.noLM = JSON.parse(noLM);
-    },
-    initStory:function(){
-        reperc.initBookmark();
-        reperc.initDictionary();
-        reperc.storyvidx = [];
-        for(var i=0;i<reperc.storyvis.length;i++){
-            reperc.storyvidx[reperc.storyvidx.length] = i;
-        }
-        textSt = textSt.split('<muoborder>');
-        for(var i=0;i<textSt.length;i++){
-            textSt[i] = textSt[i].trim();
-            if(textSt[i] == '') continue;
-            reperc.storylines[i] = [];
-            textSt[i] = textSt[i].split('\n');
-            for(var ix=0;ix<textSt[i].length;ix++){
-                textSt[i][ix] = textSt[i][ix].trim();
-                if(textSt[i][ix] == '') continue;
-                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
-            }
-        }
-	},
-    nextHdlr:function(x){
-      if(x%ImgRo == 0){          
-          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-          var stvi = reperc.storyvidx[stvidx];
-          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-          reperc.storyvidx.splice(stvidx,1);
-          if(!reperc.storyvidx.length){
-              for(var i=0;i<reperc.storyvis.length;i++){
-                  reperc.storyvidx[reperc.storyvidx.length] = i;
-              }
-          }
-          reperc.setBookmark(x);
-      }
-    },
-    rp:function(){
-        storyline.current_chap = reperc.starter;
-        if(reperc.starterParagraph !== false){
-          storyline.unfold_ = true;
-          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
-        }
-        else {
-          storyline.chapters[storyline.current_chap].unfold();
-        }
-        $('#text5').css('object-fit','contain');
-        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-        var stvi = reperc.storyvidx[stvidx];
-        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-        reperc.storyvidx.splice(stvidx,1);
-        
-        document.addEventListener('unfoldx', e => {
-            reperc.nextHdlr(e.detail);          
-        });
-  }
-};
-var chidx;
-var n;
-
-reperc.starter = 1;
-config = {type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};
-chidx = storyline.addChapter(config);
-
-reperc.initStory();
-config = {type:'narration',narration:false};
-n = new narration();
-for(var i=0;i<reperc.storylines[1].length;i++){
-    //en,ru,sv,da,no,fi
-	n.addNarration(reperc.storylines[0][i],null,null,reperc.storylines[2][i],reperc.storylines[1][i],null);
-}
-n.illustration = EHIMGURL+oImg;
-config.narration = n;
-chidx = storyline.addChapter(config);
-
-storyline.dictionfn = function(t,l){
-    $('#dictionary').remove();
-    $('.txtfrg.inq').removeClass('inq');
-    const pos = $(l).offset();
-    $(l).addClass('inq');
-    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
-    t = t +' - ';
-    let xx = t[0].toLowerCase();
-
-    if(storyline.clang == 'da'){
-        if (!reperc.daLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){
-            if(daDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-				return;
-    }
-	if(storyline.clang == 'no'){
-        if (!reperc.noLM[xx]){
-            window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){
-            if(noDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        window.open('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-};
-$('#text5').prop('src',EHIMGURL+oImg);
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof svDiction!=='undefined'&&svDiction!=''){svDiction=JSON.parse(svDiction);reperc.svLM=JSON.parse(svLM);reperc.avdi++}if(typeof noDiction!=='undefined'&&noDiction!=''){noDiction=JSON.parse(noDiction);reperc.noLM=JSON.parse(noLM);reperc.avdi++}if(typeof ruDiction!=='undefined'&&ruDiction!=''){ruDiction=JSON.parse(ruDiction);reperc.ruLM=JSON.parse(ruLM);reperc.avdi++}if(typeof daDiction!=='undefined'&&daDiction!=''){daDiction=JSON.parse(daDiction);reperc.daLM=JSON.parse(daLM);reperc.avdi++}if(typeof fiDiction!=='undefined'&&fiDiction!=''){fiDiction=JSON.parse(fiDiction);reperc.fiLM=JSON.parse(fiLM);reperc.avdi++}storyline.snd={};if(typeof svSND!=='undefined'&&svSND.length){storyline.snd.sv={};storyline.snd.sv.p=storyline.sndURL+svSND[0];svSND.splice(0,1);storyline.snd.sv.t=svSND}if(typeof noSND!=='undefined'&&noSND.length){storyline.snd.no={};storyline.snd.no.p=storyline.sndURL+noSND[0];noSND.splice(0,1);storyline.snd.no.t=noSND}if(typeof daSND!=='undefined'&&daSND.length){storyline.snd.da={};storyline.snd.da.p=storyline.sndURL+daSND[0];daSND.splice(0,1);storyline.snd.da.t=daSND}if(typeof fiSND!=='undefined'&&fiSND.length){storyline.snd.fi={};storyline.snd.fi.p=storyline.sndURL+fiSND[0];fiSND.splice(0,1);storyline.snd.fi.t=fiSND}if(typeof ruSND!=='undefined'&&ruSND.length){storyline.snd.ru={};storyline.snd.ru.p=storyline.sndURL+ruSND[0];ruSND.splice(0,1);storyline.snd.ru.t=ruSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}$('#text5').css('object-fit','contain');var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],null,null,reperc.storylines[2][i],reperc.storylines[1][i],null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='sv'){if(typeof reperc.svLM==='undefined'){reperc.xDict(pos);return}if(!reperc.svLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){if(svDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='no'){if(typeof reperc.noLM==='undefined'){reperc.xDict(pos);return}if(!reperc.noLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){if(noDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='da'){if(typeof reperc.daLM==='undefined'){reperc.xDict(pos);return}if(!reperc.daLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){if(daDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='ru'){if(typeof reperc.ruLM==='undefined'){reperc.xDict(pos);return}if(!reperc.ruLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){if(ruDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fi'){if(typeof reperc.fiLM==='undefined'){reperc.xDict(pos);return}if(!reperc.fiLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){if(fiDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);

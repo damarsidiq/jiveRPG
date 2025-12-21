@@ -56,42 +56,32 @@ Harjaan hampaani joka ilta ennen nukkumaanmenoa.
 Pesin molemmat korvani, suuni ja kasvoni myös.  
 Teen EFT-Qigong-taputusta otsassani, poskissani, silmien alapuolella, leuassa ja nenän alapuolella.  
 Harjoittelen käsipainolla vahvistaakseni hauiksiani, käsiäni ja otteitani.  
-Pesin hiukseni useita kertoja viikossa.
-`;
+Pesin hiukseni useita kertoja viikossa.`;
 
-var svDiction='';
-var svLM='';
-
-var ruDiction='';
-var ruLM='';
-
-var noDiction='';
-var noLM='';
-
-var daDiction='';
-var daLM='';
-
-var fiDiction='';
-var fiLM='';
-
+var svDiction=`["andningskanalerna - the airways","andningsövningar - breathing exercises","ansikte - face","armarna - the arms","att - to/that","av - of/from","balans - balance","benen - the legs","biceps - biceps","borstar - brushes","båda - both","bönerna - the prayers","dagliga - daily","dagligen - daily","de - they/the","en - a/one","fem - five","flera - several","fokusera - focus","för - for","genom - through","greppet - the grip","gånger - times","går - goes, walk","gör - does / makes","haka - chin","hantel - dumbbell","hår - hair","händerna - the hands","innan - before","inre - 'inner, internal'","jag - i / me","kinder - cheeks","knäet - the knee","konditionsträning - cardio training","kväll - evening","magen - the stomach","med - with","medvetandenivå - level of consciousness","min - my","mina - my","mitt - my / mine","mun - mouth","näsan - the nose","och - and","också - also","panna - forehead","på - on/upon","rena - pure","rörelsen - movement","som - as/like","steg - steps","stärka - strengthen","sängs - beds","till - to","tillräckligt - 'enough, sufficient'","tränar - trains","träning - training","tusentals - thousands","tvättar - washing","tänderna - the teeth","under - 'under, during'","utanför - outside","varje - every","veckan - the week","ögat - the eye","öron - ears"]`;
+var svLM=`{"a":{"start":0,"end":5},"b":{"start":6,"end":11},"d":{"start":12,"end":14},"e":{"start":15,"end":15},"f":{"start":16,"end":19},"g":{"start":20,"end":24},"h":{"start":25,"end":28},"i":{"start":29,"end":30},"j":{"start":31,"end":31},"k":{"start":32,"end":35},"m":{"start":36,"end":42},"n":{"start":43,"end":43},"o":{"start":44,"end":45},"p":{"start":46,"end":47},"r":{"start":48,"end":49},"s":{"start":50,"end":53},"t":{"start":54,"end":60},"u":{"start":61,"end":62},"v":{"start":63,"end":64},"ö":{"start":65,"end":66}}`;
+var ruDiction=`["баланса - balance","бицепсы - biceps","в - in","вне - outside","внутренних - internal","волосы - hair","выполняю - i perform","гантелей - with dumbbells","глазом - eye","движении - on the movement","делаю - do","дерева - tree","для - for","достаточное - a sufficient","дыхательных - breathing","ежедневно - every day","ежедневных - daily","живота - of the belly","занимаюсь - engage","зубы - teeth","и - and","йогой - yoga","каждую - every","как - how","капалабхати - kapalabhati","кардио - cardio","коленей - of the knees","количество - number","лбу - forehead","лицо - face","медитации - meditation","молитв - prayers","мою - my","на - on / to","неделю - a week","несколько - several","ног - legs","носом - nose","ночь - night","оба - both","осознания - awareness","очищения - cleansing","перед - before / in front of","по - on","под - under","подбородку - chin","позой - in a pose","постукивая - tapping","прохожу - i go through","путей - pathways","раз - once","ребенка - child","рот - mouth","рук - of hands","руки - arms","с - with","свои - my","сном - with sleep","сосредотачиваясь - focusing","тоже - too","тренировка - training","тысячи - thousands","укрепить - to strengthen","упражнений - of exercises","уровня - level","уха - ears","хват - grip","цигун - qigong","чищу - i clean","чтобы - in order to / so that","шагов - of steps","щекам - cheeks","я - i"]`;
+var ruLM=`{"б":{"start":0,"end":1},"в":{"start":2,"end":6},"г":{"start":7,"end":8},"д":{"start":9,"end":14},"е":{"start":15,"end":16},"ж":{"start":17,"end":17},"з":{"start":18,"end":19},"и":{"start":20,"end":20},"й":{"start":21,"end":21},"к":{"start":22,"end":27},"л":{"start":28,"end":29},"м":{"start":30,"end":32},"н":{"start":33,"end":38},"о":{"start":39,"end":41},"п":{"start":42,"end":49},"р":{"start":50,"end":54},"с":{"start":55,"end":58},"т":{"start":59,"end":61},"у":{"start":62,"end":65},"х":{"start":66,"end":66},"ц":{"start":67,"end":67},"ч":{"start":68,"end":69},"ш":{"start":70,"end":70},"щ":{"start":71,"end":71},"я":{"start":72,"end":72}}`;
+var daDiction=`["af - of / by / from","aften - evening","ansigtet - the face","armene - the arms","balance - balance","barnets - child's","begge - both","benene - the legs","bevidsthedsniveauet - the level of consciousness","bevægelsen - the movement","biceps - biceps","bønner - prayers","børster - brushes","cardio - cardio","daglige - daily","dagligt - daily","de - they / you (plural/formal)","eft-qigong - eft-qigong","en - a / an / one","flere - more","fokusere - focus","før - before","gange - times (multiplication)","grebet - grip","går - goes / walks","hagen - chin","hver - every","hænderne - the hands","håndvægt - dumbbell","hår - hair","indre - inner / internal","jeg - i","kapalbhati - kapalbhati","kinder - cheeks","knæet - the knee","laver - makes","maven - the abdomen","med - with","meditation - meditation","min - my","mine - my / mine","mit - my","mund - mouth","næsen - the nose","og - and","også - also / too","om - about / if / around","pande - forehead","på - on / in / at","rense - cleanse","respirationskanalen - the respiratory channel","sengetid - bedtime","skridt - steps","som - who / which / that / as","stilling - position","styrke - strength","tapping - tapping","tilstrækkelig - sufficient","træner - trains","træning - training","træstilling - pose","tusindvis - thousands","tænder - teeth","uden - without","ugen - the week","under - under","vasker - washes","ved - know(s) / by / at","yoga - yoga","øjet - the eye","ører - ears","åndedrætsarbejde - breathing work"]`;
+var daLM=`{"a":{"start":0,"end":3},"b":{"start":4,"end":12},"c":{"start":13,"end":13},"d":{"start":14,"end":16},"e":{"start":17,"end":18},"f":{"start":19,"end":21},"g":{"start":22,"end":24},"h":{"start":25,"end":29},"i":{"start":30,"end":30},"j":{"start":31,"end":31},"k":{"start":32,"end":34},"l":{"start":35,"end":35},"m":{"start":36,"end":42},"n":{"start":43,"end":43},"o":{"start":44,"end":46},"p":{"start":47,"end":48},"r":{"start":49,"end":50},"s":{"start":51,"end":55},"t":{"start":56,"end":62},"u":{"start":63,"end":65},"v":{"start":66,"end":67},"y":{"start":68,"end":68},"ø":{"start":69,"end":70},"å":{"start":71,"end":71}}`;
+var noDiction=`["ansiktet - face","armene - arms","av - of / from / by","balanse - balance","barnets - child's","begge - both","bena - legs","bevegelsen - the movement","bevissthetsnivået - level of consciousness","bicepsene - biceps","bønnene - prayers","cardio - cardio","daglig - daily","daglige - daily","de - they / them","en - a / an / one","flere - several","fokusere - focus","før - before","ganger - times","gjør - makes","grepene - grips","går - goes / walks","haken - chin","hendene - hands","hver - every","håret - hair","indre - inner","jeg - i","kapalbhati - kapalbhati","kinnene - cheeks","kneet - knee","kveld - evening","legger - lays","magen - stomach","manual - manual","med - with","meditasjon - meditation","meg - me","munnen - mouth","nesen - nose","og - and","også - also / too","pannen - forehead","posisjon - position","pusser - brushes","pustearbeid - breathwork","på - on / at / in","rense - cleanse","respirasjonskanalene - the respiratory tracts","skritt - steps","som - that / which / who","styrke - strengthening","tapping - taps","tennene - teeth","tilstrekkelig - sufficient","trener - trains","trening - training","treposisjon - tree pose","tusenvis - thousands","uken - week","under - during","utenom - outside","vasker - washes","ved - by / at / about","yoga - yoga","ørene - ears","øyet - eye","å - to (infinitive marker)"]`;
+var noLM=`{"a":{"start":0,"end":2},"b":{"start":3,"end":10},"c":{"start":11,"end":11},"d":{"start":12,"end":14},"e":{"start":15,"end":15},"f":{"start":16,"end":18},"g":{"start":19,"end":22},"h":{"start":23,"end":26},"i":{"start":27,"end":27},"j":{"start":28,"end":28},"k":{"start":29,"end":32},"l":{"start":33,"end":33},"m":{"start":34,"end":39},"n":{"start":40,"end":40},"o":{"start":41,"end":42},"p":{"start":43,"end":47},"r":{"start":48,"end":49},"s":{"start":50,"end":52},"t":{"start":53,"end":59},"u":{"start":60,"end":62},"v":{"start":63,"end":64},"y":{"start":65,"end":65},"ø":{"start":66,"end":67},"å":{"start":68,"end":68}}`;
+var fiDiction=`["alapuolella - underneath","askelia - of steps","eft-qigong-taputusta - eft-qigong tapping","ennen - before","hampaani - my teeth","harjaan - i brush","harjoittelen - i practice","hauiksiani - my biceps","hengitysharjoituksia - breathing exercises","hengityskanavat - airways","hiukseni - my hair","ilta - evening","ja - and","jalkojen - of the legs","joka - every","joogaa - yoga","kapalbhati-harjoitusta - kapalbhati practice","kasvoni - my face","kertoja - times","keskittymällä - by concentrating","korvani - my ears","käsipainolla - with dumbbells","käsiäni - my arms","kävelen - i walk","lapsiasentoa - child's pose","leuassa - on my chin","lihaskuntotreeninä - as strength training","liikkeeseen - movement of the abdomen","meditaatiota - meditation","molemmat - both","myös - also","nenän - on my nose","nukkumaanmenoa - going to bed","otsassani - on my forehead","otteitani - my grips","pesin - clean","polville - on my knees","poskissani - on my cheeks","puhdistaakseni - to cleanse","puu-asentoa - tree pose","päivittäin - daily","päivittäisen - daily","riittävästi - sufficiently","rukouksen - prayers","silmien - around my eyes","sisäiset - the internal","suuni - my mouth","sydän - heart","tasapainon - balance","tason - level","teen - i","tietoisuuden - awareness","tuhansia - thousands","ulkopuolella - outside","useita - several","vahvistaakseni - to strengthen","vatsan - on the","viiden - of five","viikossa - a week","vuoksi - for"]`;
+var fiLM=`{"a":{"start":0,"end":1},"e":{"start":2,"end":3},"h":{"start":4,"end":10},"i":{"start":11,"end":11},"j":{"start":12,"end":15},"k":{"start":16,"end":23},"l":{"start":24,"end":27},"m":{"start":28,"end":30},"n":{"start":31,"end":32},"o":{"start":33,"end":34},"p":{"start":35,"end":41},"r":{"start":42,"end":43},"s":{"start":44,"end":47},"t":{"start":48,"end":52},"u":{"start":53,"end":54},"v":{"start":55,"end":59}}`;
 
 var svSND = ['Msv.mp3',[0.000000,7.202914,0],[7.489987,14.353634,1],[14.823389,21.086793,2],[21.556548,27.376294,3],[28.002635,32.021652,4],[32.674090,37.423838,5],[37.815301,45.748946,6],[46.244799,52.456007,7],[52.821373,56.501122,8]];
 
 /*things to adjust*/
 var EHIMGURL;
-if(storyline.gtUrl.indexOf('https:') === 0){
-    EHIMGURL = jovuniverse.EHIMGURL+'up/';
-}
-else{
-    EHIMGURL = storyline.BIMG+'up/';
-}
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'up/';}else{EHIMGURL = storyline.BIMG+'up/';}
 const svisual = ['a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','n.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','y.jpg','z.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg'];
 const ImgRo = 1;
 const oImg = 'k.jpg';
 const ehbmtitle = 'Srtn';
 
-storyline.intro = `<p>Routine listing. 9 slides in total.</p>
+storyline.intro = `<p>Routine listing.</p>
 <div style="font-size:smaller;">
+<p>Total Slides:<br> 9</p>
 <p>Voice Available:<br>SV</p>
 <p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translations:<ul><li><a href="https://www.easemate.ai/ai-translator" target="_blank">EaseMate AI</a></li>
@@ -103,269 +93,4 @@ storyline.lang = ['EN','SV','NO','DA','FI','RU'];
 storyline.clang = storyline.deflang = 'sv';
 /*eo things to adjust*/
 
-
-var reperc = {
-    starter:false,
-    storylines:[],
-    starterParagraph:false,
-    bmidx:false,
-    storyvis:svisual,
-    setBookmark:function(x){
-        if(reperc.localstorage == false){return;}
-        reperc.bookmark[reperc.bmidx].cpar = x;
-        reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark));
-    },
-    initBookmark:function(){
-        if (typeof localStorage == "object"){
-            reperc.localstorage =  localStorage;
-        } else if (typeof globalStorage == "object"){
-            reperc.localstorage = globalStorage[location.host];
-        } else {
-            reperc.localstorage = false;
-        }
-        if(reperc.localstorage !== false){
-            reperc.bookmark = reperc.localstorage.getItem('southSideBM');
-            if(reperc.bookmark == null){
-                reperc.bookmark = [];
-                reperc.bmidx = 0;
-                reperc.bookmark[0] = {title:ehbmtitle,cpar:0};
-            }
-            else{
-                reperc.bookmark = JSON.parse(reperc.bookmark);
-                for(var i=0;i<reperc.bookmark.length;i++){
-                    if(reperc.bookmark[i].title == ehbmtitle){
-                        reperc.starterParagraph = reperc.bookmark[i].cpar;
-                        reperc.bmidx = i;
-                        break;
-                    }
-                }
-                if(reperc.bmidx === false){
-                    reperc.bmidx = reperc.bookmark.length;
-                    reperc.bookmark[reperc.bmidx] = {title:ehbmtitle,cpar:0};
-                }
-            }
-        }
-    },
-    avdi:0,
-    initDictionary:function(){
-        if(typeof svDiction !== 'undefined' && svDiction!=''){
-          svDiction = JSON.parse(svDiction);
-          reperc.svLM = JSON.parse(svLM);   reperc.avdi++;
-        }        
-        if(typeof noDiction !== 'undefined' && noDiction!=''){
-          noDiction = JSON.parse(noDiction);
-          reperc.noLM = JSON.parse(noLM); reperc.avdi++;
-        }        
-        if(typeof ruDiction !== 'undefined' && ruDiction!=''){
-          ruDiction = JSON.parse(ruDiction);
-          reperc.ruLM = JSON.parse(ruLM); reperc.avdi++;
-        }        
-        if(typeof daDiction !== 'undefined' && daDiction!=''){
-          daDiction = JSON.parse(daDiction);
-          reperc.daLM = JSON.parse(daLM); reperc.avdi++;
-        }        
-        if(typeof fiDiction !== 'undefined' && fiDiction!=''){
-          fiDiction = JSON.parse(fiDiction);
-          reperc.fiLM = JSON.parse(fiLM); reperc.avdi++;
-        }
-        
-        storyline.snd = {};
-        if(typeof svSND !== 'undefined' && svSND.length){            
-            storyline.snd.sv = {};
-            storyline.snd.sv.p = storyline.sndURL+svSND[0];
-            svSND.splice(0,1);
-            storyline.snd.sv.t = svSND;
-        }
-        if(typeof noSND !== 'undefined' && noSND.length){            
-            storyline.snd.no = {};
-            storyline.snd.no.p = storyline.sndURL+noSND[0];
-            noSND.splice(0,1);
-            storyline.snd.no.t = noSND;
-        }
-        if(typeof daSND !== 'undefined' && daSND.length){            
-            storyline.snd.da = {};
-            storyline.snd.da.p = storyline.sndURL+daSND[0];
-            daSND.splice(0,1);
-            storyline.snd.da.t = daSND;
-        }
-        if(typeof fiSND !== 'undefined' && fiSND.length){            
-            storyline.snd.fi = {};
-            storyline.snd.fi.p = storyline.sndURL+fiSND[0];
-            fiSND.splice(0,1);
-            storyline.snd.fi.t = fiSND;
-        }
-        if(typeof ruSND !== 'undefined' && ruSND.length){            
-            storyline.snd.ru = {};
-            storyline.snd.ru.p = storyline.sndURL+ruSND[0];
-            ruSND.splice(0,1);
-            storyline.snd.ru.t = ruSND;
-        }
-    },
-    initStory:function(){
-        reperc.initBookmark();
-        reperc.initDictionary();
-        reperc.storyvidx = [];
-        for(var i=0;i<reperc.storyvis.length;i++){
-            reperc.storyvidx[reperc.storyvidx.length] = i;
-        }
-        textSt = textSt.split('<muoborder>');
-        for(var i=0;i<textSt.length;i++){
-            textSt[i] = textSt[i].trim();
-            if(textSt[i] == '') continue;
-            reperc.storylines[i] = [];
-            textSt[i] = textSt[i].split('\n');
-            for(var ix=0;ix<textSt[i].length;ix++){
-                textSt[i][ix] = textSt[i][ix].trim();
-                if(textSt[i][ix] == '') continue;
-                reperc.storylines[i][reperc.storylines[i].length] = textSt[i][ix];
-            }
-        }
-	},
-    nextHdlr:function(x){
-      if(x%ImgRo == 0){
-          var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-          var stvi = reperc.storyvidx[stvidx];
-          storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-          reperc.storyvidx.splice(stvidx,1);
-          if(!reperc.storyvidx.length){
-              for(var i=0;i<reperc.storyvis.length;i++){
-                  reperc.storyvidx[reperc.storyvidx.length] = i;
-              }
-          }
-          reperc.setBookmark(x);
-      }
-    },
-    rp:function(){
-        storyline.current_chap = reperc.starter;
-        if(reperc.starterParagraph !== false){
-          storyline.unfold_ = true;
-          storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph);
-        }
-        else {
-          storyline.chapters[storyline.current_chap].unfold();
-        }
-        var stvidx = jovuniverse.getrand(0,reperc.storyvidx.length);
-        var stvi = reperc.storyvidx[stvidx];
-        storyline.chapters[storyline.current_chap].elements.narration.illustration = EHIMGURL+reperc.storyvis[stvi];
-        reperc.storyvidx.splice(stvidx,1);
-
-        document.addEventListener('unfoldx', e => {
-            reperc.nextHdlr(e.detail);
-        });
-    },    
-    xDict:function(p){
-        $('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq');
-    },
-    wo:function(r){
-      window.open(r, '_blank');
-    }
-};
-var chidx;
-var n;
-
-reperc.starter = 1;
-config = {type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};
-chidx = storyline.addChapter(config);
-
-reperc.initStory();
-config = {type:'narration',narration:false};
-n = new narration();
-for(var i=0;i<reperc.storylines[1].length;i++){
-	//en,ru,sv,da,no,fi
-	n.addNarration(reperc.storylines[0][i],reperc.storylines[1][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i],reperc.storylines[5][i]);
-}
-n.illustration = EHIMGURL+oImg;
-config.narration = n;
-chidx = storyline.addChapter(config);
-
-storyline.dictionfn = function(t,l){
-      $('#dictionary').remove();
-    $('.txtfrg.inq').removeClass('inq');
-    const pos = $(l).offset();
-    $(l).addClass('inq');
-    if(!reperc.avdi){reperc.xDict(pos);return;}
-    
-    t = t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu, '');
-    t = t +' - ';
-    let xx = t[0].toLowerCase();
-    
-    if(storyline.clang == 'sv'){
-        if(typeof reperc.svLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.svLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){
-            if(svDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'no'){
-        if(typeof reperc.noLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.noLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){
-            if(noDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'da'){
-        if(typeof reperc.daLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.daLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){
-            if(daDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'ru'){
-        if(typeof reperc.ruLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.ruLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){
-            if(ruDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-    else if(storyline.clang == 'fi'){
-        if(typeof reperc.fiLM === 'undefined'){reperc.xDict(pos);return;}
-        if (!reperc.fiLM[xx]){
-            reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-            return;
-        }
-        for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){
-            if(fiDiction[i].indexOf(t) === 0){
-                $('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');
-                return;
-            }
-        }
-        reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');
-    }
-};
-$('#text5').prop('src',EHIMGURL+oImg);
-
-var cssa,cssb,cssc;        
-cssa = document.createElement('style');
-cssa.type = "text/css";
-document.getElementsByTagName("BODY")[0].appendChild(cssa);
-cssb = cssa.sheet;
-cssc = '#dialoguebubble{min-height: 160px;}';
-cssb.insertRule(cssc, cssb.cssRules.length);
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof svDiction!=='undefined'&&svDiction!=''){svDiction=JSON.parse(svDiction);reperc.svLM=JSON.parse(svLM);reperc.avdi++}if(typeof noDiction!=='undefined'&&noDiction!=''){noDiction=JSON.parse(noDiction);reperc.noLM=JSON.parse(noLM);reperc.avdi++}if(typeof ruDiction!=='undefined'&&ruDiction!=''){ruDiction=JSON.parse(ruDiction);reperc.ruLM=JSON.parse(ruLM);reperc.avdi++}if(typeof daDiction!=='undefined'&&daDiction!=''){daDiction=JSON.parse(daDiction);reperc.daLM=JSON.parse(daLM);reperc.avdi++}if(typeof fiDiction!=='undefined'&&fiDiction!=''){fiDiction=JSON.parse(fiDiction);reperc.fiLM=JSON.parse(fiLM);reperc.avdi++}storyline.snd={};if(typeof svSND!=='undefined'&&svSND.length){storyline.snd.sv={};storyline.snd.sv.p=storyline.sndURL+svSND[0];svSND.splice(0,1);storyline.snd.sv.t=svSND}if(typeof noSND!=='undefined'&&noSND.length){storyline.snd.no={};storyline.snd.no.p=storyline.sndURL+noSND[0];noSND.splice(0,1);storyline.snd.no.t=noSND}if(typeof daSND!=='undefined'&&daSND.length){storyline.snd.da={};storyline.snd.da.p=storyline.sndURL+daSND[0];daSND.splice(0,1);storyline.snd.da.t=daSND}if(typeof fiSND!=='undefined'&&fiSND.length){storyline.snd.fi={};storyline.snd.fi.p=storyline.sndURL+fiSND[0];fiSND.splice(0,1);storyline.snd.fi.t=fiSND}if(typeof ruSND!=='undefined'&&ruSND.length){storyline.snd.ru={};storyline.snd.ru.p=storyline.sndURL+ruSND[0];ruSND.splice(0,1);storyline.snd.ru.t=ruSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],reperc.storylines[1][i],reperc.storylines[2][i],reperc.storylines[4][i],reperc.storylines[3][i],reperc.storylines[5][i])}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='sv'){if(typeof reperc.svLM==='undefined'){reperc.xDict(pos);return}if(!reperc.svLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){if(svDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='no'){if(typeof reperc.noLM==='undefined'){reperc.xDict(pos);return}if(!reperc.noLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){if(noDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='da'){if(typeof reperc.daLM==='undefined'){reperc.xDict(pos);return}if(!reperc.daLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){if(daDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='ru'){if(typeof reperc.ruLM==='undefined'){reperc.xDict(pos);return}if(!reperc.ruLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){if(ruDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fi'){if(typeof reperc.fiLM==='undefined'){reperc.xDict(pos);return}if(!reperc.fiLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){if(fiDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);var cssa,cssb,cssc;cssa=document.createElement('style');cssa.type="text/css";document.getElementsByTagName("BODY")[0].appendChild(cssa);cssb=cssa.sheet;cssc='#dialoguebubble{min-height: 160px;}';cssb.insertRule(cssc,cssb.cssRules.length);
