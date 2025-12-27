@@ -1,15 +1,5 @@
 [
   ["Changeling","en,es,pt","DOMDrama"],["Language-Momentum","en,es,de,nl","ai-investigation"],
   ["Cat-and-Mouse","en,es,fr","DOMDrama"],
-  ["El-Diario","en,de,es,fr,it","beginner"],["La-Cabana","en,de,es,fr,it","beginner"],
-  ["eastBernard","en,de,es,fr,it","beginner"],["Introduzione","en,de,es,fr,it,tr,mt","beginner"],["easternRoutine","de,es,fr,it","beginner"],
-  ["Time-and-Space","en,fr,it","ai-investigation"],["Walking-Exercise","en,es,de","ai-investigation"],
-  ["Subtext","en,it","ai-investigation"],["Count-Rock","en,it","ai-investigation"],
-  ["Manipulation","en,de","ai-investigation"],["Dogs-and-Cats","en,de","ai-investigation"],
-  ["Let-Your-Action-Speak","en,de","learning-story"],["Power-of-Consistency","en,de","learning-story"],
-  ["Literature-Goes-to-Campus","en,fr,it","ai-investigation"],["Past-Life-Regression","es,en","ai-investigation"],["Beasts-and-Prince","es,en","wisdom-tale"],
-  ["The-Axe","es,en","wisdom-tale"],["Colloquium-Imaginarium","es,en","learning-story"],
-  ["Rosicrucian","es,en","ai-investigation"],["BBCMundo-Transcript","es,en","noticias-mundiales"],["El-Numero-Cuatro","es,en","ai-investigation"],
-  ["Maxwell-Chase","es,en","travel-story"],["The-Power-of-a-Focus-Mind","es,en","learning-story"],["Northern-Dreams","es,en","sleep-story"],
-  ["Northern-Dreams-2","es,en","sleep-story"],["Northern-Dreams-3","es,en","sleep-story"]
+  ["El-Diario","en,de,es,fr,it","beginner"],["La-Cabana","en,de,es,fr,it","beginner"],["eharch1,eharch2,eharch3"]
 ]
