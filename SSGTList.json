@@ -1,8 +1,5 @@
 [
   ["Įvadas","en,lt,hu,et,lv,uk,be,pl","beginner"],["Happy-to-Believe","en,sv","ai-chat"],
   ["Watchers","en,sv,ru","culture"],["Owlman","en,sv,no,da,fi,ru","beginner"],
-  ["Bergman","en,sv,no,da,fi,ru","beginner"],["Tidskriften","en,sv,no,da,fi,ru","beginner"],["Stugan","en,sv,no,da,fi,ru","beginner"],  
-  ["Bernard","en,sv,no,da,fi,ru","beginner"],["Introduction","en,sv,no,da,fi,ru","beginner"],["southernRoutines","en,sv,no,da,fi,ru","beginner"],
-  ["swedishTravel","en,sv","beginner"],["Groceries","en,sv","beginner"],["CoffeeStory","en,sv","history"],["Parallel","en,sv","history"],
-  ["Meaning-of-Life","en,sv,no","cineverse"],["Leadership","en,da,no","cineverse"],["Loyalty","en,sv,ru","cineverse"]
+  ["Bergman","en,sv,no,da,fi,ru","beginner"],['ssarch1']
 ]
