@@ -117,6 +117,7 @@ storyline.intro = `<p>Aspects of languages and existence discussion.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 22</p>
 <p>Voices Available:<br>ES</p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Voices:<br>
 <a href="https://voicertool.com" target="_blank">VoicerTool</a>
 </p>

@@ -1,0 +1,151 @@
+var textSt = `All right, so that's one project i would be spending my time and coffee for.
+Next concept, since we're discussing how 'language brings freedom', which we dont really know who ever said such a thing in the first place, what about articulating a sinful act?
+I think im connecting this to erotica but other sins can also be in the mix too like violence, stealing, excess, shopping too much etc etc.
+If we read something that we dont really have a leaning towards, it sort of opened up our eyes, but if its already inside of us?
+Things that we already feel, what of it then?
+There would be some resistance+gravity towards this vague entity that are actually just literature, what's your take?
+In that perspective of transformation and expression and what it implies.
+You’re wandering into the swamp where language, desire, morality, and psychology all sit around a campfire pretending they’re not related.
+Humans really love to make this complicated, but I’ll try to keep your shoes clean.
+So: what happens when you give precise language to a sinful impulse, especially one you already feel?
+Is it liberation? Is it gasoline? Is it therapy wearing a trench coat?
+Here’s the rough truth, spoken like someone who has watched way too many of you wrestle with your own shadows
+1. Articulating something you don’t desire
+This is the easy one.
+If you read about a sin you don’t actually want, it works like exposure therapy.
+You get distance, perspective, immunity.
+You become a curious observer instead of a participant.
+Language becomes a microscope.
+No danger. Just learning.
+2. Articulating something you do desire
+This is where the currents get strong and slippery.
+When you give language to an inner impulse, the words don’t sit still. They wake things up.
+Language becomes a mirror that talks back.
+Two things can happen
+A. Illumination
+You describe it clearly, honestly, concretely.
+The desire stops feeling mythic or cosmic.
+It turns into a thing you can see, analyze, question.
+A spider in a glass jar, not a monster in the dark.
+Articulation pulls the power out of it.
+People underestimate how often naming something makes it lose half its chaos.
+This is the path of transformation.
+B. Amplification
+You describe it vividly, emotionally, sensually…
+and the desire grows because language adds color, weight, texture.
+It’s like pouring water into dough.
+This is why erotica exists.
+This is why violent writing can trigger suppressed anger.
+This is why everyone pretends “shopping blogs” are innocent but somehow end up buying shoes at midnight.
+Words are catalytic. Not neutral.
+Some desires thrive when given vocabulary.
+<muoborder>
+De acuerdo, así que ese es un proyecto en el que invertiría mi tiempo y mi café.
+Siguiente concepto, dado que estamos discutiendo cómo 'el lenguaje trae libertad', cosa que realmente no sabemos quién dijo en primer lugar, ¿qué pasa con articular un acto pecaminoso?
+Creo que estoy conectando esto con el erotismo, pero otros pecados también pueden estar en la mezcla, como la violencia, el robo, el exceso, comprar demasiado, etc., etc.
+Si leemos algo hacia lo que realmente no tenemos una inclinación, de alguna manera se nos abren los ojos, pero si ya está dentro de nosotros?
+Cosas que ya sentimos, ¿qué hay de ellas entonces?
+Habría cierta resistencia+gravedad hacia esta entidad vaga que en realidad es solo literatura, ¿cuál es tu opinión?
+En esa perspectiva de transformación y expresión y lo que implica.
+Estás entrando en el pantano donde el lenguaje, el deseo, la moralidad y la psicología se sientan alrededor de una fogata fingiendo que no están relacionados.
+A los humanos realmente les gusta complicar las cosas, pero intentaré mantener tus zapatos limpios.
+Entonces: ¿qué pasa cuando le das un lenguaje preciso a un impulso pecaminoso, especialmente a uno que ya sientes?
+¿Es liberación? ¿Es gasolina? ¿Es terapia con abrigo?
+Aquí está la cruda verdad, dicha como alguien que ha visto a demasiados de ustedes luchar con sus propias sombras.
+1. Articular algo que no deseas
+Este es el fácil.
+Si lees sobre un pecado que realmente no quieres, funciona como terapia de exposición.
+Obtienes distancia, perspectiva, inmunidad.
+Te conviertes en un observador curioso en lugar de un participante.
+El lenguaje se convierte en un microscopio.
+Sin peligro. Solo aprendizaje.
+2. Articular algo que sí deseas
+Aquí es donde las corrientes se vuelven fuertes y resbaladizas.
+Cuando le das lenguaje a un impulso interno, las palabras no se quedan quietas. Despiertan cosas.
+El lenguaje se convierte en un espejo que te responde.
+Dos cosas pueden pasar.
+A. Iluminación
+Lo describes de forma clara, honesta, concreta.
+El deseo deja de sentirse mítico o cósmico.
+Se convierte en algo que puedes ver, analizar, cuestionar.
+Una araña en un frasco de vidrio, no un monstruo en la oscuridad.
+La articulación le quita el poder.
+La gente subestima con qué frecuencia nombrar algo hace que pierda la mitad de su caos.
+Este es el camino de la transformación.
+B. Amplificación
+Lo describes de forma vívida, emocional, sensorial...
+y el deseo crece porque el lenguaje añade color, peso, textura.
+Es como verter agua en la masa.
+Por eso existe el erotismo.
+Por eso la escritura violenta puede desencadenar la ira reprimida.
+Por eso todos fingen que los "blogs de compras" son inocentes pero de alguna manera terminan comprando zapatos a medianoche.
+Las palabras son catalíticas. No neutrales.
+Algunos deseos prosperan cuando se les da vocabulario.
+<muoborder>
+Tudo bem, então este é um projeto no qual eu gastaria meu tempo e meu café.
+Próximo conceito, já que estamos discutindo como 'a linguagem traz liberdade', o que não sabemos bem quem disse tal coisa em primeiro lugar, e quanto a articular um ato pecaminoso?
+Acho que estou conectando isso ao erotismo, mas outros pecados também podem entrar na mistura, como violência, roubo, excesso, comprar demais etc. etc.
+Se lemos algo para o qual não temos realmente uma inclinação, isso de certa forma abre nossos olhos, mas se já estiver dentro de nós?
+Coisas que já sentimos, e daí?
+Haveria alguma resistência+gravidade em relação a essa entidade vaga que na verdade é apenas literatura, qual é a sua opinião?
+Nessa perspectiva de transformação e expressão e do que isso implica.
+Você está vagando pelo pântano onde a linguagem, o desejo, a moralidade e a psicologia se sentam ao redor de uma fogueira fingindo que não estão relacionados.
+Os seres humanos adoram complicar as coisas, mas vou tentar manter seus sapatos limpos.
+Então: o que acontece quando você dá uma linguagem precisa a um impulso pecaminoso, especialmente um que você já sente?
+É libertação? É gasolina? É terapia de sobretudo?
+Aqui está a verdade crua, dita como alguém que viu muitos de vocês lutando com suas próprias sombras.
+1. Articular algo que você não deseja
+Este é o fácil.
+Se você lê sobre um pecado que não quer, funciona como terapia de exposição.
+Você ganha distância, perspectiva, imunidade.
+Você se torna um observador curioso em vez de um participante.
+A linguagem se torna um microscópio.
+Sem perigo. Apenas aprendizado.
+2. Articular algo que você deseja
+É aqui que as correntes ficam fortes e escorregadias.
+Quando você dá linguagem a um impulso interno, as palavras não ficam paradas. Elas acordam coisas.
+A linguagem se torna um espelho que responde.
+Duas coisas podem acontecer.
+A. Iluminação
+Você o descreve de forma clara, honesta, concreta.
+O desejo para de se sentir mítico ou cósmico.
+Ele se transforma em algo que você pode ver, analisar, questionar.
+Uma aranha em um pote de vidro, não um monstro no escuro.
+A articulação tira o poder dele.
+As pessoas subestimam com que frequência nomear algo faz com que ele perca metade de seu caos.
+Este é o caminho da transformação.
+B. Amplificação
+Você o descreve de forma vívida, emocional, sensorial...
+e o desejo cresce porque a linguagem adiciona cor, peso, textura.
+É como despejar água na massa.
+É por isso que o erotismo existe.
+É por que a escrita violenta pode desencadear a raiva reprimida.
+É por que todos fingem que os "blogs de compras" são inocentes mas de alguma forma acabam comprando sapatos à meia-noite.
+As palavras são catalíticas. Não neutras.
+Alguns desejos prosperam quando recebem vocabulário.`;
+
+var esDiction=`["abren - open","abrigo - coat","acto - act","acuerdo - agreement","agua - water","algo - something, somewhat","alguien - someone, somebody","alguna - some","algunos - some (masculine plural)","alrededor - around","amplificación - amplification","analizar - analyze","añade - it adds","aprendizaje - learning","aquí - here","araña - spider","articulación - articulation","articular - to articulate","así - thus, so, in this way","blogs - blogs","café - coffee / cafe","camino - path, road, way","caos - chaos","catalíticas - catalytic","cierta - certain","clara - clear","color - color","como - as, like, how","cómo - how","complicar - to complicate","comprando - buying","comprar - to buy","compras - shopping","con - with","concepto - concept","concreta - concrete","conectando - connecting","convierte - converts","conviertes - you convert","corrientes - currents / common (plural)","cosa - thing","cosas - things","cósmico - cosmic","crece - grows","creo - i believe / i think","cruda - raw / harsh (feminine)","cuál - which","cuando - when","cuestionar - question","curioso - curious","da - gives","dado - given / die (dice)","das - you give","de - of, from","deja - let","demasiado - too much / too many","demasiados - too many","dentro - inside, within","describes - describes","deseas - you wish","desencadenar - to trigger / to unleash","deseo - desire / wish","deseos - wishes / desires","despiertan - they awaken","dicha - bliss","dijo - he/she/it said (from decir)","discutiendo - discussing","distancia - distance","donde - where","dos - two","el - the","ellas - they","emocional - emotional","en - in, on","entidad - entity","entonces - then, so","entrando - entering","erotismo - eroticism","es - is (from ser)","esa - that (feminine singular)","escritura - writing","ese - that (masculine)","eso - that (neuter)","especialmente - especially","espejo - mirror","está - is (from estar)","esta - this (feminine singular)","estamos - we are","están - they are, you (plural) are (from estar)","estar - to be (temporary state)","estás - are you?","este - this (masculine singular)","esto - this (neuter)","estoy - i am (from estar)","etc - etc","exceso - excess","existe - exists","exposición - exposure","expresión - expression","fácil - easy","fingen - they pretend","fingiendo - pretending","fogata - campfire","forma - way, form","frasco - jar","frecuencia - frequency","fuertes - strong (plural)","funciona - works / functions","gasolina - gasoline","gente - people","gusta - likes","ha - has (from haber)","habría - there would be, would have (from haber)","hace - makes / does / ago","hacia - towards","hay - there is, there are (from haber)","honesta - honest","humanos - humans","iluminación - enlightenment, illumination","implica - it implies","impulso - impulse","inclinación - inclination / leaning","inmunidad - immunity","inocentes - innocent","intentaré - i will try","interno - internal","invertiría - i would invest","ira - anger / wrath","la - the (feminine singular)","las - the (feminine plural)","le - to him, to her, to it, to you (formal) (indirect object pronoun)","leemos - read","lees - you read","lenguaje - language","les - to them / for them (indirect object pronoun)","liberación - liberation / release","libertad - freedom","limpios - clean","literatura - literature","lo - it / him!","los - the (masculine plural)","luchar - fight","lugar - place","manera - way, manner","mantener - to maintain / keep","masa - mass / dough / crowd","medianoche - midnight","mezcla - mix or blend","mi - my","microscopio - microscope","mitad - half","mítico - mythic","monstruo - monster","moralidad - morality","neutrales - neutral","nombrar - name","nos - us / to us / ourselves","nosotros - we, us","o - or","observador - observer","obtienes - you get / you obtain","ojos - eyes","opinión - opinion","oscuridad - darkness","otros - others (masculine plural)","palabras - words","pantano - swamp","participante - participant","pasa - happens, passes (from pasar)","pasar - to pass / to happen / to go through","pecado - sin","pecados - sins","pecaminoso - sinful","peligro - danger","pero - but","perspectiva - perspective","peso - weight","pierda - loses","poder - power / to be able","por - by, for, through","porque - because","preciso - precise","primer - first","propias - own","prosperan - they thrive / they prosper","proyecto - project","psicología - psychology","puede - he/she can / you can (formal)","pueden - can","puedes - you can (from poder)","que - that, what","qué - what","quedan - remain / are left","quién - who","quieres - you want","quietas - still / quiet","quita - it removes / it takes away","realidad - reality","realmente - really","relacionados - related","reprimida - repressed","resbaladizas - slippery","resistencia gravedad - resistance gravity","responde - responds","robo - theft / robbery","sabemos - we know","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","sensorial - sensory","sentimos - we feel","sentirse - feel","si - if","sí - yes, himself/herself/itself/themselves (reflexive after a preposition)","sientan - they sit","sientes - you feel","siguiente - following / next","sin - without","sobre - on / over / about","solo - only, alone","sombras - shadows","son - are","su - his, her, its, their, your (formal)","subestima - underestimate","sus - his, her, its, their, your (formal) (plural)","también - also, too","te - you (informal singular) (direct or indirect object pronoun)","tenemos - we have","terapia - therapy","terminan - they finish / end","textura - texture","tiempo - time, weather","todos - all (masculine plural)","trae - brings","transformación - transformation","tu - your (informal singular)","tus - your (informal plural)","un - a, an (masculine)","una - a, an (feminine)","uno - one (masculine)","ustedes - you (plural/formal)","vaga - vague","ver - to see","verdad - truth","verter - to pour","vidrio - glass","violencia - violence","violenta - violent","visto - seen","vívida - vivid (feminine)","vocabulario - vocabulary","vuelven - return","y - and","ya - already, now","zapatos - shoes"]`;
+var esLM=`{"a":{"start":0,"end":18},"b":{"start":19,"end":19},"c":{"start":20,"end":49},"d":{"start":50,"end":69},"e":{"start":70,"end":98},"f":{"start":99,"end":107},"g":{"start":108,"end":110},"h":{"start":111,"end":117},"i":{"start":118,"end":127},"l":{"start":128,"end":142},"m":{"start":143,"end":153},"n":{"start":154,"end":157},"o":{"start":158,"end":164},"p":{"start":165,"end":189},"q":{"start":190,"end":196},"r":{"start":197,"end":204},"s":{"start":205,"end":222},"t":{"start":223,"end":234},"u":{"start":235,"end":238},"v":{"start":239,"end":249},"y":{"start":250,"end":251},"z":{"start":252,"end":252}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'csh/';}else{EHIMGURL = storyline.BIMG+'csh/';}
+const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
+const ImgRo = 1;
+const oImg = '1a.jpg';
+const ehbmtitle = 'ftl';
+
+storyline.intro = `<p>"We can only be free as far as our language allows us" is the underlying premise that started this discussion.</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 41</p>
+<p>Voices Available:<br>-</p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://venice.ai/" target="_blank">Venice AI</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
+
+storyline.lang = ['EN','ES','PT'];
+storyline.clang = storyline.deflang = 'es';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof itDiction!=='undefined'&&itDiction!=''){itDiction=JSON.parse(itDiction);reperc.itLM=JSON.parse(itLM);reperc.avdi++}if(typeof frDiction!=='undefined'&&frDiction!=''){frDiction=JSON.parse(frDiction);reperc.frLM=JSON.parse(frLM);reperc.avdi++}if(typeof deDiction!=='undefined'&&deDiction!=''){deDiction=JSON.parse(deDiction);reperc.deLM=JSON.parse(deLM);reperc.avdi++}if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}storyline.snd={};if(typeof frSND!=='undefined'&&frSND.length){storyline.snd.fr={};storyline.snd.fr.p=storyline.sndURL+frSND[0];frSND.splice(0,1);storyline.snd.fr.t=frSND}if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}if(typeof itSND!=='undefined'&&itSND.length){storyline.snd.it={};storyline.snd.it.p=storyline.sndURL+itSND[0];itSND.splice(0,1);storyline.snd.it.t=itSND}if(typeof deSND!=='undefined'&&deSND.length){storyline.snd.de={};storyline.snd.de.p=storyline.sndURL+deSND[0];deSND.splice(0,1);storyline.snd.de.t=deSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();n.addCustomLang('pt');for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],null,null,null)n.cLNarr('pt',reperc.storylines[2][i])}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='it'){if(typeof reperc.itLM==='undefined'){reperc.xDict(pos);return}if(!reperc.itLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fr'){if(typeof reperc.frLM==='undefined'){reperc.xDict(pos);return}if(!reperc.frLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='de'){if(typeof reperc.deLM==='undefined'){reperc.xDict(pos);return}if(!reperc.deLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);var cssa,cssb,cssc;cssa=document.createElement('style');cssa.type="text/css";document.getElementsByTagName("BODY")[0].appendChild(cssa);cssb=cssa.sheet;cssc='#dialoguebubble{min-height: 140px;}';cssb.insertRule(cssc,cssb.cssRules.length);
