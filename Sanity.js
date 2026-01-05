@@ -61,7 +61,7 @@ const ehbmtitle = 'etymSan';
 storyline.intro = `<p>Etymology for the word 'sanity'.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 22</p>
-<p>Voices Available:<br>-</p>
+<p>Voices Available:<br>SV</p>
 <p>Translations:<br><a href="https://lumo.proton.me" target="_blank">Proton Lumo</a></p>
 <p>Voices:<br><a href="https://voicertool.com" target="_blank">VoicerTool</a></p>
 <p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;

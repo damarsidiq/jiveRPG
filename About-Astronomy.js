@@ -116,7 +116,7 @@ const ehbmtitle = 'aast';
 storyline.intro = `<p>An inquiry about astronomy's origin.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 32</p>
-<p>Voice Available:<br>-</p>
+<p>Voice Available:<br>PT-PT,PT-BR</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Voices:<br><a href="https://voicertool.com/" target="_blank">Voicertool</a></p>
 <p>Translations:<ul>

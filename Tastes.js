@@ -88,7 +88,7 @@ const ehbmtitle = 'tongue';
 storyline.intro = `<p>An inquiry about the tongue.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 36</p>
-<p>Voices Available:<br>-</p>
+<p>Voices Available:<br>DA</p>
 <p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
 <p>Translations:<br><a href="https://chat.deepseek.com" target="_blank">DeepSeek</a></p>
 <p>Voices:<br><a href="https://voicertool.com" target="_blank">VoicerTool</a></p>

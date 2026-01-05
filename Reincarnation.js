@@ -74,7 +74,7 @@ const ehbmtitle = 'newGautam';
 storyline.intro = `<p>An inquiry about the concept of Reincarnation.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 29</p>
-<p>Voices Available:<br>-</p>
+<p>Voices Available:<br>SV</p>
 <p>Translations:<br><a href="https://venice.ai" target="_blank">Venice AI</a></p>
 <p>Voices:<br><a href="https://voicertool.com" target="_blank">VoicerTool</a></p>
 <p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
