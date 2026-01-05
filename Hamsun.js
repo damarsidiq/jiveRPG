@@ -1,0 +1,111 @@
+var textSt=`From the article on Hamsun's hunger - "The influence of naturalist authors such as Émile Zola is apparent in the novel, as is his rejection of the realist tradition." how can that be shown in the work exactly?
+Zola’s fingerprints are all over 'Hunger', but Hamsun basically steals the toolbox and then throws half of it out the window.
+Here’s how both the 'influence' and the 'rejection' show up at the same time:
+1. Naturalism influence: the body as a trap
+Naturalists like Zola loved showing humans pinned under biology, poverty, hunger, sex, social decay.
+Hamsun definitely keeps that.
+His narrator is starving, hallucinating, selling his clothes, nibbling on wood shavings, drifting in and out of delirium.
+The body is constantly dragging him around like a cruel puppeteer.
+That part is classic Naturalism: human as organism, not hero.
+2. But rejection of realism: the mind melts the world
+Realists tried to present the world “as it is.”
+Hamsun laughs gently (and a bit crazily) at that.
+Instead of describing society or institutions, he dives into the narrator’s private mental weather.
+Reality warps based on how hungry he is.
+He acts noble one moment, petty the next.
+He lies for no reason. He gives away money he doesn’t have.
+He tries to write as a “calling from God” and then immediately trips on despair.
+The world is filtered entirely through his distorted consciousness.
+That’s the break from Realism. Realists want clarity.
+Hamsun gives you a mind full of cracked mirrors.
+3. Naturalist misery without Naturalist moralizing
+Zola loves explaining why things happen: heredity, environment, class dynamics, social forces.
+Hamsun has zero interest in lecturing you.
+He doesn’t say “the system crushed him.”
+He doesn’t say “he’s a victim of society.”
+He doesn’t say “his childhood trauma shaped him.”
+He just drops you inside the guy’s skull and lets you suffer with him.
+No explanatory mechanism, just experience.
+4. The “anti-hero as specimen” twist
+Zola would treat characters like scientific subjects.
+Hamsun keeps the microscope but replaces the science with unstable psychology.
+The narrator becomes a kind of spiritual fever dream, a study in:
+• ego collapsing. pride mutating. shame swirling like smoke. identity cracking under hunger.
+It’s not social realism; it’s interior extremism.
+5. Language that refuses realism
+Hamsun swings between: hyper-precise sensory detail. surreal comedy. grandiose self-delusion. manic philosophizing. sudden tenderness.
+Realists don’t do that.
+They keep things steady.
+Hamsun writes like he injected his pen with caffeine and dread.
+So yes, influenced by Naturalism…
+<muoborder>
+Fra artikkelen om Hamsuns 'Sult' – «Innflytelsen fra naturalistiske forfattere som Émile Zola er tydelig i romanen, likeså hans avvisning av den realistiske tradisjonen.» Hvordan nøyaktig kommer dette til syne i verket?
+Zolas fingeravtrykk er overalt i 'Sult', men Hamsun stjeler i utgangspunktet verktøykassa og kaster halvparten ut av vinduet.
+Her er hvordan både «innflytelsen» og «avvisningen» viser seg samtidig:
+1. Påvirkning fra naturalismen: kroppen som en felle
+Naturalister som Zola elsket å vise mennesker fanget under biologi, fattigdom, sult, sex og sosialt forfall.
+Hamsun beholder definitivt dette.
+Hans forteller sulter, hallusinerer, selger klærne sine, gnager på fliser og driver ut og inn av delirium.
+Kroppen drar ham konstant rundt som en grusom dukkefører.
+Den delen er klassisk naturalisme: mennesket som organisme, ikke helt.
+2. Men avvisning av realismen: sinnet smelter verden
+Realistene forsøkte å presentere verden «slik den er».
+Hamsun ler mildt (og litt sprøtt) av det.
+I stedet for å beskrive samfunnet eller institusjoner, dykker han ned i fortellerens private mentale vær.
+Virkeligheten forvrenges basert på hvor sulten han er.
+Han oppfører seg edelt i det ene øyeblikket, og smålig i det neste.
+Han lyver uten grunn. Han gir bort penger han ikke har.
+Han prøver å skrive som et «kall fra Gud» og snubler umiddelbart i fortvilelse.
+Verden blir filtrert utelukkende gjennom hans forvrengte bevissthet.
+Det er bruddet med realismen. Realister vil ha klarhet.
+Hamsun gir deg et sinn fullt av knuste speil.
+3. Naturalistisk elendighet uten naturalistisk moralisering
+Zola elsker å forklare hvorfor ting skjer: arv, miljø, klassedynamikk, sosiale krefter.
+Hamsun har null interesse av å belære deg.
+Han sier ikke «systemet knuste ham».
+Han sier ikke «han er et offer for samfunnet».
+Han sier ikke «hans barndomstraumer formet ham».
+Han bare slipper deg ned i hodet på fyren og lar deg lide sammen med ham.
+Ingen forklaringsmekanisme, bare opplevelse.
+4. Vrien med «anti-helten som forsøksobjekt»
+Zola ville behandlet karakterer som vitenskapelige subjekter.
+Hamsun beholder mikroskopet, men erstatter vitenskapen med ustabil psykologi.
+Fortelleren blir en slags åndelig feberdrøm, en studie i:
+' Egoets kollaps. Stolthetens mutering. Skam som virvler som røyk. Identitet som sprekker under sult.
+Det er ikke sosialrealisme; det er indre ekstremisme.
+5. Språk som nekter realisme
+Hamsun svinger mellom: hyper-presise sanseopplevelser, surrealistisk komedie, storslått selvbedrag, manisk filosofering og plutselig ømhet.
+Realister gjør ikke det.
+De holder ting stabilt.
+Hamsun skriver som om han har injisert pennen med koffein og angst.
+Så ja, påvirket av naturalismen…`;
+
+var noSND=['Hmsno.mp3',[0.000000,17.241847,1],[17.410885,27.186900,1],[27.468629,34.793597,1],[34.990808,39.949247,4],[40.146458,49.499879,1],[49.837954,53.106017,1],[53.500438,62.431264,1],[62.684821,66.685380,1],[66.967109,73.193332,1],[73.587753,78.067253,1],[78.546193,83.194730,1],[83.673671,87.702403,1],[87.984132,95.534484,1],[95.844386,99.901292,1],[100.239367,105.873958,1],[106.127514,111.452202,1],[111.705759,118.185538,1],[118.495441,123.594745,1],[123.791956,129.398374,1],[129.680103,133.060857,1],[133.483452,138.667275,1],[138.920832,147.090988,1],[147.344545,150.725299,1],[151.119720,154.754031,1],[155.204799,159.796990,1],[160.557660,164.727257,1],[165.600618,169.911080,1],[170.249155,174.813174,1],[175.151249,179.884305,1],[180.081516,184.870918,1],[185.124475,191.519735,1],[191.942329,196.731731,1],[197.041634,209.184177,1],[209.437733,213.889060,1],[214.368000,217.410679,1],[217.748754,229.496876,1],[229.778605,232.257825,1],[232.764938,235.328677,1],[235.666753,240.343463,1],[240.625192,244.541233,1]];
+
+var noDiction=`["angst - anxiety; dread","anti-helten - the anti-hero","artikkelen - the article","arv - heredity / inheritance","av - of / from / by","avvisning - rejection","avvisningen - the rejection","bare - only / just","barndomstraumer - childhood traumas","basert - based","behandlet - treated","beholder - keeps / retains","belære - lecture / teach","beskrive - describe","bevissthet - consciousness","biologi - biology","blir - becomes / gets","bort - away","bruddet - the break / rupture","både - both","de - they / them","definitivt - definitely","deg - you","delen - part","delirium - delirium","den - it / that / the","det - it / that","dette - this","drar - pulls / drags","driver - drifts / wanders","dukkefører - puppeteer","dykker - dives","edelt - noble / nobly","egoets - the ego's","ekstremisme - extremism","elendighet - misery","eller - or","elsker - lover; loves","elsket - loved","en - a / an / one","ene - one","er - is / are","erstatter - replaces","et - a / an / one","fanget - trapped / caught","fattigdom - poverty","feberdrøm - fever dream","felle - trap","filosofering - philosophizing","filtrert - filtered","fingeravtrykk - fingerprints","fliser - wood shavings / chips","forfall - decay / decline","forfattere - authors / writers","forklare - explain","forklaringsmekanisme - explanatory mechanism","formet - shaped / formed","forsøksobjekt - specimen / subject of experiment","forsøkte - tried / attempted","forteller - narrator / storyteller","fortelleren - the narrator","fortellerens - the narrator's","fortvilelse - despair","forvrenges - is warped / distorted","forvrengte - distorted / warped","fra - from","fullt - fully","fyren - the guy / fellow","gir - gives","gjennom - through","gjør - makes","gnager - gnaws / nibbles","grunn - reason / ground","grusom - cruel / gruesome","gud - god","ha - have, the infinitive verb 'to have.'","hallusinerer - hallucinates","halvparten - half/half part","ham - him","han - he","hans - his","har - have / has","helt - hero","hodet - the head","holder - keeps / holds","hvor - where","hvordan - how","hvorfor - why","hyper-presise - hyper-precise","identitet - identity","ikke - not","indre - inner","ingen - no / none","injisert - injected","inn - in / into","innflytelsen - the influence","institusjoner - institutions","interesse - interest","ja - yes","kall - calling / vocation","karakterer - characters","kaster - throws","klarhet - clarity","klassedynamikk - class dynamics","klassisk - classic; classical","klærne - the clothes","knuste - broken / crushed / cracked","koffein - caffeine","kollaps - collapse","komedie - comedy","kommer - comes","konstant - constant / constantly","krefter - forces","kroppen - the body","lar - lets","ler - laughs","lide - suffer","likeså - likewise / as is","litt - a little","lyver - lies (tells a lie)","manisk - manic","med - with","mellom - between","men - but","mennesker - people","mennesket - the human / man","mentale - mental","mikroskopet - the microscope","mildt - mildly / gently","miljø - environment","moralisering - moralizing","mutering - mutation / mutating","naturalisme - naturalism","naturalismen - the naturalism","naturalister - naturalists","naturalistisk - naturalist / naturalistic","naturalistiske - naturalistic","ned - down","nekter - refuses","neste - next","null - zero","nøyaktig - exact / exactly","offer - victim / sacrifice","og - and","om - about / if / whether","oppfører (seg) - behaves / acts","opplevelse - experience","organisme - organism","overalt - everywhere, from over + alt (all).","penger - money","pennen - the pen","plutselig - suddenly, from plutselig (sudden).","presentere - present","private - private","prøver - tries","psykologi - psychology","på - on / at / in","påvirket - influenced","påvirkning - influence / impact","realisme - realism","realismen - the realism","realistene - the realists","realister - realists","realistiske - realistic","romanen - the novel","rundt - around","røyk - smoke","samfunnet - the society","sammen - together","samtidig - simultaneous; at the same time","sanseopplevelser - sensory experiences","seg - himself / herself / themselves","selger - sells","selvbedrag - self-delusion","sex - sex","sier - says","sine - his/her/its (reflexive possessive)","sinn - mind","sinnet - the mind","skam - shame","skjer - happens","skrive - write","skriver - writes","slags - kind","slik - such / in this way","slipper - drops / lets go","smelter - melts","smålig - petty","snubler - trips / stumbles","som - that / which / who","sosiale - social","sosialrealisme - social realism","sosialt - social","speil - mirrors","sprekker - cracks","sprøtt - crazy / mad","språk - language","stabilt - steady / stable","stedet - the place / instead","stjeler - steals","stolthetens - the pride's","storslått - grandiose / magnificent","studie - study","subjekter - subjects","sult - hunger","sulten - hungry","sulter - starves","surrealistisk - surrealistic","svinger - swings / shifts","syne (komme til syne) - sight (to appear / show)","systemet - the system","så - so / thus / then","til - to / for / until","ting - things","tradisjonen - the tradition","tydelig - clear / apparent","umiddelbart - immediately","under - during","ustabil - unstable","ut - out","utelukkende - exclusively / entirely","uten - without","utgangspunktet - the starting point (basically)","verden - world","verket - the work","verktøykassa - the toolbox","vil - will / want","ville - would / want to","vinduet - the window","virkeligheten - reality","virvler - swirls","vise - show","viser - shows","vitenskapelige - scientific","vitenskapen - the science","vrien - the twist / the tricky part","vær - be","ømhet - tenderness","øyeblikket - the moment","å - to (infinitive marker)","åndelig - spiritual"]`;
+var noLM=`{"a":{"start":0,"end":6},"b":{"start":7,"end":19},"d":{"start":20,"end":31},"e":{"start":32,"end":43},"f":{"start":44,"end":67},"g":{"start":68,"end":74},"h":{"start":75,"end":88},"i":{"start":89,"end":97},"j":{"start":98,"end":98},"k":{"start":99,"end":113},"l":{"start":114,"end":119},"m":{"start":120,"end":131},"n":{"start":132,"end":141},"o":{"start":142,"end":148},"p":{"start":149,"end":158},"r":{"start":159,"end":166},"s":{"start":167,"end":211},"t":{"start":212,"end":215},"u":{"start":216,"end":222},"v":{"start":223,"end":236},"ø":{"start":237,"end":238},"å":{"start":239,"end":240}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'csh/';}else{EHIMGURL = storyline.BIMG+'csh/';}
+const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
+const ImgRo = 1;
+const oImg = '1a.jpg';
+const ehbmtitle = 'hamsun';
+
+storyline.intro = `<p>An inquiry about Hamsun's novel.</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 40</p>
+<p>Voices Available:<br>NO</p>
+<p>Story Text:<br><a href="https://www.chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://gemini.google.com/app/" target="_blank">Gemini</a></p>
+<p>Voices:<br><a href="https://voicertool.com" target="_blank">VoicerTool</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
+
+storyline.lang = ['EN','NO'];
+storyline.clang = storyline.deflang = 'no';
+/*eo things to adjust*/
+
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof svDiction!=='undefined'&&svDiction!=''){svDiction=JSON.parse(svDiction);reperc.svLM=JSON.parse(svLM);reperc.avdi++}if(typeof noDiction!=='undefined'&&noDiction!=''){noDiction=JSON.parse(noDiction);reperc.noLM=JSON.parse(noLM);reperc.avdi++}if(typeof ruDiction!=='undefined'&&ruDiction!=''){ruDiction=JSON.parse(ruDiction);reperc.ruLM=JSON.parse(ruLM);reperc.avdi++}if(typeof daDiction!=='undefined'&&daDiction!=''){daDiction=JSON.parse(daDiction);reperc.daLM=JSON.parse(daLM);reperc.avdi++}if(typeof fiDiction!=='undefined'&&fiDiction!=''){fiDiction=JSON.parse(fiDiction);reperc.fiLM=JSON.parse(fiLM);reperc.avdi++}storyline.snd={};if(typeof svSND!=='undefined'&&svSND.length){storyline.snd.sv={};storyline.snd.sv.p=storyline.sndURL+svSND[0];svSND.splice(0,1);storyline.snd.sv.t=svSND}if(typeof noSND!=='undefined'&&noSND.length){storyline.snd.no={};storyline.snd.no.p=storyline.sndURL+noSND[0];noSND.splice(0,1);storyline.snd.no.t=noSND}if(typeof daSND!=='undefined'&&daSND.length){storyline.snd.da={};storyline.snd.da.p=storyline.sndURL+daSND[0];daSND.splice(0,1);storyline.snd.da.t=daSND}if(typeof fiSND!=='undefined'&&fiSND.length){storyline.snd.fi={};storyline.snd.fi.p=storyline.sndURL+fiSND[0];fiSND.splice(0,1);storyline.snd.fi.t=fiSND}if(typeof ruSND!=='undefined'&&ruSND.length){storyline.snd.ru={};storyline.snd.ru.p=storyline.sndURL+ruSND[0];ruSND.splice(0,1);storyline.snd.ru.t=ruSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],null,null,null,reperc.storylines[1][i],null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='sv'){if(typeof reperc.svLM==='undefined'){reperc.xDict(pos);return}if(!reperc.svLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){if(svDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='no'){if(typeof reperc.noLM==='undefined'){reperc.xDict(pos);return}if(!reperc.noLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){if(noDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){if(noDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='da'){if(typeof reperc.daLM==='undefined'){reperc.xDict(pos);return}if(!reperc.daLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.daLM[xx].start;i<=reperc.daLM[xx].end;i++){if(daDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+daDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='ru'){if(typeof reperc.ruLM==='undefined'){reperc.xDict(pos);return}if(!reperc.ruLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.ruLM[xx].start;i<=reperc.ruLM[xx].end;i++){if(ruDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+ruDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fi'){if(typeof reperc.fiLM==='undefined'){reperc.xDict(pos);return}if(!reperc.fiLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){if(fiDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);var cssa,cssb,cssc;cssa=document.createElement('style');cssa.type="text/css";document.getElementsByTagName("BODY")[0].appendChild(cssa);cssb=cssa.sheet;cssc='#dialoguebubble{min-height: 100px;}';cssb.insertRule(cssc,cssb.cssRules.length);
