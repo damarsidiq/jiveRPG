@@ -112,9 +112,10 @@ const ImgRo = 1;
 const oImg = 'q.jpg';
 const ehbmtitle = 'bbcreads';
 
-storyline.intro = `<p><a href="https://youtu.be/zyyuGYiPwUs">BBC ideas</a> insight on reading in the modern world.</p>
+storyline.intro = `<p><a target="_blank" href="https://youtu.be/zyyuGYiPwUs">BBC ideas</a> insight on reading in the modern world.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 51</p>
+<p>Story Text:<br>ChatGPT</p>
 <p>Voices Available:<br>-</p>
 <p>Images:<br><a href="https://www.pixabay.com" target="_blank">Pixabay</a></p>
 <p>Translations:<br><a href="https://translate.google.com" target="_blank">Google Translate</a></p>
