@@ -1,4 +1,6 @@
 [
+  ["a/StoryCircle","en,it,de","ai-investigation"],["a/Sleepy","en,de","ai-investigation"],["a/LightSource","en,es,fr","ai-investigation"],["a/Prodigy","en,es","ai-investigation"],
+  ["a/Prodigy2","en,es","ai-investigation"],
   ["a/Tolle","en,it","ai-investigation"],["a/EFNP","en,it","ai-investigation"],["a/Celebrity","en,fr","ai-investigation"],["Reading","en,es","ai-investigation"],["Boating2","en,es,fr,de,it","ai-investigation"],["Boating","en,es,fr,de,it","ai-investigation"],
   ["Orbit","en,fr,es","ai-investigation"],["Bicameral2","en,it","ai-investigation"],["Bicameral","en,es","ai-investigation"],
   ["Nuts","en,fr,fr-ca","ai-investigation"],["Villain-Role","en,it","aistory"],
