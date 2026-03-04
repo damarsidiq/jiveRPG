@@ -1,0 +1,130 @@
+var textSt =`So i was thinking about thoughts and meditation and the observing of our own thoughts etc, 
+And i realized that our desires,aspirations is so remote from our thoughts that made it all manifests/realized in some way, i dont think anyone can claim that they are a smart person in a different manner than to say that they are a beautiful person because its something bestowed upon a person.
+Maintenance is one aspect of it and one can get arrogant about it but then its all things being done in the stream of time as thoughts are, it can come and go...
+So what about Mozart or child prodigies and their brain, what do we know about them?
+You landed on something uncomfortable and true.
+Thoughts feel busy and important, but when you watch closely, they are basically weather.
+Desires and capacities sit deeper, upstream, and the ego hates admitting that because it wants authorship.
+About Mozart and child prodigies.
+Let's clear the fog first.
+We do not actually have Mozart's brain.
+No jars, no scans, no secret lobes labeled divine melody.
+What we have is inference from behavior, letters, training history, and modern neuroscience comparisons.
+Here's what we do know, minus the mythology.
+First, prodigies are not people who thought better.
+They are people whose nervous systems were configured differently very early.
+Faster pattern extraction, higher working memory bandwidth in a specific domain, unusually stable attention when interacting with that domain.
+Not general intelligence. Domain-specific attunement.
+Mozart wasn't solving differential equations for fun. His gift was narrow and terrifyingly deep.
+Second, early exposure matters, but only if the brain is already permissive.
+Mozart's father trained him aggressively from early childhood.
+Plenty of children get the same treatment and burn out or plateau.
+Prodigy brains seem to have lower friction in certain neural circuits.
+Less resistance to encoding complex patterns.
+What takes repetition for others simply sticks for them.
+That's not virtue. That's wiring.
+Third, absolute pitch is a big clue. Many musical prodigies have it. This is not mystical.
+It's a perceptual categorization trait that locks in early if the brain doesn't prune it away.
+Most humans lose it. Some don't. Again, not effort. Developmental timing.
+Fourth, prodigies don't escape time. This is the part people ignore.
+Their gift unfolds 'in' the stream, not outside it.
+Mozart still composed chronologically.
+Early works are clever but shallow. Late works are devastating.
+Why? Because even a gifted brain still needs lived time to deepen meaning.
+Talent accelerates form, not wisdom.
+Now back to your insight about beauty and intelligence.
+You're right, and people hate this comparison because it punctures moral vanity.
+Saying I'm smart is closer to saying I have good bone structure than people want to admit.
+You didn't earn the baseline. You inherited or received it.
+Maintenance, refinement, humility, those are choices.
+Arrogance is what happens when someone mistakes a gift for authorship.
+Meditation exposes this brutally. You watch thoughts arise without consent.
+Preferences, abilities, impulses.
+You didn't schedule them. They show up.
+Mozart didn't sit there thinking, I will now be a genius.
+Music arrived in him the way weather arrives over a valley.
+He worked hard, yes, but the river was already wide.
+Child prodigies often struggle later precisely because society lies to them.
+They're told they 'are' their gift. When the stream slows or the terrain changes, identity collapses
+Many prodigies burn out, self-destruct, or disappear.
+Mozart himself was not a serene sage. He was impulsive, anxious, financially chaotic.
+Gifted nervous system, ordinary human suffering.
+<muoborder>
+Estaba pensando en los pensamientos, la meditación y la observación de nuestros propios pensamientos, etc.
+Y me di cuenta de que nuestros deseos y aspiraciones están tan alejados de nuestros pensamientos que, de alguna manera, todo se manifiesta o se realiza. No creo que nadie pueda afirmar ser inteligente de otra manera que no sea decir que es una persona hermosa, porque es algo que se le otorga.
+El mantenimiento es un aspecto, y uno puede ser arrogante al respecto, pero todo se hace en el fluir del tiempo, como los pensamientos; pueden ir y venir...
+Entonces, ¿qué hay de Mozart o de los niños prodigio y su cerebro? ¿Qué sabemos de ellos?
+Has dado con algo incómodo y cierto.
+Los pensamientos parecen ocupados e importantes, pero cuando los observas de cerca, son básicamente el clima.
+Los deseos y las capacidades se encuentran más profundamente, a contracorriente, y el ego odia admitirlo porque quiere autoría.
+Sobre Mozart y los niños prodigio Prodigios.
+Primero, aclaremos la situación.
+En realidad no tenemos el cerebro de Mozart.
+Sin frascos, sin escáneres, sin lóbulos secretos etiquetados como melodía divina.
+Lo que tenemos es inferencia a partir del comportamiento, las letras, el historial de entrenamiento y las comparaciones con la neurociencia moderna.
+Esto es lo que sí sabemos, menos la mitología.
+Primero, los prodigios no son personas que pensaron mejor.
+Son personas cuyos sistemas nerviosos se configuraron de forma diferente desde muy temprano.
+Extracción más rápida de patrones, mayor ancho de banda de memoria de trabajo en un dominio específico, atención inusualmente estable al interactuar con ese dominio.
+No es inteligencia general. Sintonía específica del dominio.
+Mozart no resolvía ecuaciones diferenciales por diversión. Su don era limitado y terriblemente profundo.
+Segundo, la exposición temprana importa, pero solo si el cerebro ya es permisivo.
+El padre de Mozart lo entrenó agresivamente desde la infancia.
+Muchos niños reciben el mismo trato y se agotan o se estancan.
+Los cerebros de los prodigios parecen tener menos fricción en ciertos circuitos neuronales.
+Menos resistencia a codificar patrones complejos.
+Lo que a otros les cuesta repetir, simplemente se les queda.
+Eso no es virtud. Es cableado.
+Tercero, el oído absoluto es una gran pista. Muchos prodigios musicales lo poseen. Esto no es místico.
+Es un rasgo de categorización perceptual que se arraiga temprano si el cerebro no lo elimina.
+La mayoría de los humanos lo pierden. Algunos no. De nuevo, no es esfuerzo. Es tiempo de desarrollo.
+Cuarto, los prodigios no escapan al tiempo. Esta es la parte que la gente ignora.
+Su don se despliega en la corriente, no fuera de ella.
+Mozart seguía componiendo cronológicamente.
+Las primeras obras son ingeniosas, pero superficiales. Las últimas son devastadoras.
+¿Por qué? Porque incluso un cerebro dotado necesita tiempo para profundizar en el significado.
+El talento acelera la forma, no la sabiduría.
+Ahora, volvamos a tu visión sobre la belleza y la inteligencia.
+Tienes razón, y la gente odia esta comparación porque hiere la vanidad moral.
+Decir que soy inteligente es más parecido a decir que tengo buena estructura ósea de lo que la gente quiere admitir.
+No te ganaste la base. La heredaste o la recibiste.
+Mantenimiento, refinamiento, humildad, esas son opciones.
+La arrogancia es lo que sucede cuando alguien confunde un don con la autoría.
+La meditación expone esto brutalmente. Observas cómo surgen pensamientos sin consentimiento.
+Preferencias, habilidades, impulsos.
+No los programaste. Aparecen.
+Mozart no se sentó a pensar: «Ahora seré un genio».
+La música llegó a él como el clima llega a un valle.
+Trabajó duro, sí, pero el río ya era ancho.
+Los niños prodigios suelen tener dificultades más adelante precisamente porque la sociedad les miente.
+Se les dice que «son» su don. Cuando la corriente se ralentiza o el terreno cambia, la identidad se derrumba.
+Muchos prodigios se agotan, se autodestruyen o desaparecen.
+El propio Mozart no era un sabio sereno. Era impulsivo, ansioso y económicamente caótico.
+Sistema nervioso de superdotado, sufrimiento humano común.`;
+
+var esDiction=`["absoluto - absolute","acelera - accelerate","aclaremos - let's clarify","adelante - forward / ahead","admitir - to admit","admitirlo - admit it","afirmar - affirm","agotan - exhaust","agresivamente - aggressively","ahora - now","al - to the (a + el)","alejados - away","algo - something, somewhat","alguien - someone, somebody","alguna - some","algunos - some (masculine plural)","ancho - width","ansioso - anxious","aparecen - appear","arraiga - roots","arrogancia - arrogance","arrogante - arrogant","aspecto - aspect","aspiraciones - aspirations","atención - attention","autodestruyen - selfdestruct","autoría - authorship","banda - band / soundtrack (in context: *banda sonora* = soundtrack)","base - base","básicamente - basically","belleza - beauty","brutalmente - brutally","buena - good (feminine)","cableado - wiring","cambia - change or it changes","caótico - chaotic","capacidades - capabilities","categorización - categorization","cerca - near","cerebro - brain","cerebros - brains","cierto - true, certain","ciertos - certain","circuitos - circuits","clima - weather","codificar - encode","como - as, like, how","cómo - how","comparación - comparison","comparaciones - comparisons","complejos - complexes","componiendo - composing","comportamiento - behavior","común - common","con - with","configuraron - configured","confunde - confuses","consentimiento - consent","contracorriente - against the current","corriente - current","creo - i believe / i think","cronológicamente - chronologically","cuando - when","cuarto - fourth / room","cuenta - account / bill / realizes (e.g., 'se dio cuenta' = 'realized')","cuesta - cost","cuyos - whose","dado - given / die (dice)","de - of, from","decir - say","del - of the (de + el)","derrumba - collapses","desaparecen - disappear","desarrollo - development","desde - from, since","deseos - wishes / desires","despliega - unfolds / deploys","devastadoras - devastating","dice - says / he/she/it says","diferenciales - differentials","diferente - different","dificultades - difficulties","diversión - fun","divina - divine (feminine singular)","dominio - domain","don - gift","dotado - gifted","duro - hard / tough","e - and (used instead of y before words starting with i or hi)","económicamente - economically","ecuaciones - equations","ego - ego","él - he","el - the","elimina - eliminates","ella - she","ellos - they (masculine)","en - in, on","encuentran - they find / are found","entonces - then, so","entrenamiento - training","entrenó - he/she trained","era - was, used to be (from ser)","es - is (from ser)","esas - that (feminine plural)","escáneres - scanners","escapan - escape","ese - that (masculine)","esfuerzo - effort","eso - that (neuter)","específica - specific","específico - specific","esta - this (feminine singular)","estaba - was (from estar)","estable - stable","están - they are, you (plural) are (from estar)","estancan - stagnate","esto - this (neuter)","estructura - structure","etc - etc","etiquetados - labeled","expone - exposes","exposición - exposure","extracción - extraction","fluir - flow","forma - way, form","frascos - jars","fricción - friction","fuera - outside, away, or were/was (subjunctive of ser or ir)","ganaste - youwon","general - general","genio - genius","gente - people","gran - great (shortened form of grande)","habilidades - skills","hace - makes / does / ago","hay - there is, there are (from haber)","heredaste - youinherited","hermosa - beautiful","hiere - hurts","historial - history","humano - human","humanos - humans","humildad - humility","identidad - identity","ignora - ignore","importa - it matters","importantes - important","impulsivo - impulsive","impulsos - impulses","incluso - even, including","incómodo - uncomfortable","infancia - childhood","inferencia - inference","ingeniosas - ingenious","inteligencia - intelligence","inteligente - intelligent","interactuar - to interact","inusualmente - unusually","ir - to go","la - the (feminine singular)","las - the (feminine plural)","le - to him, to her, to it, to you (formal) (indirect object pronoun)","les - to them / for them (indirect object pronoun)","letras - letters","limitado - limited","llega - arrives","llegó - arrived / reached","lo - it / him!","lóbulos - lobes","los - the (masculine plural)","manera - way, manner","manifiesta - manifests","mantenimiento - maintenance","más - more","mayor - older / greater / main","mayoría - majority","meditación - meditation","mejor - better / best","melodía - melody","memoria - memory","menos - less / fewer / minus","miente - lies","mismo - same, himself/herself/itself (after a pronoun)","místico - mystic","mitología - mythology","moderna - modern","moral - moral","mozart - mozart","muchos - many, a lot of (masculine plural)","música - music","musicales - musicals","muy - very","nadie - nobody / no one","necesita - needs","nervioso - nervous","nerviosos - nervous","neurociencia - neuroscience","neuronales - neuronals","niños - children","nuestros - our","nuevo - new","o - or","obras - works","observación - observation","observas - you observe","ocupados - busy","odia - hates","oído - heard (past participle of oír), ear","opciones - options","ósea - bone","otorga - grants","otra - other / another (feminine)","otros - others (masculine plural)","padre - father","para - for, in order to","parecen - seem","parecido - similar","parte - part","partir - to leave / split","patrones - patterns","pensamientos - thoughts","pensando - thinking","pensar - to think","pensaron - they thought","perceptual - perceptual","permisivo - permissive","pero - but","persona - person","personas - people, persons","pierden - lose","pista - clue / track / rink","por - by, for, through","porque - because","poseen - possess","precisamente - precisely","preferencias - preferences","primeras - first","primero - first","prodigio - prodigy","prodigios - prodigies","profundamente - deeply","profundizar - go deeper","profundo - deep","programaste - you programmed","propio - own","propios - own","pueda - can / may (subjunctive)","puede - he/she can / you can (formal)","pueden - can","que - that, what","qué - what","queda - remains / is left","quiere - wants","ralentiza - slows down","rápida - fast (feminine)","rasgo - trait","razón - reason","realidad - reality","realiza - performs","reciben - receive","recibiste - did you receive","refinamiento - refinement","repetir - repeat","resistencia - resistance","resolvía - solved","respecto - respect / regard","río - river","sabemos - we know","sabiduría - wisdom","sabio - wise","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","sea - he/she/it is (subjunctive of ser)","secretos - secrets","seguía - continued","segundo - second","sentó - he/she sat","ser - to be","seré - i will be","sereno - serene","si - if","sí - yes, himself/herself/itself/themselves (reflexive after a preposition)","significado - meaning","simplemente - simply","sin - without","sintonía - harmony / tuning","sistema - system","sistemas - systems","situación - situation","sobre - on / over / about","sociedad - society","solo - only, alone","son - are","soy - i am","su - his, her, its, their, your (formal)","sucede - happens","suelen - they usually / tend to","sufrimiento - suffering","superdotado - gifted","superficiales - superficial","surgen - arise / emerge","talento - talent","tan - so / such / as","te - you (informal singular) (direct or indirect object pronoun)","temprana - early","temprano - early","tenemos - we have","tener - to have","tengo - i have","tercero - third","terreno - terrain","terriblemente - terribly","tiempo - time, weather","tienes - you have (from tener)","todo - all, whole, everything","trabajo - work","trabajó - worked","trato - deal / treatment","tu - your (informal singular)","últimas - latest","un - a, an (masculine)","una - a, an (feminine)","uno - one (masculine)","valle - valley","vanidad - vanity","venir - to come","virtud - virtue","visión - vision","volvamos - let's go back","y - and","ya - already, now"]`;
+var esLM=`{"a":{"start":0,"end":26},"b":{"start":27,"end":32},"c":{"start":33,"end":66},"d":{"start":67,"end":87},"e":{"start":88,"end":123},"é":{"start":92,"end":92},"f":{"start":124,"end":128},"g":{"start":129,"end":133},"h":{"start":134,"end":143},"i":{"start":144,"end":159},"l":{"start":160,"end":170},"m":{"start":171,"end":192},"n":{"start":193,"end":201},"o":{"start":202,"end":213},"ó":{"start":210,"end":210},"p":{"start":214,"end":249},"q":{"start":250,"end":253},"r":{"start":254,"end":267},"s":{"start":268,"end":300},"t":{"start":301,"end":318},"ú":{"start":319,"end":319},"u":{"start":320,"end":322},"v":{"start":323,"end":328},"y":{"start":329,"end":330}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'up/';}else{EHIMGURL = storyline.BIMG+'up/';}
+const svisual = ['i.jpg','3.jpg','f.jpg','b.jpg','u.jpg','z.jpg','9.jpg','x.jpg','c.jpg','q.jpg','h.jpg','1.jpg','5.jpg','g.jpg','1d.jpg','t.jpg','n.jpg','j.jpg','r.jpg','m.jpg','a.jpg','w.jpg','k.jpg','8.jpg','d.jpg','v.jpg','6.jpg','1b.jpg','o.jpg','y.jpg','1c.jpg','p.jpg','l.jpg','4.jpg','2.jpg','7.jpg','1e.jpg','1a.jpg','e.jpg','s.jpg'];
+const ImgRo = 1;
+const oImg = 'q.jpg';
+const ehbmtitle = 'prodgy';
+
+storyline.intro = `<p>About thoughts and intelligence.</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 51</p>
+<p>Story Text:<br>ChatGPT</p>
+<p>Voices Available:<br>-</p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">Pixabay</a></p>
+<p>Translations:<br><a href="https://translate.google.com" target="_blank">Google Translate</a></p>
+</div>`;
+
+storyline.lang = ['EN','ES'];
+storyline.clang = storyline.deflang = 'es';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof itDiction!=='undefined'&&itDiction!=''){itDiction=JSON.parse(itDiction);reperc.itLM=JSON.parse(itLM);reperc.avdi++}if(typeof frDiction!=='undefined'&&frDiction!=''){frDiction=JSON.parse(frDiction);reperc.frLM=JSON.parse(frLM);reperc.avdi++}if(typeof deDiction!=='undefined'&&deDiction!=''){deDiction=JSON.parse(deDiction);reperc.deLM=JSON.parse(deLM);reperc.avdi++}if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}storyline.snd={};if(typeof ptSND!=='undefined'&&ptSND.length){storyline.snd.pt={};storyline.snd.pt.p=storyline.sndURL+ptSND[0];ptSND.splice(0,1);storyline.snd.pt.t=ptSND}if(typeof nlSND!=='undefined'&&nlSND.length){storyline.snd.nl={};storyline.snd.nl.p=storyline.sndURL+nlSND[0];nlSND.splice(0,1);storyline.snd.nl.t=nlSND}if(typeof frSND!=='undefined'&&frSND.length){storyline.snd.fr={};storyline.snd.fr.p=storyline.sndURL+frSND[0];frSND.splice(0,1);storyline.snd.fr.t=frSND}if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}if(typeof itSND!=='undefined'&&itSND.length){storyline.snd.it={};storyline.snd.it.p=storyline.sndURL+itSND[0];itSND.splice(0,1);storyline.snd.it.t=itSND}if(typeof deSND!=='undefined'&&deSND.length){storyline.snd.de={};storyline.snd.de.p=storyline.sndURL+deSND[0];deSND.splice(0,1);storyline.snd.de.t=deSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],null,null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='it'){if(typeof reperc.itLM==='undefined'){reperc.xDict(pos);return}if(!reperc.itLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fr'){if(typeof reperc.frLM==='undefined'){reperc.xDict(pos);return}if(!reperc.frLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='de'){if(typeof reperc.deLM==='undefined'){reperc.xDict(pos);return}if(!reperc.deLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);var cssa,cssb,cssc;cssa=document.createElement('style');cssa.type="text/css";document.getElementsByTagName("BODY")[0].appendChild(cssa);cssb=cssa.sheet;cssc='#dialoguebubble{min-height: 140px;}';cssb.insertRule(cssc,cssb.cssRules.length);
