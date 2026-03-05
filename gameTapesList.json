@@ -1,12 +1,4 @@
 [
   ["a/StoryCircle","en,it,de","ai-investigation"],["a/Sleepy","en,de","ai-investigation"],["a/LightSource","en,es,fr","ai-investigation"],["a/Prodigy","en,es","ai-investigation"],
-  ["a/Prodigy2","en,es","ai-investigation"],
-  ["a/Tolle","en,it","ai-investigation"],["a/EFNP","en,it","ai-investigation"],["a/Celebrity","en,fr","ai-investigation"],["Reading","en,es","ai-investigation"],["Boating2","en,es,fr,de,it","ai-investigation"],["Boating","en,es,fr,de,it","ai-investigation"],
-  ["Orbit","en,fr,es","ai-investigation"],["Bicameral2","en,it","ai-investigation"],["Bicameral","en,es","ai-investigation"],
-  ["Nuts","en,fr,fr-ca","ai-investigation"],["Villain-Role","en,it","aistory"],
-  ["About-Astronomy","en,pt-PT,pt-BR","ai-investigation"],["Time-and-Space-II","en,fr","ai-investigation"],
-  ["Borges","en,fr,it,de,nl","ai-investigation"],["Flow","en,de,nl","ai-investigation"],["ASMR","en,es,it","ai-investigation"],
-  ["Freedom-Through-Language","en,es,pt","ai-investigation"],["Changeling","en,es,pt","DOMDrama"],["Language-Momentum","en,es,de,nl","ai-investigation"],
-  ["Cat-and-Mouse","en,es,fr","DOMDrama"],
-  ["El-Diario","en,de,es,fr,it","beginner"],["La-Cabana","en,de,es,fr,it","beginner"],["eharch1,eharch2,eharch3"]
+  ["a/Prodigy2","en,es","ai-investigation"],["eharch4,eharch1,eharch2,eharch3"]
 ]
