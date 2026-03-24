@@ -1,0 +1,104 @@
+var textSt=`How many different staple foods are there around the world?
+And how does it influenced the lives of the people who are eating those different types of food?
+Do you think it matters or is it just food for your stomach?
+Humanity runs on a surprisingly small menu.
+Thousands of edible plants exist, yet most of civilization is built on a handful of staples-foods that provide the bulk of daily calories.
+Anthropologists usually point to **about 10-20 major global staples** that sustain most of the planet.
+A few dominate the stage: Rice, wheat, maize (corn), potatoes, cassava, millet, sorghum, barley, oats, rye, plantains, and a few major legumes like soybeans.
+That short list feeds billions.
+For example, rice alone sustains much of East and Southeast Asia.
+Wheat built the bread cultures of Europe, the Middle East, and Central Asia.
+Maize shaped the civilizations of the Americas long before Europeans arrived.
+Cassava quietly feeds hundreds of millions in tropical regions where other crops fail.
+So the first strange fact: **civilization is basically different cultures orbiting different carbohydrates.** 
+Now the interesting part-does it shape how people live? Very much so.
+Staple crops determine **agriculture, settlement patterns, and even social structure**.
+Rice farming is an excellent example.
+Traditional wet rice cultivation requires coordinated irrigation, shared labor, and careful seasonal timing.
+Anthropologists have argued that this encouraged highly cooperative village systems across parts of Asia.
+Wheat farming, by contrast, historically required less continuous water management and could be handled by smaller family units.
+Different crop, slightly different social rhythm. 
+Then there's climate and resilience.
+Cassava, for instance, survives drought and poor soils.
+In many African regions it acts as a famine insurance crop.
+Potatoes played a similar role in Europe; they produce enormous calories per acre.
+That's why populations exploded after the potato spread in the 1700s.
+Unfortunately, reliance on one staple also creates vulnerability, which history demonstrated brutally during the Great Irish Famine when potato blight destroyed the main calorie source for millions.
+Staples also shape **cuisine and identity**.
+Think about how entire food cultures revolve around transforming one core ingredient: noodles, breads, dumplings, tortillas, injera, ugali.
+One grain, thousands of inventions.
+Humans are remarkably creative starch engineers.
+There's even a subtle biological angle. Diets heavy in different staples influence gut microbiomes and metabolic adaptations over long time spans.
+Not destiny, but gentle evolutionary nudges.
+Now for the philosophical twist. At one level, food really *is* just fuel.
+The body wants calories, amino acids, fats, vitamins. From that purely biochemical perspective, rice or wheat is just another glucose delivery system.
+But humans don't live only as stomachs with legs. Food is memory, geography, and technology wrapped together.
+The crop you grow determines when you wake up, how your village works, what tools you build, what festivals you celebrate, and what comfort tastes like.
+So the honest answer is both: **it's just food, and it quietly shapes entire civilizations.** A fun thought experiment: imagine if a different crop had become globally dominant-say millet instead of wheat in Europe, or cassava across Asia.
+The cuisines, trade routes, and maybe even historical population patterns could look very different.
+Civilization is partly a story about ideas and beliefs… but it's also a story about which plant ended up in the pot.
+<muoborder>
+Hur många olika baslivsmedel finns det runt om i världen?
+Och hur påverkar det livet för de människor som äter dessa olika typer av mat?
+Tror du att det spelar roll eller är det bara mat för magen?
+Mänskligheten lever på en förvånansvärt liten meny.
+Tusentals ätbara växter finns, men större delen av civilisationen är byggd på en handfull baslivsmedel - livsmedel som ger huvuddelen av de dagliga kalorierna.
+Antropologer pekar vanligtvis på **cirka 10-20 stora globala baslivsmedel** som försörjer större delen av planeten.
+Några dominerar scenen: Ris, vete, majs, potatis, kassava, hirs, sorghum, korn, havre, råg, kokbananer och några få stora baljväxter som sojabönor.
+Den korta listan föder miljarder.
+Till exempel försörjer ris ensamt stora delar av Öst- och Sydostasien.
+Vete byggde brödkulturerna i Europa, Mellanöstern och Centraleuropa Asien.
+Majs formade civilisationerna i Amerika långt innan européerna anlände.
+Kassava föder i tysthet hundratals miljoner människor i tropiska regioner där andra grödor misslyckas.
+Så det första märkliga faktumet: **civilisation är i grunden olika kulturer som kretsar kring olika kolhydrater.**
+Nu till den intressanta delen – formar den hur människor lever? Mycket riktigt.
+Basisgrödor bestämmer **jordbruk, bosättningsmönster och till och med social struktur**.
+Risodling är ett utmärkt exempel.
+Traditionell våtrisodling kräver samordnad bevattning, delat arbete och noggrann säsongsbetonad timing.
+Antropologer har hävdat att detta uppmuntrade mycket samarbetsvilliga bysystem i delar av Asien.
+Veteodling, däremot, krävde historiskt sett mindre kontinuerlig vattenhantering och kunde hanteras av mindre familjeenheter.
+Anna gröda, något annorlunda social rytm.
+Sedan finns det klimat och motståndskraft.
+Kassava, till exempel, överlever torka och magra jordar.
+I många afrikanska regioner fungerar den som en gröda för hungersnöd.
+Potatis spelade en liknande roll i Europa; De producerar enorma kalorier per tunnland.
+Det är därför populationerna exploderade efter att potatisen spreds på 1700-talet.
+Tyvärr skapar beroendet av en basföda också sårbarhet, vilket historien brutalt visade under den stora irländska hungersnöden när potatismögel förstörde den huvudsakliga kalorikällan för miljontals människor.
+Basfödor formar också **kök och identitet**.
+Tänk på hur hela matkulturer kretsar kring att omvandla en kärningrediens: nudlar, bröd, dumplings, tortillas, injera, ugali.
+Ett spannmål, tusentals uppfinningar.
+Människor är anmärkningsvärt kreativa stärkelseingenjörer.
+Det finns till och med en subtil biologisk vinkel. Kost rik på olika basfödor påverkar tarmmikrobiom och metaboliska anpassningar över långa tidsperioder.
+Inte öde, utan mjuka evolutionära knuffar.
+Nu till den filosofiska twisten. På en nivå *är* mat egentligen bara bränsle.
+Kroppen vill ha kalorier, aminosyror, fetter, vitaminer. Ur det rent biokemiska perspektivet är ris eller vete bara ytterligare ett system för glukosleverans.
+Men människor lever inte bara som magar med ben. Mat är minne, geografi och teknologi i ett sammanflätat stycke.
+Grödan du odlar avgör när du vaknar, hur din by fungerar, vilka verktyg du bygger, vilka festivaler du firar och hur bekvämlighet smakar.
+Så det ärliga svaret är båda: **det är bara mat, och det formar i tysthet hela civilisationer.** Ett roligt tankeexperiment: tänk dig om en annan gröda hade blivit globalt dominerande – säg hirs istället för vete i Europa, eller kassava i hela Asien.
+Köken, handelsvägarna och kanske till och med historiska befolkningsmönster skulle kunna se väldigt annorlunda ut.
+Civilisation är delvis en berättelse om idéer och övertygelser… men det är också en berättelse om vilken växt som hamnade i krukan.`;
+
+var svDiction=`["afrikanska - african","amerika - america","aminosyror - amino acids","andra - others","anlände - arrived","anmärkningsvärt - remarkable","anna - other","annan - another","annorlunda - different","anpassningar - adaptations","antropologer - anthropologists","arbete - work (noun)","asien - asia","att - to/that","av - of/from","avgör - decides","baljväxter - legumes","bara - only/just","basföda - staple food","basfödor - staples","basisgrödor - staple crops","baslivsmedel - staples","befolkningsmönster - population patterns","bekvämlighet - comfort","ben - bones","beroendet - dependency","berättelse - story","bestämmer - determines","bevattning - irrigation","biokemiska - biochemical","biologisk - biological","blivit - has become","bosättningsmönster - settlement patterns","brutalt - brutal","bränsle - fuel","bröd - bread","brödkulturerna - bread cultures","byggd - built","byggde - built","bygger - build","bysystem - village system","båda - both","centraleuropa - centraleurope","cirka - about","civilisation - civilization","civilisationen - civilization (definite form)","civilisationer - civilizations","civilisationerna - civilizations","dagliga - daily","de - they/the","delar - parts, share","delat - shared/divided","delen - the part","delvis - partially","den - the/that (common gender)","dessa - these","det - it/that","detta - this","dig - you (object form)","din - your","dominerande - dominating","dominerar - dominates","du - you","dumplings - dumplings","där - 'there, where'","däremot - by contrast","därför - therefore","efter - after","egentligen - really","eller - or","en - a/one","enorma - huge","ensamt - alone","ett - a/one","europa - europe","européerna - europeans","evolutionära - evolutionary","exempel - example","exploderade - exploded","faktumet - fact","familjeenheter - family units","festivaler - festivals","fetter - fats","filosofiska - philosophical","finns - exists","firar - celebrates","formade - shaped","formar - shapes","fungerar - works","få - get","föder - feeds","för - for","första - first","förstörde - destroyed","försörjer - provides","förvånansvärt - surprising","geografi - geography","ger - gives","globala - global (plural/definite form)","globalt - globally","glukosleverans - glucose delivery","grunden - the foundation, the base","gröda - crop","grödan - crop","grödor - crops","ha - to have","hade - had","hamnade - ended up","handelsvägarna - trade routes","handfull - handful","hanteras - handled","har - has","havre - oats","hela - the whole / entire","hirs - millet","historien - the story / the history","historiska - historical","historiskt - historic / historically","hundratals - centuries","hungersnöd - famine","hungersnöden - famine","hur - how","huvuddelen - mainstream","huvudsakliga - main, primary","hävdat - claimed","idéer - ideas","identitet - identity","injera - injera","innan - before","inte - not","intressanta - interesting","irländska - irish","istället - instead","jordar - soils","jordbruk - agriculture","kalorier - calories","kalorierna - calories","kalorikällan - calorie source","kanske - maybe/perhaps","kassava - cassava","klimat - climate","knuffar - nudges","kokbananer - plantains","kolhydrater - carbohydrates","kontinuerlig - continuous","korn - barley","korta - short (plural/definite form)","kost - diet","kreativa - creative","kretsar - orbits","kring - around","kroppen - body","krukan - the pot","krävde - required","kräver - demands/requires","kulturer - cultures","kunde - 'could, was able to'","kunna - to be able to, can","kärningrediens - core ingredient","kök - cuisine","köken - kitchen","lever - lives (verb) / liver (organ, plural “lever” is archaic)","liknande - similar","listan - the list","liten - small","livet - the life","livsmedel - food","långa - long","långt - far/long","magar - stomachs","magen - the stomach","magra - lean","majs - corn","mat - food","matkulturer - food cultures","med - with","mellanöstern - the middle east","men - but","meny - menu","metaboliska - metabolic","miljarder - billions","miljoner - millions","miljontals - millions","mindre - less","minne - memory","misslyckas - fails","mjuka - soft","motståndskraft - resilience","mycket - very","många - many","människor - people/humans","mänskligheten - humanity","märkliga - strange","nivå - level","noggrann - precise","nu - now","nudlar - noodles","något - something","några - some","när - when","och - and","också - also","odlar - grows","olika - different","om - if/about","omvandla - 'transform, convert'","pekar - points","per - per","perspektivet - the perspective","planeten - planet","populationerna - populations","potatis - potatoes","potatisen - potatoes","potatismögel - potato mold","producerar - produce, produces","på - on/upon","påverkar - affects","regioner - regions","rent - clean (adjective)","rik - rich","riktigt - real","ris - rice","risodling - rice cultivation","roligt - funny / amusing","roll - role","runt - around","rytm - rhythm","råg - rye","samarbetsvilliga - cooperative","sammanflätat - intertwined","samordnad - coordinated","scenen - scene","se - see","sedan - then / since / afterwards","sett - seen","skapar - creates","skulle - should","smakar - tastes","social - social","sojabönor - soybeans","som - as","sorghum - sorghum","spannmål - cereals","spelade - played","spelar - play, plays","spreds - spread","stora - big / large (plural or definite)","struktur - structure","stycke - piece","stärkelseingenjörer - starch engineers","större - larger","subtil - subtle","svaret - the answer","sydostasien - southeast asia","system - systems","så - so/thus","sårbarhet - vulnerability","säg - say","säsongsbetonad - seasonal","tankeexperiment - thought experiments","tarmmikrobiom - gut microbiome","teknologi - technology","tidsperioder - time periods","till - to","timing - timing","torka - drought","tortillas - tortillas","traditionell - traditional","tropiska - tropical","tror - believe, thinks","tunnland - acres","tusentals - thousands","twisten - twist","typer - types","tysthet - silence","tyvärr - unfortunately","tänk - think","ugali - ugali","under - 'under, during'","uppfinningar - inventions","uppmuntrade - encouraged","ur - from","ut - out","utan - without","utmärkt - excellent","vaknar - wakes up","vanligtvis - usually","vattenhantering - water management","verktyg - tools","vete - wheat","veteodling - wheat farming","vilka - which/who","vilken - which","vilket - which","vill - want (to)","vinkel - angle","visade - showed","vitaminer - vitamins","våtrisodling - wet rice cultivation","väldigt - very","världen - the world","växt - growth","växter - plants","ytterligare - further, additional","är - is/are","ärliga - honest","ätbara - edibles","äter - eats","öde - fate","öst - east","över - over / above","överlever - survivor","övertygelser - beliefs"]`;
+var svLM=`{"a":{"start":0,"end":15},"b":{"start":16,"end":41},"c":{"start":42,"end":47},"d":{"start":48,"end":66},"e":{"start":67,"end":78},"f":{"start":79,"end":95},"g":{"start":96,"end":104},"h":{"start":105,"end":124},"i":{"start":125,"end":132},"j":{"start":133,"end":134},"k":{"start":135,"end":160},"l":{"start":161,"end":168},"m":{"start":169,"end":192},"n":{"start":193,"end":199},"o":{"start":200,"end":205},"p":{"start":206,"end":216},"r":{"start":217,"end":227},"s":{"start":228,"end":258},"t":{"start":259,"end":276},"u":{"start":277,"end":284},"v":{"start":285,"end":302},"y":{"start":303,"end":303},"ä":{"start":304,"end":307},"ö":{"start":308,"end":312}}`;
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'eu/';}else{EHIMGURL = storyline.BIMG+'eu/';}
+const svisual = ['de_a.jpg','de_b.jpg','de_c.jpg','de_d.jpg','de_e.jpg','de_f.jpg','es_a.jpg','es_b.jpg','es_c.jpg','es_d.jpg','es_e.jpg','es_f.jpg','es_g.jpg','es_h.jpg','es_i.jpg','ews.jpg','fr_a.jpg','fr_b.jpg','fr_c.jpg','fr_d.jpg','fr_e.jpg','fr_f.jpg','fr_g.jpg','fr_h.jpg','fr_i.jpg','fr_j.jpg','fr_k.jpg','fr_l.jpg','fr_m.jpg','fr_n.jpg','gr_a.jpg','gr_b.jpg','gr_c.jpg','gr_d.jpg','gr_e.jpg','gr_f.jpg','gr_g.jpg','gr_h.jpg','gr_i.jpg','gr_j.jpg','gr_k.jpg','gr_l.jpg','gr_m.jpg','gr_n.jpg','gr_o.jpg','gr_p.jpg','gr_q.jpg','gr_r.jpg','gr_s.jpg','it_a.jpg','it_b.jpg','it_c.jpg','it_d.jpg','it_e.jpg','it_f.jpg','it_g.jpg','it_h.jpg','it_i.jpg','it_j.jpg','it_k.jpg','it_l.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg'];
+const ImgRo = 1;
+const oImg = 'gr_b.jpg';
+const ehbmtitle = 'staple';
+
+storyline.intro = `<p>A conversation about staple food. pt.1</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 39</p>
+<p>Voices Available:<br>-</p>
+<p>Story Text:<br><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://translate.google.com/" target="_blank">Google Translate</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
+
+storyline.lang = ['EN','SV'];
+storyline.clang = storyline.deflang = 'sv';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof svDiction!=='undefined'&&svDiction!=''){svDiction=JSON.parse(svDiction);reperc.svLM=JSON.parse(svLM);reperc.avdi++}storyline.snd={};if(typeof svSND!=='undefined'&&svSND.length){storyline.snd.sv={};storyline.snd.sv.p=storyline.sndURL+svSND[0];svSND.splice(0,1);storyline.snd.sv.t=svSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],null,reperc.storylines[1][i],null,null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='sv'){if(typeof reperc.svLM==='undefined'){reperc.xDict(pos);return}if(!reperc.svLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.svLM[xx].start;i<=reperc.svLM[xx].end;i++){if(svDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+svDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);
