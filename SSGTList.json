@@ -1,16 +1,6 @@
 [
-    ["a/Brainwaves8","en,sv","ai-chat"],["a/Brainwaves7","en,fi","ai-chat"],
-    ["a/Brainwaves6","en,da","ai-chat"],["a/Brainwaves5","en,no","ai-chat"],
-    ["a/Brainwaves4","en,sv","ai-chat"],["a/Brainwaves3","en,fi","ai-chat"],
-    ["a/Brainwaves2","en,no","ai-chat"],["a/Brainwaves","en,da","ai-chat"],
-    ["a/Boating3","en,sv","ai-chat"],
-    
-    ["a/Staple5","en,sv","ai-chat"],["a/Staple4","en,fi","ai-chat"],
-    ["a/Staple3","en,no","ai-chat"],["a/Staple2","en,da","ai-chat"],
-    ["a/Staple","en,sv","ai-chat"],
-    
-    ["a/drDolores5","en,sv","ai-chat"],["a/drDolores4","en,fi","ai-chat"],
-    ["a/drDolores3","en,da","ai-chat"],["a/drDolores2","en,no","ai-chat"],
-    ["a/drDolores","en,sv","ai-chat"],["a/Burial","en,da","ai-chat"]
-    ,["ssarch4,ssarch3,ssarch2,ssarch1"]
+    ["a/Tracks3","en,da","ai-chat"],
+    ["a/Tracks2","en,da","ai-chat"],
+    ["a/Tracks","en,da","ai-chat"],
+    ["ssarch5,ssarch4,ssarch3,ssarch2,ssarch1"]
 ]

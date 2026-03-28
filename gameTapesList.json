@@ -1,5 +1,7 @@
 [
-  ["a/Hemispheres4","en,de","ai-investigation"],
-  ["a/Hemispheres3","en,es","ai-investigation"],["a/Hemispheres2","en,it,fr","ai-investigation"],["a/Hemispheres","en,it,fr","ai-investigation"],
-  ["a/Microcosmic","en,nl","ai-investigation"],["eharch5,eharch4,eharch1,eharch2,eharch3"]
+  ["a/Alcohol4","en,de","ai-investigation"],
+  ["a/Alcohol3","en,it","ai-investigation"],
+  ["a/Alcohol2","en,de","ai-investigation"],
+  ["a/Alcohol","en,fr","ai-investigation"],
+  ["eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
 ]
