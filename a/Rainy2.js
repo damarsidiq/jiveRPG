@@ -1,0 +1,72 @@
+var textSt=`In tropical location what causes the shifts between rain seasons and the summer? 
+where did the rain cloud go when its summer?
+This is a 'really' good question - and honestly, once you see the mechanism, tropical weather starts to feel less random and more like a giant breathing system.
+First - tropics don’t really have “summer vs winter”.
+In places like Indonesia, it’s more about: 'Rainy season'. 'Dry season'.
+And the main driver behind that shift is something called the 'Intertropical Convergence Zone' (ITCZ).
+So what 'is' the ITCZ?
+It’s basically a 'moving band around Earth' where: Warm air rises. Moisture gathers. Clouds form easily. Rain happens a lot.
+Think of it like a 'ring of constant cloud-making energy'.
+What causes the seasons to shift? The ITCZ doesn’t stay in one place - it 'moves north and south' during the year because of Earth's axial tilt.
+When it’s over your region → 'rainy season'. When it moves away → 'dry season'.
+Where did the rain clouds go? They didn’t disappear - they literally 'moved'.
+During the dry season: The main cloud-forming zone shifts (often north or south of you).
+Your area gets more influence from 'dry, sinking air' (which 'prevents' clouds from forming).
+This sinking air is part of large-scale circulation like the Hadley Cell.
+Add monsoons into the mix. In Southeast Asia, winds also reverse direction seasonally (called Monsoon).
+- 'Wet monsoon' → winds bring moist ocean air → rain.
+- 'Dry monsoon' → winds bring drier air → less rain.
+The intuition (this clicks everything together): Imagine the sky has a 'rain engine'.
+It needs 'rising air + moisture' to run. That engine 'moves around the planet slowly'.
+So: Rainy season = the engine is 'above you'. Dry season = the engine is 'somewhere else'.
+Why rain can feel “sudden” in the tropics. Even in dry season, you might still get short bursts of rain because Local heat can still trigger 'convection'.
+But it’s not sustained like during rainy season.
+<muoborder>
+I tropiske omgivelser, hva forårsaker skiftingene mellom regnsesong og sommer?
+Hvor ble det av regnskyen når det ble sommer?
+Dette er et 'veldig' godt spørsmål – og ærlig talt, når du ser mekanismen, begynner tropisk vær å føles mindre tilfeldig og mer som et gigantisk pustesystem.
+Først – tropene har egentlig ikke «sommer vs vinter».
+På steder som Indonesia handler det mer om: "Regntid". «Tørrsesong».
+Og hoveddriveren bak det skiftet er noe som kalles "Intertropical Convergence Zone" (ITCZ).
+Så hva 'er' ITCZ?
+Det er i utgangspunktet et "bevegelig bånd rundt jorden" hvor: Varm luft stiger. Fuktighet samler seg. Skyer dannes lett. Regn skjer mye.
+Tenk på det som en 'ring av konstant sky-skapende energi'.
+Hva får sesongene til å skifte? ITCZ forblir ikke på ett sted – den "beveger seg nordover og sørover" i løpet av året på grunn av jordens aksiale tilt.
+Når det er over din region → 'regntid'. Når den beveger seg bort → 'tørre årstid'.
+Hvor ble det av regnskyene? De forsvant ikke - de bokstavelig talt "beveget seg".
+I den tørre årstiden: Den viktigste skydannende sonen skifter (ofte nord eller sør for deg).
+Området ditt får større innflytelse fra "tørr, synkende luft" (som "hindrer" at skyer dannes).
+Denne synkende luften er en del av storskala sirkulasjon som Hadley Cell.
+Legg til monsuner i blandingen. I Sørøst-Asia snur vinden også retning sesongmessig (kalt Monsoon).
+- 'Våt monsun' → vinder gir fuktig havluft → regn.
+- 'Tørr monsun' → vind gir tørrere luft → mindre regn.
+Intuisjonen (dette klikker alt sammen): Tenk deg at himmelen har en 'regnmotor'.
+Den trenger 'stigende luft + fuktighet' for å kjøre. Den motoren 'beveger seg sakte rundt på planeten'.
+Så: Regntid = motoren er 'over deg'. Tørrsesong = motoren er 'et annet sted'.
+Hvorfor regn kan føles "plutselig" i tropene. Selv i den tørre årstiden kan du fortsatt få korte støt med regn fordi lokal varme fortsatt kan utløse "konveksjon".
+Men det opprettholdes ikke som i regntiden.`;
+
+var noDiction=`["aksiale - axial","alt - everything / all","annet - other / different","av - of / from / by","bak - back","begynner - begins","bevegelig - moving","beveger - moving","beveget - moved","blandingen - mixture","ble - became","bokstavelig - literally","bort - away","bånd - ties","cell - cell","convergence - convergence","dannes - forms","de - they / them","deg - you","del - part","den - it / that / the","denne - this","det - it / that","dette - this","din - your","ditt - your","du - you (singular)","egentlig - actually / really","eller - or","en - a / an / one","energi - energy","er - is / are","et - a / an / one","ett - one (neutral)","forblir - remain","fordi - because","forsvant - disappeared","fortsatt - still","forårsaker - causes","fra - from","fuktig - moist","fuktighet - humidity","føles - feels","først - first","få - few / get","får - receives","gigantisk - giant","gir - gives","godt - good","grunn - reason / ground","hadley - hadley","handler - is about / deals with","har - have / has","havluft - sea air","himmelen - heaven","hindrer - hinders","hoveddriveren - main driver","hva - what","hvor - where","hvorfor - why","ikke - not","indonesia - indonesia","innflytelse - influence","intertropical - intertropical","intuisjonen - intuition","itcz - itcz","jorden - earth","jordens - earth's","kalles - is called","kalt - called","kan - can / may","kjøre - running","klikker - clicks","konstant - constant / constantly","konveksjon - convection","korte - short","legg - leg; shin","lett - light","lokal - local","luft - air","luften - air","løpet - course","med - with","mekanismen - mechanism","mellom - between","men - but","mer - more","mindre - less; smaller","monsoon - monsoon","monsun - monsoon","monsuner - monsoons","motoren - engine","mye - much; a lot","noe - something","nord - north","nordover - northward","når - when","ofte - often","og - and","også - also / too","om - about / if / whether","omgivelser - environment","området - area","opprettholdes - maintained","over - over / above","planeten - planet","plutselig - suddenly, from plutselig (sudden).","pustesystem - respiratory system","på - on / at / in","region - region","regn - rain","regnmotor - rain engine","regnsesong - rainy season","regnskyen - rain cloud","regnskyene - rain clouds","regntid - rainy season","regntiden - rainy season","retning - direction","ring - ring","rundt - around","sakte - slow / slowly, can be used as both an adjective and adverb.","samler - collecting","sammen - together","seg - himself / herself / themselves","selv - self / even","ser - see / look","sesongene - seasons","sesongmessig - seasonal","sirkulasjon - circulation","skifte - shift","skifter - shifts","skiftet - the shift / switched","skiftingene - shifts","skjer - happens","sky-skapende - cloud-creating","skydannende - cloud forming","skyer - clouds","snur - turns","som - that / which / who","sommer - summer","sonen - zone","spørsmål - question","sted - place","steder - places","stigende - rising","stiger - rises; increases","storskala - large scale","større - larger","støt - shock","synkende - sinking","sør - south","sørover - southward","sørøst-asia - southeast asia","så - so / thus / then","talt - spoken","tenk - think (imperative)","til - to / for / until","tilfeldig - random","tilt - tilt","trenger - needs","tropene - tropics","tropisk - tropical","tropiske - tropical","tørr - dry","tørre - dry","tørrere - drier","tørrsesong - dry season","utgangspunktet - the starting point (basically)","utløse - trigger","varm - warm","varme - heat","veldig - very","viktigste - most important (superlative)","vind - wind","vinden - wind","vinder - winds","vinter - winter","vs - vs","vær - be","våt - wet","zone - zone","ærlig - honest","å - to (infinitive marker)","året - year","årstid - season","årstiden - season"]`;
+var noLM=`{"a":{"start":0,"end":3},"b":{"start":4,"end":13},"c":{"start":14,"end":15},"d":{"start":16,"end":26},"e":{"start":27,"end":33},"f":{"start":34,"end":45},"g":{"start":46,"end":49},"h":{"start":50,"end":59},"i":{"start":60,"end":65},"j":{"start":66,"end":67},"k":{"start":68,"end":75},"l":{"start":76,"end":81},"m":{"start":82,"end":92},"n":{"start":93,"end":96},"o":{"start":97,"end":104},"p":{"start":105,"end":108},"r":{"start":109,"end":119},"s":{"start":120,"end":153},"t":{"start":154,"end":166},"u":{"start":167,"end":168},"v":{"start":169,"end":179},"z":{"start":180,"end":180},"æ":{"start":181,"end":181},"å":{"start":182,"end":185}}`;
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'eu/';}else{EHIMGURL = storyline.BIMG+'eu/';}
+const svisual = ['de_a.jpg','de_b.jpg','de_c.jpg','de_d.jpg','de_e.jpg','de_f.jpg','es_a.jpg','es_b.jpg','es_c.jpg','es_d.jpg','es_e.jpg','es_f.jpg','es_g.jpg','es_h.jpg','es_i.jpg','ews.jpg','fr_a.jpg','fr_b.jpg','fr_c.jpg','fr_d.jpg','fr_e.jpg','fr_f.jpg','fr_g.jpg','fr_h.jpg','fr_i.jpg','fr_j.jpg','fr_k.jpg','fr_l.jpg','fr_m.jpg','fr_n.jpg','gr_a.jpg','gr_b.jpg','gr_c.jpg','gr_d.jpg','gr_e.jpg','gr_f.jpg','gr_g.jpg','gr_h.jpg','gr_i.jpg','gr_j.jpg','gr_k.jpg','gr_l.jpg','gr_m.jpg','gr_n.jpg','gr_o.jpg','gr_p.jpg','gr_q.jpg','gr_r.jpg','gr_s.jpg','it_a.jpg','it_b.jpg','it_c.jpg','it_d.jpg','it_e.jpg','it_f.jpg','it_g.jpg','it_h.jpg','it_i.jpg','it_j.jpg','it_k.jpg','it_l.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg'];
+const ImgRo = 1;
+const oImg = 'it_b.jpg';
+const ehbmtitle = 'rainy2';
+
+storyline.intro = `<p>A conversation the weather/rain.</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 23</p>
+<p>Voices Available:<br>-</p>
+<p>Story Text:<br><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://translate.google.com/" target="_blank">Google Translate</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
+
+storyline.lang = ['EN','NO'];
+storyline.clang = storyline.deflang = 'no';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof noDiction!=='undefined'&&noDiction!=''){noDiction=JSON.parse(noDiction);reperc.noLM=JSON.parse(noLM);reperc.avdi++}storyline.snd={};if(typeof noSND!=='undefined'&&noSND.length){storyline.snd.no={};storyline.snd.no.p=storyline.sndURL+noSND[0];noSND.splice(0,1);storyline.snd.no.t=noSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],null,null,null,reperc.storylines[1][i],null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='no'){if(typeof reperc.noLM==='undefined'){reperc.xDict(pos);return}if(!reperc.noLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){if(noDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);
