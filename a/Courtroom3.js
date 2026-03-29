@@ -1,0 +1,115 @@
+var textSt=`If i think about it, a jury system seems... odd compared to a panel of judges, the verdict is determined by a jury comprised of 12 civilians while the 1 judge is only there to moderate the proceedings? but my mind sort of goes hither and thither to analyze and deciding which would be more optimal, whats your take?
+Yeah, that “wait… 'why' are 12 random people deciding this?” reaction is very real. You’re basically bumping into a deep design question: 'what is justice supposed to optimize for - expertise or collective human judgment?'.
+Both systems are trying to solve the same problem (figuring out truth and fairness), but they 'optimize different risks'.
+Why the jury system even exists.
+The idea behind a jury isn’t “random people are smarter.” It’s more like 'No single authority should have total control over judgment.'.
+Historically, juries act as a buffer between the state and the individual. 
+Instead of the government accusing you and government-trained judges deciding your fate you get 'ordinary citizens as a check on power'.
+So the jury system is less about efficiency, more about 'legitimacy and protection'.
+A well-functioning jury can be surprisingly powerful at things judges aren’t always optimized for
+- 'Detecting human behavior' (who feels believable, who feels off).
+- 'Bringing diverse perspectives' (12 different life experiences).
+- 'Resisting overly technical manipulation' (“that sounds legally clever, but doesn’t feel right”).
+This is basically the engine behind 12 Angry Men - one person introduces doubt, and the group slowly recalibrates reality together.
+When it works, it’s kind of beautiful, truth emerges from 'friction between minds'.
+But yeah… the weirdness you’re sensing is real. Because juries also come with serious downsides.
+- 'They’re not trained in law'.
+- 'They can be emotional, biased, or overwhelmed'.
+- 'They can misunderstand complex evidence'.
+- 'Group dynamics can go sideways' (dominant personalities, conformity pressure).
+So sometimes it becomes less “truth-seeking” and more whoever told the more compelling story wins.
+A panel of judges (like in Indonesia) flips the priorities.
+- 'Expertise over randomness'.
+- 'Consistency over variability'.
+- 'Legal reasoning over emotional intuition'.
+Judges are trained to: filter irrelevant emotion. apply legal standards consistently. evaluate evidence systematically.
+So ideally, you get 'more stable, predictable outcomes'. But judges aren’t perfect either.
+This is where it gets interesting - and a bit uncomfortable.
+Judge-based systems can risk: 'Institutional bias' (they’re part of the system they’re judging within).
+- 'Over-reliance on legal formalism' (missing the “human truth”).
+- 'Less diversity of perspective' (fewer minds, similar training).
+So instead of “random error,” you sometimes get: 'systematic error'.
+So which is “better”? Honestly, neither is universally better - they’re just 'different trade-offs'.
+- Jury system → protects against 'abuse of power', but risks 'irrational decisions'.
+- Judge system → protects against 'irrational decisions', but risks 'concentrated bias'.
+A cleaner way to think about it. If you strip it down, the question becomes: Do you trust 'many imperfect people'…  or 'a few trained ones inside the system'?
+That’s not just legal - that’s philosophical.
+Your instinct about “what makes trials compelling”.
+What you said earlier actually ties into this beautifully: The 'real drama' isn’t who decides (jury vs judges)…
+It’s that moment where: the same facts allow multiple possible realities.
+Whether it’s:  12 jurors in a room. or 3 judges on a panel.
+They’re all doing the same thing.
+'choosing which version of reality feels most true - and most just.'
+If you want a slightly spicy take: Juries are closer to 'human truth'. Judges are closer to 'legal truth'.
+And the gap between those two? That’s where most of the tension - both in movies and real life - lives.
+<muoborder>
+Jos ajattelen asiaa, valamiehistöjärjestelmä tuntuu... oudolta verrattuna tuomaripaneeliin, jossa tuomion päättää 12 siviilistä koostuva valamiehistö, kun taas yksi tuomari on paikalla vain moderoimassa käsittelyä? Mutta mieleni jotenkin harhailee sinne tänne analysoiden ja päättäen, kumpi olisi optimaalisempi, mikä on sinun mielipiteesi?
+Joo, tuo "hetkinen... 'miksi' 12 satunnaista ihmistä päättää tästä?" -reaktio on hyvin todellinen. Törmäät pohjimmiltaan syvään suunnittelukysymykseen: "mitä oikeudenmukaisuuden on tarkoitus optimoida - asiantuntemusta vai kollektiivista ihmisarviointia?".
+Molemmat järjestelmät yrittävät ratkaista saman ongelman (totuuden ja oikeudenmukaisuuden selvittäminen), mutta ne "optimoivat eri riskejä".
+Miksi valamiehistöjärjestelmä edes on olemassa.
+Valamiehistön taustalla oleva ajatus ei ole "satunnaiset ihmiset ovat älykkäämpiä". Se on enemmänkin kuin "Yhdelläkään viranomaisella ei pitäisi olla täydellistä määräysvaltaa tuomioon".
+Historiallisesti valamiehistö on toiminut puskurina valtion ja yksilön välillä.
+Sen sijaan, että hallitus syyttäisi sinua ja hallituksen kouluttamat tuomarit päättäisivät kohtalostasi, saat "tavallisia kansalaisia vallan hillitsijäksi".
+Joten valamiehistöjärjestelmä ei niinkään ole tehokkuuden, vaan "legitimiteetin ja suojelun" asia.
+Hyvin toimiva valamiehistö voi olla yllättävän tehokas asioissa, joihin tuomarit eivät aina ole optimoituja.
+- "Ihmiskäyttäytymisen havaitseminen" (kuka tuntuu uskottavalta, kuka epäkunnossa).
+- "Erilaisten näkökulmien tuominen" (12 erilaista elämänkokemusta).
+- "Liiallisen teknisen manipuloinnin vastustaminen" ("se kuulostaa oikeudellisesti nokkelalta, mutta ei tunnu oikealta").
+Tämä on pohjimmiltaan 12 Angry Menin moottori - yksi henkilö tuo esiin epäilyksen, ja ryhmä kalibroi todellisuutta hitaasti uudelleen yhdessä.
+Kun se toimii, Se on tavallaan kaunista, totuus syntyy "mielten välisestä kitkasta".
+Mutta joo... aistimasi outous on todellista. Koska valamiehistöillä on myös vakavia haittapuolia.
+- "He eivät ole koulutettuja lakiin".
+- "He voivat olla tunteellisia, puolueellisia tai ylikuormitettuja".
+- "He voivat ymmärtää väärin monimutkaisia todisteita".
+- "Ryhmädynamiikka voi mennä sivuttain" (hallitsevat persoonallisuudet, konformismipaine).
+Joten joskus siitä tulee vähemmän "totuuden etsimistä" ja enemmän se, joka kertoi vakuuttavamman tarinan, voittaa.
+Tuomarien paneeli (kuten Indonesiassa) kääntää prioriteetit.
+- "Asiantuntemus satunnaisuuden sijaan".
+- "Johdonmukaisuus vaihtelun sijaan".
+- "Oikeudellinen päättely emotionaalisen intuition sijaan".
+Tuomarit on koulutettu: suodattamaan epäolennaisia tunteita. soveltamaan oikeudellisia standardeja johdonmukaisesti. arvioi todisteita systemaattisesti.
+Joten ihanteellisessa tapauksessa saat "vakaampia ja ennustettavampia tuloksia". Mutta tuomaritkaan eivät ole täydellisiä.
+Tässä kohtaa asia muuttuu mielenkiintoiseksi - ja hieman epämukavaksi.
+Tuomareihin perustuvissa järjestelmissä voi olla riskinä: "Institutionaalinen puolueellisuus" (he ovat osa järjestelmää, jonka sisällä he tuomitsevat).
+- "Liiallinen luottaminen oikeudelliseen formalismiin" ("inhimillisen totuuden" ohittaminen).
+- "Vähemmän näkökulmien monimuotoisuutta" (vähemmän mieliä, samanlainen koulutus).
+Joten "satunnaisen virheen" sijaan saat joskus: "systemaattisen virheen".
+Joten kumpi on "parempi"? Rehellisesti sanottuna kumpikaan ei ole yleisesti parempi – ne ovat vain ”erilaisia kompromisseja”.
+- Valamiehistöjärjestelmä → suojaa ”vallan väärinkäytöltä”, mutta riskinä on ”irrationaaliset päätökset”.
+- Tuomarijärjestelmä → suojaa ”irrationaaliset päätökset”, mutta riskinä on ”keskittynyt puolueellisuus”.
+Selkeämpi tapa ajatella asiaa. Jos riisutaan se, kysymys kuuluu: Luotatko ”moniin epätäydellisiin ihmisiin”… vai ”muutamaan koulutettuun järjestelmän sisällä”?
+Se ei ole vain juridista – se on filosofista.
+Vaistosi siitä, ”mikä tekee oikeudenkäynneistä vakuuttavia”.
+Se, mitä sanoit aiemmin, liittyy tähän kauniisti: ”Oikea draama” ei ole se, kuka päättää (valamiehistö vs. tuomarit)….
+Se on se hetki, jolloin: samat tosiasiat mahdollistavat useita mahdollisia todellisuuksia.
+Olipa kyseessä sitten: 12 valamiehistön jäsentä huoneessa. tai 3 tuomaria paneelissa.
+He kaikki tekevät samaa asiaa.
+'valitsemalla, mikä versio todellisuudesta tuntuu todeltaimmalta - ja oikeudenmukaisimmalta.'.
+Jos haluat hieman mausteisemman näkökulman: Valamiehistö on lähempänä "inhimillistä totuutta". Tuomarit ovat lähempänä "oikeudellista totuutta".
+Entä näiden kahden välinen kuilu? Siinä suurin osa jännitteestä - sekä elokuvissa että tosielämässä - piilee.`;
+
+var fiDiction=`["aiemmin - earlier","aina - always","aistimasi - you sense","ajatella - think","ajattelen - i'm thinking","ajatus - idea","analysoiden - analyzing","angry - angry","arvioi - evaluate","asia - thing","asiaa - matter","asiantuntemus - expertise","asiantuntemusta - expertise","asioissa - in matters","draama - drama","edes - even","ei - no / not","eivät - not","elokuvissa - in movies","elämänkokemusta - life experience","emotionaalisen - emotional","enemmän - more","enemmänkin - more","ennustettavampia - more predictable","entä - what","epäilyksen - suspicion","epäkunnossa - disordered","epämukavaksi - uncomfortable","epäolennaisia - irrelevant","epätäydellisiin - imperfect","eri - different","erilaisia - different","erilaista - different","erilaisten - different","esiin - appears","etsimistä - searching","että - that","filosofista - philosopher","formalismiin - formalism","haittapuolia - disadvantages","hallitsevat - dominating","hallituksen - government","hallitus - government","haluat - you want","harhailee - drifting","havaitseminen - observation","henkilö - person","hetki - moment","hetkinen - moment","hieman - a little","hillitsijäksi - repressor","historiallisesti - historically","hitaasti - slowly","huoneessa - in the room","hyvin - very","ihanteellisessa - ideal","ihmisarviointia - human judgment","ihmiset - people","ihmisiin - people","ihmiskäyttäytymisen - human behavior","ihmistä - people","indonesiassa - indonesia","inhimillisen - human","inhimillistä - human","institutionaalinen - institutional","intuition - intuition","irrationaaliset - irrational","ja - and","johdonmukaisesti - consistency","johdonmukaisuus - consistency","joihin - to which","joka - every","jolloin - when","jonka - whose","joo - yeah","jos - if","joskus - sometimes","jossa - in which","joten - so","jotenkin - somehow","juridista - legal","jännitteestä - from the suspense","järjestelmissä - systems","järjestelmän - system","järjestelmät - systems","järjestelmää - system","jäsentä - member","kahden - two","kaikki - everything / all","kalibroi - calibrate","kansalaisia - citizens","kauniisti - beautiful","kaunista - beautiful","kertoi - told","keskittynyt - focused","kitkasta - friction","kohtaa - meeting","kohtalostasi - your fate","kollektiivista - collective","kompromisseja - compromises","konformismipaine - conformity pressure","koostuva - composed","koska - because","koulutettu - trained","koulutettuja - educated","koulutettuun - educated","kouluttamat - educated","koulutus - education","kuilu - gap","kuin - as","kuka - who","kumpi - which","kumpikaan - neither","kun - when","kuten - like","kuulostaa - sounds","kuuluu - heard","kyseessä - regarding","kysymys - question","käsittelyä - deliberating","kääntää - translating","lakiin - law","legitimiteetin - legitimacy","liiallinen - excessive","liiallisen - excessive","liittyy - related","luotatko - do you trust","luottaminen - trusting","lähempänä - closer","mahdollisia - possible","mahdollistavat - enable","manipuloinnin - manipulation","mausteisemman - spicier","menin - i went","mennä - go","mieleni - my mind","mielenkiintoiseksi - interesting","mielipiteesi - your opinion","mieliä - mind","mielten - i think","miksi - why","mikä - what","mitä - what","moderoimassa - moderating","molemmat - both","moniin - many","monimuotoisuutta - diversity","monimutkaisia - complex","moottori - engine","mutta - but","muutamaan - some","muuttuu - changes","myös - also","määräysvaltaa - control","ne - they","niinkään - so","nokkelalta - witty","näiden - these","näkökulman - perspective","näkökulmien - perspectives","ohittaminen - bypassing","oikea - right","oikealta - right","oikeudellinen - legal","oikeudelliseen - legal","oikeudellisesti - legal","oikeudellisia - legal","oikeudellista - legal","oikeudenkäynneistä - on trials","oikeudenmukaisimmalta - from the most fair","oikeudenmukaisuuden - fairness","ole - be (imperative)","olemassa - existence","oleva - being","olipa - whether","olisi - would be (conditional of olla)","olla - to be (infinitive)","ongelman - problem","optimaalisempi - more optimal","optimoida - optimize","optimoituja - optimized","optimoivat - optimize","osa - part","oudolta - strange","outous - outous","ovat - are","paikalla - on the spot","paneeli - panel","paneelissa - on the panel","parempi - better","persoonallisuudet - personalities","perustuvissa - based","piilee - hiding","pitäisi - should (conditional of pitää)","pohjimmiltaan - essentially","prioriteetit - priorities","puolueellisia - biased","puolueellisuus - bias","puskurina - buffer na","päättely - reasoning","päättäen - deciding","päättäisivät - would decide","päättää - deciding","päätökset - decisions","ratkaista - solve","reaktio - reaction","rehellisesti - honestly","riisutaan - striped","riskejä - risks","riskinä - risk","ryhmä - group","ryhmädynamiikka - group dynamics","saat - get","samaa - same","saman - same","samanlainen - similar","samat - same","sanoit - you said","sanottuna - said","satunnaisen - random","satunnaiset - random","satunnaista - random","satunnaisuuden - randomness","se - it / that","sekä - as well","selkeämpi - clearer","selvittäminen - discovery","sen - its","siinä - in it / there","siitä - of","sijaan - instead","sinne - there","sinua - you","sinun - your","sisällä - inside","sitten - then","siviilistä - civil","sivuttain - sideways","soveltamaan - apply","standardeja - standards","suodattamaan - filter","suojaa - protects","suojelun - protection","suunnittelukysymykseen - mouth nning question","suurin - largest","syntyy - arises","systemaattisen - system ttisen","systemaattisesti - systematically","syvään - deep","syyttäisi - would accuse","taas - again","tai - or","tapa - way","tapauksessa - in the case","tarinan - story","tarkoitus - purpose","taustalla - in the background","tavallaan - in a way","tavallisia - ordinary","tehokas - effective","tehokkuuden - effectiveness","tekee - makes","tekevät - do","teknisen - technical","todellinen - real","todellista - real","todellisuudesta - of reality","todellisuuksia - realities","todellisuutta - reality","todeltaimmalta - from the most real","todisteita - evidence","toimii - works","toiminut - worked","toimiva - functional","tosiasiat - facts","tosielämässä - in real life","totuuden - truth","totuus - truth","totuutta - truth","tulee - comes","tuloksia - results<br >","tunnu - feel","tunteellisia - emotional","tunteita - feelings","tuntuu - feels","tuo - brings (from tuoda)","tuomareihin - judges","tuomari - judge","tuomaria - judges","tuomarien - judges","tuomarijärjestelmä - judicial system","tuomaripaneeliin - for a panel of judges","tuomarit - judges","tuomaritkaan - judges","tuominen - judgment","tuomion - verdict","tuomioon - conviction","tuomitsevat - judges","tähän - here","tämä - this","tänne - here","tässä - here","tästä - from here","täydellisiä - perfect","täydellistä - complete","törmäät - clash","useita - several","uskottavalta - believable lta","uudelleen - again","vaan - but","vai - or","vaihtelun - variation","vain - only / just","vaistosi - your instincts","vakaampia - more stable","vakavia - serious","vakuuttavamman - vak more innovative","vakuuttavia - convincing","valamiehistö - jury","valamiehistöillä - with juries","valamiehistöjärjestelmä - jury system","valamiehistön - jury","valitsemalla - by choosing","vallan - power","valtion - state","vastustaminen - resistance","verrattuna - compared to","versio - version","viranomaisella - authority","virheen - mistake","voi - can / may (from voida) or butter","voittaa - wins / to win","voivat - can","vs - vs","vähemmän - less","välillä - between","välinen - between","välisestä - from the other","väärin - wrong","väärinkäytöltä - from abuse","yhdelläkään - at least","yhdessä - together","yksi - one","yksilön - individual","yleisesti - generally","ylikuormitettuja - overloaded","yllättävän - surprising","ymmärtää - understand","yrittävät - try","älykkäämpiä - smarter"]`;
+var fiLM=`{"a":{"start":0,"end":13},"d":{"start":14,"end":14},"e":{"start":15,"end":36},"f":{"start":37,"end":38},"h":{"start":39,"end":54},"i":{"start":55,"end":66},"j":{"start":67,"end":86},"k":{"start":87,"end":120},"l":{"start":121,"end":128},"m":{"start":129,"end":153},"n":{"start":154,"end":159},"o":{"start":160,"end":185},"p":{"start":186,"end":203},"r":{"start":204,"end":211},"s":{"start":212,"end":249},"t":{"start":250,"end":305},"u":{"start":306,"end":308},"v":{"start":309,"end":339},"y":{"start":340,"end":348},"ä":{"start":349,"end":349}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'eu/';}else{EHIMGURL = storyline.BIMG+'eu/';}
+const svisual = ['de_a.jpg','de_b.jpg','de_c.jpg','de_d.jpg','de_e.jpg','de_f.jpg','es_a.jpg','es_b.jpg','es_c.jpg','es_d.jpg','es_e.jpg','es_f.jpg','es_g.jpg','es_h.jpg','es_i.jpg','ews.jpg','fr_a.jpg','fr_b.jpg','fr_c.jpg','fr_d.jpg','fr_e.jpg','fr_f.jpg','fr_g.jpg','fr_h.jpg','fr_i.jpg','fr_j.jpg','fr_k.jpg','fr_l.jpg','fr_m.jpg','fr_n.jpg','gr_a.jpg','gr_b.jpg','gr_c.jpg','gr_d.jpg','gr_e.jpg','gr_f.jpg','gr_g.jpg','gr_h.jpg','gr_i.jpg','gr_j.jpg','gr_k.jpg','gr_l.jpg','gr_m.jpg','gr_n.jpg','gr_o.jpg','gr_p.jpg','gr_q.jpg','gr_r.jpg','gr_s.jpg','it_a.jpg','it_b.jpg','it_c.jpg','it_d.jpg','it_e.jpg','it_f.jpg','it_g.jpg','it_h.jpg','it_i.jpg','it_j.jpg','it_k.jpg','it_l.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg'];
+const ImgRo = 1;
+const oImg = 'de_a.jpg';
+const ehbmtitle = 'croom3';
+
+storyline.intro = `<p>A conversation about the courtroom.</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 44</p>
+<p>Voices Available:<br>-</p>
+<p>Story Text:<br><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://translate.google.com/" target="_blank">Google Translate</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
+
+storyline.lang = ['EN','FI'];
+storyline.clang = storyline.deflang = 'fi';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof fiDiction!=='undefined'&&fiDiction!=''){fiDiction=JSON.parse(fiDiction);reperc.fiLM=JSON.parse(fiLM);reperc.avdi++}storyline.snd={};if(typeof fiSND!=='undefined'&&fiSND.length){storyline.snd.fi={};storyline.snd.fi.p=storyline.sndURL+fiSND[0];fiSND.splice(0,1);storyline.snd.fi.t=fiSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],null,null,null,null,reperc.storylines[1][i])}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='fi'){if(typeof reperc.fiLM==='undefined'){reperc.xDict(pos);return}if(!reperc.fiLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.fiLM[xx].start;i<=reperc.fiLM[xx].end;i++){if(fiDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+fiDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);
