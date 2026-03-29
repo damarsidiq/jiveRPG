@@ -1,4 +1,4 @@
-var textSt-`But even though one of the factors that makes the western courtroom dynamic interesting is the jury system, ive watched some real case courtroom unfolding where the thing that makes it amazing wasnt really influenced by the presence of a jury stand but it was the argument of what the fact 'could be'.
+var textSt=`But even though one of the factors that makes the western courtroom dynamic interesting is the jury system, ive watched some real case courtroom unfolding where the thing that makes it amazing wasnt really influenced by the presence of a jury stand but it was the argument of what the fact 'could be'.
 Presented by either the defending party or the prosecuting side.
 But since there wasnt any jury for them to convinced i assume that they were 'presenting' it for the 'set of judges'?
 Its was an old indonesian trial ive seen way back.
