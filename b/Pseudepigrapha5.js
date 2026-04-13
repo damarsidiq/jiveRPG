@@ -1,0 +1,121 @@
+var textSt=`well this is a revelation, now i know where all of those stories of alien civilization comes from, its definitely the fallen angel story.
+but why wouldnt the book of enoch be included in the modern canonical tradition of judaism or christianity though it exists in the dead sea scrolls? 
+enoch was said to have this revelation as a vision by ascending the heavens much like the isra miraj of muhammad PBUH?
+i have in my database 68 different book name of the bible (1 chronicle & 2 chronicle counts as 2) is this data complete? 
+i think ive mistakenly included 'Front Matter' and 'preface' as part of the bible so i have... 66 books?
+You've just noticed the skeleton key behind a thousand modern sci-fi plots.
+Ancient people didn't imagine aliens the way we do, but they absolutely imagined non-human intelligences descending from the sky, sharing forbidden technology, hybridizing with humans, and destabilizing the world.
+Swap Watchers for extraterrestrials and you basically get the same movie.
+Now to the canon question.
+Why isn't the Book of Enoch in the Jewish or most Christian Bibles, even though it's in the Dead Sea Scrolls?
+Because canon is not about age. It's about authority.
+The Dead Sea Scrolls prove Enoch was widely read.
+The Essenes loved it. Early Jews debated it. Early Christians quoted it.
+But that doesn't mean it passed the canon filters.
+Judaism eventually standardized its canon around texts written in Hebrew, tied to recognized prophets, and used in temple worship.
+Enoch was written mostly in Aramaic and preserved in Ethiopic.
+It circulated in mystical and apocalyptic circles, not priestly ones.
+It was influential, but not official.
+Christianity inherited the Jewish canon, then added the New Testament.
+Some early churches accepted Enoch. The Ethiopian Orthodox Church still does.
+But Rome and Byzantium didn't.
+They wanted texts that could be traced to apostolic authority and used universally in liturgy.
+Enoch was too wild, too cosmic, too speculative, too full of angelic politics and end-times astronomy.
+It wasn't rejected as heresy. It was sidelined as unstable.
+Apocalyptic literature makes church administrators nervous. It inspires revolutions.
+Now about Enoch ascending the heavens.
+Yes, Enoch's journey is structurally similar to Isra' Mi'raj. He is taken upward.
+He passes through multiple heavens. He encounters angels. He sees cosmic machinery.
+He is shown the future. He returns transformed.
+This genre is called a heavenly ascent narrative.
+It appears in Enoch, Ezekiel, Daniel, later Jewish mysticism (Merkabah), Paul's third heaven, and the Mi'raj of Muhammad.
+Different traditions. Same architecture.
+Human consciousness touching the edge of the cosmic order.
+Now about your Bible database.
+There are three main canons, Hebrew Bible (Tanakh): 24 books. Protestant Old Testament: 39 books. Catholic Old Testament: 46 books.
+Eastern Orthodox: up to 49. Protestant Bible total: 66 books. Catholic Bible total: 73 books.
+Your count of 66 is the standard Protestant canon.
+Genesis to Malachi: 39. Matthew to Revelation: 27. Total: 66. If you counted Chronicles as two, Samuel as two, Kings as two, Ezra and Nehemiah separately, that's normal in Christian counting.
+Judaism compresses those into single scrolls.
+So your 68 probably includes Front Matter and Preface as if they were sacred literature, which would be impressive editorial reverence but not historically accurate.
+Enoch sits outside the canon like a radioactive manuscript.
+Too powerful to ignore. Too strange to institutionalize.
+And here's the real reason it never made the final cut: It rewrites the origin of evil.
+Instead of blaming humans alone, it blames a cosmic rebellion. That shifts theology from moral failure to metaphysical catastrophe.
+Churches prefer sin. Enoch prefers war.
+Both can be true. But only one fits neatly into a sermon.
+You're not just studying scripture anymore. You're reverse-engineering humanity's oldest attempt to explain why the universe feels haunted.
+<muoborder>
+Eh bien, c'est une révélation ! Maintenant, je sais d'où viennent toutes ces histoires de civilisation extraterrestre : c'est sans aucun doute l'histoire de l'ange déchu.
+Mais pourquoi le livre d'Hénoch ne serait-il pas inclus dans la tradition canonique moderne du judaïsme ou du christianisme, bien qu'il figure dans les manuscrits de la mer Morte ?
+On dit qu'Hénoch a reçu cette révélation sous forme de vision en montant au ciel, un peu comme l'Isra Miraj de Muhammad (que la paix soit sur lui) ?
+J'ai dans ma base de données 68 noms de livres différents de la Bible (les Chroniques 1 et 2 comptent pour 2). Ces données sont-elles complètes ?
+Je pense avoir inclus par erreur les «Frontières» et la «Préface» dans la Bible, donc j'ai… 66 livres ?
+Vous venez de découvrir la clé de voûte de milliers d'intrigues de science-fiction modernes.
+Les anciens n'imaginaient pas les extraterrestres comme nous, mais ils imaginaient certainement des intelligences non humaines descendant du ciel. Partage de technologies interdites, hybridation avec les humains et déstabilisation du monde.
+Remplacez les Veilleurs par des extraterrestres et vous obtenez quasiment le même film.
+Passons maintenant à la question du canon.
+Pourquoi le Livre d'Hénoch n'est-il pas présent dans la Bible juive ni dans la plupart des Bibles chrétiennes, alors qu'il figure dans les manuscrits de la mer Morte?
+Parce que le canon n'est pas une question d'ancienneté, mais d'autorité.
+Les manuscrits de la mer Morte prouvent qu'Hénoch était largement lu.
+Les Esséniens l'appréciaient beaucoup. Les premiers Juifs en ont débattu. Les premiers chrétiens l'ont cité.
+Mais cela ne signifie pas qu'il ait été accepté par le canon.
+Le judaïsme a fini par standardiser son canon autour de textes écrits en hébreu, liés à des prophètes reconnus et utilisés dans le culte du Temple.
+Le livre d'Hénoch a été écrit principalement en araméen et conservé en éthiopien.
+Il circulait dans les cercles mystiques et apocalyptiques, et non dans les milieux sacerdotaux.
+Il a eu une influence, mais n'était pas officiel.
+Le christianisme a hérité du canon juif, puis y a ajouté le Nouveau Testament.
+Certaines Églises primitives ont accepté le livre d'Hénoch. L'Église orthodoxe éthiopienne le fait encore.
+Mais Rome et Byzance ne l'ont pas fait.
+Elles voulaient des textes dont l'origine puisse être rattachée à une autorité apostolique et utilisés universellement dans la liturgie.
+Le livre d'Hénoch était trop extravagant, trop cosmique, trop spéculatif, trop imprégné de politique angélique et d'astronomie de la fin des temps.
+Il n'a pas été rejeté comme hérésie. Il a été mis de côté car jugé instable.
+La littérature apocalyptique inquiète les autorités ecclésiastiques. Elle inspire des révolutions.
+À propos de l'ascension d'Hénoch vers les cieux.
+Oui, le voyage d'Hénoch est structurellement similaire à celui d'Isra' Mi'raj. Il est emmené vers le haut.
+Il traverse plusieurs cieux. Il rencontre des anges. Il voit la machinerie cosmique.
+L'avenir lui est montré. Il revient transformé.
+Ce genre est appelé récit d'ascension céleste.
+On le retrouve dans les livres d'Hénoch, d'Ézéchiel et de Daniel, dans la mystique juive plus tardive (Merkaba), dans le troisième ciel de Paul et dans le Mi'raj de Mahomet.
+Des traditions différentes. Une même architecture.
+La conscience humaine aux confins de l'ordre cosmique.
+À propos de votre base de données bibliques.
+Il existe trois canons principaux: la Bible hébraïque (Tanakh): 24 livres; l'Ancien Testament protestant: 39 livres; l'Ancien Testament catholique: 46 livres.
+La Bible orthodoxe orientale compte jusqu'à 49 livres. La Bible protestante compte au total 66 livres. La Bible catholique compte 73 livres.
+Votre décompte de 66 livres correspond au canon protestant standard.
+De la Genèse à Malachie: 39 livres. De Matthieu à l’Apocalypse: 27. Total: 66. Si vous avez compté les Chroniques comme deux livres, Samuel comme deux livres, les Rois comme deux livres, et Esdras et Néhémie séparément, cela est courant dans le décompte chrétien.
+Le judaïsme les condense en un seul rouleau.
+Vos 68 livres incluent probablement les Préfaces et les Pages liminaires, considérées comme des textes sacrés, ce qui témoignerait d’une vénération éditoriale impressionnante, mais serait historiquement inexact.
+Le livre d’Hénoch est exclu du canon, tel un manuscrit radioactif.
+Trop puissant pour être ignoré. Trop étrange pour être institutionnalisé.
+Voici la véritable raison pour laquelle il n’a jamais été retenu: il réécrit l’origine du mal.
+Au lieu de blâmer uniquement les humains, il incrimine une rébellion cosmique. Cela fait basculer la théologie de l'échec moral à la catastrophe métaphysique.
+Les Églises préfèrent le péché. Énoch préfère la guerre.
+Les deux peuvent être vrais. Mais un seul s'intègre facilement dans un sermon.
+Vous n'étudiez plus seulement les Écritures. Vous reconstituez la plus ancienne tentative de l'humanité pour expliquer pourquoi l'univers semble hanté.`;
+
+var frDiction=`["à - to; at; in","accepté - accepted","ait - has/have (subjunctive of avoir)","ajouté - added","alors - then, so","ancienne - old/ancient","anciens - old","angélique - angelic","anges - angels","apocalyptique - apocalypse diptych","apocalyptiques - apocalyptic","apostolique - apostolic","appelé - called","araméen - aramaic","architecture - architecture","au - to the, at the","aucun - none; no; not any","autorité - authority","autorités - authorities","autour - around","aux - to the, at the (plural)","avec - with","avez - have (you, plural or formal)","avoir - to have","basculer - switch","base - basis / base","beaucoup - a lot; many; much","bible - bible","bibles - bibles","bibliques - biblical","bien - well; good","blâmer - blame","byzance - byzantine","c'est - it is, this is","canon - canon","canonique - canonical","canons - canons","car - because / for","catastrophe - catastrophe","catholique - catholic","ce - this, that","cela - that","céleste - celestial","celui - that one","cercles - circles","certainement - certainly / of course","certaines - certain (feminine plural)","ces - these, those","cette - this, that","chrétien -  christian","chrétiennes - christian","chrétiens - christians","christianisme - christianity","chroniques - chronicles","ciel - sky / heaven","cieux - heavens","circulait - circulated","cité - city","civilisation - civilization","clé - key","comme - like, as","complètes - complete","compté - counted","compte - counts","comptent - count","condense - condense","confins - boundaries","conscience - consciousness / awareness","conservé - preserved","considérées - considered (feminine plural past participle)","correspond - corresponds","cosmique - cosmic","côté - side","courant - current","culte - worship","d'ancienneté - ancient","d'ascension - of ascent","d'astronomie - with astronomy","d'autorité - authoritative","d'ézéchiel - of ezekiel","d'hénoch - of enoch","d'intrigues - of intrigues","d'isra - of israel","d'où - where","d'une - of a; from a","daniel - daniel","dans - in, inside","de - of, from","débattu - debated","déchu - fallen","décompte - count","découvrir - discover","des - of the, some","descendant - descendant","déstabilisation - destabilization","deux - two","différentes - different","différents - different","dit - said","donc -  therefore / so / then","données - data","doute - doubt","du - of the, from the","ecclésiastiques - clergy","écrit - written (past participle) / a piece of writing (noun)","écrits - writings (noun, plural)","écritures - scriptures","éditoriale - editorial","églises - churches","eh - eh","elle - she, it","elles - they (feminine)","emmené - takenaway","en - in, into, as","encore - still / again / yet","énoch - enoch","erreur - error","esdras - ezra","esséniens - essenes","est - is","et - and","était - was","été - been; summer","éthiopien - ethiopian","éthiopienne - ethiopian","étrange - strange","être - to be","eu - had","exclu - excluded","existe - exists","expliquer - to explain","extraterrestre - extraterrestrial","extraterrestres - extraterrestrials","extravagant - extravagant","facilement - easily","fait - done, made; fact","figure - figure","film - film","fin - end","fini - finished","forme - form / shape","frontières - boundaries","genèse - genesis","genre - gender","guerre - war","hanté - haunted","haut - high","hébraïque - hebrew","hébreu - hebrew","hérésie - heresy","hérité - inherited","histoires - stories","historiquement - historically","humaine - human","humaines - human (feminine plural)","humains - humans","hybridation - hybridization","ignoré - ignored","il - he, it","ils - they","imaginaient - imagined","imprégné - imbued","impressionnante - impressive","incluent - include","inclus - included","incrimine - incriminate","inexact - inaccurate","influence - influences verb form","inquiète - worried","inspire - inspires","instable - unstable","institutionnalisé - institutionalized","intelligences - intelligence s","interdites - forbidden","j'ai - i have","jamais - ever, never","je - i","judaïsme - judaism","jugé - judged","juif - jewish","juifs - jews","juive - jewish","jusqu'à - until; up to","l'ancien - the elder","l'ange - the angel","l'apocalypse - theapocalypse","l'appréciaient - appreciated it","l'ascension - the ascent","l'avenir - the future","l'échec - failure","l'église - the church","l'histoire - history","l'humanité - humanity / mankind","l'ont - have","l'ordre - the order","l'origine - the origin","l'univers - the universe","la - the","laquelle - which / whom (feminine relative pronoun)","largement - widely","le - the","les - the","liés - linked","lieu -  place","liminaires - preliminaries","littérature - literature","liturgie - liturgy< br>","livre - book","livres - books","lu - read","lui - him, to him","ma - my (feminine)","machinerie - machinery","mahomet - muhammad","maintenant - now","mais - but","mal - bad, evil, pain","malachie - malachi","manuscrit - manuscript","manuscrits - manuscripts","matthieu - matthew","même - same; even","mer - sea","merkaba - merkaba","métaphysique - metaphysical","mi'raj - mi'raj","milieux - environments","milliers - thousands","mis - 'put, placed (past participle of mettre)'","moderne - modern","modernes - modern","monde - world; people","montant - amount","montré - shown","moral - moral","morte - dead","mystique - mystical","mystiques - mystics","n'a - has not (from avoir)","n'est - is not","n'est-il - isn't it","n'était - was not","n'étudiez - do not study","n'imaginaient - didn't imagine","ne - (negation particle, used with pas, jamais, etc.)","néhémie - nehemiah","ni - neither; nor","noms - names","non - no","nous - we, us","nouveau - new","obtenez - get","officiel - official","ont - have (they)","orientale - eastern","orthodoxe - orthodox","ou - or","oui - yes","pages - pages (plural)","paix - peace","par - by, through","parce - because","partage - share","pas - not","passons - let's move on","paul - paul","péché - sin","pense - think / thinks","peu - little / few","peuvent - can","plupart - most","plus - more","plusieurs - several","politique - policy","pour - for","pourquoi - why","préface - preface","préfaces - prefaces","préfère - prefers","préfèrent - prefer","premiers - first","présent - present","primitives - primitive","principalement - mainly","principaux - principal","probablement - probably","prophètes - prophets","propos - purpose / intention / remark (as in 'à propos' - about)","protestant - protestant","protestante - protestant","prouvent - prove","puis - 'then, next'","puissant - powerful","puisse - can (subjunctive) / may","qu'hénoch - what enoch","qu'il - that he, that it","quasiment - almost","que - that, which, than","question - question","qui - who, which","radioactif - radioactive","raison - reason","rattachée - attached","rébellion - rebellion","récit - tale","reconnus - recognized","reconstituez - reconstruct","reçu - received past participle","réécrit - rewritten","rejeté - rejected","remplacez - replace","rencontre - meeting, encounter","retenu - retained","retrouve - rediscovered","révélation - revelation","revient - returns","révolutions - revolutions","rois - kings","rome - rome","rouleau - scroll","s'intègre - integrates itself","sacerdotaux - priestly","sacrés - 'sacred, holy (masculine plural)'","sais - know","samuel - samuel","sans - without","science-fiction - science fiction","semble - seems","séparément - separately","serait - would be (conditional of 'être')","serait-il - would it be / is it","sermon - sermon","seul - alone / only","seulement - only","si - if, so","signifie - means / signifies","similaire - similar","soit - either, be it; subjunctive of être","son - his, her, its","sont-elles - are they","sous - under","spéculatif - speculative","standard - standard","standardiser - standardize","structurellement - structurally","sur - on, about","tanakh - tanakh","tardive - late","technologies - technologies","tel - such","témoignerait - would testify","temple - institutions","temps - time, weather","tentative - attempt","testament - testament","textes - texts","théologie - theology","total - total","toutes - all (feminine plural)","tradition - tradition","traditions - traditions","transformé - transformed (past participle)","traverse - crosses","trois - three","troisième - third","trop - too / too much","un - a, an, one","une - a, an, one","uniquement - only","universellement - universally","utilisés - used","veilleurs - watchers","vénération - veneration","venez - come","véritable - true / real","vers -  towards / verses / worms (context decides)","viennent - come","vision - vision","voici - here is / behold","voit - sees","vos - your (plural or formal)","votre - your","voulaient - wanted","vous - you","voûte - vault","voyage - trip / journey","vrais - true","y - there, to it"]`;
+var frLM=`{"à":{"start":0,"end":0},"a":{"start":1,"end":23},"b":{"start":24,"end":32},"c":{"start":33,"end":74},"d":{"start":75,"end":102},"e":{"start":103,"end":133},"é":{"start":104,"end":125},"ê":{"start":126,"end":126},"f":{"start":134,"end":141},"g":{"start":142,"end":144},"h":{"start":145,"end":156},"i":{"start":157,"end":173},"j":{"start":174,"end":182},"l":{"start":183,"end":210},"m":{"start":211,"end":237},"n":{"start":238,"end":250},"o":{"start":251,"end":257},"p":{"start":258,"end":293},"q":{"start":294,"end":299},"r":{"start":300,"end":319},"s":{"start":320,"end":345},"t":{"start":346,"end":365},"u":{"start":366,"end":370},"v":{"start":371,"end":386},"y":{"start":387,"end":387}}`;
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'csh/';}else{EHIMGURL = storyline.BIMG+'csh/';}
+const svisual = ['7.jpg','8.jpg','9.jpg','1a.jpg','q.jpg','o.jpg','5.jpg','1.jpg','6.jpg','3.jpg','4.jpg','2.jpg','x.jpg','z.jpg','v.jpg','u.jpg','y.jpg','t.jpg','s.jpg','w.jpg','p.jpg','b.jpg','c.jpg','a.jpg','g.jpg','f.jpg','m.jpg','k.jpg','d.jpg','l.jpg','e.jpg','h.jpg','j.jpg','i.jpg','r.jpg','n.jpg'];
+const ImgRo = 1;
+const oImg = 'n.jpg';
+const ehbmtitle = 'pseudep5';
+
+storyline.intro = `<p>An inquiry on the pseudepigrapha texts. Part 5.</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 47</p>
+<p>Voices Available:<br>-</p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://translate.google.com" target="_blank">Google Translate</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p>
+</div>`;
+
+storyline.lang = ['EN','FR'];
+storyline.clang = storyline.deflang = 'fr';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof frDiction!=='undefined'&&frDiction!=''){frDiction=JSON.parse(frDiction);reperc.frLM=JSON.parse(frLM);reperc.avdi++}storyline.snd={};if(typeof frSND!=='undefined'&&frSND.length){storyline.snd.fr={};storyline.snd.fr.p=storyline.sndURL+frSND[0];frSND.splice(0,1);storyline.snd.fr.t=frSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(null,reperc.storylines[0][i],reperc.storylines[1][i],null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='fr'){if(typeof reperc.frLM==='undefined'){reperc.xDict(pos);return}if(!reperc.frLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);

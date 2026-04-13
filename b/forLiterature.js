@@ -1,0 +1,141 @@
+var textSt=`What is Aravind Adiga's The White Tiger about?
+Aravind Adiga's 'The White Tiger' is a savage little mirror held up to modern India.
+It's a rags-to-riches story, but told the way nature tells stories: with claws.
+At the surface, it follows a poor village boy named Balram Halwai who grows up in the Darkness - India's forgotten rural underworld - and claws his way into the world of the rich.
+He becomes a driver for a wealthy family in Delhi, watches how power really works, and slowly realizes that the system is not built for people like him to escape.
+So he decides to break it. Violently.
+The novel is framed as a series of letters Balram writes to the Chinese Premier, explaining how he became an entrepreneur.
+What he's really doing is confessing.
+His success is built on betrayal, theft, and murder - and he tells it with chilling calm.
+The core ideas orbit around a few brutal truths: India is split into two countries: the India of malls, startups, and gated towers, and the India of mud, hunger, and servitude.
+The poor are trapped in what Balram calls the 'Rooster Coop' - a system where servants police themselves, terrified to rebel because their families will be punished.
+Corruption is not a bug. It's the operating system.
+Police, politicians, landlords - everyone takes their cut.
+Morality is a luxury product.
+Freedom is not given. It is taken.
+And when someone finally breaks out, they don't come out clean.
+The white tiger itself is a rare animal - something that appears once in a generation.
+Balram sees himself as that anomaly: a man who refuses to stay in his cage.
+It's funny in a dark way.
+Angry. Philosophical. Uncomfortable.
+It asks a question most societies hate to face: If the system is unjust, is it immoral to destroy it from the inside?
+It's not a moral guidebook. It's a moral provocation.
+The novel later became a Netflix film, but the book is sharper, meaner, and far more dangerous in its ideas.
+It's the kind of story that makes you stare at your coffee and wonder whose hands made it possible.
+Why did he wrote the chinese premier? what kind of murder was he involved in?
+Balram writes to the Chinese Premier for a very calculated reason.
+In the novel, China is rising fast, building cities, factories, and new empires.
+India wants to imitate that success.
+Balram positions himself as a guide to the real India - not the brochure version with yoga and IT parks, but the underground machinery that actually makes wealth move.
+He's saying, in effect: 'You want to understand how capitalism really works here?
+Learn from a man who escaped the cage.' The letters are part confession, part manifesto, part business pitch.
+Balram wants to present himself as a self-made entrepreneur who understands corruption, power, and survival better than any politician ever could.
+Writing to the Chinese Premier also flatters Balram's ego.
+He sees himself as a player on the world stage now, not a servant who bows.
+As for the murder - that's the dark engine of the whole story.
+Balram murders his employer, Mr. Ashok.
+Ashok is not a cartoon villain.
+He's weak, indecisive, morally confused.
+He drinks, he feels guilty about exploiting people, but he still benefits from the system.
+He represents the soft face of oppression - polite, educated, and still complicit.
+Balram is Ashok's driver.
+He watches him bribe politicians, carry bags of cash, cheat on his wife, and use servants as disposable tools.
+At the same time, Ashok treats Balram with just enough kindness to keep him loyal.
+That's the trap.
+Balram realizes something terrifying: No matter how loyal he is, he will always be expendable.
+If Ashok ever needs a scapegoat, Balram will be sacrificed without hesitation.
+So Balram does what the system has trained him to do.
+He ambushes Ashok one night, smashes his skull with a broken bottle, steals a bag of bribe money, and flees to Bangalore.
+He knows his family will be punished for it. He accepts that cost.
+The Rooster Coop demands blood for escape.
+That murder becomes the seed money for his taxi business.
+His entire success is built on that single act of rebellion.
+The book never pretends this is heroic. It presents it as evolutionary.
+In a jungle, the weak obey. The strong take.
+Balram doesn't become free because he's good.
+He becomes free because he's willing to become dangerous.
+That's the unsettling genius of the novel.
+It doesn't ask whether Balram is right. It asks whether a society that creates Balram has any right to be shocked by him.
+<muoborder>
+¿De qué trata «El Tigre Blanco» de Aravind Adiga?
+«El Tigre Blanco» de Aravind Adiga es un crudo reflejo de la India moderna.
+Es una historia de superación personal, pero contada como la naturaleza cuenta historias: con garras.
+En apariencia, narra la historia de Balram Halwai, un chico pobre de pueblo que crece en la oscuridad —el submundo rural olvidado de la India— y se abre camino a la fuerza hasta el mundo de los ricos.
+Se convierte en chófer de una familia adinerada en Delhi, observa cómo funciona realmente el poder y poco a poco se da cuenta de que el sistema no está diseñado para que personas como él puedan escapar.
+Así que decide romperlo. Violentamente.
+La novela se presenta como una serie de cartas que Balram escribe al Primer Ministro chino, explicando cómo se convirtió en empresario.
+En realidad, está confesando.
+Su éxito se basa en la traición, el robo y el asesinato, y lo narra con una calma escalofriante.
+Las ideas centrales giran en torno a algunas verdades brutales: la India está dividida en dos países: la India de los centros comerciales, las startups y los rascacielos cerrados, y la India del barro, el hambre y la servidumbre.
+Los pobres están atrapados en lo que Balram llama el «Gallinero», un sistema donde los sirvientes se controlan a sí mismos, aterrorizados de rebelarse porque sus familias serán castigadas.
+La corrupción no es un fallo. Es el sistema operativo.
+Policía, políticos, terratenientes: todos se llevan su parte.
+La moralidad es un producto de lujo.
+La libertad no se regala. Está tomada.
+Y cuando alguien finalmente escapa, no sale ileso.
+El tigre blanco en sí es un animal raro, algo que aparece una vez por generación.
+Balram se ve a sí mismo como esa anomalía: un hombre que se niega a permanecer en su jaula.
+Es gracioso de una manera oscura.
+Enojado. Filosófico. Incómodo.
+Plantea una pregunta que la mayoría de las sociedades odian afrontar: Si el sistema es injusto, ¿es inmoral destruirlo desde dentro?
+No es una guía moral. Es una provocación moral.
+La novela se convirtió después en una película de Netflix, pero el libro es más incisivo, más cruel y mucho más peligroso en sus ideas.
+Es el tipo de historia que te hace mirar tu café y preguntarte quién la hizo posible.
+¿Por qué escribió el primer ministro chino? ¿En qué tipo de asesinato estuvo involucrado?
+Balram le escribe al Primer Ministro chino por una razón muy calculada.
+En la novela, China está en pleno auge, construyendo ciudades, fábricas y nuevos imperios.
+India quiere imitar ese éxito.
+Balram se presenta como un guía de la India real: no la versión de folleto con yoga y parques tecnológicos, sino la maquinaria clandestina que realmente mueve la riqueza.
+En efecto, está diciendo: «¿Quieren entender cómo funciona realmente el capitalismo aquí?
+Aprendan de un hombre que escapó de la jaula». Las cartas son en parte confesión, en parte manifiesto, en parte propuesta comercial.
+Balram quiere presentarse como un emprendedor hecho a sí mismo que entiende la corrupción, el poder y la supervivencia mejor que cualquier político.
+Escribirle al Primer Ministro chino también halaga el ego de Balram.
+Ahora se ve a sí mismo como un actor en el escenario mundial, no como un sirviente sumiso.
+En cuanto al asesinato, ese es el motor oscuro de toda la historia.
+Balram asesina a su empleador, el Sr. Ashok.
+Ashok no es un villano de caricatura.
+Es débil, indeciso, moralmente confuso.
+Bebe, se siente culpable por explotar a la gente, pero aún se beneficia del sistema.
+Representa la cara amable de la opresión: educado, cortés y, aun así, cómplice.
+Balram es el chófer de Ashok.
+Lo observa sobornar a políticos, Lleva bolsas llenas de dinero, engaña a su esposa y usa a los sirvientes como objetos desechables.
+Al mismo tiempo, Ashok trata a Balram con la amabilidad justa para mantener su lealtad.
+Esa es la trampa.
+Balram se da cuenta de algo aterrador: por muy leal que sea, siempre será prescindible.
+Si Ashok alguna vez necesita un chivo expiatorio, Balram será sacrificado sin dudarlo.
+Así que Balram hace lo que el sistema le ha enseñado a hacer.
+Una noche, tiende una emboscada a Ashok, le rompe el cráneo con una botella rota, roba una bolsa de sobornos y huye a Bangalore.
+Sabe que su familia será castigada por ello. Él acepta ese precio.
+El Gallinero exige sangre para escapar.
+Ese asesinato se convierte en el capital inicial de su negocio de taxis.
+Todo su éxito se basa en ese único acto de rebeldía.
+El libro nunca pretende que esto sea heroico. Lo presenta como algo evolutivo.
+En la jungla, los débiles obedecen. Los fuertes toman.
+Balram no se libera porque sea bueno.
+Se libera porque está dispuesto a ser peligroso.
+Esa es la inquietante genialidad de la novela.
+No se pregunta si Balram tiene razón. Se pregunta si una sociedad que crea a Balram tiene derecho a escandalizarse por él.`;
+
+var esDiction=`["abre - opens","acepta - accept","acto - act","actor - actor","adinerada - wealthy","afrontar - confront","ahora - now","al - to the (a + el)","algo - something, somewhat","alguien - someone, somebody","alguna - some","algunas - some","amabilidad - kindness","amable - kind, friendly","animal - animal","anomalía - anomaly","aparece - appears","apariencia - appearance","aprendan - learn","aquí - here","asesina - killer r>","asesinato - murder","ashok - ashok","así - thus, so, in this way","aterrador - terrifying","aterrorizados - terrified","atrapados - trapped","auge - boom","aun - even / still","aún - still, yet","balram - balram","bangalore - bangalore","barro - mud","basa - bases","bebe - drink","beneficia - benefits","blanco - white","bolsa - bag / pouch","bolsas - bags","botella - bottle","brutales - brutal","bueno - good / well / okay","café - coffee / cafe","calculada - calculated","calma - serenity","camino - path, road, way","capital - capital (city or money)","capitalismo - capitalism","cara - face","caricatura - caricature","cartas - charters","castigada - punished","castigadas - punished","centrales - centers","centros - centers","cerrados - closed","chico - boy / guy","china - china","chino - chinese","chivo - scapegoat","chófer - chauffeur","ciudades - cities","clandestina - underground","comercial - commercial","comerciales - shopping","como - as, like, how","cómo - how","cómplice - accomplice","con - with","confesando - confessing","confesión - confession","confuso - confused","construyendo - building","contada - told","controlan - control","convierte - converts","convirtió - he/she turned / converted","corrupción - corruption","cortés - courteous","cráneo - skull","crea - create / believe (subjunctive or imperative)","crece - grows","crudo - raw","cruel - cruel","cualquier - any","cuando - when","cuanto - how much / as much as","cuenta - account / bill / realizes (e.g., 'se dio cuenta' = 'realized')","culpable - guilty","da - gives","de - of, from","débil - weak","débiles - weak","decide - decides","del - of the (de + el)","delhi - delhi","dentro - inside, within","derecho - right / law","desde - from, since","desechables - disposable","después - after, afterwards","destruirlo - destroyit","diciendo - saying","dinero - money","diseñado - designed","dispuesto - willing","dividida - divided","donde - where","dos - two","dudarlo - doubtit","educado - polite","efecto - effect","ego - ego","él - he","el - the","ello - it or that","emboscada - ambush","empleador - employer","emprendedor - entrepreneur","empresario - businessman","en - in, on","engaña - deceives","enojado - angry","enseñado - taught","entender - to understand","entiende - understands","es - is (from ser)","esa - that (feminine singular)","escalofriante - creepy / chilling","escandalizarse - beshocked","escapa - escape","escapar - escape","escapó - escaped","escenario - scene","escribe - write","escribió - wrote","escribirle - writetohim","ese - that (masculine)","esposa - wife","está - is (from estar)","están - they are, you (plural) are (from estar)","esto - this (neuter)","estuvo - was","evolutivo - evolutionary","exige - demands","éxito - success","expiatorio - sacrificed","explicando - explaining","explotar - exploit","fábricas - factories","fallo - ruling","familia - family","familias - families","filosófico - philosophical","finalmente - finally","folleto - brochure","fuertes - strong (plural)","fuerza - strength / force","funciona - works / functions","gallinero - chickencoop","garras - claws","generación - generation","genialidad - genius","gente - people","giran - turn","gracioso - funny / amusing","guía - guide","ha - has (from haber)","hace - makes / does / ago","hacer - to do, to make","halaga - flatters","halwai - halwai","hambre - hunger","hasta - until, up to, even","hecho - fact, deed, or done/made (past participle of hacer)","heroico - heroic","historia - story / history","historias - stories","hizo - he/she/it did/made (from hacer)","hombre - man","huye - fleees","ideas - ideas","ileso - unharmed","imitar - imitate","imperios - empires","incisivo - incisive","incómodo - uncomfortable","indeciso - indecisive","india - india","inicial - initial","injusto - unfair","inmoral - immoral","inquietante - unsettling","involucrado - involved","jaula - cage","jungla - jungle","justa - fair","la - the (feminine singular)","las - the (feminine plural)","le - to him, to her, to it, to you (formal) (indirect object pronoun)","leal - loyal","lealtad - loyalty","libera - libera","libertad - freedom","libro - book","llama - calls / flame","llenas - full (feminine plural)","lleva - carries","llevan - carry","lo - it / him!","los - the (masculine plural)","lujo - luxury","manera - way, manner","manifiesto - manifesto","mantener - to maintain / keep","maquinaria - machinery","más - more","mayoría - majority","mejor - better / best","ministro - minister","mirar - to look","mismo - same, himself/herself/itself (after a pronoun)","mismos - same / themselves (masculine plural)","moderna - modern","moral - moral","moralidad - morality","moralmente - morally","motor - engine","mucho - much, a lot","mueve - moves","mundial - worldwide","mundo - world","muy - very","narra - narrates","naturaleza - nature","necesita - needs","negocio - business","netflix - netflix","niega - denies","noche - night","novela - novel","nuevos - new","nunca - never","obedecen - obey","objetos - objects","observa - observe","odian - hate","olvidado - forgotten","operativo - operative","opresión - oppression","oscura - dark","oscuridad - darkness","oscuro - dark","países - countries","para - for, in order to","parques - parks","parte - part","película - movie / film","peligroso - dangerous","permanecer - remain","pero - but","personal - personal","personas - people, persons","plantea - raises","pleno - full","pobre - poor","pobres - poor","poco - little / few / bit","poder - power / to be able","policía - police","político - politician","políticos - politicians","por - by, for, through","porque - because","posible - possible","precio - price","pregunta - question","preguntarte - askyou","prescindible - expendable","presenta - presents","presentarse - introduceyourself","pretende - pretends","primer - first","producto - product","propuesta - proposal","provocación - provocation","pueblo - town, village, people","puedan - can (subjunctive)","que - that, what","qué - what","quién - who","quiere - wants","quieren - they want / you (plural) want","raro - rare / strange","rascacielos - skyscrapers","razón - reason","real - real, royal","realidad - reality","realmente - really","rebelarse - rebel","rebeldía - rebellion","reflejo - reflection","regala - giveaway","representa - represents","ricos - rich","riqueza - wealth / richness","roba - steals","robo - theft / robbery","rompe - breaks","romperlo - to break it","rota - broken","rural - rural","sabe - knows","sacrificado - sacrificed","sale - goes out / leaves","sangre - blood","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","sea - he/she/it is (subjunctive of ser)","ser - to be","será - will be","serán -  they will be","serie - series","servidumbre - servitude","si - if","sí - yes, himself/herself/itself/themselves (reflexive after a preposition)","siempre - always","siente - feels","sin - without","sino - but, but rather (used after a negative clause)","sirviente - servant","sirvientes - servants","sistema - system","sobornar - bribery","sobornos - bribes","sociedad - society","sociedades - societies","son - are","sr - mr","startups - startups","su - his, her, its, their, your (formal)","submundo - underworld","sumiso - submissive","superación - overcoming","supervivencia - survival","sus - his, her, its, their, your (formal) (plural)","también - also, too","taxis - taxis","te - you (informal singular) (direct or indirect object pronoun)","tecnológicos - technology","terratenientes - landowners","tiempo - time, weather","tiende - tends","tiene - has","tigre - tiger","tipo - type / kind / guy","toda - all, whole (feminine singular)","todo - all, whole, everything","todos - all (masculine plural)","tomada - taken","toman - they take","torno - around","traición - betrayal","trampa - trap","trata - deals","tu - your (informal singular)","un - a, an (masculine)","una - a, an (feminine)","único - unique, only","usa - use / usa (context-dependent)","ve - see / go (imperative)","verdades - truths","versión - version","vez - time / occasion","villano - villain","violentamente - violently","y - and","yoga - yoga"]`;
+var esLM=`{"a":{"start":0,"end":29},"b":{"start":30,"end":41},"c":{"start":42,"end":88},"d":{"start":89,"end":109},"e":{"start":110,"end":148},"é":{"start":113,"end":145},"f":{"start":149,"end":158},"g":{"start":159,"end":166},"h":{"start":167,"end":180},"i":{"start":181,"end":193},"j":{"start":194,"end":196},"l":{"start":197,"end":211},"m":{"start":212,"end":232},"n":{"start":233,"end":242},"o":{"start":243,"end":252},"p":{"start":253,"end":287},"q":{"start":288,"end":292},"r":{"start":293,"end":311},"s":{"start":312,"end":344},"t":{"start":345,"end":364},"u":{"start":365,"end":368},"ú":{"start":367,"end":367},"v":{"start":369,"end":374},"y":{"start":375,"end":376}}`;
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'up/';}else{EHIMGURL = storyline.BIMG+'up/';}
+const svisual = ['i.jpg','3.jpg','f.jpg','b.jpg','u.jpg','z.jpg','9.jpg','x.jpg','c.jpg','q.jpg','h.jpg','1.jpg','5.jpg','g.jpg','1d.jpg','t.jpg','n.jpg','j.jpg','r.jpg','m.jpg','a.jpg','w.jpg','k.jpg','8.jpg','d.jpg','v.jpg','6.jpg','1b.jpg','o.jpg','y.jpg','1c.jpg','p.jpg','l.jpg','4.jpg','2.jpg','7.jpg','1e.jpg','1a.jpg','e.jpg','s.jpg'];
+const ImgRo = 1;
+const oImg = 'q.jpg';
+const ehbmtitle = 'forlit';
+
+storyline.intro = `<p>An inquiry about Aravind Adiga's book called "The White Tiger".</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 58</p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://translate.google.com/" target="_blank">Google Translate</a></p>
+<p>Images:<br><ul><li><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></li></ul></p></div>`;
+
+storyline.lang = ['EN','ES'];
+storyline.clang = storyline.deflang = 'es';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof itDiction!=='undefined'&&itDiction!=''){itDiction=JSON.parse(itDiction);reperc.itLM=JSON.parse(itLM);reperc.avdi++}if(typeof frDiction!=='undefined'&&frDiction!=''){frDiction=JSON.parse(frDiction);reperc.frLM=JSON.parse(frLM);reperc.avdi++}if(typeof deDiction!=='undefined'&&deDiction!=''){deDiction=JSON.parse(deDiction);reperc.deLM=JSON.parse(deLM);reperc.avdi++}if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}storyline.snd={};if(typeof ptSND!=='undefined'&&ptSND.length){storyline.snd.pt={};storyline.snd.pt.p=storyline.sndURL+ptSND[0];ptSND.splice(0,1);storyline.snd.pt.t=ptSND}if(typeof nlSND!=='undefined'&&nlSND.length){storyline.snd.nl={};storyline.snd.nl.p=storyline.sndURL+nlSND[0];nlSND.splice(0,1);storyline.snd.nl.t=nlSND}if(typeof frSND!=='undefined'&&frSND.length){storyline.snd.fr={};storyline.snd.fr.p=storyline.sndURL+frSND[0];frSND.splice(0,1);storyline.snd.fr.t=frSND}if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}if(typeof itSND!=='undefined'&&itSND.length){storyline.snd.it={};storyline.snd.it.p=storyline.sndURL+itSND[0];itSND.splice(0,1);storyline.snd.it.t=itSND}if(typeof deSND!=='undefined'&&deSND.length){storyline.snd.de={};storyline.snd.de.p=storyline.sndURL+deSND[0];deSND.splice(0,1);storyline.snd.de.t=deSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],null,null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='it'){if(typeof reperc.itLM==='undefined'){reperc.xDict(pos);return}if(!reperc.itLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.itLM[xx].start;i<=reperc.itLM[xx].end;i++){if(itDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+itDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='fr'){if(typeof reperc.frLM==='undefined'){reperc.xDict(pos);return}if(!reperc.frLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.frLM[xx].start;i<=reperc.frLM[xx].end;i++){if(frDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+frDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}else if(storyline.clang=='de'){if(typeof reperc.deLM==='undefined'){reperc.xDict(pos);return}if(!reperc.deLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}for(var i=reperc.deLM[xx].start;i<=reperc.deLM[xx].end;i++){if(deDiction[i].indexOf(jovuniverse.frw)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+deDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);var cssa,cssb,cssc;cssa=document.createElement('style');cssa.type="text/css";document.getElementsByTagName("BODY")[0].appendChild(cssa);cssb=cssa.sheet;cssc='#dialoguebubble{min-height: 140px;}';cssb.insertRule(cssc,cssb.cssRules.length);
