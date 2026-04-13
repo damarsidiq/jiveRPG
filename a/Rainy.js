@@ -62,7 +62,7 @@ const ImgRo = 1;
 const oImg = 'it_b.jpg';
 const ehbmtitle = 'rainy';
 
-storyline.intro = `<p>A conversation the weather/rain.</p>
+storyline.intro = `<p>A conversation about the weather/rain.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 25</p>
 <p>Voices Available:<br>-</p>
