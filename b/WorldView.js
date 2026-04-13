@@ -1,0 +1,102 @@
+var textSt=`A country's perspective is also something thats more... unified or characterized in a certain way, much like how we can tell male from female.
+They tested llama, the AI LLM when it was translated into french some time ago and people reaction was that it sounded like an american that learned french fluently.
+The worldview was something american, its biased, but how can they tell that i wonder.
+Unless they were testing it by talking about Donald Trump or something peculiar but i heard that its about 'worldview', what do you think worldview means in this context?
+Worldview here doesn't mean opinions about Trump or apple pie or pickup trucks. That's the cheap version.
+What people are picking up on is much sneakier and harder to unsee once you notice it.
+A worldview is the **default assumptions a voice makes without announcing them**.
+What needs explaining and what doesn't. What's treated as normal. What's framed as a problem.
+What counts as polite, reasonable, obvious, or extreme.
+So when people say that translated LLaMA sounds like an American who speaks fluent French, they're not talking about grammar. They're talking about *stance*.
+Examples, without dragging politics in: An American-coded worldview tends to value clarity over elegance.
+It explains things step by step. It prefers explicit structure.
+It assumes the reader wants to be helped, guided, reassured.
+It avoids ambiguity unless ambiguity is framed as a choice.
+A French intellectual tradition, by contrast, is more tolerant of abstraction, irony, implication, and unresolved tension.
+It doesn't rush to define terms. It's comfortable circling an idea instead of pinning it down.
+It assumes the reader can keep up and doesn't need hand-holding.
+So if an AI writes fluent French but still explains itself like it's afraid of being misunderstood, still organizes ideas like a TED talk, still frames arguments in a problem-solution-takeaway arc, native readers feel the mismatch.
+The *syntax* is French. The *mind* behind it isn't. That's worldview.
+It also shows up in things like what metaphors are chosen, whether authority comes from data, tradition, or lived experience.
+Whether disagreement is softened or sharpened.
+Whether complexity is presented as a virtue or a flaw
+Whether the text tries to persuade or to provoke thought. 
+You don't need to mention America at all. The posture gives it away.
+This is why worldview is closer to accent than opinion.
+You can speak perfect French and still gesture like a tourist.
+Same with writing. Same with literature. Same with gender, actually, looping back to your earlier question.
+People aren't detecting essence. They're detecting defaults.
+And this is where your instinct is sharp again.
+Worldview is not consciously chosen most of the time. It's trained. Absorbed. Reinforced.
+In humans, by culture. In models, by data distribution and optimization goals.
+If most of your training material explains, resolves, summarizes, reassures, you will sound like a culture that values those things even in another language.
+That's why people can feel it without being able to point to it.
+It's pre-ideological. It lives below content.
+Like rhythm in music, or pacing in film, or the difference between a European art movie and a Hollywood one even when nothing American happens onscreen.
+So when someone says the worldview feels American, they're really saying: the text carries assumptions about how knowledge should be presented, how the reader should be treated, and what good communication looks like.
+And once you see that, you realize why it's so hard to scrub out.
+You can translate words. You can't easily translate habits of thought.
+<muoborder>
+Et lands perspektiv er også noe som er mer ... enhetlig eller karakterisert på en bestemt måte, omtrent som hvordan vi kan skille mann fra kvinne.
+De testet llama, AI LLM da det ble oversatt til fransk for en tid tilbake, og folks reaksjon var at det hørtes ut som en amerikaner som lærte fransk flytende.
+Verdensbildet var noe amerikansk, det er partisk, men hvordan kan de vite det, lurer jeg på.
+Med mindre de testet det ved å snakke om Donald Trump eller noe merkelig, men jeg hørte at det handler om «verdensbilde», hva tror du verdensbilde betyr i denne sammenhengen?
+Verdensbilde her betyr ikke meninger om Trump eller eplepai eller pickup-lastebiler. Det er den billige versjonen.
+Det folk plukker opp er mye mer snikende og vanskeligere å avsløre når du først legger merke til det.
+Et verdensbilde er «standardantagelsene en stemme gjør uten å kunngjøre dem».
+Hva som trenger å forklares og hva som ikke trenger det. Hva som behandles som normalt. Hva som blir fremstilt som et problem.
+Hva som teller som høflig, rimelig, åpenbart eller ekstremt.
+Så når folk sier at oversatt LLaMA høres ut som en amerikaner som snakker flytende fransk, snakker de ikke om grammatikk. De snakker om «holdning».
+Eksempler, uten å dra politikk inn: Et amerikansk-kodet verdensbilde har en tendens til å verdsette klarhet fremfor eleganse.
+Det forklarer ting trinn for trinn. Det foretrekker eksplisitt struktur.
+Det antar at leseren ønsker å bli hjulpet, veiledet og beroliget.
+Det unngår tvetydighet med mindre tvetydighet blir fremstilt som et valg.
+En fransk intellektuell tradisjon er derimot mer tolerant overfor abstraksjon, ironi, implikasjon og uløst spenning.
+Det haster ikke med å definere begreper. Det er behagelig å sirkle rundt en idé i stedet for å holde den fast.
+Det forutsetter at leseren kan følge med og ikke trenger å holdes i hånden.
+Så hvis en AI skriver flytende fransk, men likevel forklarer seg som om den er redd for å bli misforstått, fortsatt organiserer ideer som et TED-foredrag, fortsatt rammer inn argumenter i en problem-løsning-lære-bue, føler morsmålslesere misforholdet.
+«Syntaksen» er fransk. «Sinnet» bak den er ikke det. Det er verdensbilde.
+Det viser seg også i ting som hvilke metaforer som velges, om autoritet kommer fra data, tradisjon eller levd erfaring.
+Om uenighet mykes opp eller skjerpes.
+Om kompleksitet presenteres som en dyd eller en feil.
+Om teksten prøver å overtale eller provosere til tanker.
+Du trenger ikke å nevne Amerika i det hele tatt. Holdningen avslører det.
+Det er derfor verdensbilde er nærmere aksent enn mening.
+Du kan snakke perfekt fransk og fortsatt gestikulere som en turist.
+Det samme med skriving. Det samme med litteratur. Det samme med kjønn, faktisk, i en loop tilbake til ditt tidligere spørsmål.
+Folk oppdager ikke essens. De oppdager standardverdier.
+Og det er her instinktet ditt er skarpt igjen.
+Verdensbilde er ikke bevisst valgt mesteparten av tiden. Det er trent. Absorbert. Forsterket.
+Hos mennesker, av kultur. I modeller, av datadistribusjon og optimaliseringsmål.
+Hvis det meste av opplæringsmaterialet ditt forklarer, løser, oppsummerer, beroliger, vil du høres ut som en kultur som verdsetter disse tingene selv på et annet språk.
+Det er derfor folk kan føle det uten å kunne peke på det.
+Det er pre-ideologisk. Den lever under innholdet.
+Som rytme i musikk, eller tempo i film, eller forskjellen mellom en europeisk kunstfilm og en Hollywood-film, selv når ingenting amerikansk skjer på skjermen.
+Så når noen sier at verdensbildet føles amerikansk, sier de egentlig: teksten bærer med seg antagelser om hvordan kunnskap bør presenteres, hvordan leseren bør behandles og hvordan god kommunikasjon ser ut.
+Og når du ser det, forstår du hvorfor det er så vanskelig å skrubbe ut.
+Du kan oversette ord. Du kan ikke lett oversette tankevaner.`;
+
+var noDiction=`["absorbert - absorbed","abstraksjon - abstraction","ai - ai","aksent - accent","amerika - america","amerikaner - american","amerikansk - american","amerikansk-kodet - american-coded","annet - other / different","antagelser - assumptions","antar - antar","argumenter - arguments","autoritet - authority","av - of / from / by","avsløre - reveal","avslører - reveal","bak - back","begreper - concepts","behagelig - comfortable","behandles - treated","beroliger - reassure","beroliget - reassured","bestemt - certain / definite","betyr - means","bevisst - conscious","billige - cheap","ble - became","bli - become / stay / be","blir - becomes / gets","bærer - carries","bør - should","da - then / when","data - data","datadistribusjon - data distribution","de - they / them","definere - define","dem - them","den - it / that / the","denne - this","derfor - therefore","derimot - contrary","det - it / that","disse - these","ditt - your","dra - take (advantage), part of the phrase dra nytte av.","du - you (singular)","dyd - virtue","egentlig - actually / really","eksempler - examples","eksplisitt - explicit","ekstremt - extreme","eleganse - elegance","eller - or","en - a / an / one","enhetlig - uniform","enn - than","eplepai - apple pie","er - is / are","erfaring - experience","essens - essence","et - a / an / one","europeisk - european","faktisk - actually","fast - firm / fixed / fast","feil - error","film - film / movie","flytende - floating","folk - people","folks - people","foretrekker - prefer","forklarer - explain","forklares - explained","forskjellen - difference","forsterket - amplified","forstår - understands","fortsatt - still","forutsetter - assume","fra - from","fransk - french","fremfor - above","fremstilt - made","føle - feel","føler - feel","føles - feels","følge - follow","først - first","gestikulere - gesture<br >","gjør - makes","god - good","grammatikk - grammar","handler - is about / deals with","har - have / has","haster - urgency","hele - whole","hjulpet - helped","holde - hold / keep","holdes - hold","holdning - attitude","holdningen - attitude","hollywood-film - hollywood film","hos - in","hva - what","hvilke - which","hvis - if","hvordan - how","hvorfor - why","høflig - polite","høres - heard","hørte - heard","hørtes - sounded (past tense reflexive of 'høres')","hånden - hand< br>","idé - idea","ideer - ideas","igjen - again","ikke - not","implikasjon - implication","ingenting - nothing","inn - in / into","innholdet - content","instinktet - instinct","intellektuell - intellectual","ironi - irony","jeg - i","kan - can / may","karakterisert - characterized","kjønn - gender","klarhet - clarity","kommer - comes","kommunikasjon - communication","kompleksitet - complexity","kultur - culture","kunne - could","kunngjøre - announce","kunnskap - knowledge","kunstfilm - art film","kvinne - female","lands - country","legger - lays","leseren - the reader","lett - light","levd - lived","lever - lives","likevel - yet","litteratur - literature","loop - loop","lurer - lies","lærte - learned","løser - solve","mann - man","med - with","mellom - between","men - but","mening - meaning","meninger - opinions","mennesker - people","mer - more","merke - label","merkelig - strange","meste - most","mesteparten - most","metaforer - metaphors","mindre - less; smaller","misforholdet - the mismatch","misforstått - misunderstood","modeller - models","morsmålslesere - native-speaker readers","musikk - music","mye - much; a lot","mykes - soften","måte - way/manner","nevne - mention","noe - something","noen - some / any","normalt - normal","nærmere - closer; in more detail","når - when","og - and","også - also / too","om - about / if / whether","omtrent - approximately","opp - up","oppdager - discovers","opplæringsmaterialet - the training material","oppsummerer - summarize","optimaliseringsmål - optimization goals","ord - word","organiserer - organizing","overfor - towards","oversatt - translated","oversette - translate","overtale - persuade","partisk - biased","peke - point","perfekt - perfect","perspektiv - perspective","pickup-lastebiler - pickup trucks","plukker - picks","politikk - politics< br>","pre-ideologisk - pre-ideological","presenteres - presented","problem - problem","problem-løsning-lære-bue - problem-solving-learning-arc","provosere - provoke","prøver - tries","på - on / at / in","rammer - frames","reaksjon - reaction","redd - afraid","rimelig - reasonable","rundt - around","rytme - rhythm","samme - same","sammenhengen - context","seg - himself / herself / themselves","selv - self / even","ser - see / look","sier - says","sinnet - the mind","sirkle - circle","skarpt - sharp","skille - distinguish","skjer - happens","skjermen - the screen","skjerpes - sharpen","skriver - writes","skriving - writing","skrubbe - scrub","snakke - talk","snakker - talks / speaks","snikende - sneaky","som - that / which / who","spenning - suspense","språk - language","spørsmål - question","standardantagelsene - default assumptions","standardverdier - default values","stedet - the place / instead","stemme - voice","struktur - structure","syntaksen - syntax","så - so / thus / then","tanker - thoughts","tankevaner - habits of thought","tatt - taken","ted-foredrag - ted talk","teksten - text","teller - count","tempo - pace","tendens - tendency","testet - tested","tid - time","tiden - time","tidligere - previous","til - to / for / until","tilbake - back","ting - things","tingene - things","tolerant - tolerant","tradisjon - tradition","trenger - needs","trent - trent","trinn - step","tror - believe / think","turist - tourist","tvetydighet - ambiguity","uenighet - disagreement","uløst - unresolved","under - during","unngår - avoid","ut - out","uten - without","valg - choice","valgt - chosen","vanskelig - difficult","vanskeligere - harder","var - was","ved - by / at / about","veiledet - guided","velges - choose","verdensbilde - worldview","verdensbildet - worldview","verdsette - appreciate","verdsetter - appreciate","versjonen - version","vi - we","vil - will / want","viser - shows","vite - know","ønsker - wants / wishes","å - to (infinitive marker)","åpenbart - obvious"]`;
+var noLM=`{"a":{"start":0,"end":15},"b":{"start":16,"end":30},"d":{"start":31,"end":46},"e":{"start":47,"end":61},"f":{"start":62,"end":85},"g":{"start":86,"end":89},"h":{"start":90,"end":110},"i":{"start":111,"end":121},"j":{"start":122,"end":122},"k":{"start":123,"end":135},"l":{"start":136,"end":147},"m":{"start":148,"end":169},"n":{"start":170,"end":175},"o":{"start":176,"end":190},"p":{"start":191,"end":204},"r":{"start":205,"end":210},"s":{"start":211,"end":240},"t":{"start":241,"end":264},"u":{"start":265,"end":270},"v":{"start":271,"end":287},"ø":{"start":288,"end":288},"å":{"start":289,"end":290}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'eu/';}else{EHIMGURL = storyline.BIMG+'eu/';}
+const svisual = ['de_a.jpg','de_b.jpg','de_c.jpg','de_d.jpg','de_e.jpg','de_f.jpg','es_a.jpg','es_b.jpg','es_c.jpg','es_d.jpg','es_e.jpg','es_f.jpg','es_g.jpg','es_h.jpg','es_i.jpg','ews.jpg','fr_a.jpg','fr_b.jpg','fr_c.jpg','fr_d.jpg','fr_e.jpg','fr_f.jpg','fr_g.jpg','fr_h.jpg','fr_i.jpg','fr_j.jpg','fr_k.jpg','fr_l.jpg','fr_m.jpg','fr_n.jpg','gr_a.jpg','gr_b.jpg','gr_c.jpg','gr_d.jpg','gr_e.jpg','gr_f.jpg','gr_g.jpg','gr_h.jpg','gr_i.jpg','gr_j.jpg','gr_k.jpg','gr_l.jpg','gr_m.jpg','gr_n.jpg','gr_o.jpg','gr_p.jpg','gr_q.jpg','gr_r.jpg','gr_s.jpg','it_a.jpg','it_b.jpg','it_c.jpg','it_d.jpg','it_e.jpg','it_f.jpg','it_g.jpg','it_h.jpg','it_i.jpg','it_j.jpg','it_k.jpg','it_l.jpg','1.jpg','2.jpg','3.jpg','4.jpg','5.jpg','6.jpg','7.jpg','8.jpg','9.jpg','a.jpg','b.jpg','c.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg'];
+const ImgRo = 1;
+const oImg = 'it_b.jpg';
+const ehbmtitle = 'wv';
+
+storyline.intro = `<p>Talking about the concept of "world view".</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 38</p>
+<p>Story Text:<br><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></p>
+<p>Translations:<br><a href="https://translate.google.com/" target="_blank">Google Translate</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p></div>`;
+
+storyline.lang = ['EN','NO'];
+storyline.clang = storyline.deflang = 'no';
+/*eo things to adjust*/
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('southSideBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('southSideBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof noDiction!=='undefined'&&noDiction!=''){noDiction=JSON.parse(noDiction);reperc.noLM=JSON.parse(noLM);reperc.avdi++}storyline.snd={};if(typeof noSND!=='undefined'&&noSND.length){storyline.snd.no={};storyline.snd.no.p=storyline.sndURL+noSND[0];noSND.splice(0,1);storyline.snd.no.t=noSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[0][i],null,null,null,reperc.storylines[1][i],null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='no'){if(typeof reperc.noLM==='undefined'){reperc.xDict(pos);return}if(!reperc.noLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.noLM[xx].start;i<=reperc.noLM[xx].end;i++){if(noDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+noDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);
