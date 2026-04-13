@@ -1,7 +1,12 @@
 [
-  ["a/Alcohol4","en,de","ai-investigation"],
-  ["a/Alcohol3","en,it","ai-investigation"],
-  ["a/Alcohol2","en,de","ai-investigation"],
-  ["a/Alcohol","en,fr","ai-investigation"],
-  ["eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
+    
+    ["b/Pseudepigrapha5","en,fr","theology"],["b/Pseudepigrapha4","en,fr","theology"],
+    ["b/Pseudepigrapha3","en,de","theology"],["b/Pseudepigrapha2","en,de","theology"],
+    ["b/Pseudepigrapha","en,de","theology"],
+    
+    
+    ["b/People","en,pt-BR","socialcomment"],
+    ["b/AmericanSecret2","en,pt-BR","socialcomment"],
+    
+    ["eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
 ]
