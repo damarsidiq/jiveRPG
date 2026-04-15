@@ -1,12 +1,7 @@
 [
+    ["b/BookofMormon5","en,es","theology"],
+    ["b/BookofMormon4","en,es","theology"],["b/BookofMormon3","en,it","theology"],
+    ["b/BookofMormon2","en,it","theology"],["b/BookofMormon","en,es","theology"],
     
-    ["b/Pseudepigrapha5","en,fr","theology"],["b/Pseudepigrapha4","en,fr","theology"],
-    ["b/Pseudepigrapha3","en,de","theology"],["b/Pseudepigrapha2","en,de","theology"],
-    ["b/Pseudepigrapha","en,de","theology"],
-    
-    
-    ["b/People","en,pt-BR","socialcomment"],
-    ["b/AmericanSecret2","en,pt-BR","socialcomment"],
-    
-    ["eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
+    ["eharch10,eharch9,eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
 ]
