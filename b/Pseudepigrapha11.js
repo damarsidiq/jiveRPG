@@ -1,0 +1,114 @@
+var textSt=`I'm exploring pseudepigrapha.com, it speaks using 'I' though it doesnt explain who is this 'I' speaking.
+its connected or has links to lds.org... the link to that gospel of judas is apparently a dead link but i managed to snatch a copy from pinnaclelutheran.org
+but im curious about what you said, jesus laughs at his astrayed disciple instead of... well we shouldnt worry or sad if we truly know God i think but even Muhammad has a worrysome last words coming out of him on his deathbed but laughing... it seems... not like christ
+You've stumbled into one of the strangest borderlands of religious literature: the shadow zone between canon, heresy, mysticism, and lost traditions.
+That's where pseudepigrapha lives.
+First, about pseudepigrapha.com and the mysterious I. That site is a digital archive run by LDS-affiliated scholars and preservation projects.
+The I you're seeing is not a prophet speaking.
+It's the site's editorial voice - a librarian, not a visionary.
+Think of it as a curator walking you through the ruins, not one of the ancient authors themselves.
+LDS scholarship has a special interest in pseudepigrapha because Mormon theology takes apocalyptic literature seriously: heavenly councils, pre-mortal existence, angelic hierarchies, sealed books, lost scripture, ascents, visions.
+Their worldview is structurally closer to Enoch than to Augustine. So they preserve texts most churches ignore.
+Now, the Gospel of Judas. Your instinct is correct. The laughing Jesus feels alien.
+In the canonical gospels, Jesus weeps. He prays in agony. He sweats blood. He grieves for Jerusalem.
+He feels abandoned on the cross.
+That emotional gravity is central to Christianity.
+But the Jesus of the Gospel of Judas is not the suffering servant. He is a cosmic teacher.
+A being from beyond the stars wearing a temporary body.
+He laughs because the disciples are worshipping the wrong god. 
+In Gnostic theology, the material world is a mistake. It was created by lesser divine beings called Archons.
+The true God exists beyond the universe. The human body is a cage. The soul is a fragment of divine light trapped in flesh.
+So when Jesus laughs, he is not mocking compassion. He is mocking ignorance.
+The disciples think sacrifice pleases God. Jesus says sacrifice feeds demons.
+They think the temple is holy. Jesus says the temple belongs to a false god.
+They think blood redeems sin. Jesus says knowledge frees the soul.
+This Jesus doesn't come to die for humanity. He comes to wake it up.
+That's why Judas is the hero. He helps Jesus escape the prison of matter.
+The crucifixion becomes liberation, not atonement. It's a radically different religion.
+No sin-redemption economy. No church authority. No priesthood. No sacraments.
+Just awakening.
+This is why the early Church buried it. If Jesus is a cosmic trickster who laughs at ritual, then Rome built its empire on a misunderstanding.
+Now your comparison with Muhammad is perceptive. Muhammad's final moments are human. He suffers.
+He weakens. He worries for his community. He entrusts them to God. That's prophetic realism. 
+The Gospel of Judas removes that vulnerability. It turns Jesus into something closer to a visiting intelligence from a higher dimension.
+That's why it feels… wrong. Not evil. But cold. Enlightenment without mercy.
+And that's the core tension between canonical religion and Gnostic religion.
+Canon says: God enters suffering. Gnosticism says: God escapes suffering.
+Canon says: The world is broken but redeemable. Gnosticism says: The world is a prison and should be abandoned.
+Canon says: Love transforms matter. Gnosticism says: Knowledge dissolves matter.
+Two completely different metaphysics. The laughing Jesus belongs to the second universe.
+And that's why when people today talk about aliens seeding humanity, secret rulers of reality, simulated universes, and trapped consciousness, they're unconsciously resurrecting Gnosticism.
+It never died. It just changed costumes.
+The canonical Jesus carries the weight of the world. The Gnostic Jesus floats above it.
+One weeps. One laughs. And civilizations have been arguing about which one is truer for two thousand years.
+<muoborder>
+Estoy explorando pseudepigrapha.com, habla usando "yo", aunque no explica quién es ese "yo" que habla.
+Está conectado o tiene enlaces a lds.org... el enlace al evangelio de Judas aparentemente está roto, pero logré obtener una copia de pinnaclelutheran.org.
+Pero me intriga lo que dijiste: Jesús se ríe de su discípulo descarriado en lugar de... bueno, no deberíamos preocuparnos ni entristecernos si realmente conocemos a Dios, creo, pero incluso Mahoma tuvo unas últimas palabras inquietantes en su lecho de muerte, pero riendo... parece... no como Cristo.
+Te has topado con una de las fronteras más extrañas de la literatura religiosa: la zona de sombras entre el canon, la herejía, el misticismo y las tradiciones perdidas.
+Ahí es donde reside pseudepigrapha.
+Primero, sobre pseudepigrapha.com y el misterioso "yo". Ese sitio es un archivo digital administrado por Académicos y proyectos de preservación afiliados a la Iglesia SUD.
+El "yo" que ves no es un profeta hablando.
+Es la voz editorial del sitio: la de un bibliotecario, no la de un visionario.
+Piensa en ello como un curador que te guía a través de las ruinas, no como uno de los autores antiguos.
+La erudición SUD tiene un interés especial en los pseudoepígrafos porque la teología mormona toma en serio la literatura apocalíptica: concilios celestiales, existencia premortal, jerarquías angélicas, libros sellados, escrituras perdidas, ascensiones, visiones.
+Su cosmovisión es estructuralmente más cercana a la de Enoc que a la de Agustín. Por eso preservan textos que la mayoría de las iglesias ignoran.
+Ahora, el Evangelio de Judas. Tu intuición es correcta. El Jesús risueño resulta extraño.
+En los evangelios canónicos, Jesús llora. Ora con agonía. Suda sangre. Se lamenta por Jerusalén.
+Se siente abandonado en la cruz.
+Esa gravedad emocional es fundamental para el cristianismo.
+Pero el Jesús del Evangelio de Judas no es el siervo sufriente. Es un maestro cósmico.
+Un ser de más allá de las estrellas que lleva un cuerpo temporal.
+Se ríe porque los discípulos adoran al dios equivocado.
+En la teología gnóstica, el mundo material es un error. Fue creado por seres divinos menores llamados Arcontes.
+El verdadero Dios existe más allá del universo. El cuerpo humano es una jaula. El alma es un fragmento de luz divina atrapado en la carne.
+Así que cuando Jesús se ríe, no se burla de la compasión. Se burla de la ignorancia.
+Los discípulos creen que el sacrificio agrada a Dios. Jesús dice que el sacrificio alimenta a los demonios.
+Creen que el templo es sagrado. Jesús dice que el templo pertenece a un dios falso.
+Creen que la sangre redime el pecado. Jesús dice que el conocimiento libera el alma.
+Este Jesús no viene a morir por la humanidad. Viene a despertarla.
+Por eso Judas es el héroe. Ayuda a Jesús a escapar de la prisión de la materia.
+La crucifixión se convierte en liberación, no en expiación. Es una religión radicalmente diferente.
+Sin economía de redención del pecado. Sin autoridad eclesiástica. Sin sacerdocio. Sin sacramentos.
+Solo un despertar.
+Por eso la Iglesia primitiva lo sepultó. Si Jesús es un embaucador cósmico que se ríe del ritual, entonces Roma construyó su imperio sobre un malentendido.
+Ahora tu comparación con Mahoma es perspicaz. Los últimos momentos de Mahoma son humanos. Sufre.
+Se debilita. Se preocupa por su comunidad. Los encomienda a Dios. Eso es realismo profético.
+El Evangelio de Judas elimina esa vulnerabilidad. Convierte a Jesús en algo más parecido a una inteligencia visitante de una dimensión superior.
+Por eso se siente… mal. No malvado. Sino frío. Iluminación sin piedad.
+Y esa es la tensión central entre la religión canónica y la gnóstica.
+El canon dice: Dios entra en el sufrimiento. El gnosticismo dice: Dios escapa del sufrimiento.
+El canon dice: El mundo está roto, pero es redimible. El gnosticismo dice: El mundo es una prisión y debe ser abandonado.
+El canon dice: El amor transforma la materia. El gnosticismo dice: El conocimiento disuelve la materia.
+Dos metafísicas completamente diferentes. El Jesús risueño pertenece al segundo universo.
+Y por eso, cuando hoy en día la gente habla de extraterrestres que siembran a la humanidad, gobernantes secretos de la realidad, universos simulados y conciencia atrapada, están resucitando inconscientemente el gnosticismo.
+Nunca murió. Solo cambió de disfraz.
+El Jesús canónico carga con el peso del mundo. El Jesús gnóstico flota por encima de él.
+Uno llora. El otro ríe. Y las civilizaciones llevan dos mil años discutiendo sobre cuál de las dos es más cierta.`;
+
+var esDiction=`["abandonado - abandoned","académicos - scholars","administrado - managed","adoran - worship","afiliados - affiliates","agonía - agony","agrada - pleasures","agustín - augustine","ahí - there","ahora - now","al - to the (a + el)","algo - something, somewhat","alimenta - feed","allá - there","alma - soul","amor - love","angélicas - angelic","antiguos - ancient","años - years","aparentemente - apparently","apocalíptica - apocalyptic","archivo - file","arcontes - archons","ascensiones - ascensions","así - thus, so, in this way","atrapada - trapped","atrapado - trapped / caught","aunque - although / even though","autores - authors","autoridad - authority","ayuda - help, aid","bibliotecario - librarian","bueno - good / well / okay","burla - mockery","cambió - changed","canon - canon","canónica - canonical","canónico - canonical","canónicos - canonical","carga - load / burden / charge","carne - meat, flesh","celestiales - celestial","central - central","cercana - close / nearby","cierta - certain","civilizaciones - civilizations","como - as, like, how","comparación - comparison","compasión - compassion","completamente - completely","comunidad - community","con - with","conciencia - consciousness","concilios - councils","conectado - connected","conocemos - we know","conocimiento - knowledge","construyó - buried","convierte - converts","copia - copy","correcta - correct","cósmico - cosmic","cosmovisión - worldview","creado - created","creen - believe","creo - i believe / i think","cristianismo - christianity","cristo - christ","crucifixión - crucifixion","cruz - cross","cuál - which","cuando - when","cuerpo - body","curador - curator","de - of, from","debe - must, should, owes (from deber)","deberíamos - we should","debilita - weakens","del - of the (de + el)","demonios - demons","descarriado - wayward","despertar - wake","despertarla - awakensher","día - day","dice - says / he/she/it says","diferente - different","diferentes - different","digital - still digital (no translation needed)","dijiste - you said","dimensión - dimension","dios - god","discípulo - disciple / student","discípulos - disciples","discutiendo - discussing","disfraz - disguise, costume","disuelve - dissolves","divina - divine (feminine singular)","divinos - divine","donde - where","dos - two","eclesiástica - ecclesiastical","economía - economy","editorial - publishing","él - he","el - the","elimina - eliminates","ello - it or that","embaucador - deceiver","emocional - emotional","en - in, on","encima - on top / above","encomienda - commissions","enlace - link","enlaces - links","enoc - enoch","entonces - then, so","entra - enters","entre - between / among","entristecernos - sadden","equivocado - misguided","error - mistake / error","erudición - scholarship","es - is (from ser)","esa - that (feminine singular)","escapa - escape","escapar - escape","escrituras - scriptures","ese - that (masculine)","eso - that (neuter)","especial - special","está - is (from estar)","están - they are, you (plural) are (from estar)","este - this (masculine singular)","estoy - i am (from estar)","estrellas - stars","estructuralmente - structurally","evangelio - gospel","evangelios - gospels","existe - exists","existencia - existence","expiación - atonement","explica - explains","explorando - exploring","extrañas - strange","extraño - strange, odd, foreigner","extraterrestres - extraterrestrials","falso - false","flota - fleet","fragmento - fragment","frío - cold","fronteras - borders","fue - was, went (from ser or ir)","fundamental - fundamental","gente - people","gnóstica - gnostic","gnosticismo - gnosticism","gnóstico - gnostic","gobernantes - rulers","gravedad - gravity","guía - guide","habla - speak","hablando - speaking / talking","herejía - heresy","héroe - hero","hoy - today","humanidad - humanity","humano - human","humanos - humans","iglesia - church","iglesias - churches","ignoran - they ignore","ignorancia - ignorance","iluminación - enlightenment, illumination","imperio - empire","incluso - even, including","inconscientemente - unconsciously","inquietantes - disturbing","inteligencia - intelligence","interés - interest","intriga - intrigue","intuición - intuition","jaula - cage","jerarquías - hierarchies","jerusalén - jerusalem","jesús - jesus","judas - judas","la - the (feminine singular)","lamenta - laments","las - the (feminine plural)","lecho - bed","libera - libera","liberación - liberation / release","libros - books","literatura - literature","llamados - called","lleva - carries","llevan - carry","llora - weeps","lo - it / him!","logré - i managed","los - the (masculine plural)","lugar - place","luz - light","maestro - teacher, master","mahoma - muhammad","mal - bad, evil, harm","malentendido - misunderstanding","malvado - evil","más - more","materia - matter","material - material","mayoría - majority","menores - minors","metafísicas - metaphysical","mil - thousand","misterioso - mysterious","misticismo - mysticism","momentos - moments","morir - to die","mormona - mormon","muerte - death","mundo - world","murió - he/she died","ni - nor, neither, not even","nunca - never","o - or","obtener - obtain","ora - prays","otro - other, another (masculine singular)","palabras - words","para - for, in order to","parece - seems","parecido - similar","pecado - sin","perdidas - lost (feminine plural)","pero - but","perspicaz - perceptive","pertenece - belongs","peso - weight","piedad - mercy / pity","piensa - he/she thinks / you think (formal)","por - by, for, through","porque - because","premortal - premortal","preocupa - worries","preocuparnos - worry","preservación - preservation","preservan - preserve","primero - first","primitiva - primitive","prisión - prison","profeta - prophet","profético - prophetic","proyectos - projects","pseudepigrapha - pseudepigrapha","pseudoepígrafos - pseudepigrapha","que - that, what","quién - who","radicalmente - radically","realidad - reality","realismo - realism","realmente - really","redención - redemption","redime - redeems","redimible - redeemable","religión - religion","religiosa - religious","reside - resides","resucitando - resurrecting","resulta - turns out / results","ríe - laugh or he/she/it laughs","riendo - laughing","risueño - smiling","ritual - ritual","roma - rome","roto - broken","ruinas - ruins","sacerdocio - priesthood","sacramentos - sacraments","sacrificio - sacrifice","sagrado - sacred","sangre - blood","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","secretos - secrets","segundo - second","sellados - sealed","sepultó - buried","ser - to be","seres - beings, creatures","serio - serious","si - if","siembran - sows","siente - feels","siervo - servant","simulados - simulated","sin - without","sino - but, but rather (used after a negative clause)","sitio - site","sobre - on / over / about","solo - only, alone","sombras - shadows","son - are","su - his, her, its, their, your (formal)","sud - south","suda - sweats","sufre - suffers","sufriente - suffering","sufrimiento - suffering","superior - superior","te - you (informal singular) (direct or indirect object pronoun)","templo - temple","temporal - temporary","tensión - tension","teología - theology","textos - texts","tiene - has","toma - take","topado - hanged","tradiciones - traditions","transforma - transform","través - through","tu - your (informal singular)","tuvo - he/she/it had (from tener)","últimas - latest","últimos - last","un - a, an (masculine)","una - a, an (feminine)","unas - some / ones / fingernails","universo - universe","universos - universes","uno - one (masculine)","usando - using","verdadero - true","ves - you see","viene - comes","visionario - visionary","visiones - visions","visitante - visitor","voz - voice","vulnerabilidad - vulnerability","y - and","yo - i","zona - zone"]`;
+var esLM=`{"a":{"start":0,"end":30},"b":{"start":31,"end":33},"c":{"start":34,"end":73},"d":{"start":74,"end":99},"e":{"start":100,"end":145},"é":{"start":103,"end":103},"f":{"start":146,"end":152},"g":{"start":153,"end":159},"h":{"start":160,"end":167},"i":{"start":168,"end":180},"j":{"start":181,"end":185},"l":{"start":186,"end":202},"m":{"start":203,"end":222},"n":{"start":223,"end":224},"o":{"start":225,"end":228},"p":{"start":229,"end":255},"q":{"start":256,"end":257},"r":{"start":258,"end":276},"s":{"start":277,"end":308},"t":{"start":309,"end":322},"ú":{"start":323,"end":324},"u":{"start":325,"end":331},"v":{"start":332,"end":339},"y":{"start":340,"end":341},"z":{"start":342,"end":342}}`;
+
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'up/';}else{EHIMGURL = storyline.BIMG+'up/';}
+const svisual = ['i.jpg','3.jpg','f.jpg','b.jpg','u.jpg','z.jpg','9.jpg','x.jpg','c.jpg','q.jpg','h.jpg','1.jpg','5.jpg','g.jpg','1d.jpg','t.jpg','n.jpg','j.jpg','r.jpg','m.jpg','a.jpg','w.jpg','k.jpg','8.jpg','d.jpg','v.jpg','6.jpg','1b.jpg','o.jpg','y.jpg','1c.jpg','p.jpg','l.jpg','4.jpg','2.jpg','7.jpg','1e.jpg','1a.jpg','e.jpg','s.jpg'];
+const ImgRo = 1;
+const oImg = '8.jpg';
+const ehbmtitle = 'pseudep11';
+
+storyline.intro = `<p>About the pseudepigrapha text. Part 11</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 43</p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">Pixabay</a></p>
+<p>Translations:<br><a href="https://translate.google.com" target="_blank">Google Translate</a></p>
+</div>`;
+
+storyline.lang = ['EN','ES'];
+storyline.clang = storyline.deflang = 'es';
+/*eo things to adjust*/
+
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}storyline.snd={};if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],null,null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);

@@ -1,0 +1,99 @@
+var textSt=`A prophet-historian who has a son, died in a battle of a war and then became an angel.
+Sent by God to joseph smith so that he could continue the revelation.
+Talk about role changing of celestial offices, eh?
+Why would God sent moroni instead of... the usual one, because mormon and moroni's story was included in the revelation to come? his story (mormon) was somewhat integral to the intended continuation of the revelation and moral message contained in this book of mormon, without his parabolic accont it would be hollow?
+And what is the Pearl of Great Price book?
+You're circling the right idea. The Book of Mormon universe treats prophetic authority less like a single office and more like a relay race across epochs.
+A prophet writes. A son preserves. A civilization falls. The record survives.
+Then centuries later the last witness returns - not as a man, but as a messenger. It's a theology of continuity.
+Moroni doesn't become an angel because he was promoted. He becomes an angel because he is the custodian of unfinished testimony.
+His role isn't elevated; it's extended. 
+In LDS theology, angels are not a separate species. They are humans in another phase of existence. Messengers, not a different order of being.
+So sending Moroni makes narrative sense inside the system. He is the last voice of a dead civilization.
+He buried the plates. He knows their contents. He has authority over the record.
+He is the final witness of a world that erased itself through pride and war. That makes him the perfect courier.
+If God had sent Gabriel, the story would feel like a sequel to the Bible. Sending Moroni makes it a restoration of a lost world.
+And yes - Mormon's story is structurally essential. Without his editorial voice, the Book of Mormon becomes a scattered archive.
+Mormon gives it moral architecture. He selects stories to show how civilizations rise and collapse based on obedience, justice, pride, and greed.
+He isn't just chronicling history. He's shaping a warning.
+Empires rot from the inside. Power corrupts faith. Prosperity breeds arrogance. Arrogance invites collapse.
+That pattern is the real message.
+Now the Pearl of Great Price. This is a small but explosive book in the LDS canon.
+Think of it as a cosmic appendix to the Bible.
+It contains: A rewritten Genesis from Moses' visions
+A long expansion of the Book of Enoch 
+Abraham's visions of the cosmos
+Joseph Smith's own prophetic history 
+This is where LDS theology really reveals its architecture.
+In the Book of Moses, Enoch sees God weep over humanity.
+In the Book of Abraham, Abraham is shown a universe filled with countless worlds.
+God speaks of intelligences that existed before Earth.
+Creation is shown as an organized process, not a single moment.
+This is where pre-mortal life, cosmic order, divine councils, and layered heavens come fully into view.
+If the Bible is a moral constitution, and the Book of Mormon is a civilizational warning, the Pearl of Great Price is a star map. It turns theology into cosmology.
+It's also where the LDS worldview stops resembling medieval Christianity and starts resembling ancient Near Eastern mysticism filtered through 19th-century American metaphysics.
+Prophets walking among stars. God governing councils. Souls older than Earth. Worlds without number.
+Which brings us back to Moroni. In this worldview, heaven is not a static throne room. It's a living government. And prophets don't retire. They just change uniforms.
+<muoborder>
+Un profeta-historiador que tuvo un hijo, murió en una batalla y luego se convirtió en ángel.
+Enviado por Dios a Joseph Smith para que continuara la revelación.
+¡Menudo cambio de roles en los oficios celestiales!
+¿Por qué Dios enviaría a Moroni en lugar del habitual, si la historia de Mormón y la de Moroni estaban incluidas en la revelación venidera? Su historia (la de Mormón) era fundamental para la continuación prevista de la revelación y el mensaje moral contenido en este Libro de Mormón; sin su relato parabólico, ¿estaría vacío?
+¿Y qué es el libro de la Perla de Gran Precio?
+Estás en lo cierto. El universo del Libro de Mormón trata la autoridad profética no como un oficio único, sino como una carrera de relevos a través de las épocas.
+Un profeta escribe. Un hijo preserva. Una civilización cae. El registro sobrevive.
+Luego, siglos después, el último testigo regresa, no como un hombre, sino como un mensajero. Es una teología de la continuidad.
+Moroni no se convierte en ángel porque fue ascendido. Se convierte en ángel porque es el custodio de un testimonio inconcluso.
+Su papel no se eleva; se extiende.
+En la teología SUD, los ángeles no son una especie aparte. Son seres humanos en otra fase de la existencia. Mensajeros, no un orden de ser diferente.
+Por lo tanto, el envío de Moroni tiene sentido narrativo dentro del sistema. Él es la última voz de una civilización extinta.
+Enterró las planchas. Conoce su contenido. Tiene autoridad sobre el registro.
+Es el último testigo de un mundo que se autodestruyó por el orgullo y la guerra. Eso lo convierte en el mensajero perfecto.
+Si Dios hubiera enviado a Gabriel, la historia se sentiría como una secuela de la Biblia. El envío de Moroni la convierte en la restauración de un mundo perdido.
+Y sí, la historia de Mormón es estructuralmente esencial. Sin su voz editorial, el Libro de Mormón se convierte en un archivo disperso.
+Mormón le da una estructura moral. Selecciona historias para mostrar cómo las civilizaciones surgen y se derrumban en función de la obediencia, la justicia, el orgullo y la codicia.
+No solo está narrando la historia. Está lanzando una advertencia.
+Los imperios se pudren desde dentro. El poder corrompe la fe. La prosperidad engendra arrogancia. La arrogancia invita al colapso.
+Ese patrón es el verdadero mensaje.
+Ahora, la Perla de Gran Precio. Este es un libro pequeño pero impactante en el canon SUD.
+Piénselo como un apéndice cósmico de la Biblia.
+Contiene: Un Génesis reescrito a partir de las visiones de Moisés.
+Una extensa ampliación del Libro de Enoc.
+Las visiones de Abraham sobre el cosmos.
+La propia historia profética de José Smith.
+Aquí es donde la teología SUD revela realmente su estructura.
+En el Libro de Moisés, Enoc ve a Dios llorar por la humanidad.
+En el Libro de Abraham, a Abraham se le muestra un universo lleno de innumerables mundos.
+Dios habla de inteligencias que existieron antes de la Tierra.
+La creación se muestra como un proceso organizado, no como un momento aislado.
+Aquí es donde la vida premortal, el orden cósmico, los concilios divinos y los cielos estratificados se revelan por completo.
+Si la Biblia es una constitución moral y el Libro de Mormón una advertencia para la civilización, la Perla de Gran Precio es un mapa estelar. Transforma la teología en cosmología.
+También es donde la cosmovisión SUD deja de asemejarse al cristianismo medieval y comienza a parecerse al misticismo del antiguo Cercano Oriente, filtrado a través de la metafísica estadounidense del siglo XIX.
+Profetas que caminan entre las estrellas. Un Dios que gobierna concilios. Almas más antiguas que la Tierra. Mundos incontables.
+Lo cual nos lleva de vuelta a Moroni. En esta cosmovisión, el cielo no es un trono estático. Es un gobierno vivo. Y los profetas no se jubilan. Simplemente cambian de uniforme.`;
+
+var esDiction=`["abraham - abraham","advertencia - warning","ahora - now","aislado - isolated","al - to the (a + el)","almas - souls","ampliación - expansion","ángel - angel","ángeles - angels","antes - before","antiguas - ancient / old (feminine plural)","antiguo - ancient","aparte - apart","apéndice - appendix","aquí - here","archivo - file","arrogancia - arrogance","ascendido - ascended","asemejarse - resemble","autodestruyó - selfdestructed","autoridad - authority","batalla - battle","biblia - bible","cae - falls","cambian - change","cambio - change","caminan - walk","canon - canon","carrera - career","celestiales - celestial","cercano - nearby / close","cielo - sky, heaven","cielos - skies","cierto - true, certain","civilización - civilization","civilizaciones - civilizations","codicia - greed","colapso - collapse","comienza - begins","como - as, like, how","cómo - how","completo - complete","concilios - councils","conoce - know or he/she/it knows","constitución - constitution","contenido - content","contiene - contains","continuación - continuation / next","continuara - he/she continued (subjunctive)","continuidad - continuity","convierte - converts","convirtió - he/she turned / converted","corrompe - corrupts","cósmico - cosmic","cosmología - cosmology","cosmos - cosmos","cosmovisión - worldview","creación - creation","cristianismo - christianity","cual - which / who / whom","custodio - custodian","da - gives","de - of, from","deja - let","del - of the (de + el)","dentro - inside, within","derrumban - crumble","desde - from, since","después - after, afterwards","diferente - different","dios - god","disperso - scattered","divinos - divine","donde - where","editorial - publishing","él - he","el - the","eleva - elevates","en - in, on","engendra - begs","enoc - enoch","enterró - buried","entre - between / among","enviado - sent","enviaría - wouldsend","envío - sending","épocas - seasons","era - was, used to be (from ser)","es - is (from ser)","escribe - write","ese - that (masculine)","esencial - essential","eso - that (neuter)","especie - species","está - is (from estar)","esta - this (feminine singular)","estaban - they were (from estar)","estadounidense - american","estaría - would be","estás - are you?","estático - static","este - this (masculine singular)","estelar - stellar","estratificados - stratified","estrellas - stars","estructura - structure","estructuralmente - structurally","existencia - existence","existieron - existed","extensa - extensive","extiende - extends","extinta - extinct","fase - phase","fe - faith","filtrado - filtered","fue - was, went (from ser or ir)","función - function","fundamental - fundamental","gabriel - gabriel","génesis - genesis","gobierna - governs","gobierno - government","gran - great (shortened form of grande)","guerra - war","habitual - habitual","habla - speak","hijo - son","historia - story / history","historias - stories","hombre - man","hubiera - had (subjunctive)","humanidad - humanity","humanos - humans","impactante - shocking / impactful","imperios - empires","incluidas - included","inconcluso - unfinished","incontables - countless","innumerables - innumerable / countless","inteligencias - intelligences","invita - invites","josé - jose","jubilan - retire","justicia - justice","la - the (feminine singular)","lanzando - launching","las - the (feminine plural)","le - to him, to her, to it, to you (formal) (indirect object pronoun)","libro - book","lleno - full","lleva - carries","llorar - cry","lo - it / him!","los - the (masculine plural)","luego - then, later","lugar - place","mapa - map","más - more","medieval - medieval","mensaje - message","mensajero - messenger","mensajeros - messengers","menudo - small / minor / often (context-dependent)","metafísica - metaphysics","misticismo - mysticism","moisés - moses","momento - moment","moral - moral","mormón - mormon","moroni - moroni","mostrar - show","muestra - sample / shows","mundo - world","mundos - worlds","murió - he/she died","narrando - narrating","narrativo - narrative","nos - us / to us / ourselves","obediencia - obedience","oficio - trade or craft","oficios - offices","orden - order","organizado - organized","orgullo - pride","oriente - east","otra - other / another (feminine)","papel - paper / role","para - for, in order to","parabólico - parabolic","parecerse - like","partir - to leave / split","patrón - pattern / boss","pequeño - small","perdido - lost / missing","perfecto - perfect","perla - pearl","pero - but","piénselo - thinkaboutit","planchas - plates","poder - power / to be able","por - by, for, through","porque - because","precio - price","premortal - premortal","preserva - preserves","prevista - foreseeed","proceso - process","profeta - prophet","profeta-historiador - prophet-historian","profetas - prophets","profética - prophetic","propia - own (feminine singular)","prosperidad - prosperity","pudren - rot","que - that, what","qué - what","realmente - really","reescrito - rewritten","registro - registration","regresa - returns","relato - narrative","relevos - relays","restauración - restoration","revela - reveals","revelación - revelation","revelan - reveal","roles - roles","se - oneself, himself, herself, itself, themselves (reflexive pronoun), or used in impersonal constructions","secuela - sequel","selecciona - select","sentido - sense / meaning","sentiría - wouldfeel","ser - to be","seres - beings, creatures","si - if","sí - yes, himself/herself/itself/themselves (reflexive after a preposition)","siglo - century","siglos - centuries","simplemente - simply","sin - without","sino - but, but rather (used after a negative clause)","sistema - system","sobre - on / over / about","sobrevive - survives","solo - only, alone","son - are","su - his, her, its, their, your (formal)","sud - south","surgen - arise / emerge","también - also, too","tanto - so much, as much","teología - theology","testigo - witness","testimonio - testimony","tiene - has","tierra - earth","transforma - transform","trata - deals","través - through","trono - throne","tuvo - he/she/it had (from tener)","última - last (feminine)","último - final","un - a, an (masculine)","una - a, an (feminine)","único - unique, only","uniforme - uniform","universo - universe","vacío - empty","ve - see / go (imperative)","venidera - coming","verdadero - true","vida - life","visiones - visions","vivo - alive / vivid / i live","voz - voice","vuelta - turn / lap / return","y - and"]`;
+var esLM=`{"a":{"start":0,"end":20},"á":{"start":7,"end":8},"b":{"start":21,"end":22},"c":{"start":23,"end":60},"d":{"start":61,"end":73},"e":{"start":74,"end":111},"é":{"start":75,"end":86},"f":{"start":112,"end":117},"g":{"start":118,"end":123},"h":{"start":124,"end":132},"i":{"start":133,"end":140},"j":{"start":141,"end":143},"l":{"start":144,"end":155},"m":{"start":156,"end":174},"n":{"start":175,"end":177},"o":{"start":178,"end":185},"p":{"start":186,"end":213},"q":{"start":214,"end":215},"r":{"start":216,"end":226},"s":{"start":227,"end":248},"t":{"start":249,"end":260},"ú":{"start":261,"end":265},"u":{"start":263,"end":267},"v":{"start":268,"end":276},"y":{"start":277,"end":277}}`;
+
+/*things to adjust*/
+var EHIMGURL;
+if(storyline.gtUrl.indexOf('https:') === 0){EHIMGURL = jovuniverse.EHIMGURL+'up/';}else{EHIMGURL = storyline.BIMG+'up/';}
+const svisual = ['i.jpg','3.jpg','f.jpg','b.jpg','u.jpg','z.jpg','9.jpg','x.jpg','c.jpg','q.jpg','h.jpg','1.jpg','5.jpg','g.jpg','1d.jpg','t.jpg','n.jpg','j.jpg','r.jpg','m.jpg','a.jpg','w.jpg','k.jpg','8.jpg','d.jpg','v.jpg','6.jpg','1b.jpg','o.jpg','y.jpg','1c.jpg','p.jpg','l.jpg','4.jpg','2.jpg','7.jpg','1e.jpg','1a.jpg','e.jpg','s.jpg'];
+const ImgRo = 1;
+const oImg = 'd.jpg';
+const ehbmtitle = 'bom4';
+
+storyline.intro = `<p>About the Book of Mormon. Part 4</p>
+<div style="font-size:smaller;">
+<p>Total Slides:<br> 36</p>
+<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Images:<br><a href="https://www.pixabay.com" target="_blank">Pixabay</a></p>
+<p>Translations:<br><a href="https://translate.google.com" target="_blank">Google Translate</a></p>
+</div>`;
+
+storyline.lang = ['EN','ES'];
+storyline.clang = storyline.deflang = 'es';
+/*eo things to adjust*/
+
+
+var reperc={starter:false,storylines:[],starterParagraph:false,bmidx:false,storyvis:svisual,setBookmark:function(x){if(reperc.localstorage==false){return}reperc.bookmark[reperc.bmidx].cpar=x;reperc.localstorage.setItem('easternHeadBM',JSON.stringify(reperc.bookmark))},initBookmark:function(){if(typeof localStorage=="object"){reperc.localstorage=localStorage}else if(typeof globalStorage=="object"){reperc.localstorage=globalStorage[location.host]}else{reperc.localstorage=false}if(reperc.localstorage!==false){reperc.bookmark=reperc.localstorage.getItem('easternHeadBM');if(reperc.bookmark==null){reperc.bookmark=[];reperc.bmidx=0;reperc.bookmark[0]={title:ehbmtitle,cpar:0}}else{reperc.bookmark=JSON.parse(reperc.bookmark);for(var i=0;i<reperc.bookmark.length;i++){if(reperc.bookmark[i].title==ehbmtitle){reperc.starterParagraph=reperc.bookmark[i].cpar;reperc.bmidx=i;break}}if(reperc.bmidx===false){reperc.bmidx=reperc.bookmark.length;reperc.bookmark[reperc.bmidx]={title:ehbmtitle,cpar:0}}}}},avdi:0,initDictionary:function(){if(typeof esDiction!=='undefined'&&esDiction!=''){esDiction=JSON.parse(esDiction);reperc.esLM=JSON.parse(esLM);reperc.avdi++}storyline.snd={};if(typeof esSND!=='undefined'&&esSND.length){storyline.snd.es={};storyline.snd.es.p=storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t=esSND}},initStory:function(){reperc.initBookmark();reperc.initDictionary();reperc.storyvidx=[];for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}textSt=textSt.split('<muoborder>');for(var i=0;i<textSt.length;i++){textSt[i]=textSt[i].trim();if(textSt[i]=='')continue;reperc.storylines[i]=[];textSt[i]=textSt[i].split('\n');for(var ix=0;ix<textSt[i].length;ix++){textSt[i][ix]=textSt[i][ix].trim();if(textSt[i][ix]=='')continue;reperc.storylines[i][reperc.storylines[i].length]=textSt[i][ix]}}},nextHdlr:function(x){if(x%ImgRo==0){var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);if(!reperc.storyvidx.length){for(var i=0;i<reperc.storyvis.length;i++){reperc.storyvidx[reperc.storyvidx.length]=i}}reperc.setBookmark(x)}},rp:function(){storyline.current_chap=reperc.starter;if(reperc.starterParagraph!==false){storyline.unfold_=true;storyline.chapters[storyline.current_chap].unfoldx(reperc.starterParagraph)}else{storyline.chapters[storyline.current_chap].unfold()}var stvidx=jovuniverse.getrand(0,reperc.storyvidx.length);var stvi=reperc.storyvidx[stvidx];storyline.chapters[storyline.current_chap].elements.narration.illustration=EHIMGURL+reperc.storyvis[stvi];reperc.storyvidx.splice(stvidx,1);document.addEventListener('unfoldx',e=>{reperc.nextHdlr(e.detail)})},xDict:function(p){$('body').append('<div id="dictionary" style="top:'+(p.top-40)+'px;left:'+p.left+'px;">Not Available</div>').addClass('dictionInq')},wo:function(r){window.open(r,'_blank')}};var chidx;var n;reperc.starter=1;config={type:'repercussion',effect:new repercussion(reperc.rp),prerequisite:false};chidx=storyline.addChapter(config);reperc.initStory();config={type:'narration',narration:false};n=new narration();for(var i=0;i<reperc.storylines[1].length;i++){n.addNarration(reperc.storylines[1][i],reperc.storylines[0][i],null,null,null)}n.illustration=EHIMGURL+oImg;config.narration=n;chidx=storyline.addChapter(config);storyline.dictionfn=function(t,l){$('#dictionary').remove();$('.txtfrg.inq').removeClass('inq');const pos=$(l).offset();$(l).addClass('inq');if(!reperc.avdi){reperc.xDict(pos);return}t=t.toLowerCase().replace(/^[\p{P}\p{S}\s]+|[\p{P}\p{S}\s]+$/gu,'');t=t+' - ';let xx=t[0].toLowerCase();if(storyline.clang=='es'){if(typeof reperc.esLM==='undefined'){reperc.xDict(pos);return}if(!reperc.esLM[xx]){reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate');return}for(var i=reperc.esLM[xx].start;i<=reperc.esLM[xx].end;i++){if(esDiction[i].indexOf(t)===0){$('body').append('<div id="dictionary" style="top:'+(pos.top-40)+'px;left:'+pos.left+'px;">'+esDiction[i].split(' - ')[1]+'</div>').addClass('dictionInq');return}}reperc.wo('https://translate.google.com/?sl='+storyline.clang+'&tl=en&text='+t+'&op=translate')}};$('#text5').prop('src',EHIMGURL+oImg);
