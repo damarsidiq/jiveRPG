@@ -1,7 +1,7 @@
 [
-    ["b/BookofMormon5","en,es","theology"],
-    ["b/BookofMormon4","en,es","theology"],["b/BookofMormon3","en,it","theology"],
-    ["b/BookofMormon2","en,it","theology"],["b/BookofMormon","en,es","theology"],
+    ["b/Titans","en,de","theology"],["b/Mahabharata7","en,it","theology"],["b/Mahabharata6","en,it","theology"],["b/Mahabharata5","en,it","theology"],
+    ["b/Mahabharata4","en,it","theology"],["b/Mahabharata3","en,it","theology"],["b/Mahabharata2","en,it","theology"],
+    ["b/Mahabharata","en,it","theology"],
     
-    ["eharch10,eharch9,eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
+    ["eharch11,eharch10,eharch9,eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
 ]
