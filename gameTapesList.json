@@ -1,7 +1,8 @@
 [
-    ["b/Titans","en,de","theology"],["b/Mahabharata7","en,it","theology"],["b/Mahabharata6","en,it","theology"],["b/Mahabharata5","en,it","theology"],
-    ["b/Mahabharata4","en,it","theology"],["b/Mahabharata3","en,it","theology"],["b/Mahabharata2","en,it","theology"],
-    ["b/Mahabharata","en,it","theology"],
+    ["b/Babel2","en,de","theology"],["b/Babel","en,de","theology"],
+    ["b/Swastika2","en,de","sociology"],["b/Swastika","en,de","sociology"],
+    ["b/Isolated2","en,fr","sociology"],["b/Isolated","en,fr","sociology"],
+    ["b/Deception2","en,fr","theology"],["b/Deception","en,fr","theology"],
     
-    ["eharch11,eharch10,eharch9,eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
+    ["eharch12,eharch11,eharch10,eharch9,eharch8,eharch7,eharch6,eharch5,eharch4,eharch1,eharch2,eharch3"]
 ]
