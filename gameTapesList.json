@@ -1,4 +1,7 @@
 [
+    ["a/Dimensions","en,de","science"],["a/KleineBottle2","en,pt-BR,nl","science"],["a/KleineBottle","en,pt-BR,nl","science"],
+    ["a/ErrorCorrection3","en,pt-BR,nl","science"],["a/ErrorCorrection2","en,pt-BR,nl","science"],["a/ErrorCorrection","en,pt-BR,nl","science"],["a/SolarPanels2","en,pt-BR,nl","science"],["a/SolarPanels","en,pt-BR,nl","science"],["a/BellyButtons","en,pt-BR,nl","science"],
+    
     
     ["a/Aeneid7","en,pt-BR","literature"],["a/Aeneid6","en,pt-BR","literature"],["a/Aeneid5","en,pt-BR","literature"],["a/Aeneid4","en,pt-BR","literature"],
     ["a/Aeneid3","en,pt-BR","literature"],["a/Aeneid2","en,pt-BR","literature"],["a/Aeneid","en,pt-BR","literature"],
