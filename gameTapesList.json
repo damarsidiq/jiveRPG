@@ -1,4 +1,11 @@
 [
+    ["a/Dimensions2","en,de","science"],["a/SouthPole4","en,de","science"],["a/SouthPole3","en,de","science"],
+    ["a/SouthPole2","en,de","science"],["a/SouthPole","en,de","science"],
+    
+    ["b/PolarSun","en,fr-ca","science"],["b/Intrepid2","en,fr-ca","economy"],["b/Intrepid","en,fr-ca","science"],["b/Tea2","en,fr-ca","biology"],
+    ["b/Tea","en,fr-ca","biology"],["a/Negotiation","en,fr-ca","science"],["a/Observation","en,fr-ca","science"],["a/ASD","en,fr-ca","science"],
+    
+    
     ["a/Dimensions","en,de","science"],["a/KleineBottle2","en,pt-BR,nl","science"],["a/KleineBottle","en,pt-BR,nl","science"],
     ["a/ErrorCorrection3","en,pt-BR,nl","science"],["a/ErrorCorrection2","en,pt-BR,nl","science"],["a/ErrorCorrection","en,pt-BR,nl","science"],["a/SolarPanels2","en,pt-BR,nl","science"],["a/SolarPanels","en,pt-BR,nl","science"],["a/BellyButtons","en,pt-BR,nl","science"],
     
