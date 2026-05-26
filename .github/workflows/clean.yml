@@ -1,0 +1,15 @@
+name: Clear Old Logs
+on:
+  workflow_dispatch: # This adds a manual "Run" button to the website!
+
+jobs:
+  delete-runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
+          retain_days: 0          # Delete everything older than 0 days
+          keep_minimum_runs: 1    # Keep just your 1 most recent deploy
