@@ -9,9 +9,9 @@
     ["b/Astrology3","en,da","culture"],["b/Astrology2","en,da","culture"],["b/Astrology","en,da","culture"],
     
     
-    ["b/LSD","en,no","ai-chat"],["b/Horror","en,da","ai-chat"],["b/Scent","en,da","ai-chat"],["b/Materialist","en,no","ai-chat"],
-    ["b/Elements3","en,no","ai-chat"],["b/Elements2","en,no","ai-chat"],["b/Elements","en,no","ai-chat"],
+    ["b/LSD","en,no","neuroscience"],["b/Horror","en,da","ai-chat"],["b/Scent","en,da","science"],["b/Materialist","en,no","physics"],
+    ["b/Elements3","en,no","physics"],["b/Elements2","en,no","physics"],["b/Elements","en,no","physics"],
     
-    ["b/TheVeda6","en,no","ai-chat"],["b/TheVeda5","en,no","ai-chat"],["b/TheVeda4","en,no","ai-chat"],["b/TheVeda3","en,no","ai-chat"],["b/TheVeda2","en,no","ai-chat"],["b/TheVeda","en,no","ai-chat"],
+    ["b/TheVeda6","en,no","scripture"],["b/TheVeda5","en,no","scripture"],["b/TheVeda4","en,no","scripture"],["b/TheVeda3","en,no","scripture"],["b/TheVeda2","en,no","scripture"],["b/TheVeda","en,no","scripture"],
     ["ssarch7,ssarch6,ssarch5,ssarch4,ssarch3,ssarch2,ssarch1"]
 ]
