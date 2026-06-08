@@ -1,10 +1,5 @@
 [
-
-["b/Jainism4","en,da","ai-chat"],["b/Jainism3","en,da","ai-chat"],["b/Jainism2","en,da","ai-chat"],["b/Jainism","en,da","ai-chat"],
-    
-    
-    
-    ["b/WorldView2","en,no","ai-chat"],["b/WorldView","en,no","ai-chat"],["b/LiteraryMerit2","en,no","ai-chat"],["b/LiteraryMerit","en,no,da,fi","ai-chat"],
-    ["a/DeSoto2","en,sv","ai-chat"],["a/DeSoto","en,sv","ai-chat"]
-
+    ["b/Jainism4","en,da","religion"],["b/Jainism3","en,da","religion"],["b/Jainism2","en,da","religion"],["b/Jainism","en,da","religion"],
+    ["b/WorldView2","en,no","culture"],["b/WorldView","en,no","culture"],["b/LiteraryMerit2","en,no","literature"],["b/LiteraryMerit","en,no,da,fi","literature"],
+    ["a/DeSoto2","en,sv","literature"],["a/DeSoto","en,sv","literature"]
 ]

@@ -1,11 +1,7 @@
 [
-
-["b/Pseudepigrapha5","en,fr","theology"],["b/Pseudepigrapha4","en,fr","theology"],
-    ["b/Pseudepigrapha3","en,de","theology"],["b/Pseudepigrapha2","en,de","theology"],
-    ["b/Pseudepigrapha","en,de","theology"],
-    
-    
-    ["b/People","en,pt-BR","socialcomment"],
-    ["b/AmericanSecret2","en,pt-BR","socialcomment"]
-
-]
+    ["b/Pseudepigrapha5","en,fr","scripture"],["b/Pseudepigrapha4","en,fr","scripture"],
+    ["b/Pseudepigrapha3","en,de","scripture"],["b/Pseudepigrapha2","en,de","scripture"],
+    ["b/Pseudepigrapha","en,de","scripture"],
+    ["b/People","en,pt-BR","sociology"],
+    ["b/AmericanSecret2","en,pt-BR","sociology"]
+]   

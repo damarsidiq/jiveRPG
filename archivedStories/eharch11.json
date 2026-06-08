@@ -1,6 +1,6 @@
 [
 
-    ["b/BookofMormon5","en,es","theology"],
-    ["b/BookofMormon4","en,es","theology"],["b/BookofMormon3","en,it","theology"],
-    ["b/BookofMormon2","en,it","theology"],["b/BookofMormon","en,es","theology"]
+    ["b/BookofMormon5","en,es","scripture"],
+    ["b/BookofMormon4","en,es","scripture"],["b/BookofMormon3","en,it","scripture"],
+    ["b/BookofMormon2","en,it","scripture"],["b/BookofMormon","en,es","scripture"]
 ]

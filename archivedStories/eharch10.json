@@ -1,8 +1,4 @@
 [
-
-["b/Pseudepigrapha13","en,de","theology"],["b/Pseudepigrapha12","en,es","theology"],
-    ["b/Pseudepigrapha11","en,es","theology"],["b/Pseudepigrapha10","en,es","theology"],
-    ["b/Pseudepigrapha9","en,it","theology"],["b/Pseudepigrapha8","en,it","theology"],
-    ["b/Pseudepigrapha7","en,it","theology"],["b/Pseudepigrapha6","en,fr","theology"]
-
+    ["b/Pseudepigrapha13","en,de","scripture"],["b/Pseudepigrapha12","en,es","scripture"],"b/Pseudepigrapha11","en,es","scripture"],["b/Pseudepigrapha10","en,es","scripture"],
+    ["b/Pseudepigrapha9","en,it","scripture"],["b/Pseudepigrapha8","en,it","scripture"],["b/Pseudepigrapha7","en,it","scripture"],["b/Pseudepigrapha6","en,fr","scripture"]
 ]

@@ -1,8 +1,7 @@
 [
-
-["b/AmericanSecret","en,pt-BR","socialcomment"],
+    ["b/AmericanSecret","en,pt-BR","sociology"],
     ["b/Taormina6","en,pt-BR","history"],["b/Taormina5","en,pt-BR","history"],["b/Taormina4","en,pt-BR","history"],["b/Taormina3","en,pt-BR","history"],
     ["b/Taormina2","en,pt-BR","history"],["b/Taormina","en,pt-BR","history"],
-    ["b/Translaterank","en,de","literature"],["b/Cartland","en,it","literature"],["b/onWriting","en,de","socialcomment"],["b/GenderCreativity","en,it","socialcomment"]
+    ["b/Translaterank","en,de","literature"],["b/Cartland","en,it","literature"],["b/onWriting","en,de","sociology"],["b/GenderCreativity","en,it","sociology"]
 
-]
+]   

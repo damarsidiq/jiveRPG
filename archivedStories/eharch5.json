@@ -1,6 +1,6 @@
 [
-  ["a/onLiterature","en,nl","ai-investigation"],["a/onLiterature2","en,nl","ai-investigation"],
-  ["a/GodEtymology","en,fr","ai-investigation"],["a/GreekGods","en,it","ai-investigation"],["a/GenreFormula","en,it,de","ai-investigation"],
-  ["a/StoryCircle","en,it,de","ai-investigation"],["a/Sleepy","en,de","ai-investigation"],["a/LightSource","en,es,fr","ai-investigation"],["a/Prodigy","en,es","ai-investigation"],
-  ["a/Prodigy2","en,es","ai-investigation"]
+  ["a/onLiterature","en,nl","literature"],["a/onLiterature2","en,nl","literature"],
+  ["a/GodEtymology","en,fr","linguistic"],["a/GreekGods","en,it","history"],["a/GenreFormula","en,it,de","literature"],
+  ["a/StoryCircle","en,it,de","literature"],["a/Sleepy","en,de","science"],["a/LightSource","en,es,fr","ai-investigation"],["a/Prodigy","en,es","science"],
+  ["a/Prodigy2","en,es","science"]
 ]

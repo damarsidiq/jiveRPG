@@ -1,6 +1,6 @@
 [
-  ["a/Courtroom4","en,fi","ai-chat"],["a/Courtroom3","en,fi","ai-chat"],
-  ["a/Courtroom2","en,sv","ai-chat"],["a/Courtroom","en,sv","ai-chat"],
-  ["a/Rainy4","en,no","ai-chat"],["a/Rainy3","en,no","ai-chat"],["a/Rainy2","en,no","ai-chat"],["a/Rainy","en,no","ai-chat"],
-  ["a/Tracks3","en,da","ai-chat"],["a/Tracks2","en,da","ai-chat"],["a/Tracks","en,da","ai-chat"]
+  ["a/Courtroom4","en,fi","sociology"],["a/Courtroom3","en,fi","sociology"],
+  ["a/Courtroom2","en,sv","sociology"],["a/Courtroom","en,sv","cinema"],
+  ["a/Rainy4","en,no","science"],["a/Rainy3","en,no","science"],["a/Rainy2","en,no","science"],["a/Rainy","en,no","science"],
+  ["a/Tracks3","en,da","culture"],["a/Tracks2","en,da","culture"],["a/Tracks","en,da","culture"]
 ]
