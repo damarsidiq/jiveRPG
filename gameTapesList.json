@@ -1,4 +1,13 @@
 [
+    
+    ["c/Candid","en,nl","literature"],["c/Ugaritic","en,nl","history"],
+    ["c/TheBorrower2","en,nl","economics"],["c/TheBorrower","en,nl","economics"],
+    
+    ["c/Stoicism","en,nl","philosophy"],["c/Zoroastrianism3","en,nl","philosophy"],["c/Zoroastrianism2","en,nl","philosophy"],["c/Zoroastrianism","en,nl","philosophy"],
+    
+    ["c/TheMahdi7","en,nl","apocalyptic"],["c/TheMahdi6","en,nl","apocalyptic"],["c/TheMahdi5","en,nl","apocalyptic"],["c/TheMahdi4","en,nl","apocalyptic"],
+    ["c/TheMahdi3","en,nl","apocalyptic"],["c/TheMahdi2","en,nl","apocalyptic"],["c/TheMahdi","en,nl","apocalyptic"],
+    
     ["c/Attention","en,pt-BR","science"],
     
     ["c/MRT","en,pt-BR","economics"],["c/BlackHoles","en,pt-BR","astronomy"],["c/Rashomon","en,pt-BR","cinema"],["c/Passover","en,pt-BR","theology"],["c/Meditators","en,pt-BR","science"],
