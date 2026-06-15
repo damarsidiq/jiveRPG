@@ -1,0 +1,27 @@
+var shdtxt=`Ich kämpfe mit dem Konzept der Aufmerksamkeitsökonomie. Warum heißt es, dass Informationen unsere Aufmerksamkeit verbrauchen, anstatt dass wir unsere Aufmerksamkeit dazu nutzen, die verfügbare Fülle an Informationen zu konsumieren? Warum geht der Pfeil in die falsche Richtung? Das liegt an den Push-Benachrichtigungen von der zugehörigen Plattform, die wir nutzen, und an deren Strategie, ihr Angebot auf die andere Seite zu bringen und wahrgenommen zu werden, aber das ist auch schon alles...
+Aber da die „Reichtum an Informationen“ irgendwie von diesen Plattformen und ihrer „Strategie“ verwaltet wird, müssen wir an ihrem Wirtschaftsmodell teilnehmen? Aber so etwas wie Informationsreichtum gibt es nicht, es ist einfach nur ein neues Wirtschaftsmodell, das sich auf Informationen konzentriert.
+Der Ausdruck „Informationen verbrauchen Aufmerksamkeit“ kann zunächst abwegig klingen, fast so, als ob Informationen eine hungrige Kreatur wären, die Ihr Gehirn frisst, während Sie wehrlos dasitzen.
+Dramatische Formulierung, sehr menschlich. Aber es gibt einen Grund, warum der Pfeil in diese Richtung zeigt. Die ursprüngliche Idee stammt vom Ökonomen und Kognitionswissenschaftler Herbert A. Simon.
+Sein Argument lautete ungefähr so: > Eine Fülle an Informationen führt zu einem Mangel an Aufmerksamkeit. Nicht weil Informationen böse sind, sondern weil die Aufmerksamkeit begrenzt ist.
+Stellen Sie sich das so vor: Information = reichlich vorhanden. Aufmerksamkeit = knapp. Knappheit schafft Wirtschaft.
+Wenn es zehn Bücher gibt und Sie zehn Jahre Zeit haben, ist das kein Problem. Wenn heute zehn Millionen Videos, Feeds, Artikel, Benachrichtigungen, Podcasts, Essays, KI-Chats und Livestreams eintreffen, wird Ihre Aufmerksamkeit zum Engpass.
+Der Ausdruck „Informationen verbrauchen Aufmerksamkeit“ beschreibt also eine „Ressourcenbeziehung“. Zum Beispiel: Autos verbrauchen Kraftstoff. Software verbraucht Speicher. Informationen verbrauchen Aufmerksamkeit.
+Das bedeutet „nicht“, dass Sie keine Agentur haben. Das bedeutet, dass der Kontakt mit Informationen kognitive Kosten verursacht.
+Ihre zweite Erkenntnis ist nun, wo es interessant wird. Sie sagten: > Vielleicht geht es hier hauptsächlich um Plattformen, die uns Dinge aufdrängen.
+Teilweise ja, aber nicht ganz. Hier gibt es tatsächlich zwei Schichten. Schicht 1: Aufmerksamkeit als natürliche kognitive Ökonomie. Das gibt es auch ohne moderne Plattformen.
+Stellen Sie sich eine riesige Bibliothek vor. Sie können immer noch nicht alles lesen. Jedes Buch konkurriert um Stunden Ihres Lebens. Aufmerksamkeitsknappheit existiert vor Algorithmen, vor Smartphones, vor Benachrichtigungen.
+Es „gibt“ also so etwas wie eine „Fülle an Informationen“. Das Problem ist der Überfluss.
+Betreten Sie nun Schicht 2. Plattformvermittelte Aufmerksamkeitsökonomie. Dies ist die moderne Version, die die Leute normalerweise meinen.
+Plattformen speichern nicht nur Informationen. Sie bewerten es. empfehle es. personalisieren Sie es. Lieferung optimieren. Engagement messen. konkurrieren um Gegenbesuche. Das verändert alles.
+Weil nun Aufmerksamkeit selbst wirtschaftlich wertvoll wird. Warum? Denn Aufmerksamkeit lässt sich umwandeln in: Werbeeinnahmen. Abonnements. Daten. beeinflussen. Markentreue. politische oder kulturelle Macht.
+Informationen ähneln also weniger einer Bibliothek, sondern eher einem Marktplatz oder einer Casino-Etage. Die Regale sind nicht mehr passiv. Sie rufen deinen Namen.
+Aus diesem Grund kommt Ihnen der Pfeil verdächtig vor. Sie stellen sich Informationen instinktiv als passives Material vor: > „Ich nutze Aufmerksamkeit, um Informationen zu konsumieren.“
+Das trifft auf ein klassisches Bibliotheksmodell zu. Doch in modernen digitalen Systemen werden Informationen oft „aktiv und strategisch verpackt“, um Ihre Aufmerksamkeit zu sichern.
+Es existieren also beide Pfeile. Ihre Perspektive: Aufmerksamkeit → Information (Ich entscheide, was ich konsumiere). Aufmerksamkeitsökonomische Perspektive: Informationssysteme → Aufmerksamkeit (Plattformen konkurrieren darum, sie zu erfassen und zu halten). Beides ist nicht falsch.
+Sie beschreiben verschiedene Ebenen. Nun zu Ihrer letzten Frage: > Gibt es also wirklich eine Fülle an Informationen oder nur eine Informationsökonomie?
+Ich würde sie trennen. „Informationsreichtum“ ist real. Die Menschheit hat tatsächlich einen beispiellosen Zugang zu Wissen: wissenschaftliche Arbeiten. historische Archive.
+Tutorials. Karten. Sprachen. Filme. Vorträge. öffentliche Aufzeichnungen. Diese Fülle existiert unabhängig von Geschäftsmodellen.
+Aber moderne Plattformen verpacken diese Fülle in einer „Aufmerksamkeitsökonomie“.
+Der Begriff „Informationswirtschaft“ kann also zwei unterschiedliche Dinge verwischen: 1. Information als Wissensfülle 2. Information als wirtschaftlich gemanagte Aufmerksamkeitskonkurrenz.
+Das erste ist ein zivilisatorischer Schatz. Die zweite ist eine Marktstruktur. Und Ihr Unbehagen entsteht dadurch, dass Sie bemerken, dass Menschen oft so reden, als wären sie dasselbe. Das sind sie nicht.
+Eine Bibliothek und ein unendlich scrollbarer Feed enthalten beide Informationen, aber in einer heißt es hauptsächlich „Hier, wenn Sie mich brauchen“, während in der anderen steht: „Bevor Sie gehen, vielleicht siebenundzwanzig emotional aufgeladene Miniaturansichten?“.`;
