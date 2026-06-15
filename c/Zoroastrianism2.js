@@ -74,7 +74,7 @@ const ehbmtitle = 'zorr2';
 storyline.intro = `<p>A conversation about Zoroastrianism. Part 2.</p>
 <div style="font-size:smaller;">
 <p>Total Slides:<br> 31</p>
-<p>Story Text:<br><a href="https://chatgpt.com" target="_blank">ChatGPT</a></p>
+<p>Story Text:<br><a href="https://gemini.google.com" target="_blank">Google Gemini</a></p>
 <p>Translations:<br><a href="https://www.reverso.net/text-translation" target="_blank">Reverso.net</a></p>
 <p>Images:<br><a href="https://www.pixabay.com" target="_blank">pixabay.com</a></p>
 </div>`;
