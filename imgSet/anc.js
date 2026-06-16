@@ -1,0 +1,2 @@
+var nsvisual =  ['ancient-kent-2708360_1280.jpg','ancient-kent-2708365_1280.jpg','antalya-2708330_1280.jpg','architecture-4899038_1280.jpg','building-1283718_1280.jpg','castle-4461738_1280.jpg','kyrkoruin-2438975_1280.jpg','manymaps.jpg','old-2630034_1280.jpg','paestum-1568884_1280.jpg','ruin-1050654_1280.jpg','sangalgano.jpg','trier-1129017_1280.jpg','turkey-319234_1280.jpg','whitby-abbey-2805489_1280.jpg','acropolis-6738888_1280.jpg','crete-7550114_1280.jpg','a.jpg','b.jpg'];
+var nwoImg = nsvisual[jovuniverse.getrand(0,nsvisual.length)];

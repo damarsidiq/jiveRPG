@@ -1,0 +1,2 @@
+var nsvisual = ['1e.jpg','1d.jpg','1c.jpg','1b.jpg','1a.jpg','9.jpg','8.jpg','7.jpg','6.jpg','5.jpg','4.jpg','3.jpg','2.jpg','1.jpg','z.jpg','y.jpg','x.jpg','w.jpg','v.jpg','u.jpg','t.jpg','s.jpg','r.jpg','q.jpg','p.jpg','o.jpg','n.jpg','m.jpg','l.jpg','k.jpg','j.jpg','i.jpg','h.jpg','g.jpg','f.jpg','e.jpg','d.jpg','c.jpg','b.jpg','a.jpg'];
+var nwoImg = nsvisual[jovuniverse.getrand(0,nsvisual.length)];
