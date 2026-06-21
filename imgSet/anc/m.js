@@ -1,2 +1,3 @@
 var nsvisual = ['b.jpg','a.jpg','9.jpg','8.jpg','7.jpg','6.jpg','5.jpg','4.jpg','3.jpg','2.jpg','1.jpg','d.jpg','e.jpg','f.jpg','g.jpg','h.jpg','i.jpg','j.jpg','k.jpg','l.jpg','m.jpg','c.jpg','o.jpg','p.jpg','q.jpg','r.jpg','s.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg','n.jpg','z.jpg','1a.jpg','1b.jpg','1c.jpg','1d.jpg','1e.jpg','1.jpg','1g.jpg','y.jpg'];
 var nwoImg = nsvisual[jovuniverse.getrand(0,nsvisual.length)];
+$('#text5').css('object-fit','cover');
