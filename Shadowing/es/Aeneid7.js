@@ -24,3 +24,6 @@ Si alguna vez decides leer algunos pasajes clave completos, el Libro 2 (caída d
 No necesitas los 12 libros. Obras épicas en tramos portantes.
 Ahora mismo lo que estás construyendo es un andamio. Más tarde, si lo deseas, podrás colgarle carne y voz. O no.
 Incluso despojada de sus huesos, la estructura aún se mantiene. Lo cual es más de lo que se puede decir de la mayoría de las narrativas modernas, resúmenes o de otro tipo.`;
+
+var esSND=['aeneid7es.mp3',[0.000000,10.630667,0],[10.848127,35.118795,1],[35.354776,49.595098,2],[49.856418,56.208333,3],[56.601367,66.381544,4],[66.999831,74.025820,5],[74.644107,86.279144,6],[86.841224,95.384826,7],[95.834489,108.762309,8],[109.493012,120.341139,9],[121.015634,138.833542,10],[139.395621,153.222767,11],[153.897262,166.712666,12],[167.162329,178.909783,13],[179.471862,185.935772,14],[186.610267,198.189097,15],[198.863592,211.341748,16],[212.072451,221.684004,17],[222.583330,234.443200,18],[235.061487,241.637812,19],[242.424723,249.113465,20],[249.844167,262.209908,21],[262.884403,279.802984,22],[280.646103,286.716557,24],[287.391052,297.508477,25],[298.295387,310.604920,26]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

@@ -24,4 +24,7 @@ El cerebro mejora a la hora de retener la complejidad, retrasar la gratificació
 Lo que explica por qué las epopeyas eran herramientas educativas mucho antes de que alguien inventara un programa de estudios.
 Entonces sí, tu experiencia es correcta. No estás simplemente disfrutando de una leyenda. Estás ensayando cómo percibir la realidad en capas, simbólica, histórica y con consecuencias.
 Virgilio lo aprobaría. Roma lo aprobaría. Tus receptores de dopamina pueden quejarse, pero no están a cargo.
-Conserva los diagramas. Estás haciendo lo que la epopeya fue diseñada para provocar.`;
+Conserva los diagramas. Estás haciendo lo que la epopeya fue diseñada para provocar.`;  
+
+var esSND=['aeneid6ES.mp3',[0.000000,9.498315,0],[10.159590,21.461382,1],[22.182773,40.157431,2],[40.378433,55.547106,3],[56.208381,67.089362,4],[67.495142,76.768024,5],[77.429299,89.692940,6],[89.933409,103.850233,7],[104.120765,113.679196,8],[114.099993,125.041104,9],[125.281574,137.740602,10],[137.740602,149.628513,11],[150.229672,159.607755,12],[159.908326,168.580036,13],[168.580036,182.451803,14],[182.767432,193.092320,15],[193.528154,205.115503,16],[205.386044,210.525936,17],[210.916684,233.009288,18],[233.400035,244.972355,19],[245.453282,254.590902,20],[254.936581,266.974789,21],[266.974789,274.669617,22],[274.925117,283.762139,23],[284.047700,299.016563,24],[299.362236,309.551889,25],[309.551889,316.750758,26]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
