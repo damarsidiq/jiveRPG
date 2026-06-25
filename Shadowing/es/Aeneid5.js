@@ -28,3 +28,6 @@ En promedio, un libro tiene entre 700 y 900 líneas en latín, pero esa es una e
 El libro 5 parece más ligero porque trata de continuidad más que de ruptura.
 Piense en el Libro 5 como una bisagra. Cierra el pasado troyano a través de Anquises y abre el futuro romano a través del ritual, la selección y la pérdida controlada.
 No es aburrido. Es disciplinado. Lo cual, inconvenientemente, es muy romano.`;
+
+var esSND=['aeneid5ES.mp3',[0.000000,13.650949,0],[13.957458,20.926840,1],[21.162237,34.878502,2],[35.401027,44.047152,3],[44.414572,53.885327,4],[54.318038,64.523590,5],[64.793023,75.308826,6],[75.692541,92.094922,7],[92.682762,99.271466,8],[99.271466,115.085994,9],[115.494235,129.520730,10],[129.765658,143.106364,11],[143.441096,151.793332,12],[152.217903,162.325449,13],[162.325449,170.612355,14],[170.612355,176.515258,15],[176.743871,190.198874,16],[190.443791,199.996206,17],[200.298279,208.127979,18],[208.127979,216.978248,19],[217.223185,226.081618,20],[226.081618,232.000824,21],[232.653980,246.345766,22],[246.631507,251.464857,23],[251.799609,261.262190,24],[261.613242,278.374863,25],[278.897397,293.242331,26],[293.528070,299.341154,27],[299.863678,311.881739,28],[312.191973,320.829969,29]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

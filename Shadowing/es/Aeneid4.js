@@ -30,3 +30,7 @@ Todas tienen razón en parte. Y el resultado es catastróficamente incorrecto.
 Eneas se marcha de todos modos. Roma todavía existe. Cartago sigue cayendo. Pero ahora hay odio preparado para el futuro.
 La maldición de Dido contra Eneas y sus descendientes es la semilla mítica de la enemistad romano-cartaginesa.
 Juno no impidió la profecía. Ella se aseguró de que sería sangriento.`;
+
+var esSND=['aeneid4ES.mp3',[0.000000,16.103426,0],[16.524431,28.520521,1],[28.663397,41.714539,2],[42.065376,52.513192,3],[52.906245,61.396504,4],[61.852592,71.816368,5],[72.377707,88.393420,6],[88.691636,109.987452,7],[110.268121,123.143845,8],[123.599934,135.440688,9],[135.738900,143.001229,10],[143.352066,155.631363,11],[155.982204,165.402167,12],[165.402167,172.225965,13],[172.611886,183.417671,14],[183.943926,196.538981,15],[197.170488,211.730230,16],[212.256486,219.729317,17],[220.430992,229.903595,18],[230.464935,240.604129,19],[241.165468,252.181755,20],[252.778178,265.373233,21],[265.899489,274.424832,22],[274.845825,284.634193,23],[285.020114,291.124681,24],[291.545685,301.123540,25],[301.544545,314.244842,26],[314.420269,331.365704,27],[331.856876,338.382447,28],[339.275905,350.923699,29],[351.442361,359.125695,30],[359.476532,365.721433,31]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
+
