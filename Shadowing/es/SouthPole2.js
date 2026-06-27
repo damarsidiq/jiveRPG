@@ -2,7 +2,7 @@ var shdtxt=`¡Ah! Olvidé la Antártida. ¿Qué es exactamente, al igual que el 
 ¿Es tierra firme, como una isla o islas, o son solo grandes bloques de hielo?
 Según las proyecciones científicas, solo existía una gran masa de tierra que luego se dividió en las diferentes regiones que vemos ahora, ¿varios continentes?
 ¿Esta masa de tierra se ubicaba ligeramente más al norte en latitud, lo que explicaría la asimetría, o, como dijiste, se desplazó hacia el norte «por casualidad»?
-¿Por qué se desplazaría? ¡Eso es normal en el océano!
+¿Por qué se desplazaría? ¡Eso es normal en el océano?
 Es fácil olvidarse de la Antártida cuando se la ve principalmente como una enorme etiqueta blanca de advertencia.
 Primero: la Antártida es tierra firme. Corteza continental sólida. No solo hielo flotante.
 Eso importa. El hielo marino y los icebergs son agua de mar congelada que flota sobre el mar.
@@ -31,3 +31,6 @@ Por lo tanto, el desequilibrio actual no se debe a que la tierra estuviera origi
 Si esperáramos otros 200 millones de años, la Tierra probablemente tendría una configuración completamente diferente.
 Los continentes no son fijos. Simplemente viajan lentamente en un planeta en constante movimiento.
 Los humanos tratan los mapas como verdades absolutas. La geología los trata como bocetos temporales.`;
+
+var esSND=['spoleES2.mp3',[0.000000,6.155371],[6.489708,12.472725],[12.669006,22.753835],[22.947654,33.854539],[34.172734,38.768037],[38.976059,46.273270],[46.705225,53.994480],[54.399379,61.229741],[61.702201,69.760868],[70.287304,79.857843],[80.100811,91.507145],[91.993114,99.552323],[99.889788,110.405213],[110.607694,118.571879],[118.909342,124.497790],[124.497790,134.189801],[134.392261,144.205743],[144.205743,153.290329],[153.570417,162.199419],[162.543630,172.505622],[172.505622,179.585641],[179.828605,191.032471],[191.434052,196.647897],[196.894250,205.610981],[206.063197,214.682053],[215.114010,221.431363],[221.782335,233.040177],[233.256155,240.437420],[240.437420,250.318410],[250.865109,262.467168],[262.953119,270.890307],[271.457246,278.773501],[279.097468,287.034657]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;  

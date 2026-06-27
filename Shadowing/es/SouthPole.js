@@ -19,3 +19,6 @@ Por ejemplo: el sur de Chile y Argentina tienen un clima fresco a frío, especia
 Tasmania es más fría que la Australia continental. La Antártida es extremadamente fría.
 Así que tu intuición es correcta: más al sur suele significar más frío, al igual que más al norte.
 La diferencia radica simplemente en que, en el sur, la geografía nos brindó océano y una fortaleza de hielo en lugar de extensas civilizaciones.`;
+
+var esSND=['spole.mp3',[0.000000,17.469063],[17.777125,26.892210],[27.163314,36.279113],[36.668739,45.955960],[46.209660,51.283661],[51.555471,56.538878],[56.810678,64.802252],[65.200924,76.363728],[76.780530,87.780232],[88.215146,98.471879],[98.752761,110.613240],[110.975657,117.898057],[118.296729,127.031260],[127.466175,139.027650],[139.208865,147.363511],[147.644373,153.995956],[154.267793,162.259330],[162.440545,169.507904],[170.087790,176.937693],[177.263889,184.005052],[184.186267,193.971842]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
