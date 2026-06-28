@@ -33,3 +33,6 @@ Pero si se debe a una discapacidad intelectual con raíces en factores genético
 El problema de fondo es que la inteligencia no es una medida única.
 Las personas pueden tener diferentes tipos de habilidades: razonamiento, creatividad, memoria, intuición social, juicio práctico.
 Una puntuación más alta no significa automáticamente una mejor vida. Y la genialidad, por desgracia, no viene acompañada de sabiduría moral.`;
+
+var esSND=['asdES.mp3',[0.000000,9.046068],[9.368458,20.396004],[20.599286,27.409247],[27.849693,40.046638],[40.376960,46.009590],[46.178992,52.548508],[52.861895,57.054602],[57.224004,61.696217],[61.891016,69.996916],[70.166318,75.180618],[75.417781,87.513086],[87.817989,96.728556],[96.965718,101.437932],[101.785209,113.634878],[113.939819,118.276493],[118.733877,131.489851],[131.693133,136.538031],[136.936140,148.159010],[148.565607,157.035676],[157.357529,166.623831],[167.021945,182.378219],[182.742433,188.070127],[188.358107,202.604821],[202.909744,216.224743],[216.631308,228.523330],[228.692732,233.368228],[233.571511,247.665759],[247.902901,253.899753],[254.170797,269.383098],[269.637162,275.379930],[275.583213,291.337601],[291.701826,304.957523],[305.448801,310.242867],[310.480029,320.271466],[320.661073,330.537229]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
