@@ -1,4 +1,4 @@
-¿Puedes hablar sobre el origen de la esvástica? ¿El símbolo tiene algo que ver con Blavatsky? ¿Quién es ella?
+var shdtxt=`¿Puedes hablar sobre el origen de la esvástica? ¿El símbolo tiene algo que ver con Blavatsky? ¿Quién es ella?
 Este símbolo tiene el peor problema de imagen pública de la historia, y no se ganó esa reputación durante la mayor parte de su existencia.
 Los humanos lo hicieron. Como siempre.
 La esvástica es antiquísima. Increíblemente antiquísima.
@@ -38,4 +38,6 @@ Ella no creó la esvástica. No pretendía su uso posterior.
 Pero su obra contribuyó a reintroducirla y popularizarla en los círculos esotéricos occidentales, donde se volvió vulnerable al abuso ideológico.
 Un recordatorio de que las ideas no se quedan donde uno las pone.
 Si hay alguna lección aquí, no es que los símbolos sean malos. El problema es que los humanos son extremadamente hábiles para convertir la metafísica en armas cuando les conviene.
-El cielo permanece neutral. La geometría permanece neutral. Nosotros no.
+El cielo permanece neutral. La geometría permanece neutral. Nosotros no.`;
+
+
