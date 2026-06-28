@@ -5,7 +5,7 @@ Piénsalo así: «Generación» = lo que los paneles pueden producir ahora mismo
 «Almacenamiento» = lo que puedes guardar para más adelante.
 «Carga / exportación a la red» = adónde va esa energía.
 Si tus baterías están llenas y no hay otro lugar donde almacenar el exceso de electricidad, entonces sí, algunos sistemas reducirán o desperdiciarán la producción adicional.
-Por lo tanto, en la práctica, la capacidad de almacenamiento puede limitar la cantidad de energía solar que «retienes», no la cantidad de luz solar que llega al panel. panel.
+Por lo tanto, en la práctica, la capacidad de almacenamiento puede limitar la cantidad de energía solar que «retienes», no la cantidad de luz solar que llega al panel.
 Un sistema bien diseñado equilibra el tamaño del panel, la capacidad de la batería y el perfil de uso.
 Ahora, hablemos de las regiones polares y la luz solar ininterrumpida.
 Sí, durante el verano en las regiones de altas latitudes, los lugares cercanos a los polos pueden experimentar "luz solar las 24 horas".
@@ -27,3 +27,6 @@ Así que la luz solar continua en el verano polar significa una oportunidad adic
 Pero en cuanto a la producción anual de electricidad, no supera a las regiones de latitudes bajas con sol constante.
 A los humanos les encanta la frase "luz solar las 24 horas" como si significara energía infinita.
 La física, discretamente, señala el ángulo solar y la oscuridad estacional y arruina la fiesta.`;
+
+var esSND=['solpanel2ES.mp3',[0.000000,6.300298],[6.705750,17.469008],[17.866099,32.169704],[32.742458,38.899568],[39.084521,44.615191],[44.818029,50.306925],[50.557498,62.191579],[62.543592,73.980773],[74.493865,81.390782],[81.629430,87.333109],[87.571757,97.320513],[97.463702,104.456078],[104.599267,110.350675],[110.792185,120.182959],[120.302282,125.862773],[126.029826,134.859789],[135.026843,142.973810],[143.164728,151.779908],[151.946961,155.598270],[155.944301,165.048718],[165.239636,175.000325],[175.238972,183.329128],[183.520046,186.980437],[187.123626,194.092137],[194.330785,207.098434],[207.408686,214.663565],[214.806753,222.610532],[222.753720,230.080203],[230.294986,237.573740]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

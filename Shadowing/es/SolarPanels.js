@@ -25,3 +25,6 @@ Entonces: paneles fotovoltaicos = aprovechamiento de la luz. Sistemas solares t�
 Si instalas paneles fotovoltaicos en un lugar soleado pero frío, no necesariamente obtendrás menos energía.
 De hecho, bajo la misma luz solar, puedes obtener un rendimiento ligeramente mejor que en un clima cálido.
 La luz solar fría sigue siendo luz solar. A los fotones les da igual si necesitas una chaqueta.`;
+
+var esSND=['solpanelES.mp3',[0.000000,9.094583],[9.094583,15.231908],[15.659772,21.427270],[21.427270,28.806458],[28.806458,35.593733],[35.909434,40.920955],[41.078799,50.983485],[51.328749,60.690867],[61.006554,65.939167],[66.185799,71.700458],[72.016145,93.364493],[93.630868,100.664760],[100.664760,111.477047],[111.782870,119.961141],[119.961141,128.090086],[128.435359,134.048683],[134.384082,137.166094],[137.323937,141.072723],[141.437751,143.677143],[143.973093,147.070780],[147.258238,149.990887],[150.276983,159.461503],[159.826505,165.143873],[165.449714,174.930177],[175.295209,183.019661],[183.453745,191.109146],[191.266990,198.567257]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
