@@ -21,3 +21,6 @@ No es elegante porque sea útil en la cocina. Es elegante porque expone la laxit
 Si Möbius es la encantadora paradoja, Klein es la escalada filosófica.
 Uno susurra: «Solo hay un lado». El otro responde: «Nunca hubo un interior».
 Y eso, por muy irritante que parezca, es hermoso.`;
+
+var esSND=['kleineES.mp3',[0.013958,7.713615],[8.149958,18.675069],[18.969417,28.540372],[28.540372,39.704821],[40.029604,43.784917],[44.008206,54.604278],[54.604278,60.490984],[60.907132,74.375492],[74.619080,82.576283],[82.738675,95.892420],[96.136007,105.920120],[106.163707,111.725630],[111.928620,116.313201],[116.688727,126.787479],[126.990469,135.881426],[136.196047,143.351454],[143.879227,147.573643],[147.776633,155.936826],[156.261585,162.635492],[162.879080,172.460202],[172.703790,178.631095],[179.047203,185.654545],[186.030093,190.769890]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

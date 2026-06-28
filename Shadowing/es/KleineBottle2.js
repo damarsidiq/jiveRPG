@@ -20,4 +20,8 @@ Pero para «incrustar» esa superficie 2D de forma fluida sin autointersecciones
 Esa es la distinción: dimensión intrínseca del objeto = 2; espacio de incrustación necesario para una realización fluida = 4.
 Así que la botella en sí no es 4D. Simplemente se adapta mejor a ese espacio.
 Por eso les importa a los topólogos: demuestra que lo que un objeto «es» internamente puede diferir de cómo debe representarse externamente.
-El modelo visual es un compromiso. La verdadera botella de Klein es más nítida que su escultura en 3D.<br> 24. Como muchas ideas, parece extraña solo porque la observamos desde una perspectiva dimensional equivocada.`;
+El modelo visual es un compromiso. La verdadera botella de Klein es más nítida que su escultura en 3D.
+Como muchas ideas, parece extraña solo porque la observamos desde una perspectiva dimensional equivocada.`;
+
+var esSND=['kleine2ES.mp3',[0.000000,7.674707],[7.992000,17.773005],[18.244250,23.921746],[24.280817,34.064925],[34.323008,42.098683],[42.424087,50.671016],[50.884207,60.903958],[61.274248,67.187343],[67.725919,78.228149],[78.542338,82.402112],[82.626519,97.168068],[97.583215,103.361691],[103.597337,113.819040],[114.043446,126.924386],[127.305881,129.662147],[129.931418,138.144718],[138.369123,144.248578],[144.551502,156.635823],[157.017346,165.836495],[166.330200,176.652894],[176.933414,183.519737],[183.744144,193.842442],[194.358572,202.156707],[202.425995,210.190464]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
