@@ -1,14 +1,14 @@
 var textSt=`Wait, why would there be errors or noises in the first place and why would those errors flipped bits instead of just absence of bits or zeros?
 Because real-world communication is physical, and physics is messy. Bits are abstract. Signals are not.
-A `1` or `0` in your computer is ultimately represented by voltages, light pulses, radio waves, magnetic states, or charge levels. Those physical carriers are vulnerable to disturbance.
+A '1' or '0' in your computer is ultimately represented by voltages, light pulses, radio waves, magnetic states, or charge levels. Those physical carriers are vulnerable to disturbance.
 So errors happen because the world is not a sterile math problem.
 Sources of noise include: thermal fluctuations in electronics. electromagnetic interference. cosmic rays. signal attenuation over distance.
 Imperfect timing synchronization. manufacturing defects. crosstalk between channels. physical damage or aging.
 All of these can alter the signal before it reaches the receiver.
 Now, why “flipped bits” instead of just missing bits?
 Because receivers usually sample a signal and decide what it most likely represents.
-Imagine a voltage threshold: above 2.5V = `1`. below 2.5V = `0`.
-If noise nudges a `1` signal downward, it may be interpreted as `0`. That’s a bit flip.
+Imagine a voltage threshold: above 2.5V = '1'. below 2.5V = '0'.
+If noise nudges a '1' signal downward, it may be interpreted as '0'. That’s a bit flip.
 The signal was present, but distorted enough to cross the decision boundary.
 Same with optical or wireless systems: a pulse may weaken, blur, or shift, causing misclassification.
 So the receiver does not literally see “nothing.”. It sees something ambiguous and chooses.
@@ -28,15 +28,15 @@ You hear a sentence in a noisy room and confidently remember the wrong word. Bio
 <muoborder>
 Espere, por que haveria erros ou ruídos em primeiro lugar e por que esses erros inverteriam bits em vez de apenas ausência de bits ou zeros?
 Porque a comunicação no mundo real é física, e a física é complexa. Bits são abstratos. Sinais não são.
-Um `1` ou `0` no seu computador é, em última análise, representado por voltagens, pulsos de luz, ondas de rádio, estados magnéticos ou níveis de carga. Esses portadores físicos são vulneráveis a perturbações.
+Um '1' ou '0' no seu computador é, em última análise, representado por voltagens, pulsos de luz, ondas de rádio, estados magnéticos ou níveis de carga. Esses portadores físicos são vulneráveis a perturbações.
 Portanto, erros acontecem porque o mundo não é um problema matemático estéril.
 Fontes de ruído incluem: flutuações térmicas em eletrônicos, interferência eletromagnética, raios cósmicos, atenuação do sinal com a distância.
 Sincronização de tempo imperfeita, defeitos de fabricação, diafonia entre canais. Danos físicos ou envelhecimento.
 Todos esses fatores podem alterar o sinal antes que ele chegue ao receptor.
 Agora, por que "bits invertidos" em vez de apenas bits ausentes?
 Porque os receptores geralmente amostram um sinal e decidem o que ele provavelmente representa.
-Imagine um limite de tensão: acima de 2,5 V = `1`. abaixo de 2,5 V = `0`.
-Se o ruído deslocar um sinal `1` para baixo, ele poderá ser interpretado como `0`. Isso é uma inversão de bit.
+Imagine um limite de tensão: acima de 2,5 V = '1'. abaixo de 2,5 V = '0'.
+Se o ruído deslocar um sinal '1' para baixo, ele poderá ser interpretado como '0'. Isso é uma inversão de bit.
 O sinal estava presente, mas distorcido o suficiente para cruzar o limite de decisão.
 O mesmo ocorre com sistemas ópticos ou sem fio: um pulso pode enfraquecer, ficar borrado ou deslocar-se, causando classificação incorreta.
 Portanto, o receptor não vê literalmente "nada". O sistema vê algo ambíguo e escolhe.
@@ -63,8 +63,8 @@ Onvolmaakte timingsynchronisatie, fabricagefouten, overspraak tussen kanalen. Fy
 Al deze factoren kunnen het signaal veranderen voordat het de ontvanger bereikt.
 Waarom "omgedraaide bits" in plaats van gewoon ontbrekende bits?
 Omdat ontvangers meestal een signaal bemonsteren en bepalen wat het waarschijnlijk vertegenwoordigt.
-Stel je een spanningsdrempel voor: boven 2,5V = `1`, onder 2,5V = `0`.
-Als ruis een `1`-signaal naar beneden duwt, kan het worden geïnterpreteerd als `0`. Dat is een bitomkering.
+Stel je een spanningsdrempel voor: boven 2,5V = '1', onder 2,5V = '0'.
+Als ruis een '1'-signaal naar beneden duwt, kan het worden geïnterpreteerd als '0'. Dat is een bitomkering.
 Het signaal was aanwezig, maar voldoende vervormd om de beslissingsgrens te overschrijden.
 Hetzelfde geldt voor optische of draadloze systemen: een puls kan verzwakken, vervagen of verschuiven, wat tot een verkeerde classificatie leidt.
 De ontvanger ziet dus niet letterlijk "niets". Het systeem ziet iets dubbelzinnigs en maakt een keuze.
