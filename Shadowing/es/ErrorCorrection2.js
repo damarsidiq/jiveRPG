@@ -27,3 +27,6 @@ Si dejaran de funcionar, tus videollamadas se convertirían en arte abstracto y 
 El truco no es "corrección máxima siempre". El truco es elegir el método de confiabilidad más económico para cada contexto.
 Si reenviar es fácil, detecta y vuelve a intentarlo. Si reenviar es difícil, corrige en el lugar. Si el fallo es catastrófico, haz ambas cosas.
 Eso es ingeniería: pagar solo por la redundancia que la realidad exige.`;
+
+var esSND=['errorc2ES.mp3',[0.000000,7.264664],[7.680000,14.690765],[14.983375,29.596780],[29.973471,36.108072],[36.108072,42.242677],[42.552101,50.637400],[50.933368,61.399866],[61.615115,73.023328],[73.023328,77.974063],[77.974063,85.776850],[86.193893,93.741075],[93.996676,99.283744],[99.620072,107.463218],[107.880258,124.145040],[124.535189,130.172020],[130.454553,141.472609],[141.472609,149.759707],[150.001846,153.795632],[153.795632,161.060296],[161.463874,166.172467],[166.387700,172.791384],[173.033533,186.728776],[186.728776,199.643735],[199.643735,204.379220],[204.755925,215.572184],[215.572184,224.289781],[224.612665,234.352686],[234.594825,247.052396],[247.321457,253.294626]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

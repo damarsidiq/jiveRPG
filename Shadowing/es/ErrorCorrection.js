@@ -32,3 +32,6 @@ Por lo tanto, las «dimensiones extra» no son dimensiones físicas. Son coorden
 En el espacio ordinario, el ruido es confusión. En el espacio de código de dimensiones superiores, el ruido se convierte en desplazamiento.
 Y el desplazamiento se puede medir.
 Este es uno de esos casos elegantes en los que la geometría ahorra silenciosamente tráfico de internet a la civilización.`;
+
+var esSND=['errorcES.mp3',[0.000000,5.105707],[5.399139,7.981336],[8.332307,18.251437],[18.647583,30.076707],[30.076707,37.324482],[37.661946,44.190778],[44.190778,49.413858],[49.413858,59.918705],[59.918705,69.425884],[69.822026,75.705317],[76.086762,87.794694],[88.278869,95.247853],[95.585238,100.470933],[100.749686,112.442937],[112.853757,119.426605],[119.705351,125.177862],[125.441944,135.917454],[136.445627,141.727397],[141.727397,150.706399],[150.706399,161.563363],[161.856795,169.192581],[169.662072,176.293623],[176.572393,184.568390],[184.905804,191.317314],[191.757456,203.465376],[203.861513,210.566418],[210.566418,221.071264],[221.423379,227.115952],[227.512080,237.209994],[237.459398,240.555113],[241.053929,253.583470],[253.818215,264.968611],[264.968611,268.489788],[268.988618,277.057987]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
