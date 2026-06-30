@@ -24,3 +24,6 @@ Pero a nivel mundial, casi todo lo que se ve sigue siendo 'Oryza sativa' con dif
 Así que, de nuevo, no se trata de una situación completamente diferente en el reino vegetal.
 Simplemente una especie con una cantidad ridícula de variación, moldeada por la geografía, la cultura y la decisión de la gente de que los granos ligeramente diferentes valen el doble.
 Básicamente, estás pagando por la genética, el procesamiento y la imagen que proyecta. Siendo honestos, se trata principalmente de buenas vibras.`;
+
+var esSND=['tea2ES.mp3',[0.000000,8.671176],[8.987417,12.038175],[12.266156,19.879132],[20.271167,27.074362],[27.074362,33.254881],[33.485489,43.033016],[43.344340,54.056478],[54.379335,62.727654],[62.912147,69.092666],[69.363626,75.273185],[75.561442,86.112155],[86.377329,95.521303],[95.705796,101.194466],[101.534631,108.666436],[108.897052,115.953914],[116.340172,124.440596],[124.671213,132.466046],[132.835027,139.338414],[139.626697,146.994878],[147.260119,157.049752],[157.234245,164.936832],[165.121325,177.528486],[177.960902,189.197674],[189.480192,196.346782],[196.640798,208.661696],[208.938439,220.008022]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

@@ -17,3 +17,6 @@ Una aventura estructurada sin tener que planificar cada detalle.
 Los viajeros de Reddit suelen describirlo como un viaje en solitario con un entorno social integrado.
 Así que, si lo estás viendo y te preguntas si tendrías que reclutar a primos y compañeros de trabajo: no.
 Solo necesitas tu pasaporte, dinero y paciencia para escuchar a desconocidos hablando de sus años sabáticos durante el desayuno.`;
+
+var esSND=['intrepidES.mp3',[0.000000,14.538370],[14.832000,22.825943],[23.337333,31.464684],[31.798285,40.595062],[40.595062,53.307356],[53.632183,64.966145],[65.413901,72.410914],[72.410914,80.136618],[80.531673,91.865641],[92.164118,97.203400],[97.519441,105.771908],[106.079162,113.497612],[113.752203,120.801914],[120.801914,133.092806],[133.435172,143.768335],[143.768335,148.614447],[148.930506,155.848515],[156.103105,163.293284],[163.293284,172.212960]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
