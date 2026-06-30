@@ -31,4 +31,7 @@ Los operadores turísticos suelen enfrentarse a: fluctuaciones monetarias, crisi
 Lo que significa que la resiliencia depende de la diversificación y de estructuras de costos flexibles. Esa es otra razón por la que la estructura de activos ligeros resulta beneficiosa.
 ¿Es, entonces, una de las empresas más difíciles que se puedan imaginar? Difícil, sí. Pero no de la forma en que piensas.
 Se trata menos de poseer el mundo y más de dirigirlo.
-Un director de orquesta no es dueño de los instrumentos de la orquesta, pero aun así recibe los aplausos. La humanidad ha construido fortunas enteras sobre ese principio.`;
+Un director de orquesta no es dueño de los instrumentos de la orquesta, pero aun así recibe los aplausos. La humanidad ha construido fortunas enteras sobre ese principio.`;    
+
+var esSND=['intrepid2ES.mp3',[0.000000,6.582138],[6.866942,11.550386],[11.861785,18.417328],[18.543908,26.898160],[26.898160,31.201866],[31.420213,36.581498],[36.937505,45.726872],[45.726872,55.030471],[55.220350,71.612396],[71.833910,75.631297],[75.884456,83.732390],[84.112124,94.997972],[95.187842,103.700318],[103.826898,116.263341],[116.579790,127.117540],[127.275764,134.838894],[134.997119,144.775391],[144.965263,157.749798],[157.749798,168.445772],[168.603996,174.743106],[174.743106,186.768166],[187.052982,192.052863],[192.052863,204.552596],[204.869049,213.666326],[213.824550,223.254729],[223.254729,234.172217],[234.172217,240.564486],[240.722696,250.975656],[250.975656,259.456488],[259.646357,271.070164],[271.070164,283.506607],[283.664832,293.791198],[293.791198,298.537932],[298.537932,310.056673]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
