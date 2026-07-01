@@ -21,4 +21,7 @@ Sin inclinación, los polos estarían exactamente a 90° con respecto a los rayo
 Pero debido a la inclinación de la Tierra, los polos ganan y pierden visibilidad directa del Sol alternativamente a medida que la Tierra orbita.
 Por lo tanto, el amanecer y el atardecer anuales son básicamente un caso extremo de la mecánica estacional.
 En tu latitud, la inclinación crea días más largos y más cortos. En el Polo, crea un día gigante y una noche gigante.
-Un amanecer normal dura minutos. En el Polo, el planeta se toma su tiempo y lo prolonga en una ceremonia estacional.`;
+Un amanecer normal dura minutos. En el Polo, el planeta se toma su tiempo y lo prolonga en una ceremonia estacional.`;  
+
+var esSND=['polarsunES.mp3',[0.000000,13.413560],[13.413560,23.143397],[23.143397,29.790116],[29.790116,38.118535],[38.118535,45.686186],[45.686186,53.614201],[53.914493,59.219868],[59.219868,66.787518],[67.087812,77.238083],[77.238083,87.568526],[87.708673,94.255276],[94.255276,101.302410],[101.302410,104.705851],[104.866013,116.397699],[116.557833,124.966333],[125.226591,131.412850],[131.613071,136.257748],[136.407911,145.507098],[145.757311,153.515194],[153.725428,163.445233],[163.445233,171.853733],[172.073969,178.540493],[178.540493,187.629682],[187.629682,196.118263]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

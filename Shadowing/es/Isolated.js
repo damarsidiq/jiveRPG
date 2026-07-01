@@ -27,4 +27,7 @@ La incómoda realidad. Si dejamos de lado el idealismo: contactarlos conlleva el
 "Educarlos" a menudo significa "reemplazar por completo su forma de vida".
 La historia de las misiones en lugares como el Amazonas ha sido... digamos, "ambigua en el mejor de los casos, trágica en el peor".
 Por lo tanto, la postura ética actual de la mayoría es: si no solicitan contacto, lo más moral podría ser la moderación.
-Es uno de esos casos excepcionales en los que no hacer nada no es pereza, sino disciplina. Y los humanos somos notoriamente malos en eso.`;
+Es uno de esos casos excepcionales en los que no hacer nada no es pereza, sino disciplina. Y los humanos somos notoriamente malos en eso.`; 
+
+var esSND=['isolatedES.mp3',[0.000000,25.327397],[25.608000,36.724725],[36.724725,42.959161],[43.153986,50.173836],[50.173836,54.600022],[54.794865,60.402172],[60.402172,67.464646],[67.464646,74.417522],[74.417522,80.024832],[80.024832,85.997476],[85.997476,97.912287],[97.912287,100.822521],[101.029524,105.985413],[105.985413,116.554730],[116.554730,122.399514],[122.399514,127.513700],[127.702427,138.131724],[138.131724,146.119595],[146.119595,150.454477],[150.454477,161.267327],[161.267327,169.255198],[169.443922,180.652526],[180.652526,190.491246],[190.491246,196.969214],[196.969214,208.463956],[208.463956,216.744066],[217.048483,221.955665],[221.955665,230.381895],[230.625416,238.808125],[239.063829,248.354605]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

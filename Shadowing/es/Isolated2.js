@@ -27,4 +27,7 @@ Volviendo a las tribus no contactadas con grupos en la selva amazónica: En el p
 La única razón por la que aún existen es, en parte, porque la sociedad moderna, por una vez, duda.
 Así que la “diferencia” no es que las religiones cambiaran de la noche a la mañana.
 Es que nuestra conciencia de las consecuencias se agudizó, y ahora irrumpir parece menos una virtud y más una repetición de un error muy antiguo.
-La historia es básicamente la humanidad experimentando consigo misma, para luego sorprenderse cuando los resultados son caóticos.`;
+La historia es básicamente la humanidad experimentando consigo misma, para luego sorprenderse cuando los resultados son caóticos.`; 
+
+var esSND=['isolated2ES.mp3',[0.000000,7.029030],[7.029030,10.360973],[10.547833,17.755148],[17.994762,25.742683],[25.742683,34.049718],[34.220924,37.564234],[37.758198,42.231225],[42.231225,48.917935],[48.917935,56.643030],[56.643030,64.037205],[64.037205,71.123274],[71.123274,76.360830],[76.360830,83.709369],[83.709369,91.970754],[91.970754,98.440645],[98.440645,106.257083],[106.257083,112.601415],[112.806789,121.901198],[121.901198,126.077547],[126.077547,135.867999],[135.867999,143.045332],[143.216494,154.319167],[154.501758,163.641753],[163.641753,168.742372],[168.742372,181.339863],[181.339863,190.445625],[190.445625,197.543139],[197.543139,202.894803],[202.894803,211.372984],[211.372984,219.314876]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
