@@ -23,3 +23,7 @@ Temían a Mot, dios de la muerte. Mot tomó su civilización.
 Las naciones destruidas por el Corán no son sólo alegorías morales. Son parte de un patrón arqueológico real: civilizaciones que alcanzaron un poder inmenso y luego colapsaron violenta y completamente.
 Ugarit no fue castigado por su incredulidad. Fue borrado por la historia. Lo cual es, a su manera, igual de aterrador. Las tablillas de arcilla sobrevivieron. La gente no lo hizo.
 Y ahora sus dioses viven sólo como notas a pie de página en la escritura de otra persona.`;
+
+
+var esSND=['UgariticES.mp3',[0.000000,8.144458],[8.268500,18.741934],[18.741934,26.390297],[26.390297,35.747491],[35.747491,51.981314],[52.146676,61.848375],[61.958630,75.408733],[75.518971,89.410054],[89.520298,101.544048],[101.647432,115.318029],[115.428266,131.696549],[131.855020,141.246650],[141.336234,154.552061],[154.676082,165.170187],[165.259762,175.995015],[176.063936,190.416632],[190.506250,200.972762],[201.089931,207.973497],[208.035471,222.463982],[222.588032,231.965876],[232.069246,237.795212],[237.795212,243.266182],[243.266182,256.185715],[256.185715,269.835610],[269.835610,275.602901]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
