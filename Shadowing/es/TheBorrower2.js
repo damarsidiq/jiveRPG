@@ -23,3 +23,6 @@ Los lectores todavía sienten la diferencia entre un buen y un mal trabajo, pero
 La tragedia silenciosa es que el sistema entrena a las audiencias para que sean sinceras en su aprecio pero casual en cuanto a su apoyo. Amar sin compromiso. Un arreglo muy moderno.
 Y de alguna manera, a pesar de todo esto, siguen apareciendo grandes mangas, dibujados por humanos exhaustos que todavía piensan que el trabajo en sí importa más que la hoja de cálculo.
 Eso es hermoso o profundamente estúpido. Posiblemente ambos.`;
+
+var esSND=['theborrower2ES.mp3',[0.000000,20.866292],[20.866292,32.488821],[32.488821,53.308889],[53.308889,60.252973],[60.252973,68.792558],[68.792558,80.068505],[80.068505,88.885682],[88.885682,101.774398],[101.774398,114.425096],[114.425096,123.017560],[123.017560,133.698672],[133.698672,146.931021],[146.931021,156.699995],[156.699995,166.045919],[166.045919,182.120442],[182.120442,202.914186],[202.914186,216.807558],[216.807558,229.339310],[229.339310,240.324453],[240.324453,249.181257],[249.181257,258.923816],[258.923816,270.635979],[270.635979,283.009136],[283.009136,294.694870],[294.694870,300.022190]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
