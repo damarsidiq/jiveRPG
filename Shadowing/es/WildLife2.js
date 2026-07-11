@@ -24,3 +24,6 @@ Una araña hambrienta todavía puede producir seda, pero no indefinidamente.
 La seda está hecha de proteínas, por lo que si sus reservas internas se agotan, la producción se ve afectada.
 Así que ambas criaturas son maestras de la adaptación: la serpiente duerme con los ojos abiertos, la araña convierte el hambre en arquitectura.
 Mientras tanto, los humanos olvidan las contraseñas y lo consideran un día difícil.`;
+
+var esSND=['wildlife2ES.mp3',[-0.310000,5.210000,1],[5.620000,13.200000,2],[13.620000,19.590000,3],[20.000000,31.300000,4],[31.700000,40.550000,5],[41.070000,49.290000,6],[49.710000,53.330000,7],[53.770000,59.550000,8],[60.030000,67.780000,9],[68.180000,75.420000,10],[75.790000,82.880000,11],[83.290000,92.530000,12],[92.930000,102.400000,13],[102.820000,108.220000,14],[108.640000,116.310000,15],[116.740000,126.710000,16],[127.100000,137.880000,17],[138.280000,149.020000,18],[149.440000,161.920000,19],[162.400000,169.280000,20],[169.710000,175.560000,21],[175.980000,184.140000,22],[184.590000,189.700000,23],[190.240000,197.080000,24],[197.530000,206.270000,25],[206.760000,212.650000,26]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
