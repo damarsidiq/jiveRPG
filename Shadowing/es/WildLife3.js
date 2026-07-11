@@ -22,3 +22,6 @@ Entonces, ¿qué tiene de especial? Las tarántulas son depredadores gigantes y 
 Las pirañas son alimentadores acuáticos eficientes con una marca cinematográfica.
 Ninguno merece el nivel de leyenda que tienen, pero la leyenda se vende mejor que la ecología.
 La naturaleza sigue convirtiéndose en trailers de terror porque la sutileza aburre a la gente.`;
+
+var esSND=['wildlife3ES.mp3',[-0.300000,3.650000,1],[4.020000,9.140000,2],[9.940000,20.800000,3],[21.280000,26.460000,4],[26.870000,32.120000,5],[32.550000,39.180000,6],[39.630000,44.460000,7],[44.910000,49.880000,8],[50.280000,59.940000,9],[60.360000,70.440000,10],[70.850000,81.140000,11],[81.540000,88.270000,12],[88.680000,99.410000,13],[99.790000,107.880000,14],[108.330000,117.680000,15],[118.170000,127.670000,16],[128.250000,137.360000,17],[137.820000,144.810000,18],[145.260000,151.530000,19],[152.000000,161.160000,20],[161.550000,169.490000,21],[169.930000,175.340000,22],[175.750000,181.660000,23],[182.160000,188.350000,24]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

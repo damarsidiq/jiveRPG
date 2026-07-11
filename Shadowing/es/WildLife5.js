@@ -18,3 +18,6 @@ Entonces sí, la construcción de nidos es en parte cuidado infantil y en parte 
 Algunos nidos son tan complejos porque la supervivencia depende de ellos: protección contra depredadores, clima y parásitos.
 A nosotros nos parecen artísticos. Para el pájaro son la función primero.
 Aun así, el resultado suele ser sorprendentemente elegante, lo que dice algo sobre lo que el instinto y la necesidad pueden crear.`;
+
+var esSND=['wildlife5ES.mp3',[-0.290000,8.460000,1],[8.830000,16.080000,2],[16.460000,24.600000,3],[24.950000,38.140000,4],[38.530000,43.650000,5],[44.040000,51.750000,6],[52.140000,61.460000,7],[61.840000,68.080000,8],[68.500000,79.570000,9],[79.960000,85.220000,10],[85.670000,93.000000,11],[93.430000,103.470000,12],[103.880000,112.280000,13],[112.730000,121.100000,14],[121.480000,127.340000,15],[127.730000,137.560000,16],[137.980000,150.000000,17],[150.410000,158.320000,18],[158.700000,163.910000,19],[164.370000,173.100000,20]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;

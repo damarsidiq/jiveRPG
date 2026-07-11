@@ -27,3 +27,6 @@ Otros son de propiedad privada, gestionados por la comunidad o controlados por i
 8. 'Productos forestales no maderables'. Caucho, resinas, ratán, bambú, aceites esenciales.
 Así que un bosque no es sólo una reserva de madera. Es infraestructura disfrazada de naturaleza salvaje.
 Cuando se gestiona mal, se convierte en un pozo de recursos. Cuando se maneja bien, se convierte en un sistema vivo que sustenta mucho más que los propios árboles.`;
+
+var esSND=['wildlife4ES.mp3',[-0.270000,5.220000,1],[5.600000,10.590000,2],[10.940000,17.580000,3],[17.990000,25.660000,4],[26.050000,30.950000,5],[31.320000,41.700000,6],[44.400000,59.410000,7],[59.880000,70.480000,8],[70.890000,77.180000,9],[77.620000,87.030000,10],[87.480000,97.900000,11],[98.340000,107.950000,12],[108.370000,125.970000,13],[126.420000,136.940000,14],[137.340000,149.650000,15],[150.130000,156.680000,16],[157.200000,168.120000,17],[168.580000,181.310000,18],[181.700000,191.700000,19],[192.130000,198.650000,20],[199.060000,207.800000,21],[208.220000,214.690000,22],[215.110000,223.160000,23],[223.630000,230.950000,24],[231.430000,237.380000,25],[237.820000,246.480000,26],[246.920000,255.480000,27],[255.900000,262.780000,28],[263.250000,273.960000,29]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
