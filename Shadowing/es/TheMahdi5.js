@@ -18,3 +18,6 @@ Recibió una educación amplia apropiada para la sociedad persa de élite, inclu
 Sin embargo, sus escritos también muestran un amplio compromiso coránico, una reinterpretación de la profecía islámica y una familiaridad con las tradiciones sufíes y filosóficas.
 Escribió importantes obras teológicas como el Kitáb-i-Íqán, que analizan en profundidad el simbolismo coránico y la continuidad profética.
 Acerca de la memorización específicamente: no pude encontrar evidencia confiable de que ninguno de los dos fuera conocido formalmente como un hafiz completo del Corán en el sentido islámico convencional.`;
+
+var esSND=['themahdi5ES.mp3',[-0.300000,5.500000,1],[5.930000,12.690000,2],[13.070000,21.960000,3],[22.370000,30.920000,4],[31.300000,44.130000,5],[44.540000,56.020000,6],[56.390000,73.290000,7],[73.690000,91.930000,8],[92.300000,102.370000,9],[102.740000,116.920000,10],[117.320000,127.380000,11],[127.800000,133.600000,12],[134.070000,148.230000,13],[148.700000,156.320000,14],[156.700000,167.180000,15],[167.580000,181.270000,16],[181.750000,196.190000,17],[196.640000,208.820000,18],[209.190000,218.700000,19],[219.120000,232.490000,20]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
