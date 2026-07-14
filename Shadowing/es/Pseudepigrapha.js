@@ -28,3 +28,6 @@ Entonces, ¿por qué hablar de monstruos gigantes? Porque cuando uno exige respu
 No es un abogado. No es un filósofo. Un arquitecto cósmico que construye mundos donde incluso el caos tiene límites.
 El Libro de Job no trata sobre por qué existe el sufrimiento.
 Trata sobre qué tipo de universo habitamos y si podemos confiar en Aquel que lo creó.`;
+
+var esSND=['pseudepES.mp3',[-0.300000,10.850000,1],[11.190000,18.970000,2],[19.360000,29.910000,3],[30.290000,41.700000,4],[42.140000,46.540000,5],[46.920000,50.290000,6],[50.710000,54.720000,7],[55.100000,61.670000,8],[62.070000,68.110000,9],[68.590000,77.590000,10],[77.960000,86.150000,11],[86.530000,97.670000,12],[98.030000,111.250000,13],[111.660000,127.060000,14],[127.490000,135.760000,15],[136.150000,140.070000,16],[140.450000,150.530000,17],[151.080000,158.740000,18],[159.120000,166.750000,19],[167.210000,173.280000,20],[173.660000,179.740000,21],[180.170000,192.700000,22],[193.140000,200.750000,23],[201.120000,204.390000,24],[204.820000,213.960000,25],[214.450000,218.910000,26],[219.300000,229.520000,27],[229.920000,239.140000,28],[239.500000,243.680000,29],[244.070000,249.670000,30]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
