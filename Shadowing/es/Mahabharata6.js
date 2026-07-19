@@ -29,3 +29,6 @@ Esta identificación está cimentada en el Uttarakāṇḍa. Diferentes capas, d
 La epopeya temprana se preocupa por la victoria y el dharma. La epopeya posterior se preocupa por la legitimidad, la pureza y la continuidad real.
 Y sí, este es exactamente el tipo de cosas que se ven cuando una tradición oral se convierte en escritura.
 La historia no cambia. Las "ansiedades" que lo rodean sí lo hacen. Incómodo. Humano. Muy de marca.`;
+
+var esSND=['mahab6ES.mp3',[-0.300000,6.300000,1],[6.650000,15.800000,2],[16.140000,20.490000,3],[20.880000,29.960000,4],[30.340000,40.810000,5],[41.250000,47.110000,6],[47.530000,58.770000,7],[59.180000,66.410000,8],[66.920000,76.990000,9],[77.350000,87.760000,10],[88.130000,99.360000,11],[99.810000,107.530000,12],[107.900000,110.680000,13],[111.110000,118.530000,14],[118.900000,128.560000,15],[128.980000,135.370000,16],[135.780000,141.600000,17],[142.040000,150.590000,18],[150.960000,161.440000,19],[161.810000,169.860000,20],[170.210000,181.500000,21],[181.880000,190.040000,22],[190.430000,197.610000,23],[197.990000,204.730000,24],[205.150000,211.840000,25],[212.210000,225.790000,26],[226.170000,235.450000,27],[235.840000,243.150000,28],[243.510000,253.890000,29],[254.370000,261.860000,30],[262.300000,272.190000,31]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
