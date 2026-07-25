@@ -28,3 +28,6 @@ Solo eso hace que la línea sea inquietantemente precisa.
 La frase bien y mal que se habla entre todas las personas no es ambigüedad moral. Es realismo profético.
 Cualquier mensaje lo suficientemente grande como para mover civilizaciones fracturará al mundo. La verdad no llega silenciosamente. Las revoluciones tampoco.
 Y a veces, los nombres más extraños terminan escritos en los más grandes de la historia.`;
+
+var esSND=['mormon3ES.mp3',[-0.280000,9.900000,1],[10.250000,31.540000,2],[31.940000,36.640000,3],[37.050000,45.370000,4],[45.770000,55.560000,5],[55.940000,59.450000,6],[59.870000,73.080000,7],[73.450000,85.950000,8],[86.340000,92.110000,9],[92.530000,104.730000,10],[105.180000,113.900000,11],[114.290000,121.130000,12],[121.540000,131.410000,13],[131.850000,140.130000,14],[140.520000,149.850000,15],[150.260000,157.980000,16],[158.410000,164.730000,17],[165.100000,172.150000,18],[172.560000,185.610000,19],[186.020000,195.830000,20],[196.210000,201.970000,21],[202.410000,209.260000,22],[209.660000,213.010000,23],[213.410000,222.910000,24],[223.300000,234.730000,25],[235.140000,248.860000,26],[249.300000,253.780000,27],[254.190000,261.680000,28],[262.100000,273.820000,29],[274.240000,280.530000,30]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;
