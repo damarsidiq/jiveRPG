@@ -27,3 +27,6 @@ El cerebro no solo modela el mundo; se modela a sí mismo modelando el mundo.
 La fisura es una huella física de esa arquitectura recursiva.
 Por lo tanto, el beneficio del surco no radica en que separe el cerebro, sino en que le permite ser unificado y plural al mismo tiempo.
 Un órgano, dos perspectivas, unidas lo suficientemente fuerte como para coincidir en la realidad, la mayor parte del tiempo.`;
+
+var esSND=['A/Hemisphere2ES.mp3',[-0.320000,7.980000,1],[8.330000,11.380000,2],[11.740000,18.850000,3],[19.180000,27.280000,4],[27.630000,34.070000,5],[34.430000,41.460000,6],[41.830000,45.840000,7],[46.170000,50.570000,8],[50.940000,58.430000,9],[58.770000,66.740000,10],[67.090000,72.910000,11],[73.320000,81.910000,12],[82.250000,89.050000,13],[89.390000,97.830000,14],[98.200000,108.930000,15],[109.280000,116.140000,16],[116.510000,120.850000,17],[121.200000,130.300000,18],[130.630000,139.680000,19],[140.020000,146.540000,20],[146.900000,150.020000,21],[150.380000,159.440000,22],[159.790000,163.470000,23],[163.870000,168.780000,24],[169.210000,176.550000,25],[176.930000,181.970000,26],[182.340000,186.320000,27],[186.700000,194.150000,28],[194.560000,202.710000,29]];
+storyline.snd.es = {};storyline.snd.es.p = storyline.sndURL+esSND[0];esSND.splice(0,1);storyline.snd.es.t = esSND;  
