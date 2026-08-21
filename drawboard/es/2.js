@@ -1,12 +1,17 @@
-export const dbtitle = 'zapatos ajustados';
-export var dbset = [];
-
 var vt = [];
 var vte = [];
-var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 720px;"><img src="http://pxpedia/pxpedia/notebook-2637757_1280.jpg?timeit=1159" style=""></div>`;
+export var dbset = [];
+
 var dbbtn = `<div id="dbbutton" class="textshirt dbbutton" style="top: 91.3769%; left: 95.4652%; width: 36px; height: 36px;"><div id="dbbutton2" class="dbbutton textshirt circleshirt" style="height: 36px; width: 36px; top: 91.3769%; left: 95.4652%; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); color: rgb(255, 255, 255);"></div><div id="dbbutton3" class="dbbutton textshirt circleshirt" style="height: 22px; width: 22px; top: 92.4896%; left: 96.0907%;"></div></div>`;
 
+//to adjust
+export const dbtitle = 'zapatos ajustados';
+const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notebook-2637757_1280.jpg';
+const defaultspeed = 30;
+const drabindex = 2;
+const transws = 'wspeed_10';
 
+var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 720px;"><img src="`+bimgpath+`" style=""></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
     
 
@@ -18,15 +23,14 @@ vt[vt.length] = `<div id="text_61" class="textshirt mergershirt" style="top: 286
 
 vt[vt.length] = `<div id="text_62" class="textshirt mergershirt" style="top: 521px; left: 642px; width: 123px; height: 30px;"><div id="text_58" class="textshirt" style="text-decoration: underline; color: rgb(0, 0, 0); font-size: 15px; top: 521px; left: 642px;">Zapatos</div><div id="text_59" class="textshirt" style="text-decoration: underline; color: rgb(0, 0, 0); font-size: 15px; top: 521px; left: 701px;">ajustados</div></div>`;
 
-vte[vte.length] = `<div id="text_67" class="textshirt mergershirt" style="top: 193px; left: 453px; width: 297px; height: 53px;"><div id="text_63" class="textshirt" style="top: 193px; left: 453px; color: rgb(0, 0, 0);">Don't wear tight shoes if you are going to walk a lot,</div><div id="text_64" class="textshirt" style="top: 216px; left: 453px;"> because you will get blisters.</div></div>`;
-vte[vte.length] = `<div id="text_65" class="textshirt mergershirt" style="top: 333px; left: 451px;">These tight shoes are squeezing my toes.</div>`;
-vte[vte.length] = `<div id="text_66" class="textshirt mergershirt" style="top: 523px; left: 686px; font-size: 17px;">tight shoes</div>`;
+vte[vte.length] = `<div id="text_67" class="textshirt mergershirt `+transws+`" style="top: 193px; left: 453px; width: 297px; height: 53px;"><div id="text_63" class="textshirt" style="top: 193px; left: 453px; color: rgb(0, 0, 0);">Don't wear tight shoes if you are going to walk a lot,</div><div id="text_64" class="textshirt" style="top: 216px; left: 453px;"> because you will get blisters.</div></div>`;
+vte[vte.length] = `<div id="text_65" class="textshirt mergershirt `+transws+`" style="top: 333px; left: 451px;">These tight shoes are squeezing my toes.</div>`;
+vte[vte.length] = `<div id="text_66" class="textshirt mergershirt `+transws+`" style="top: 523px; left: 686px; font-size: 17px;">tight shoes</div>`;
 
 
 
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
-
 export function openBoard(){
-    jve.dbF.qr.init(dbset,2,30);
+    jve.dbF.qr.init(dbset,drabindex,defaultspeed);
 }

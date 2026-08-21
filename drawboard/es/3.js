@@ -1,11 +1,17 @@
-export const dbtitle = 'Compuesto';
-export var dbset = [];
-
 var vt = [];
 var vte = [];
-var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="top: -27px; left: 1px; width: 1280px; height: 740px;"><img src="./chalkboard-2495162_1280.jpg"></div>`;
+export var dbset = [];
+
 var dbbtn = `<div id="dbbutton" class="textshirt dbbutton" style="top: 91.3769%; left: 95.4652%; width: 36px; height: 36px;"><div id="dbbutton2" class="dbbutton textshirt circleshirt" style="height: 36px; width: 36px; top: 91.3769%; left: 95.4652%; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); color: rgb(255, 255, 255);"></div><div id="dbbutton3" class="dbbutton textshirt circleshirt" style="height: 22px; width: 22px; top: 92.4896%; left: 96.0907%;"></div></div>`;
 
+//to adjust
+export const dbtitle = 'Compuesto';
+const bimgpath = storyline.jsonUrl+'./drawboard/bimg/chalkboard-2495162_1280.jpg';
+const defaultspeed = 30;
+const drabindex = 3;
+const transws = 'wspeed_10';
+
+var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 740px;"><img src="`+bimgpath+`" style=""></div>`;
 dbbg += '<style>.textshirt{color:#e5dede;}</style>';
     
     
@@ -19,15 +25,14 @@ vt[vt.length] = `<div id="text_10" class="textshirt mergershirt wspeed_150" styl
 
 
 
-vte[vte.length] = `<div id="text_25" class="textshirt mergershirt wspeed_20" style="top: 159px; left: 134px; font-size: 20px;">The main active compound in cigarettes is nicotine.</div>`;
-vte[vte.length] = `<div id="text_27" class="textshirt mergershirt wspeed_20" style="top: 289px; left: 128px; font-size: 20px;">Water is a chemical  compound  formed by two hydrogen atoms and one oxygen atom.</div>`;
-vte[vte.length] = `<div id="text_26" class="textshirt mergershirt wspeed_20" style="top: 417px; left: 126px; font-size: 20px;">This medicine is  composed  of natural ingredients.</div>`;
+vte[vte.length] = `<div id="text_25" class="textshirt mergershirt `+transws+`" style="top: 159px; left: 134px; font-size: 20px;">The main active compound in cigarettes is nicotine.</div>`;
+vte[vte.length] = `<div id="text_27" class="textshirt mergershirt `+transws+`" style="top: 289px; left: 128px; font-size: 20px;">Water is a chemical  compound  formed by two hydrogen atoms and one oxygen atom.</div>`;
+vte[vte.length] = `<div id="text_26" class="textshirt mergershirt `+transws+`" style="top: 417px; left: 126px; font-size: 20px;">This medicine is  composed  of natural ingredients.</div>`;
 vte[vte.length] = `<div id="text_24" class="textshirt mergershirt" style="top: 507px; left: 978px; font-size: 40px;">compound</div>`;
 
 
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
-
 export function openBoard(){
-    jve.dbF.qr.init(dbset,3,30);
+    jve.dbF.qr.init(dbset,drabindex,defaultspeed);
 }

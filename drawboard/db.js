@@ -1,5 +1,5 @@
 export var qr = {
-    totalDB:5,
+    totalDB:6,
     initPool:function(pdb){
         if (!pdb || pdb.length === 0 || pdb.length == qr.totalDB) {
             qr.pool = Array.from({ length: qr.totalDB }, function(_, i) { return i; });
@@ -51,6 +51,7 @@ export var qr = {
         }
     },
     draw:function(){
+        if(!qrt.ongoinganimId) return;
         qr.idx++;
         
         if(qr.idx == qr.vocabtext.length) return;
@@ -75,11 +76,13 @@ export var qr = {
         qr.idx_ = 0;qr.draw_();
     },
     draw_:function(){
+        if(!qrt.ongoinganimId) return;
         qrt.typing($(qr.queue[qr.idx_])[0]);
     },
     perworddelay:90,
     typecb:function(){
-        if(qr.idx_ == qr.queue.length-1){ setTimeout(function() {qr.draw();}, 1000);  return; }
+        if(!qrt.ongoinganimId) return;
+        if(qr.idx_ == qr.queue.length-1){ setTimeout(function() {if(!qrt.ongoinganimId) return;qr.draw();}, 1000);  return; }
         qr.idx_++; setTimeout(qr.draw_, qr.perworddelay);
     },
     customfn:function(){},
@@ -100,18 +103,20 @@ export var qr = {
     },
     nextSet:function(){
         qrt.ongoinganimId = false;
-        if(qr.dbset.length==1){
-            qr.resetDB(1);
-            return;
-        }
-        qr.currentdbsetidx++;
-        if(qr.currentdbsetidx == qr.dbset.length){
-            qr.currentdbsetidx = 0;
-        }
-        qr.currentdbset = qr.dbset[qr.currentdbsetidx];
-        qr.vocabtext = qr.currentdbset.vt;
-        
-        qr.start();
+        setTimeout(function() {
+            if(qr.dbset.length==1){
+                qr.resetDB(1);
+                return;
+            }
+            qr.currentdbsetidx++;
+            if(qr.currentdbsetidx == qr.dbset.length){
+                qr.currentdbsetidx = 0;
+            }
+            qr.currentdbset = qr.dbset[qr.currentdbsetidx];
+            qr.vocabtext = qr.currentdbset.vt;
+            
+            qr.start();
+        }, 300);
     },
     start:function(){
         $('#text_3').html(qr.currentdbset.dbbg+qr.currentdbset.dbbtn);
