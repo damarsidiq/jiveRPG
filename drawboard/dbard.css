@@ -1,180 +1,180 @@
-@font-face {font-family:'Ubuntu_semi-light_italic';src:url('drawboard/extfonts/Ubuntu-RI.woff2')  format('woff2')}
-@font-face {font-family:'Ubuntu_condensed';src:url('drawboard/extfonts/Ubuntu-C.woff2')  format('woff2')}
-@font-face {font-family:'Amatic';src:url('drawboard/extfonts/Amatic_SC/AmaticSC-Regular.woff2')  format('woff2')}
-@font-face {font-family:'Amatic_bold';src:url('drawboard/extfonts/Amatic_SC/AmaticSC-Bold.woff2') format('woff2')}
-@font-face {font-family:'Trebuchet';src:url('drawboard/extfonts/trebuchet/trebuc.woff2') format('woff2')}
-@font-face {font-family:'Symbol';src:url('drawboard/extfonts/Symbol/Symbol Regular/Symbol Regular.woff2') format('woff2')}
-@font-face {font-family:'Terminal';src:url('drawboard/extfonts/Terminal/Terminal Regular/Terminal Regular.woff2') format('woff2')}
-@font-face {font-family:'Tahoma';src:url('drawboard/extfonts/Tahoma-Font/Tahoma Regular font.woff2') format('woff2')}
-@font-face {font-family:'Clickerscript';src:url('drawboard/extfonts/Clicker_Script/ClickerScript-Regular.woff2')  format('woff2')}
-@font-face {font-family:'Kristi';src:url('drawboard/extfonts/Kristi/Kristi.woff2')  format('woff2')}
-@font-face {font-family:'Leaguescript';src:url('drawboard/extfonts/League_Script/LeagueScript.woff2')  format('woff2')}
-@font-face {font-family:'Loversquarrel';src:url('drawboard/extfonts/Lovers_Quarrel/LoversQuarrel-Regular.woff2')  format('woff2')}
-@font-face {font-family:'Pinyonscript';	src:url('drawboard/extfonts/Pinyon_Script/PinyonScript-Regular.woff2')  format('woff2')}
-@font-face {font-family:'Rougescript';src:url('drawboard/extfonts/Rouge_Script/RougeScript-Regular.woff2')  format('woff2')}
-@font-face {font-family:'Ruthie';src:url('drawboard/extfonts/Ruthie/Ruthie-Regular.woff2')  format('woff2')}
-@font-face {font-family:'Sueellenfrancisco';src:url('drawboard/extfonts/Sue_Ellen_Francisco/SueEllenFrancisco.woff2')  format('woff2')}
-@font-face {font-family:'Xbriyaz';src:url('drawboard/extfonts/xbriyaz/XB Riyaz.woff2')  format('woff2')}
-@font-face{font-family:'Salam';	src:url('drawboard/extfonts/./PDMS_Saleem_QuranFont-signed.ttf_/PDMS_Saleem_QuranFont-signed.woff2')  format('woff2')}
-@font-face {font-family:'Scheherazade';src:url('drawboard/extfonts/./PDMS_Saleem_QuranFont-signed.ttf_/ScheherazadeRegOT.woff2') format('woff2')}
-@font-face {font-family:'Circular';src:url('drawboard/extfonts/ts_freestyles/circular-std-medium-500.woff2') format('woff2')}
-@font-face {font-family:'CooperBlack';src:url('drawboard/extfonts/ts_freestyles/COOPBL.woff2') format('woff2')}
-@font-face {font-family:'Bodoni';src:url('drawboard/extfonts/ts_freestyles/bodoni.woff2') format('woff2')}
-@font-face {font-family:'Frutiger';src:url('drawboard/extfonts/ts_freestyles/Frutiger/Frutiger.woff2') format('woff2')}
-@font-face {font-family:'FrutigerBold';src:url('drawboard/extfonts/ts_freestyles/Frutiger/Frutiger_bold.woff2') format('woff2')}
-@font-face {font-family:'RalewayDots';src:url('drawboard/extfonts/ts_freestyles/RalewayDots-Regular.woff2') format('woff2')}
-@font-face {font-family:'EatatJoesSt';src:url('drawboard/extfonts/ts_freestyles/Eat at Joes St.woff2') format('woff2')}
-@font-face {font-family:'Diskoteque';src:url('drawboard/extfonts/ts_freestyles/Diskoteque.woff2') format('woff2')}
-@font-face {font-family:'MUSICNET';src:url('drawboard/extfonts/ts_freestyles/MUSICNET.woff2') format('woff2')}
-@font-face {font-family:'OswaldLight';src:url('drawboard/extfonts/ts_freestyles/Oswald-Light.woff2') format('woff2')}
-@font-face {font-family:'OswaldBold';src:url('drawboard/extfonts/ts_freestyles/Oswald-Bold.woff2') format('woff2')}
-@font-face {font-family:'OswaldRegular';src:url('drawboard/extfonts/ts_freestyles/Oswald-Regular.woff2') format('woff2')}
-@font-face {font-family:'Lobster';src:url('drawboard/extfonts/ts_freestyles/Lobster.woff2') format('woff2')}
-@font-face {font-family:'CrabsyPattya';src:url('drawboard/extfonts/ts_freestyles/crabsy-pattya/Crabsy-Pattya.woff2') format('woff2');}
-@font-face {font-family:'Knockout';src:url('drawboard/extfonts/ts_freestyles/Knockout HTF49Liteweight Regular.woff2') format('woff2');}
-@font-face {font-family:'Calibri';font-style: normal;font-weight: 400;font-display: swap;src: url('calibri-font-family/calibri-regular.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Ubuntu_semi-light_italic';src:url('drawboard/extfonts/Ubuntu-RI.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Ubuntu_condensed';src:url('drawboard/extfonts/Ubuntu-C.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Amatic';src:url('drawboard/extfonts/Amatic_SC/AmaticSC-Regular.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Amatic_bold';src:url('drawboard/extfonts/Amatic_SC/AmaticSC-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Trebuchet';src:url('drawboard/extfonts/trebuchet/trebuc.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Symbol';src:url('drawboard/extfonts/Symbol/Symbol Regular/Symbol Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Terminal';src:url('drawboard/extfonts/Terminal/Terminal Regular/Terminal Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Tahoma';src:url('drawboard/extfonts/Tahoma-Font/Tahoma Regular font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Clickerscript';src:url('drawboard/extfonts/Clicker_Script/ClickerScript-Regular.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Kristi';src:url('drawboard/extfonts/Kristi/Kristi.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Leaguescript';src:url('drawboard/extfonts/League_Script/LeagueScript.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Loversquarrel';src:url('drawboard/extfonts/Lovers_Quarrel/LoversQuarrel-Regular.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Pinyonscript';	src:url('drawboard/extfonts/Pinyon_Script/PinyonScript-Regular.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Rougescript';src:url('drawboard/extfonts/Rouge_Script/RougeScript-Regular.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Ruthie';src:url('drawboard/extfonts/Ruthie/Ruthie-Regular.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Sueellenfrancisco';src:url('drawboard/extfonts/Sue_Ellen_Francisco/SueEllenFrancisco.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Xbriyaz';src:url('drawboard/extfonts/xbriyaz/XB Riyaz.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Salam';	src:url('drawboard/extfonts/./PDMS_Saleem_QuranFont-signed.ttf_/PDMS_Saleem_QuranFont-signed.woff2')  format('woff2')}
+@font-face{font-display:swap;font-family:'Scheherazade';src:url('drawboard/extfonts/./PDMS_Saleem_QuranFont-signed.ttf_/ScheherazadeRegOT.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Circular';src:url('drawboard/extfonts/ts_freestyles/circular-std-medium-500.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'CooperBlack';src:url('drawboard/extfonts/ts_freestyles/COOPBL.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Bodoni';src:url('drawboard/extfonts/ts_freestyles/bodoni.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Frutiger';src:url('drawboard/extfonts/ts_freestyles/Frutiger/Frutiger.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FrutigerBold';src:url('drawboard/extfonts/ts_freestyles/Frutiger/Frutiger_bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayDots';src:url('drawboard/extfonts/ts_freestyles/RalewayDots-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'EatatJoesSt';src:url('drawboard/extfonts/ts_freestyles/Eat at Joes St.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Diskoteque';src:url('drawboard/extfonts/ts_freestyles/Diskoteque.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MUSICNET';src:url('drawboard/extfonts/ts_freestyles/MUSICNET.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OswaldLight';src:url('drawboard/extfonts/ts_freestyles/Oswald-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OswaldBold';src:url('drawboard/extfonts/ts_freestyles/Oswald-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OswaldRegular';src:url('drawboard/extfonts/ts_freestyles/Oswald-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Lobster';src:url('drawboard/extfonts/ts_freestyles/Lobster.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'CrabsyPattya';src:url('drawboard/extfonts/ts_freestyles/crabsy-pattya/Crabsy-Pattya.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Knockout';src:url('drawboard/extfonts/ts_freestyles/Knockout HTF49Liteweight Regular.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Calibri';src: url('calibri-font-family/calibri-regular.woff2') format('woff2');}
 
-@font-face {font-family:'Futura';src:url('drawboard/extfonts/ts_freestyles/Futura/futur.woff2') format('woff2')}
-@font-face {font-family:'FuturaBold';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Bold font.woff2') format('woff2')}
-@font-face {font-family:'FuturaBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Bold Italic font.woff2') format('woff2')}
-@font-face {font-family:'FuturaBook';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Book font.woff2') format('woff2')}
-@font-face {font-family:'FuturaBookItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Book Italic font.woff2') format('woff2')}
-@font-face {font-family:'FuturaCondensedLight';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura-CondensedLight.woff2') format('woff2')}
-@font-face {font-family:'FuturaExtraBlack';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Extra Black font.woff2') format('woff2')}
-@font-face {font-family:'FuturaHeavy';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Heavy font.woff2') format('woff2')}
-@font-face {font-family:'FuturaHeavyItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Heavy Italic font.woff2') format('woff2')}
-@font-face {font-family:'FuturaLightbt';src:url('drawboard/extfonts/ts_freestyles/Futura/futura light bt.woff2') format('woff2')}
-@font-face {font-family:'FuturaLight';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Light font.woff2') format('woff2')}
-@font-face {font-family:'FuturaLightItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Light Italic font.woff2') format('woff2')}
-@font-face {font-family:'FuturaMedium';src:url('drawboard/extfonts/ts_freestyles/Futura/futura medium bt.woff2') format('woff2')}
-@font-face {font-family:'FuturaMediumCondensed';src:url('drawboard/extfonts/ts_freestyles/Futura/futura medium condensed bt.woff2') format('woff2')}
-@font-face {font-family:'FuturaMediumItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Medium Italic font.woff2') format('woff2')}
-@font-face {font-family:'FuturaExtraBlackbt';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura XBlk BT.woff2') format('woff2')}
-@font-face {font-family:'FuturaUnicode';src:url('drawboard/extfonts/ts_freestyles/Futura/unicode.futurab.woff2') format('woff2')}
-@font-face {font-family:'FuturaUnicodebb';src:url('drawboard/extfonts/ts_freestyles/Futura/unicode.futurabb.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Futura';src:url('drawboard/extfonts/ts_freestyles/Futura/futur.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaBold';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Bold font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Bold Italic font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaBook';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Book font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaBookItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Book Italic font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaCondensedLight';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura-CondensedLight.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaExtraBlack';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Extra Black font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaHeavy';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Heavy font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaHeavyItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Heavy Italic font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaLightbt';src:url('drawboard/extfonts/ts_freestyles/Futura/futura light bt.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaLight';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Light font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaLightItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Light Italic font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaMedium';src:url('drawboard/extfonts/ts_freestyles/Futura/futura medium bt.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaMediumCondensed';src:url('drawboard/extfonts/ts_freestyles/Futura/futura medium condensed bt.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaMediumItalic';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura Medium Italic font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaExtraBlackbt';src:url('drawboard/extfonts/ts_freestyles/Futura/Futura XBlk BT.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaUnicode';src:url('drawboard/extfonts/ts_freestyles/Futura/unicode.futurab.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'FuturaUnicodebb';src:url('drawboard/extfonts/ts_freestyles/Futura/unicode.futurabb.woff2') format('woff2')}
 
-@font-face {font-family:'Avenir';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Black.woff2') format('woff2')}
-@font-face {font-family:'AvenirBlackOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-BlackOblique.woff2') format('woff2')}
-@font-face {font-family:'AvenirBook';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Book.woff2') format('woff2')}
-@font-face {font-family:'AvenirBookOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-BookOblique.woff2') format('woff2')}
-@font-face {font-family:'AvenirHeavy';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Heavy.woff2') format('woff2')}
-@font-face {font-family:'AvenirHeavyOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-HeavyOblique.woff2') format('woff2')}
-@font-face {font-family:'AvenirLight';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Light.woff2') format('woff2')}
-@font-face {font-family:'AvenirLightOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-LightOblique.woff2') format('woff2')}
-@font-face {font-family:'AvenirMedium';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Medium.woff2') format('woff2')}
-@font-face {font-family:'AvenirMediumOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-MediumOblique.woff2') format('woff2')}
-@font-face {font-family:'AvenirOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Oblique.woff2') format('woff2')}
-@font-face {font-family:'AvenirRoman';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Roman.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Avenir';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Black.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirBlackOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-BlackOblique.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirBook';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Book.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirBookOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-BookOblique.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirHeavy';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Heavy.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirHeavyOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-HeavyOblique.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirLight';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirLightOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-LightOblique.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirMedium';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Medium.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirMediumOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-MediumOblique.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirOblique';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Oblique.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'AvenirRoman';src:url('drawboard/extfonts/ts_freestyles/Avenir/AvenirLTStd-Roman.woff2') format('woff2')}
 
-@font-face {font-family:'MontserratBlack';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Black.woff2') format('woff2')}
-@font-face {font-family:'MontserratBlackItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-BlackItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratBold';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Bold.woff2') format('woff2')}
-@font-face {font-family:'MontserratBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-BoldItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratExtraBold';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraBold.woff2') format('woff2')}
-@font-face {font-family:'MontserratExtraBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraBoldItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratExtraLight';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraLight.woff2') format('woff2')}
-@font-face {font-family:'MontserratExtraLightItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraLightItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Italic.woff2') format('woff2')}
-@font-face {font-family:'MontserratLight';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Light.woff2') format('woff2')}
-@font-face {font-family:'MontserratLightItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-LightItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratMedium';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Medium.woff2') format('woff2')}
-@font-face {font-family:'MontserratMediumItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-MediumItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratRegular';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Regular.woff2') format('woff2')}
-@font-face {font-family:'MontserratSemiBold';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-SemiBold.woff2') format('woff2')}
-@font-face {font-family:'MontserratSemiBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-SemiBoldItalic.woff2') format('woff2')}
-@font-face {font-family:'MontserratThin';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Thin.woff2') format('woff2')}
-@font-face {font-family:'MontserratThinItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ThinItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratBlack';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Black.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratBlackItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-BlackItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratBold';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-BoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratExtraBold';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraBold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratExtraBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraBoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratExtraLight';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraLight.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratExtraLightItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ExtraLightItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratLight';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratLightItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-LightItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratMedium';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Medium.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratMediumItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-MediumItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratRegular';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratSemiBold';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-SemiBold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratSemiBoldItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-SemiBoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratThin';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-Thin.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'MontserratThinItalic';src:url('drawboard/extfonts/ts_freestyles/Montserrat/Montserrat-ThinItalic.woff2') format('woff2')}
 
-@font-face {font-family:'Baskerville1';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKE1.woff2') format('woff2')}
-@font-face {font-family:'Baskerville2';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKE9.woff2') format('woff2')}
-@font-face {font-family:'Baskerville3';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKE10.woff2') format('woff2')}
-@font-face {font-family:'Baskerville4';src:url('drawboard/extfonts/ts_freestyles/baskerville/baskervi.woff2') format('woff2')}
-@font-face {font-family:'Baskerville5';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKRV_L.woff2') format('woff2')}
-@font-face {font-family:'Baskerville6';src:url('drawboard/extfonts/ts_freestyles/baskerville/baskvl.woff2') format('woff2')}
-@font-face {font-family:'BaskervilleBoldBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleBoldBT.woff2') format('woff2')}
-@font-face {font-family:'BaskervilleBold';src:url('drawboard/extfonts/ts_freestyles/baskerville/Baskerville Bold font.woff2') format('woff2')}
-@font-face {font-family:'BaskervilleBoldItalicBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleBoldItalicBT.woff2') format('woff2')}
-@font-face {font-family:'BaskervilleBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleBT.woff2') format('woff2')}
-@font-face {font-family:'BaskervilleItalicBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleItalicBT.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Baskerville1';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKE1.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Baskerville2';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKE9.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Baskerville3';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKE10.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Baskerville4';src:url('drawboard/extfonts/ts_freestyles/baskerville/baskervi.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Baskerville5';src:url('drawboard/extfonts/ts_freestyles/baskerville/BASKRV_L.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Baskerville6';src:url('drawboard/extfonts/ts_freestyles/baskerville/baskvl.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'BaskervilleBoldBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleBoldBT.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'BaskervilleBold';src:url('drawboard/extfonts/ts_freestyles/baskerville/Baskerville Bold font.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'BaskervilleBoldItalicBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleBoldItalicBT.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'BaskervilleBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleBT.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'BaskervilleItalicBT';src:url('drawboard/extfonts/ts_freestyles/baskerville/BaskervilleItalicBT.woff2') format('woff2')}
 
-@font-face {font-family:'PlayfairDisplayBlack';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Black.woff2') format('woff2')}
-@font-face {font-family:'PlayfairDisplayBlackItalic';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-BlackItalic.woff2') format('woff2')}
-@font-face {font-family:'PlayfairDisplayBold';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Bold.woff2') format('woff2')}
-@font-face {font-family:'PlayfairDisplayBoldItalic';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-BoldItalic.woff2') format('woff2')}
-@font-face {font-family:'PlayfairDisplayItalic';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Italic.woff2') format('woff2')}
-@font-face {font-family:'PlayfairDisplayRegular';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'PlayfairDisplayBlack';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Black.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'PlayfairDisplayBlackItalic';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-BlackItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'PlayfairDisplayBold';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'PlayfairDisplayBoldItalic';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-BoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'PlayfairDisplayItalic';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'PlayfairDisplayRegular';src:url('drawboard/extfonts/ts_freestyles/playfair-display/PlayfairDisplay-Regular.woff2') format('woff2')}
 
-@font-face {font-family:'Brandon_Grotesque_black';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_black.woff2') format('woff2')}
-@font-face {font-family:'Brandon_Grotesque_MediumBold';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_medium-Bold.woff2') format('woff2')}
-@font-face {font-family:'Brandon_Grotesque_mediumItalic';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_medium_italic.woff2') format('woff2')}
-@font-face {font-family:'Brandon_Grotesque_regular';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_regular.woff2') format('woff2')}
-@font-face {font-family:'Brandon_Grotesque_regular_italic';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_regular_italic.woff2') format('woff2')}
-@font-face {font-family:'Brandon_Grotesque_thin';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_thin.woff2') format('woff2')}
-@font-face {font-family:'Brandon_Grotesque_thin_italic';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_thin_italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_black';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_black.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_MediumBold';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_medium-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_mediumItalic';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_medium_italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_regular';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_regular_italic';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_regular_italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_thin';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_thin.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'Brandon_Grotesque_thin_italic';src:url('drawboard/extfonts/ts_freestyles/brandon-grotesque-font-family/Brandon_Grotesque_thin_italic.woff2') format('woff2')}
 
-@font-face {font-family:'Didot';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot.woff2') format('woff2');}
-@font-face {font-family:'DidotBold';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot Bold.woff2') format('woff2');}
-@font-face {font-family:'DidotItalic';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot Italic.woff2') format('woff2');}
-@font-face {font-family:'DidotTitle';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot Title.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Didot';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DidotBold';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot Bold.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DidotItalic';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot Italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DidotTitle';src:url('drawboard/extfonts/ts_freestyles/didot-2/Didot Title.woff2') format('woff2');}
 
-@font-face {font-family:'TradeGothic';src:url('drawboard/extfonts/ts_freestyles/trade-gothic-lt-std/trade-gothic-lt-std.woff2') format('woff2');}
-@font-face {font-family:'TradeGothicbold';src:url('drawboard/extfonts/ts_freestyles/trade-gothic-lt-std/trade-gothic-lt-std-bold-condensed.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'TradeGothic';src:url('drawboard/extfonts/ts_freestyles/trade-gothic-lt-std/trade-gothic-lt-std.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'TradeGothicbold';src:url('drawboard/extfonts/ts_freestyles/trade-gothic-lt-std/trade-gothic-lt-std-bold-condensed.woff2') format('woff2');}
 
-@font-face {font-family:'DINBlackAlternate';src:url('drawboard/extfonts/ts_freestyles/din/DIN-BlackAlternate.woff2') format('woff2')}
-@font-face {font-family:'DINBold';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Bold.woff2') format('woff2')}
-@font-face {font-family:'DINLight';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Light.woff2') format('woff2')}
-@font-face {font-family:'DINMedium';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Medium.woff2') format('woff2')}
-@font-face {font-family:'DINRegular';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Regular.woff2') format('woff2')}
-@font-face {font-family:'DINRegularAlternate';src:url('drawboard/extfonts/ts_freestyles/din/DIN-RegularAlternate.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'DINBlackAlternate';src:url('drawboard/extfonts/ts_freestyles/din/DIN-BlackAlternate.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'DINBold';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'DINLight';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'DINMedium';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Medium.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'DINRegular';src:url('drawboard/extfonts/ts_freestyles/din/DIN-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'DINRegularAlternate';src:url('drawboard/extfonts/ts_freestyles/din/DIN-RegularAlternate.woff2') format('woff2')}
 
-@font-face {font-family:'DOTCIRFULRegularItalic';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Regular Italic.woff2') format('woff2');}
-@font-face {font-family:'DOTCIRFULBold';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Bold.woff2') format('woff2');}
-@font-face {font-family:'DOTCIRFULBoldItalic';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Bold Italic.woff2') format('woff2');}
-@font-face {font-family:'DOTCIRFULRegular';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Regular.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DOTCIRFULRegularItalic';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Regular Italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DOTCIRFULBold';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Bold.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DOTCIRFULBoldItalic';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Bold Italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'DOTCIRFULRegular';src:url('drawboard/extfonts/ts_freestyles/dotcirful/DOTCIRFUL Regular.woff2') format('woff2');}
 
-@font-face {font-family:'Museo_Slab_100';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_100.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_100italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_100italic.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_300';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_300.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_300italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_300italic.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_500';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_500.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_500italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_500italic.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_700';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_700.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_700italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_700italic.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_900';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_900.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_900italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_900italic.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_1000';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_1000.woff2') format('woff2');}
-@font-face {font-family:'Museo_Slab_1000italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_1000italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_100';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_100.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_100italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_100italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_300';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_300.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_300italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_300italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_500';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_500.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_500italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_500italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_700';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_700.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_700italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_700italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_900';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_900.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_900italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_900italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_1000';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_1000.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Museo_Slab_1000italic';src:url('drawboard/extfonts/ts_freestyles/museo-slab/Museo_Slab_1000italic.woff2') format('woff2');}
 
-@font-face {font-family:'OpenSansBold';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Bold.woff2') format('woff2')}
-@font-face {font-family:'OpenSansBoldItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-BoldItalic.woff2') format('woff2')}
-@font-face {font-family:'OpenSansExtraBold';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-ExtraBold.woff2') format('woff2')}
-@font-face {font-family:'OpenSansExtraBoldItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-ExtraBoldItalic.woff2') format('woff2')}
-@font-face {font-family:'OpenSansItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Italic.woff2') format('woff2')}
-@font-face {font-family:'OpenSansLight';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Light.woff2') format('woff2')}
-@font-face {font-family:'OpenSansLightItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-LightItalic.woff2') format('woff2')}
-@font-face {font-family:'OpenSansRegular';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Regular.woff2') format('woff2')}
-@font-face {font-family:'OpenSansSemibold';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Semibold.woff2') format('woff2')}
-@font-face {font-family:'OpenSansSemiboldItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-SemiboldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansBold';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansBoldItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-BoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansExtraBold';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-ExtraBold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansExtraBoldItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-ExtraBoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansLight';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansLightItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-LightItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansRegular';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansSemibold';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-Semibold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'OpenSansSemiboldItalic';src:url('drawboard/extfonts/ts_freestyles/open-sans/OpenSans-SemiboldItalic.woff2') format('woff2')}
 
-@font-face {font-family:'RalewayBold';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Bold.woff2') format('woff2')}
-@font-face {font-family:'RalewayExtraBold';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-ExtraBold.woff2') format('woff2')}
-@font-face {font-family:'RalewayExtraLight';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-ExtraLight.woff2') format('woff2')}
-@font-face {font-family:'RalewayHeavy';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Heavy.woff2') format('woff2')}
-@font-face {font-family:'RalewayLight';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Light.woff2') format('woff2')}
-@font-face {font-family:'RalewayMedium';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Medium.woff2') format('woff2')}
-@font-face {font-family:'RalewayRegular';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Regular.woff2') format('woff2')}
-@font-face {font-family:'RalewaySemiBold';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-SemiBold.woff2') format('woff2')}
-@font-face {font-family:'RalewayThin';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Thin.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayBold';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayExtraBold';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-ExtraBold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayExtraLight';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-ExtraLight.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayHeavy';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Heavy.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayLight';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayMedium';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Medium.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayRegular';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewaySemiBold';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-SemiBold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'RalewayThin';src:url('drawboard/extfonts/ts_freestyles/raleway/Raleway-Thin.woff2') format('woff2')}
 
-@font-face {font-family:'SourceSansProBlack';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Black.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProBlackItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-BlackItalic.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProBold';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Bold.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProBoldItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-BoldItalic.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProExtraLight';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-ExtraLight.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProExtraLightItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-ExtraLightItalic.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Italic.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProLight';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Light.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProLightItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-LightItalic.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProRegular';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Regular.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProSemibold';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Semibold.woff2') format('woff2')}
-@font-face {font-family:'SourceSansProSemiboldItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-SemiboldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProBlack';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Black.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProBlackItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-BlackItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProBold';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Bold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProBoldItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-BoldItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProExtraLight';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-ExtraLight.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProExtraLightItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-ExtraLightItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Italic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProLight';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Light.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProLightItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-LightItalic.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProRegular';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Regular.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProSemibold';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Semibold.woff2') format('woff2')}
+@font-face{font-display:swap;font-family:'SourceSansProSemiboldItalic';src:url('drawboard/extfonts/ts_freestyles/source-sans-pro/SourceSansPro-SemiboldItalic.woff2') format('woff2')}
