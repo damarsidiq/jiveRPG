@@ -37,12 +37,19 @@ export var qr = {
     },
     resetDB:function(cb){
         qrt.ongoinganimId = false;
+        qr.vocabtext = [];
+        delete qr.dbset;
         $('body').removeClass('pending');
-        $('#text_3').removeClass('ok').html(jve.drawbardinit).css('transform','');
+        $('#text_3').removeClass('ok').html(jve.drawbardinit[0]).css('transform','');
+        var dx = jve.drawbardinit;
         jve.drawbardinit = false;
         switch (cb) {
             case 0:
-                storyline.storyOptions();
+                if(dx[1]!==false){
+                    $('body').append(dx[1]);
+                }
+                else
+                    storyline.storyOptions();
             break;
             case 1:
                 setTimeout(function() {jve.drawbard();}, 300);
@@ -54,7 +61,7 @@ export var qr = {
         if(!qrt.ongoinganimId) return;
         qr.idx++;
         
-        if(qr.idx == qr.vocabtext.length) return;
+        if(qr.idx >= qr.vocabtext.length) return;
         $('body').addClass('pending');
         $('#text_3').addClass('ok').append(qr.vocabtext[qr.idx]);
         qr.currentx = $('.mergershirt').eq($('.mergershirt').length-1)[0];
@@ -90,7 +97,6 @@ export var qr = {
         qr.currentDrawBard = link;
         qrt.defaultspeed = defspeed;
         if(typeof $('#canvaswrapper')[0] !== 'undefined') return;
-        qrt.ongoinganimId = true;
         qr.dbset = dbset;
         qr.customfn();
         qr.transmode = false;
@@ -98,6 +104,7 @@ export var qr = {
         qr.currentdbsetidx = 0;
         qr.currentdbset = qr.dbset[qr.currentdbsetidx];
         qr.vocabtext = qr.currentdbset.vt;
+        qrt.ongoinganimId = true;
         
         qr.start();
     },
