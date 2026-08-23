@@ -1,5 +1,5 @@
 export var qr = {
-    totalDB:12,
+    totalDB:16,
     initPool:function(pdb){
         const link = document.createElement("link");
         link.rel = "stylesheet";
