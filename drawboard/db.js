@@ -1,6 +1,12 @@
 export var qr = {
-    totalDB:27,
+    langsTotalDB:[27,0],
+    langAvail:['-es','-de'],
     initPool:function(pdb){
+        var tidx = qr.langAvail.indexOf(jve.foclang);
+        if(tidx === -1){
+            return false;
+        }
+        qr.totalDB = qr.langsTotalDB[tidx];
         const link = document.createElement("link");
         link.rel = "stylesheet";
         link.href = storyline.jsonUrl+'./drawboard/dbard.css';
@@ -8,7 +14,7 @@ export var qr = {
         
         if (!pdb || pdb.length === 0 || pdb.length == qr.totalDB) {
             qr.pool = Array.from({ length: qr.totalDB }, function(_, i) { return i; });
-            return;
+            return true;
         }
         var excluded = new Set(pdb.map(function(item) { return parseInt(item[0]); }));
         qr.pool = [];
@@ -17,6 +23,7 @@ export var qr = {
                 qr.pool.push(i);
             }
         }
+        return true;
     }, 
     firstimer:true,
     getDB:function(){
@@ -49,7 +56,8 @@ export var qr = {
         jve.drawbardinit = false;
         switch (cb) {
             case 0:
-                storyline.storyOptions();
+                if(typeof $('#converse')[0] === 'undefined')
+                    storyline.storyOptions();
             break;
             case 1:
                 setTimeout(function() {jve.drawbard();}, 300);
