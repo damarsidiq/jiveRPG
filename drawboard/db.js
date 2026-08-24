@@ -7,6 +7,9 @@ export var qr = {
             return false;
         }
         qr.totalDB = qr.langsTotalDB[tidx];
+        if(qr.totalDB == 0){
+            return false;
+        }
         const link = document.createElement("link");
         link.rel = "stylesheet";
         link.href = storyline.jsonUrl+'./drawboard/dbard.css';
