@@ -5,7 +5,7 @@ export var dbset = [];
 var dbbtn = `<div id="dbbutton" class="textshirt dbbutton" style="top: 91.3769%; left: 95.4652%; width: 36px; height: 36px;"><div id="dbbutton2" class="dbbutton textshirt circleshirt" style="height: 36px; width: 36px; top: 91.3769%; left: 95.4652%; background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); color: rgb(255, 255, 255);"></div><div id="dbbutton3" class="dbbutton textshirt circleshirt" style="height: 22px; width: 22px; top: 92.4896%; left: 96.0907%;"></div></div>`;
 
 //to adjust
-export const dbtitle = 'Ámbito';
+export const dbtitle = 'Ámbito2';
 const defaultspeed = 25;
 const transws = ' wspeed_10';
 const drabindex = 84;
