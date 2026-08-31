@@ -1,5 +1,5 @@
 export var qr = {
-    langsTotalDB:[93,0],
+    langsTotalDB:[137,0],
     langAvail:['-es','-de'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
@@ -39,9 +39,9 @@ export var qr = {
             x = jve.getrand(0,jve.dbF.qr.pool.length);
             
         y = jve.dbF.qr.pool[x];
-        if(y>300) y = 'c/'+y;
-        else if(y>200) y = 'b/'+y;
-        else if(y>100) y = 'a/'+y;
+        if(y>600) y = 'c/'+y;
+        else if(y>400) y = 'b/'+y;
+        else if(y>200) y = 'a/'+y;
         
         qr.pool.splice(x,1);
         if(!qr.pool.length){
