@@ -34,3 +34,6 @@ El mundo ya es inmenso.
 Tu cerebro simplemente lo reduce a algo manejable.
 A veces es agradable ver la versión del director.
 No olvides que aún tienes que lavar los platos.`;
+
+window.drawbards = window.drawbards || {};
+window.drawbards['-es'] = [[137,162]];
