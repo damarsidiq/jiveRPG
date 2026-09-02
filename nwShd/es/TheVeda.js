@@ -34,3 +34,6 @@ Alaban a los dioses. Luego los cuestionan. Luego, sutilmente, los socavan. Luego
 Por eso las tradiciones posteriores se enzarzan en interminables disputas sobre ellas. Todos quieren la autoridad, nadie quiere la incertidumbre.
 Y el Rigveda termina haciendo lo más irritante posible.
 Se niega a decir quién manda. Simplemente te entrega la pregunta y se da por vencido.`;
+
+window.drawbards = window.drawbards || {};
+window.drawbards['-es'] = [[163,199]];
