@@ -26,6 +26,23 @@ vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 493px; left: 706px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">they emphasize; they stress</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
+
+vt = [];
+vte = [];
+
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">Los profesores enfatizan la importancia de la práctica.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">Estos resultados enfatizan la necesidad de actuar.</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">Las instrucciones enfatizan la seguridad de los usuarios.</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 501px; left: 647px; font-size: 44px; font-family: Amatic_bold;">Enfatizan; enfatizar</div>`;
+
+
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">The teachers emphasize the importance of practice.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">These results emphasize the need to take action.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">The instructions emphasize user safety.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 505px; left: 393px; font-size: 44px; font-family: Amatic_bold;">They emphasize / they stress / they highlight</div>`;
+
+dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
+
 export function openBoard(){
     jve.dbF.qr.init(dbset,drabindex,defaultspeed);
 }

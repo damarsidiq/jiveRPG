@@ -1,5 +1,5 @@
 export var qr = {
-    langsTotalDB:[290,0],
+    langsTotalDB:[320,0],
     langAvail:['-es','-de'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
@@ -136,7 +136,7 @@ export var qr = {
             }
             qr.currentdbset = qr.dbset[qr.currentdbsetidx];
             qr.vocabtext = qr.currentdbset.vt;
-            
+            qrt.ongoinganimId = true;
             qr.start();
         }, 300);
     },

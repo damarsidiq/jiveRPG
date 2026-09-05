@@ -29,6 +29,23 @@ vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style
 
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
+
+
+vt = [];
+vte = [];
+
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">Lo conseguimos mediante mucho esfuerzo.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">Mediante este método, resolverás el problema.</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">Se comunican mediante señales.</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 499px; left: 790px; font-size: 44px; font-family: Amatic_bold;">Mediante</div>`;
+
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">We achieved it through great effort.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">By means of this method, you will solve the problem.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">They communicate through signals.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 501px; left: 647px; font-size: 44px; font-family: Amatic_bold;">Through / By means of</div>`;
+
+dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
+
 export function openBoard(){
     jve.dbF.qr.init(dbset,drabindex,defaultspeed);
 }
