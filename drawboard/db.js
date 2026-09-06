@@ -1,5 +1,5 @@
 export var qr = {
-    langsTotalDB:[320,0],
+    langsTotalDB:[351,0],
     langAvail:['-es','-de'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
@@ -132,7 +132,8 @@ export var qr = {
             }
             qr.currentdbsetidx++;
             if(qr.currentdbsetidx == qr.dbset.length){
-                qr.currentdbsetidx = 0;
+                qr.resetDB(1);
+                return;
             }
             qr.currentdbset = qr.dbset[qr.currentdbsetidx];
             qr.vocabtext = qr.currentdbset.vt;
