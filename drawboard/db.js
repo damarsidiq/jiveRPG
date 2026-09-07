@@ -59,7 +59,14 @@ export var qr = {
         qr.vocabtext = [];
         delete qr.dbset;
         $('body').removeClass('pending');
-        $('#text_3').removeClass('ok').html(jve.drawbardinit).css('transform','');
+        $('#text_3').removeClass('ok').html(jve.drawbardinit[0]).css('transform','');
+        if(jve.drawbardinit[1]!==false){
+            if(jve.drawbardinit[1] === 0){
+                storyline.resumeSt();
+            }
+            else
+                $('body').append(jve.drawbardinit[1]);
+        }
         jve.drawbardinit = false;
         switch (cb) {
             case 0:
