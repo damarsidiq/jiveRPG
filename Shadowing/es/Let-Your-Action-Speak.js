@@ -77,3 +77,6 @@ Guárdalos para ti hasta que hayas logrado un progreso real.
 Porque a veces el solo hecho de hablar te da una falsa satisfacción, y esa satisfacción frena tu arduo trabajo.
 Fortalécete tanto que tu trabajo se convierta en tu lenguaje y tu éxito se convierta en tu respuesta.
 Trabaja en silencio y cuando sea el momento adecuado, el mundo sabrá lo que has logrado.`;
+
+window.drawbards = window.drawbards || {};
+window.drawbards['-es'] = [[351,382],299,323,137];

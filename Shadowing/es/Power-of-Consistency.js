@@ -74,3 +74,6 @@ Sonreía y decía: "La motivación va y viene, pero la disciplina es la clave".
 "Significa hacer bien las pequeñas cosas todos los días. Así que no esperes el momento perfecto".
 "Empiece hoy".
 "Mantén la disciplina y construirás tu propio futuro".`;
+
+window.drawbards = window.drawbards || {};
+window.drawbards['-es'] = [[320,350],[383,391],25,228];

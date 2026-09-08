@@ -26,6 +26,20 @@ vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">The fifth on the list was selected for the position</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 485px; left: 916px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">fifth</div>`;
 
+dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
+
+vt=[];
+vte=[];
+
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">Vivo en el quinto piso del edificio.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">Este es mi quinto intento por llamar a la puerta.  </div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">El quinto capítulo del libro es el más interesante.</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 495px; left: 843px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Quinto</div>`;
+
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">I live on the fifth floor of the building.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">This is my fifth attempt at knocking on the door.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">The fifth chapter of the book is the most interesting.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 495px; left: 843px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Fifth (position in a series).</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

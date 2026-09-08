@@ -26,6 +26,20 @@ vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: Times_new_roman; font-size: 14px;">He doesn't even understand the most basic math</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 551px; left: 788px; font-size: 25px; font-family: OswaldRegular;">even / at least</div>`;
 
+dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
+
+vt=[];
+vte=[];
+
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 256px; left: 387px; font-size: 19px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">No tienes siquiera una excusa válida.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 341px; left: 382px; font-size: 21px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Dime siquiera la verdad una vez.  </div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 19px; color: rgb(81, 81, 81);">No vino nadie, siquiera los vecinos.  </div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 568px; left: 823px; font-size: 31px; font-family: OswaldRegular; color: rgb(81, 81, 81);">Siquiera</div>`;
+
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 256px; left: 387px; font-size: 19px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">You don't even have a valid excuse.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 341px; left: 382px; font-size: 21px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Tell me the truth at least once.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 19px; color: rgb(81, 81, 81);">Nobody came, not even the neighbors.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 572px; left: 449px; font-size: 15px; font-family: OswaldRegular; color: rgb(81, 81, 81);">Even / At least / Not even (negative contexts or questions to emphasize a minimum)</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){
