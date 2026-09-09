@@ -1,5 +1,5 @@
 export var qr = {
-    langsTotalDB:[392,0],
+    langsTotalDB:[436,0],
     langAvail:['-es','-de'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
@@ -39,6 +39,7 @@ export var qr = {
             x = jve.getrand(0,jve.dbF.qr.pool.length);
             
         y = jve.dbF.qr.pool[x];
+        
         if(y>600) y = 'c/'+y;
         else if(y>400) y = 'b/'+y;
         else if(y>200) y = 'a/'+y;
@@ -49,9 +50,39 @@ export var qr = {
         }
         return y;
     },
+    stopTyping:function(){
+        clearTimeout(qr.timers[0]);clearTimeout(qr.timers[1]);
+        qrt.ongoinganimId = false;
+        setTimeout(function(){
+            $('.mergershirt').remove();
+            for(let i=0;i<qr.vocabtext.length;i++){
+                $('#text_3').append(qr.vocabtext[i]);
+            }
+            $('.mergershirt').children().addClass('ok');
+            
+            if(qr.timers[2] == 'trans'){
+                qr.timers[2] = false;
+                qr.resetbtn();
+            }
+        },600);
+    },
     pf:function(e){
         if(e.key=='Escape'){
+            if(qrt.ongoinganimId){
+                qr.stopTyping(false);
+                return;
+            }
             qr.resetDB(0);
+            return;
+        }
+        if(e.key=='F1'){
+            if(qrt.ongoinganimId){
+                qr.timers[2] = 'trans';
+                qr.stopTyping(true);   
+            }
+            else{
+                qr.switchLang();
+            }
         }
     },
     resetDB:function(cb){
@@ -111,9 +142,10 @@ export var qr = {
     perworddelay:90,
     typecb:function(){
         if(!qrt.ongoinganimId) return;
-        if(qr.idx_ == qr.queue.length-1){ setTimeout(function() {if(!qrt.ongoinganimId) return;qr.draw();}, 1000);  return; }
-        qr.idx_++; setTimeout(qr.draw_, qr.perworddelay);
+        if(qr.idx_ == qr.queue.length-1){ qr.timers[0] = setTimeout(function() { if(!qrt.ongoinganimId) { return;} qr.draw();}, 1000);  return; }
+        qr.idx_++; qr.timers[1] = setTimeout(qr.draw_, qr.perworddelay);
     },
+    timers:[false,false,false,false],
     customfn:function(){},
     init:function(dbset,link,defspeed){
         qr.currentDrawBard = link;
@@ -160,18 +192,23 @@ export var qr = {
         });
         qr.idx = -1;qr.draw();
     },
+    texttype:'foreign',
     resetbtn:function(){
         qrt.ongoinganimId = false;
+        clearTimeout(qr.timers[0]);clearTimeout(qr.timers[1]);
         setTimeout(function() {
-            qrt.ongoinganimId = true;
-            qr.transmode = !qr.transmode;
-            if(qr.transmode){
-                qr.vocabtext = qr.currentdbset.vte;
-            }
-            else qr.vocabtext = qr.currentdbset.vt;
-            
-            qr.start();
-        }, 300);
+            qr.switchLang();
+        }, 600);
+    },
+    switchLang:function(){
+        qrt.ongoinganimId = true;
+        qr.transmode = !qr.transmode;
+        if(qr.transmode){
+            qr.texttype = 'english';
+            qr.vocabtext = qr.currentdbset.vte;
+        }
+        else{qr.texttype = 'foreign'; qr.vocabtext = qr.currentdbset.vt;}
+        qr.start();
     }
 };
 export var qrt = {
@@ -199,7 +236,6 @@ export var qrt = {
             requestAnimationFrame(qrt.typing_);return;
         }
         qrt.ax[0] = t;
-        
         qrt.typed+=qrt.text[0];
         $(qrt.el).html(qrt.typed);
         qrt.text.splice(0,1);
