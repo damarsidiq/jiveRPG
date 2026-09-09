@@ -83,6 +83,10 @@ export var qr = {
             else{
                 qr.switchLang();
             }
+            return;
+        }
+        if(e.key=='F2'){
+            qr.nextSet();
         }
     },
     resetDB:function(cb){
