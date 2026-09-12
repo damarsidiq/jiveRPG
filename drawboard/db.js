@@ -75,18 +75,34 @@ export var qr = {
             qr.resetDB(0);
             return;
         }
+        if(e.key == 'PageDown' && isNaN(qr.currentDrawBard)){
+            qr.nextPage();
+            return;
+        }
+        if(e.key == 'PageUp' && isNaN(qr.currentDrawBard)){
+            qr.prevPage();
+            return;
+        }
         if(e.key=='F1'){
-            if(qrt.ongoinganimId){
-                qr.timers[2] = 'trans';
-                qr.stopTyping(true);   
+            if(isNaN(qr.currentDrawBard)){
+                qr.tpage();
             }
             else{
-                qr.switchLang();
+                if(qrt.ongoinganimId){
+                    qr.timers[2] = 'trans';
+                    qr.stopTyping(true);   
+                }
+                else{
+                    qr.switchLang();
+                }    
             }
             return;
         }
         if(e.key=='F2'){
-            qr.nextSet();
+            if(isNaN(qr.currentDrawBard))
+                qr.nextPage();
+            else
+                qr.nextSet();
         }
     },
     resetDB:function(cb){
@@ -151,6 +167,63 @@ export var qr = {
     },
     timers:[false,false,false,false],
     customfn:function(){},
+    initBook:function(dbset,link){
+        qr.currentDrawBard = link;
+        qr.dbset = dbset;
+        qr.currentdbsetidx = 0;
+        qr.currentdbset = qr.dbset[qr.currentdbsetidx];
+        qr.vocabtext = qr.currentdbset.vt;
+        qr.tellAStory();
+    },
+    tellAStory:function(){
+        $('#text_3').html(qr.currentdbset.dbbg+qr.currentdbset.dbbtn);
+        $('#dbbutton').on('click',function(e){
+            e.stopPropagation();e.preventDefault();
+            qr.tpage();
+        });
+        $('#dbbutton').on('contextmenu',function(e){
+            e.stopPropagation();e.preventDefault();
+            qr.nextPage();
+        });
+        $('body').addClass('pending');
+        $('#text_3').addClass('ok');
+        qr.drawPage();
+    },
+    prevPage:function(){
+        qr.currentdbsetidx--;
+        if(qr.currentdbsetidx==-1){
+            qr.currentdbsetidx=qr.dbset.length-1;
+        }
+        qr.currentdbset = qr.dbset[qr.currentdbsetidx];
+        qr.vocabtext = qr.currentdbset.vt;
+        qr.tellAStory();
+    },
+    nextPage:function(){
+        qr.currentdbsetidx++;
+        if(qr.currentdbsetidx == qr.dbset.length){
+            qr.currentdbsetidx=0;
+        }
+        qr.currentdbset = qr.dbset[qr.currentdbsetidx];
+        qr.vocabtext = qr.currentdbset.vt;
+        qr.tellAStory();
+    },
+    tpage:function(){
+        $('.mergershirt').remove();
+        qr.transmode = !qr.transmode;
+        if(qr.transmode){
+            qr.texttype = 'english';
+            qr.vocabtext = qr.currentdbset.vte;
+        }
+        else{qr.texttype = 'foreign'; qr.vocabtext = qr.currentdbset.vt;}
+        qr.drawPage();
+    },
+    drawPage:function(){
+        for(var i=0;i<qr.vocabtext.length;i++){
+            $('#text_3').append(qr.vocabtext[i]);
+            qr.currentx = $('.mergershirt').eq($('.mergershirt').length-1)[0];
+            $(qr.currentx).addClass('ok');
+        }
+    },
     init:function(dbset,link,defspeed){
         qr.currentDrawBard = link;
         qrt.defaultspeed = defspeed;
@@ -223,7 +296,7 @@ export var qrt = {
     typing:function(el){
         if(!qrt.ongoinganimId) return;
         qrt.el = el;
-        qrt.text=$(el).html().split('');
+        qrt.text=$(el).html().match(/<[^>]+>|[^<]/g) || [];
         qrt.typed = '';
         
         $(el).html('').addClass('ok');
