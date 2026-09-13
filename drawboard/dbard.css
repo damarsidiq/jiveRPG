@@ -32,7 +32,7 @@
 @font-face{font-display:swap;font-family:'Lobster';src:url('extfonts/ts_freestyles/Lobster.woff2') format('woff2')}
 @font-face{font-display:swap;font-family:'CrabsyPattya';src:url('extfonts/ts_freestyles/crabsy-pattya/Crabsy-Pattya.woff2') format('woff2');}
 @font-face{font-display:swap;font-family:'Knockout';src:url('extfonts/ts_freestyles/Knockout HTF49Liteweight Regular.woff2') format('woff2');}
-@font-face{font-display:swap;font-family:'Calibri';src: url('calibri-font-family/calibri-regular.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'Calibri';src: url('extfonts/calibri-font-family/calibri-regular.woff2') format('woff2');}
 
 @font-face{font-display:swap;font-family:'Futura';src:url('extfonts/ts_freestyles/Futura/futur.woff2') format('woff2')}
 @font-face{font-display:swap;font-family:'FuturaBold';src:url('extfonts/ts_freestyles/Futura/Futura Bold font.woff2') format('woff2')}
@@ -178,3 +178,7 @@
 @font-face{font-display:swap;font-family:'SourceSansProRegular';src:url('extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Regular.woff2') format('woff2')}
 @font-face{font-display:swap;font-family:'SourceSansProSemibold';src:url('extfonts/ts_freestyles/source-sans-pro/SourceSansPro-Semibold.woff2') format('woff2')}
 @font-face{font-display:swap;font-family:'SourceSansProSemiboldItalic';src:url('extfonts/ts_freestyles/source-sans-pro/SourceSansPro-SemiboldItalic.woff2') format('woff2')}
+
+@font-face{font-display:swap;font-family:'EBGaramond';src: url('extfonts/ebgaramond/EBGaramond-Regular.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'EBGaramondItalic';src: url('extfonts/ebgaramond/EBGaramond-Italic.woff2') format('woff2');}
+@font-face{font-display:swap;font-family:'EBGaramondBold';src: url('extfonts/ebgaramond/EBGaramond-Bold.woff2') format('woff2');}
