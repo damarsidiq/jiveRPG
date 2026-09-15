@@ -187,3 +187,8 @@
 @font-face {font-family:'BarlowBoldItalic';src:url('extfonts/barlow-semi-condensed-2/BarlowSemiCondensed-BoldItalic.woff2') format('woff2')}
 @font-face {font-family:'BarlowBlack';src:url('extfonts/barlow-semi-condensed-2/BarlowSemiCondensed-Black.woff2') format('woff2')}
 @font-face {font-family:'BarlowBlackItalic';src:url('extfonts/barlow-semi-condensed-2/BarlowSemiCondensed-BlackItalic.woff2') format('woff2')}
+
+@font-face {font-family:'Carlito';src:url('extfonts/carlito/Carlito-Regular.woff2')  format('woff2')}
+@font-face {font-family:'CarlitoItalic';src:url('extfonts/carlito/Carlito-Italic.woff2')  format('woff2')}
+@font-face {font-family:'CarlitoBold';src:url('extfonts/carlito/Carlito-Bold.woff2')  format('woff2')}
+@font-face {font-family:'CarlitoBoldItalic';src:url('extfonts/carlito/Carlito-BoldItalic.woff2')  format('woff2')}
