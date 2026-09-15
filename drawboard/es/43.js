@@ -17,12 +17,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 38px; font-family: Amatic; color: rgb(0, 114, 3);">Su 'ausencia' en la reunión fue notable</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: AvenirBook; color: rgb(49, 77, 8);">La 'falta' de sueño afecta tu concentración</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">La 'falta' de sueño afecta tu concentración</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 26px; color: rgb(35, 105, 14);">Tu 'ausencia' se sintió en la cena familiar</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 594px; left: 690px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">Ausencia / falta</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">His 'absence' from the meeting was noticeable</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The 'lack' of sleep affects your concentration</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The 'lack' of sleep affects your concentration</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(95, 9, 105);">Your 'absence' was felt at the family dinner</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 610px; left: 724px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">absence / lack</div>`;
 

@@ -15,12 +15,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">La antena es portadora de la señal.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">Ella es portadora de una enfermedad genética.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Ella es portadora de una enfermedad genética.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">La empresa creó una plataforma portadora de nueva tecnología.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 489px; left: 806px; font-size: 53px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Portadora; portador</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">The antenna carries the signal.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">She is a carrier of a genetic disease.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">She is a carrier of a genetic disease.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">The company created a platform carrying new technology.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 497px; left: 556px; font-size: 53px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Carrier, bearer, female carrier— of portador.</div>`;
 

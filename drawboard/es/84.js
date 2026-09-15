@@ -16,13 +16,13 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 163px; left: 706px; font-size: 35px; font-family: Amatic;">Trabaja en el ámbito de la educación</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 703px; font-size: 14px; font-family: AvenirBook;">Este es un problema que va más allá del ámbito escolar</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 703px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Este es un problema que va más allá del ámbito escolar</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Es una experta reconocida en el ámbito científico</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 625px; left: 718px; font-size: 49px; font-family: Amatic_bold;">Ámbito</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 163px; left: 706px; font-size: 35px; font-family: Amatic;">He works in the field of education.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 703px; font-size: 14px; font-family: AvenirBook;">This is a problem that goes beyond the school scope.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 703px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">This is a problem that goes beyond the school scope.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 17px;">She is a recognized expert in the scientific field.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 625px; left: 718px; font-size: 49px; font-family: Amatic_bold;">field / scope</div>`;
 

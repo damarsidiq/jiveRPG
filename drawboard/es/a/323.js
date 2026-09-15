@@ -16,12 +16,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">Estamos perdiendo tiempo discutiendo tonterías.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">El equipo va perdiendo por dos goles a cero.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">El equipo va perdiendo por dos goles a cero.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">Salió corriendo, perdiendo una zapatilla en la escalera.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 614px; left: 828px; font-size: 24px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Perdiendo</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">We are wasting time arguing about nonsense.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The team is losing by two goals to zero.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The team is losing by two goals to zero.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">He ran out, losing a sneaker on the stairs.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 613px; left: 196px; font-size: 14px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Losing / Missing (action in progress). Used with estar for progressive tenses (estoy perdiendo) or as an adverbial phrase (llegué perdiendo tiempo).</div>`;
 

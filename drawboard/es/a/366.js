@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Cuando seas mayor, 'entenderás' por qué lo hice.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Si lees el manual, 'entenderás' cómo funciona.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Si lees el manual, 'entenderás' cómo funciona.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Pronto 'entenderás' que no era tan difícil.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 375px; left: 825px; font-size: 33px; font-family: FuturaBook;">Entenderás</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 375px; left: 825px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Entenderás</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 36px; font-family: Amatic;">When you are older, you will understand why I did it.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">If you read the manual, you will understand how it works.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">If you read the manual, you will understand how it works.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 15px;">Soon you will understand that it wasn't that difficult.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 382px; left: 863px; font-size: 13px; font-family: FuturaBook;">You will understand.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 382px; left: 863px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">You will understand.</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

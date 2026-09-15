@@ -15,12 +15,12 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt copytopaste" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">Está echando sal a la sopa.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt copytopaste" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">El portero echó al cliente ruidoso echando mano de su fuerza.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt copytopaste" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">El portero echó al cliente ruidoso echando mano de su fuerza.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt copytopaste" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">Seguimos echando leña al fuego para que no se apague.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt copytopaste" style="top: 620px; left: 850px; font-size: 43px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Echando</div>`;
 
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">He/She is putting salt in the soup.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The bouncer kicked out the noisy customer using his strength.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The bouncer kicked out the noisy customer using his strength.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(95, 9, 105);">We keep throwing wood on the fire so it doesn't go out.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 636px; left: 337px; font-size: 18px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Throwing / Putting / Pouring / Kicking out / Applying (action in progress). Highly polysemic verb.</div>`;
 

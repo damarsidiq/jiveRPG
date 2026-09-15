@@ -15,12 +15,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">Su aferramiento al pasado le impide avanzar.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">El aferramiento a sus ideas causó muchos problemas.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">El aferramiento a sus ideas causó muchos problemas.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">Su aferramiento a esa relación no era saludable.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 487px; left: 810px; font-size: 58px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Aferramiento; aferrarse</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">His attachment to the past prevents him from moving forward.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">His clinging to his ideas caused many problems.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">His clinging to his ideas caused many problems.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">Her attachment to that relationship was not healthy.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 487px; left: 810px; font-size: 41px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Clinging, attachment, holding on</div>`;
 

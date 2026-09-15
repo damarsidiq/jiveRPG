@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Terminó la carrera 'sintiéndose' orgulloso de sí mismo.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Se fue de la fiesta 'sintiéndose' muy incómodo.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Se fue de la fiesta 'sintiéndose' muy incómodo.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Siguió trabajando 'sintiéndose' enfermo.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 380px; left: 820px; font-size: 33px; font-family: FuturaBook;">Sintiéndose</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 380px; left: 820px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Sintiéndose</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 36px; font-family: Amatic;">He finished the race 'feeling' proud of himself.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">He left the party 'feeling' very uncomfortable.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">He left the party 'feeling' very uncomfortable.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 15px;">He kept working while 'feeling' sick.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 379px; left: 735px; font-size: 13px; font-family: FuturaBook;">Feeling oneself / feeling (reflexive, ongoing).</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 379px; left: 735px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Feeling oneself / feeling (reflexive, ongoing).</div>`;
 
 /*sentir, sintiéndose, sintiendo, sentirse, me siento, se siente, sentiéndose mal/bien.*/
 

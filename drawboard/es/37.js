@@ -19,13 +19,13 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 44px; font-family: Amatic; color: rgb(0, 114, 3);">El jefe dio órdenes claras sobre el proyecto</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">El soldado siguió las órdenes de su capitán sin cuestionarlas</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">El soldado siguió las órdenes de su capitán sin cuestionarlas</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(95, 9, 105);">El paciente debe cumplir las órdenes del médico para recuperarse pronto</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 590px; left: 823px; font-size: 50px; font-family: OswaldRegular; color: rgb(67, 17, 26);">ordenes</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 44px; font-family: Amatic; color: rgb(0, 114, 3);">The boss gave clear orders about the project</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The soldier followed his captain’s orders without questioning them</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The soldier followed his captain’s orders without questioning them</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(95, 9, 105);">The patient must follow the doctor’s orders to recover quickly</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 590px; left: 843px; font-size: 50px; font-family: OswaldRegular; color: rgb(67, 17, 26);">orders</div>`;
 

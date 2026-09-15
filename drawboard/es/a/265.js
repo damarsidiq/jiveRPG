@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 88px; left: 666px; font-size: 23px; font-family: DINRegular;">El estudio revela nuevos datos sobre el tema.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 233px; left: 667px; font-size: 21px; font-family: DINRegular;">Ella revela sus secretos a nadie.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 88px; left: 666px; font-size: 23px; font-family: NotoSansSemiCondensedLight;">El estudio revela nuevos datos sobre el tema.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 233px; left: 667px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">Ella revela sus secretos a nadie.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 369px; left: 670px; font-family: RalewayMedium; font-size: 22px;">Esta foto revela la belleza del lugar.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 633px; left: 1030px; font-size: 48px; font-family: Amatic_bold;">Revela</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 88px; left: 666px; font-size: 23px; font-family: DINRegular;">The study reveals new data on the topic.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 233px; left: 667px; font-size: 21px; font-family: DINRegular;">She reveals her secrets to no one.</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 88px; left: 666px; font-size: 23px; font-family: NotoSansSemiCondensedLight;">The study reveals new data on the topic.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 233px; left: 667px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">She reveals her secrets to no one.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 369px; left: 670px; font-family: RalewayMedium; font-size: 22px;">This photo reveals the beauty of the place.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 632px; left: 943px; font-size: 48px; font-family: Amatic_bold;">He/She reveals</div>`;
 

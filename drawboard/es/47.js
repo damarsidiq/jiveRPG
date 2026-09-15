@@ -19,12 +19,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 38px; font-family: Amatic; color: rgb(0, 114, 3);">Los exploradores encontraron pinturas antiguas en la cueva</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: AvenirBook; color: rgb(49, 77, 8);">El oso hiberna dentro de su cueva todo el invierno</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">El oso hiberna dentro de su cueva todo el invierno</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(35, 105, 14);">Los exploradores descubrieron una antigua cueva llena de pinturas rupestres</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 623px; left: 868px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">Cueva</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">The explorers found ancient paintings in the cave</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The bear hibernates inside its cave all winter</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The bear hibernates inside its cave all winter</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">The explorers discovered an ancient cave full of cave paintings</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 608px; left: 899px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">cave</div>`;
 

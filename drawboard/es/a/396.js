@@ -15,12 +15,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">No debes 'juzgar' a alguien sin conocer su historia.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">Es difícil 'juzgar' quién tiene la razón en este conflicto.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 206px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Es difícil 'juzgar' quién tiene la razón en este conflicto.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">El tribunal va a 'juzgar' el caso la próxima semana.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 495px; left: 843px; font-size: 59px; font-family: Amatic_bold; color: rgb(255, 255, 255);">juzgar</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 124px; left: 198px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">You shouldn't judge someone without knowing their story.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">It's hard to judge who is right in this conflict.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 206px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">It's hard to judge who is right in this conflict.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 392px; left: 208px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">The court will judge / try the case next week.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 495px; left: 843px; font-size: 59px; font-family: Amatic_bold; color: rgb(255, 255, 255);">to judge</div>`;
 

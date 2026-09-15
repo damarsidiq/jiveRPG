@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">Voy a retirar el dinero del cajero automático.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Decidieron retirar el producto del mercado.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Decidieron retirar el producto del mercado.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Por favor, retira tus cosas de la mesa.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 361px; left: 884px; font-size: 51px; font-family: Amatic_bold;">Retirar</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">I’m going to withdraw the money from the ATM.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">They decided to withdraw the product from the market.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">They decided to withdraw the product from the market.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Please remove your things from the table.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 367px; left: 455px; font-size: 16px; font-family: FuturaBook;">to withdraw, to remove, to take away, or to pull back. literally and figuratively.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 367px; left: 455px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">to withdraw, to remove, to take away, or to pull back. literally and figuratively.</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

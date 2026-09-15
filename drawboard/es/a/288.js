@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">La población fue esclavizada durante siglos por el imperio.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Se sentía esclavizada por las deudas y las obligaciones.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Se sentía esclavizada por las deudas y las obligaciones.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">La novela cuenta la historia de una mujer esclavizada.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 387px; left: 862px; font-size: 24px; font-family: FuturaBook;">Esclavizada</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 387px; left: 862px; font-size: 24px; font-family: NotoSansSemiCondensedLight;">Esclavizada</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">The population was enslaved for centuries by the empire.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">She felt enslaved by debts and obligations.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She felt enslaved by debts and obligations.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">The novel tells the story of an enslaved woman.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 380px; left: 495px; font-size: 15px; font-family: FuturaBook;">enslaved or held in bondage (literally or figuratively). esclavizar (to enslave). </div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 380px; left: 495px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">enslaved or held in bondage (literally or figuratively). esclavizar (to enslave). </div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

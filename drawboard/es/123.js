@@ -16,14 +16,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 17px; font-family: AvenirLight;">Los 'tableros' de control muestran en tiempo real las ventas de la semana</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 19px; font-family: Brandon_Grotesque_regular;">En la oficina, colgaron nuevos 'tableros' de anuncios con las metas del mes.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Los 'tableros' de control muestran en tiempo real las ventas de la semana</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">En la oficina, colgaron nuevos 'tableros' de anuncios con las metas del mes.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 15px;">El carpintero cortó varios 'tableros' de madera para construir los estantes.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 502px; left: 809px; font-size: 44px; font-family: Amatic_bold;">Tableros</div>`;
 
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 19px; font-family: AvenirLight;">The control dashboards show the week's sales in real time</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 19px; font-family: Brandon_Grotesque_regular;">In the office, they hung new announcement boards with the month's goals</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">The control dashboards show the week's sales in real time</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">In the office, they hung new announcement boards with the month's goals</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 17px;">The carpenter cut several wooden boards to build the shelves</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 501px; left: 672px; font-size: 44px; font-family: Amatic_bold;">Boards / Dashboards</div>`;
 

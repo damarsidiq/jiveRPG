@@ -16,12 +16,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">Mi hermana 'nació' en Madrid en 2005.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">La idea 'nació' después de una larga conversación.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">La idea 'nació' después de una larga conversación.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">El movimiento 'nació' en las calles y creció rápidamente.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 378px; left: 917px; font-size: 40px; font-family: Amatic_bold;">Nació</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">My sister was born in Madrid in 2005</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">The idea was born after a long conversation</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The idea was born after a long conversation</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">The movement was born on the streets and grew quickly</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 374px; left: 893px; font-size: 40px; font-family: Amatic_bold;">was born</div>`;
 

@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: FuturaBookItalic;">No saber inglés es una gran desventaja en el mercado laboral.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 16px; font-family: AvenirBook;">Jugar fuera de casa es una desventaja para el equipo.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">No saber inglés es una gran desventaja en el mercado laboral.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Jugar fuera de casa es una desventaja para el equipo.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 264px; left: 636px; font-family: OpenSansSemiboldItalic; font-size: 16px;">La falta de experiencia fue su principal desventaja.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 574px; left: 970px; font-size: 49px; font-family: Amatic_bold;">desventaja</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: FuturaBookItalic;">Not knowing English is a great disadvantage in the job market.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: AvenirBook;">Playing away from home is a disadvantage for the team.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Not knowing English is a great disadvantage in the job market.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Playing away from home is a disadvantage for the team.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 292px; left: 637px; font-family: OpenSansSemiboldItalic; font-size: 16px;">The lack of experience was his main drawback.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="width: 464px; white-space: normal; top: 532px; left: 666px; font-size: 15px; font-family: SourceSansProRegular; height: 90px;">Disadvantage; drawback; handicap — A condition or circumstance that puts one in an unfavorable position; something that makes success or progress more difficult.</div>`;
 

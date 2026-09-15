@@ -15,12 +15,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 163px; left: 706px; font-size: 31px; font-family: Amatic;">Las niñas superdotadas necesitan programas especiales</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 15px; font-family: AvenirBook;">Son alumnas superdotadas con un coeficiente intelectual muy alto</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Son alumnas superdotadas con un coeficiente intelectual muy alto</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Hay una escuela para personas superdotadas en la ciudad</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 625px; left: 718px; font-size: 59px; font-family: Amatic_bold;">Superdotadas</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 163px; left: 706px; font-size: 31px; font-family: Amatic;">Gifted girls need special programs.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 15px; font-family: AvenirBook;">They are gifted students with a very high IQ.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">They are gifted students with a very high IQ.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 16px;">There is a school for gifted people in the city.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 625px; left: 718px; font-size: 59px; font-family: Amatic_bold;">gifted - feminine plural</div>`;
 

@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 343px; left: 150px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Belleza</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">La belleza del paisaje me dejó sin palabras.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Ella tiene una belleza natural que no necesita maquillaje.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 343px; left: 150px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Belleza</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">La belleza del paisaje me dejó sin palabras.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Ella tiene una belleza natural que no necesita maquillaje.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">La belleza está en los ojos del que mira.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 649px; left: 923px; font-size: 40px; font-family: Amatic_bold;">Belleza</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 343px; left: 150px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Beauty</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">The beauty of the landscape left me speechless</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">She has a natural beauty that doesn't need makeup</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 343px; left: 150px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Beauty</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The beauty of the landscape left me speechless</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">She has a natural beauty that doesn't need makeup</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Beauty is in the eye of the beholder</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 649px; left: 923px; font-size: 40px; font-family: Amatic_bold;">beauty</div>`;
 

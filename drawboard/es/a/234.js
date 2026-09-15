@@ -16,12 +16,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 94px; left: 163px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">En su discurso, dijo que no debemos 'codiciar' lo ajeno.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 228px; left: 171px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">La joven promesa 'codicia' el puesto de su jefe.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 228px; left: 171px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">La joven promesa 'codicia' el puesto de su jefe.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">Es peligroso 'codiciar' riquezas ilícitas.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 483px; left: 915px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Codiciar</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 94px; left: 163px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">In his speech, he said we must not covet what belongs to others</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 228px; left: 171px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">The young talent covets his boss’s position</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 228px; left: 171px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">The young talent covets his boss’s position</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">It is dangerous to covet illicit wealth</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 479px; left: 787px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">to covet; to lust after</div>`;
 

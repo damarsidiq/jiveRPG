@@ -16,16 +16,16 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 339px; left: 148px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Enfocar</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Necesito 'enfocar' la cámara para que la foto salga nítida. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 14px; font-family: AvenirBook;">Debemos 'enfocar' nuestros esfuerzos en el proyecto más importante. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 339px; left: 148px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Enfocar</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Necesito 'enfocar' la cámara para que la foto salga nítida. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Debemos 'enfocar' nuestros esfuerzos en el proyecto más importante. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">El telescopio no logró 'enfocar' la estrella lejana. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 637px; left: 913px; font-size: 40px; font-family: Amatic_bold;">enfocar</div>`;
 
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 344px; left: 147px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">to focus</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">I need to focus the camera so the photo comes out sharp</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: AvenirBook;">We must focus our efforts on the most important project</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 344px; left: 147px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">to focus</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">I need to focus the camera so the photo comes out sharp</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">We must focus our efforts on the most important project</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">The telescope failed to focus on the distant star</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 644px; left: 825px; font-size: 40px; font-family: Amatic_bold;">to focus; to aim</div>`;
 

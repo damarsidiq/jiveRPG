@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notepad-3297994_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:727px;top:-37px;left:3px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: FuturaBookItalic;">Ella siempre promete cosas que no cumple.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 17px; font-family: AvenirBook;">Mi jefe promete que mañana nos pagará.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ella siempre promete cosas que no cumple.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Mi jefe promete que mañana nos pagará.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 264px; left: 636px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Te lo promete tu mejor amigo.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 572px; left: 1011px; font-size: 49px; font-family: Amatic_bold;">promete</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 637px; font-size: 17px; font-family: FuturaBookItalic;">She always promises things she doesn't deliver.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 635px; font-size: 17px; font-family: AvenirBook;">My boss promises that he will pay us tomorrow.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 637px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She always promises things she doesn't deliver.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">My boss promises that he will pay us tomorrow.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 637px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Your best friend promises it to you.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="width: 464px; white-space: normal; top: 594px; left: 633px; font-size: 15px; font-family: SourceSansProRegular; height: 90px;">of "prometer" - he/she/it promises. Means to assure someone that you will do something or that something will happen.</div>`;
 

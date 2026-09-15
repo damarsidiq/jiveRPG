@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Le compré un regalo pero voy a 'guardárselo' hasta su cumpleaños.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Es un secreto, puedes 'guardárselo' solo para ti.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Es un secreto, puedes 'guardárselo' solo para ti.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">No quería 'guardárselo' más y le confesó la verdad.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 364px; left: 818px; font-size: 33px; font-family: FuturaBook;">Guardárselo</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 364px; left: 818px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Guardárselo</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+` copytopaste" style="top: 66px; left: 327px; font-size: 28px; font-family: Amatic;">I bought a gift for him/her, but I'm going to 'keep it for him/her' until his/her birthday.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+` copytopaste" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">It's a secret; you can 'keep it' just to yourself.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+` copytopaste" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">It's a secret; you can 'keep it' just to yourself.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+` copytopaste" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">He/She didn't want to 'keep it' to himself/herself anymore and confessed the truth.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` copytopaste" style="top: 370px; left: 729px; font-size: 13px; font-family: FuturaBook;">To keep it to oneself / to keep it for oneself.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` copytopaste" style="top: 370px; left: 729px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">To keep it to oneself / to keep it for oneself.</div>`;
 
 /*guardar (infinitive), me lo guardo, te lo guardas, se lo guarda, guárdatelo (imperative), guardándoselo (gerund).
 In Spain, often practical — "guárdaselo en el bolsillo." In Mexico and Central America, deeply emotional — "se lo guardó todo y no dijo nada" = to bottle up feelings. Can be secretive, protective, or resentful.*/

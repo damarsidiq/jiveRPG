@@ -16,12 +16,12 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">La 'datación' por carbono reveló que el hueso tiene miles de años.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">Los arqueólogos realizaron una 'datación' precisa del mural.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Los arqueólogos realizaron una 'datación' precisa del mural.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">La 'datación' de los manuscritos ayudó a confirmar su origen medieval.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 629px; left: 824px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Datación</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">Carbon dating revealed that the bone is thousands of years old</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The archaeologists performed a precise dating of the mural</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The archaeologists performed a precise dating of the mural</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">The dating of the manuscripts helped confirm their medieval origin</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 630px; left: 532px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">dating (determining age)</div>`;
 

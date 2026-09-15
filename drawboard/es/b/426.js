@@ -17,12 +17,12 @@ dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 30px; font-family: Amatic; color: rgb(255, 255, 255);">Siempre cuenta 'chistes' malísimos en las reuniones.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Los niños se ríen mucho con 'chistes' de animales.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Los niños se ríen mucho con 'chistes' de animales.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">No me gustan los 'chistes' que ofenden a otras personas.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 334px; left: 833px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">chistes</div>`;
 
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 29px; font-family: Amatic; color: rgb(255, 255, 255);">He always tells terrible jokes at gatherings.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Children laugh a lot at animal jokes.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Children laugh a lot at animal jokes.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">I don't like jokes that offend other people.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 332px; left: 858px; font-size: 24px; font-family: OswaldLight; color: rgb(255, 255, 255);">jokes</div>`;
 

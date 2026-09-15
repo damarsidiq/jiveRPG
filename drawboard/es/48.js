@@ -17,12 +17,12 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="top: 0px; left:
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 38px; font-family: Amatic; color: rgb(0, 114, 3);">La luz se desvanece al atardecer</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: AvenirBook; color: rgb(49, 77, 8);">El recuerdo se desvanece con el tiempo</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">El recuerdo se desvanece con el tiempo</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(35, 105, 14);">La memoria de aquel día poco a poco se desvanece con los años</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 625px; left: 784px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">Desvanece</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">The light fades at sunset</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The memory fades with time</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The memory fades with time</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">The memory of that day gradually fades with the years</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 608px; left: 899px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">fades</div>`;
 

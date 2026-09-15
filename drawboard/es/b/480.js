@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notepad-3297994_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:727px;top:-37px;left:3px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: FuturaBookItalic;">Ella cumple años mañana, vamos a celebrarlo.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 17px; font-family: AvenirBook;">El contrato cumple diez años de vigencia este mes.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ella cumple años mañana, vamos a celebrarlo.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El contrato cumple diez años de vigencia este mes.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 264px; left: 636px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Cumple con todas las normas de seguridad establecidas.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 574px; left: 995px; font-size: 49px; font-family: Amatic_bold;">cumple</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: FuturaBookItalic;">She has her birthday tomorrow, let's celebrate.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: AvenirBook;">The contract completes ten years in force this month.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She has her birthday tomorrow, let's celebrate.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">The contract completes ten years in force this month.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 292px; left: 637px; font-family: OpenSansSemiboldItalic; font-size: 16px;">It complies with all established safety regulations.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="width: 464px; white-space: normal; top: 532px; left: 666px; font-size: 15px; font-family: SourceSansProRegular; height: 90px;">He/she fulfills; it meets; it completes — (Third person singular present of *cumplir*) To satisfy requirements, reach an age, or keep a promise; to perform a duty.</div>`;
 

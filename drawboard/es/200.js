@@ -16,12 +16,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">Me miró con 'extrañeza' cuando dije mi nombre.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">La 'extrañeza' del paisaje nos sorprendió a todos.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">La 'extrañeza' del paisaje nos sorprendió a todos.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Noté una cierta 'extrañeza' en su comportamiento.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 370px; left: 881px; font-size: 40px; font-family: Amatic_bold;">Extrañeza</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">She looked at me with strangeness when I said my name</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">The strangeness of the landscape surprised us all</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The strangeness of the landscape surprised us all</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">I noticed a certain oddness in his behavior</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 370px; left: 636px; font-size: 40px; font-family: Amatic_bold;">strangeness; oddness; puzzlement</div>`;
 

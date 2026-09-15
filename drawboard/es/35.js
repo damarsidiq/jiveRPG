@@ -16,13 +16,13 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="top: 0px; left:
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 163px; left: 244px; font-size: 44px; font-family: Amatic; color: rgb(0, 0, 0);">Necesito aguja e 'hilo' para coser este botón</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 294px; left: 247px; font-size: 29px; font-family: AvenirBook; color: rgb(0, 0, 0);">La araña tejió su red con un hilo muy fino</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 294px; left: 247px; font-size: 29px; font-family: NotoSansSemiCondensedLight; color: rgb(0, 0, 0);">La araña tejió su red con un hilo muy fino</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 419px; left: 251px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(0, 0, 0);">Perdí el hilo de la conversación porque me distraje</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt grabbing" style="top: 586px; left: 888px; font-size: 46px; font-family: Amatic_bold; color: rgb(0, 0, 0);">Hilo</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 163px; left: 244px; font-size: 44px; font-family: Amatic; color: rgb(0, 0, 0);">I need a needle and 'thread' to sew this button</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 294px; left: 247px; font-size: 29px; font-family: AvenirBook; color: rgb(0, 0, 0);">The spider wove its web with a very fine thread</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 294px; left: 247px; font-size: 29px; font-family: NotoSansSemiCondensedLight; color: rgb(0, 0, 0);">The spider wove its web with a very fine thread</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 419px; left: 251px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(0, 0, 0);">I lost the thread of the conversation because I got distracted</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 588px; left: 795px; font-size: 46px; font-family: Amatic_bold; color: rgb(0, 0, 0);">thread (as fiber)</div>`;
 

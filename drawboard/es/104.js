@@ -16,13 +16,13 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 149px; left: 384px; font-size: 34px; font-family: Amatic;">Hermana, uno nunca sabe lo que le depara la naturaleza</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 288px; left: 385px; font-size: 18px; font-family: AvenirBook;">No puedes controlar lo que el destino nos depara</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 288px; left: 385px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">No puedes controlar lo que el destino nos depara</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 406px; left: 387px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Nadie sabe lo que el futuro nos depara.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 630px; left: 835px; font-size: 40px; font-family: Amatic_bold;">depara</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 149px; left: 384px; font-size: 29px; font-family: Amatic;">Sister, you never know what nature has in store for you</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 17px; font-family: AvenirBook;">You can't control what fate has in store for us</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">You can't control what fate has in store for us</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 407px; left: 390px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Nobody knows what the future holds for us</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 607px; left: 756px; font-size: 40px; font-family: Amatic_bold;">holds in store</div>`;
 

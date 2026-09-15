@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">La temperatura máxima de hoy será de 35 grados.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Su máxima prioridad es la seguridad de su familia.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Su máxima prioridad es la seguridad de su familia.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Vive según la máxima “trata a los demás como quieres que te traten”.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 376px; left: 769px; font-size: 18px; font-family: FuturaBook;">Máxima; máximo / máxima  </div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 376px; left: 769px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Máxima; máximo / máxima  </div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Today’s maximum temperature will be 35 degrees.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">His top priority is the safety of his family.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">His top priority is the safety of his family.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">He lives by the maxim “treat others as you want to be treated.”  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 371px; left: 331px; font-size: 13px; font-family: FuturaBook;">feminine form of the adj. “máximo” (maximum, highest) / feminine noun meaning “maxim,” “principle,” or “saying.”</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 371px; left: 331px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">feminine form of the adj. “máximo” (maximum, highest) / feminine noun meaning “maxim,” “principle,” or “saying.”</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

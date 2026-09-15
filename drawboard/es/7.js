@@ -15,17 +15,17 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 185px; left: 204px; font-size: 21px; font-family: Baskerville6;">Este vestido está hecho de un 'tejido' muy suave y ligero.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 318px; left: 205px; font-size: 21px; font-family: Baskerville6;">El médico examinó el 'tejido' dañado después de la cirugía</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 461px; left: 205px; font-family: AvenirOblique; font-size: 19px;">El tejido moral de la sociedad se había corrompido hasta la médula.</div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt wspeed_150" style="top: 599px; left: 872px; font-size: 30px; font-family: AvenirBookOblique;">Tejido</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 185px; left: 204px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">Este vestido está hecho de un 'tejido' muy suave y ligero.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 318px; left: 205px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">El médico examinó el 'tejido' dañado después de la cirugía</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 461px; left: 205px; font-family: NotoSansSemiCondensedLight; font-size: 19px;">El tejido moral de la sociedad se había corrompido hasta la médula.</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt wspeed_150" style="top: 599px; left: 872px; font-size: 30px; font-family: NotoSansSemiCondensedLight;">Tejido</div>`;
 
 
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 185px; left: 204px; font-size: 21px; font-family: Baskerville6;">This dress is made of a very soft and light 'fabric'. </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 318px; left: 205px; font-size: 21px; font-family: Baskerville6;">The doctor examined the damaged 'tissue' after the surgery.</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 461px; left: 205px; font-family: AvenirOblique; font-size: 19px;">The society's moral fabric had become rotten to the core.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` wspeed_90" style="top: 608px; left: 776px; font-size: 34px; font-family: DINRegularAlternate;">fabric / tissue</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 185px; left: 204px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">This dress is made of a very soft and light 'fabric'. </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 318px; left: 205px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">The doctor examined the damaged 'tissue' after the surgery.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 461px; left: 205px; font-family: NotoSansSemiCondensedLight; font-size: 19px;">The society's moral fabric had become rotten to the core.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` wspeed_90" style="top: 608px; left: 776px; font-size: 34px; font-family: NotoSansSemiCondensedLight;">fabric / tissue</div>`;
 
 
 

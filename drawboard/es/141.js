@@ -16,16 +16,16 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 339px; left: 148px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Reduce</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">El ejercicio regular 'reduce' el estrés. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 17px; font-family: AvenirBook;">Esta aplicación 'reduce' el tamaño de los archivos. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 339px; left: 148px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Reduce</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El ejercicio regular 'reduce' el estrés. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Esta aplicación 'reduce' el tamaño de los archivos. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Una buena dieta 'reduce' el riesgo de enfermedades. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 630px; left: 920px; font-size: 40px; font-family: Amatic_bold;">Reduce</div>`;
 
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 148px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">reduces</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Regular exercise reduces stress</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 17px; font-family: AvenirBook;">This app reduces the size of files</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 148px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">reduces</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Regular exercise reduces stress</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">This app reduces the size of files</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">A good diet reduces the risk of diseases</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 632px; left: 715px; font-size: 40px; font-family: Amatic_bold;">reduces; shrinks; decreases</div>`;
 

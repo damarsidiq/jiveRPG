@@ -16,16 +16,16 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 344px; left: 136px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Pestañas</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Ella tiene pestañas largas y hermosas.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Se puso rímel para resaltar sus pestañas.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 344px; left: 136px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Pestañas</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ella tiene pestañas largas y hermosas.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Se puso rímel para resaltar sus pestañas.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Las pestañas postizas se le cayeron durante la fiesta.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 647px; left: 907px; font-size: 40px; font-family: Amatic_bold;">Pestañas</div>`;
 
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 124px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">eyelashes</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">She has long, beautiful eyelashes</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">She put on mascara to highlight her eyelashes</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 124px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">eyelashes</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She has long, beautiful eyelashes</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">She put on mascara to highlight her eyelashes</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Her false eyelashes fell off during the party</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 648px; left: 646px; font-size: 40px; font-family: Amatic_bold;">eyelashes; tabs (e.g., browser tabs)</div>`;
 

@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 342px; left: 142px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Estarías</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Estarías más cómodo con estos zapatos</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 17px; font-family: AvenirBook;">Si vinieras, 'estarías' feliz. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 342px; left: 142px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Estarías</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Estarías más cómodo con estos zapatos</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Si vinieras, 'estarías' feliz. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Estarías' cansado después de tanto trabajo</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 639px; left: 907px; font-size: 40px; font-family: Amatic_bold;">estarías </div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 346px; left: 93px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">you would be</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">You would be more comfortable with these shoes</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 17px; font-family: AvenirBook;">If you came, you would be happy</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 346px; left: 93px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">you would be</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">You would be more comfortable with these shoes</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">If you came, you would be happy</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">You would be tired after so much work</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 631px; left: 605px; font-size: 40px; font-family: Amatic_bold;">you would be (conditional of "estar")</div>`;
 

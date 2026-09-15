@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 334px; left: 119px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Paralizado</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">El tráfico estaba 'paralizado' por el accidente. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Se quedó 'paralizado' del miedo al ver al perro. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 334px; left: 119px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Paralizado</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El tráfico estaba 'paralizado' por el accidente. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Se quedó 'paralizado' del miedo al ver al perro. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">El proyecto sigue 'paralizado' por falta de fondos. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 641px; left: 860px; font-size: 48px; font-family: Amatic_bold;">Paralizado</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 334px; left: 119px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">paralyzed</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Traffic was paralyzed due to the accident</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">He was paralyzed with fear when he saw the dog</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 334px; left: 119px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">paralyzed</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Traffic was paralyzed due to the accident</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">He was paralyzed with fear when he saw the dog</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">The project remains stalled due to lack of funds</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 638px; left: 636px; font-size: 40px; font-family: Amatic_bold;">paralyzed; frozen (with fear, etc.)</div>`;
 

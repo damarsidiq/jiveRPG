@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notepad-3297994_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:727px;top:-37px;left:3px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: FuturaBookItalic;">Vertió el agua hirviendo en la taza de té.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 16px; font-family: AvenirBook;">La empresa vertió millones de litros de residuos tóxicos al río.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Vertió el agua hirviendo en la taza de té.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">La empresa vertió millones de litros de residuos tóxicos al río.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 264px; left: 636px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Vertió todas sus emociones en esa carta.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 573px; left: 1010px; font-size: 49px; font-family: Amatic_bold;">vertió</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: FuturaBookItalic;">She poured the boiling water into the teacup.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: AvenirBook;">The company poured millions of liters of toxic waste into the river.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She poured the boiling water into the teacup.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">The company poured millions of liters of toxic waste into the river.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 292px; left: 637px; font-family: OpenSansSemiboldItalic; font-size: 16px;">He poured all his emotions into that letter.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="width: 464px; white-space: normal; top: 532px; left: 666px; font-size: 15px; font-family: SourceSansProRegular; height: 90px;">He/she poured; spilled; shed — (Third person singular preterite of *verter*) To cause a liquid to flow from a container; to discharge or empty out; to express feelings freely.</div>`;
 

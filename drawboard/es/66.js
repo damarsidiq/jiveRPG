@@ -16,12 +16,12 @@ dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 29px; font-family: Amatic; color: rgb(255, 255, 255);">2 + 2 = 5 es una ecuación falsa</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">El profesor nos mostró una ecuación falsa para explicar el error</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">El profesor nos mostró una ecuación falsa para explicar el error</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 236px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">El matemático demostró que aquella ecuación falsa no tenía solución posible</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 337px; left: 752px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Ecuación falsa</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 29px; font-family: Amatic; color: rgb(255, 255, 255);"> 2 + 2 = 5 is a false equation</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">The teacher showed us a false equation to explain the mistake</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">The teacher showed us a false equation to explain the mistake</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 236px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">The mathematician proved that that false equation had no possible solution</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 756px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);"> false equation</div>`;
 

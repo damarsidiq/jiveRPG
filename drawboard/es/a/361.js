@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">No está bien 'burlarse' de los demás.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Sus amigos empezaron a 'burlarse' de su nuevo corte de pelo.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Sus amigos empezaron a 'burlarse' de su nuevo corte de pelo.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Aprendió a no 'burlarse' y a respetar a todos.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 376px; left: 850px; font-size: 33px; font-family: FuturaBook;">Burlarse</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 376px; left: 850px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Burlarse</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 36px; font-family: Amatic;">It isn't right to 'make fun of' others.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">His friends started 'making fun of' his new haircut.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">His friends started 'making fun of' his new haircut.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 15px;">He learned not to 'make fun of' others and to respect everyone.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 376px; left: 781px; font-size: 13px; font-family: FuturaBook;">To mock / to make fun of / to scoff.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 376px; left: 781px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">To mock / to make fun of / to scoff.</div>`;
 
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};

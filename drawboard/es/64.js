@@ -16,11 +16,11 @@ dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 29px; font-family: Amatic; color: rgb(255, 255, 255);">Puedes elegir 'cualquiera de ellos'; todos tienen el mismo precio</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Si tienes dudas, pregunta a 'cualquiera de ellos' y te ayudarán</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Si tienes dudas, pregunta a 'cualquiera de ellos' y te ayudarán</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 339px; left: 705px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Cualquiera de ellos</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 27px; font-family: Amatic; color: rgb(255, 255, 255);">You can choose 'any of them'; they all have the same price.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">If you have questions, ask 'any of them' and they will help you.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">If you have questions, ask 'any of them' and they will help you.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 337px; left: 784px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">any of them</div>`;
 
 

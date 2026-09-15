@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/coffee-2425303_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 718px;"><img src="`+bimgpath+`" style=""></div>`;
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">El cumplimiento de las normas es obligatorio.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">Celebramos el cumplimiento de nuestros objetivos anuales.  </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">El cumplimiento de las normas es obligatorio.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Celebramos el cumplimiento de nuestros objetivos anuales.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">Exigen el estricto cumplimiento del contrato.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 334px; left: 794px; font-size: 29px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Cumplimiento</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">Compliance with the rules is mandatory.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">We celebrated the achievement of our annual goals.  </div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Compliance with the rules is mandatory.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">We celebrated the achievement of our annual goals.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">They demand strict fulfillment of the contract.  </div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 336px; left: 510px; font-size: 24px; font-family: Amatic_bold; color: rgb(255, 255, 255);">cumplir. fulfillment, compliance, observance, or achievement</div>`;
 

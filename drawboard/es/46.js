@@ -18,12 +18,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
  vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 38px; font-family: Amatic; color: rgb(0, 114, 3);">La entrega del paquete llegará mañana</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: AvenirBook; color: rgb(49, 77, 8);">Su entrega del proyecto fue excelente</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Su entrega del proyecto fue excelente</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 23px; color: rgb(35, 105, 14);">La enfermera asistió en la entrega / el parto</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 617px; left: 590px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">Entrega (envío, parto)</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">The delivery of the package will arrive tomorrow</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">Her delivery / submission of the project was excellent</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Her delivery / submission of the project was excellent</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">The nurse assisted in the delivery / birth</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 610px; left: 839px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Delivery</div>`;
 

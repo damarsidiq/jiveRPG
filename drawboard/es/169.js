@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notebook-2637757_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 720px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 454px; font-size: 14px; font-family: AvenirLight;">Los 'videntes' afirmaron que el futuro era incierto</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 453px; font-size: 14px; font-family: AvenirBook;">Muchos 'videntes' ofrecen sus servicios por internet</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 454px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Los 'videntes' afirmaron que el futuro era incierto</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 453px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Muchos 'videntes' ofrecen sus servicios por internet</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 454px; font-family: OpenSansSemiboldItalic; font-size: 13px;">Los 'videntes' no siempre aciertan en sus predicciones</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 588px; left: 690px; font-size: 35px; font-family: Amatic_bold;">Videntes</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 454px; font-size: 14px; font-family: AvenirLight;">The seers claimed that the future was uncertain</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 453px; font-size: 14px; font-family: AvenirBook;">Many clairvoyants offer their services online</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 454px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">The seers claimed that the future was uncertain</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 453px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Many clairvoyants offer their services online</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 454px; font-family: OpenSansSemiboldItalic; font-size: 13px;">Seers don't always get their predictions right</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 589px; left: 451px; font-size: 29px; font-family: Amatic_bold;">seers; clairvoyants; visionaries (plural)</div>`;
 

@@ -15,12 +15,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 32px; font-family: Amatic; color: rgb(255, 255, 255);">La naturaleza tiene el lado caótico y el ordenado</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Todo sistema tiene el lado caótico</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Todo sistema tiene el lado caótico</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 236px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 15px; color: rgb(255, 255, 255);">Exploró el lado caótico de la creatividad</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 336px; left: 752px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">El lado caótico</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 27px; font-family: Amatic; color: rgb(255, 255, 255);">Nature has the side of chaos and the orderly one</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Every system has the chaotic side</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Every system has the chaotic side</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 236px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 15px; color: rgb(255, 255, 255);">He explored the chaotic side of creativity</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 333px; left: 739px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">The chaotic side</div>`;
 

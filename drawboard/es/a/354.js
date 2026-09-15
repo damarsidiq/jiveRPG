@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Es importante expresar tus 'sentimientos' con honestidad.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Sus 'sentimientos' por ella cambiaron con el tiempo.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Sus 'sentimientos' por ella cambiaron con el tiempo.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">No quise herir sus 'sentimientos'.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 375px; left: 812px; font-size: 33px; font-family: FuturaBook;">Sentimientos</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 375px; left: 812px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Sentimientos</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+` copytopaste" style="top: 66px; left: 327px; font-size: 28px; font-family: Amatic;">It is important to express your 'feelings' honestly.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+` copytopaste" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">His 'feelings' for her changed over time.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+` copytopaste" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">His 'feelings' for her changed over time.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+` copytopaste" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">I didn't want to hurt his/her 'feelings'.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` copytopaste" style="top: 381px; left: 799px; font-size: 13px; font-family: FuturaBook;">Feelings / emotions / sentiments.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` copytopaste" style="top: 381px; left: 799px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Feelings / emotions / sentiments.</div>`;
 
 
 /*sentimiento (singular), sentimental, sentir (verb), sintiendo.

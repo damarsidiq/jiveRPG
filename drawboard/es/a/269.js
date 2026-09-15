@@ -15,15 +15,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 88px; left: 666px; font-size: 18px; font-family: DINRegular;">Aclaramos todos los puntos antes de firmar el contrato.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 233px; left: 667px; font-size: 17px; font-family: DINRegular;">Ayer aclaramos el malentendido con el cliente.  </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 88px; left: 666px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Aclaramos todos los puntos antes de firmar el contrato.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 233px; left: 667px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ayer aclaramos el malentendido con el cliente.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 369px; left: 670px; font-family: RalewayMedium; font-size: 16px;">Aclaramos la situación para que nadie se sienta confundido.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 624px; left: 991px; font-size: 30px; font-family: AvenirBook;">Aclaramos</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 624px; left: 991px; font-size: 30px; font-family: NotoSansSemiCondensedLight;">Aclaramos</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 88px; left: 666px; font-size: 18px; font-family: DINRegular;">We clarified all the points before signing the contract.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 233px; left: 667px; font-size: 17px; font-family: DINRegular;">Yesterday we cleared up the misunderstanding with the client.  </div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 88px; left: 666px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">We clarified all the points before signing the contract.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 233px; left: 667px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Yesterday we cleared up the misunderstanding with the client.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 369px; left: 670px; font-family: RalewayMedium; font-size: 16px;">We clarified the situation so that no one feels confused.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 627px; left: 677px; font-size: 15px; font-family: AvenirBook;">“aclarar” (to clarify, to clear up, to explain). we clarify / we clear up</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 627px; left: 677px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">“aclarar” (to clarify, to clear up, to explain). we clarify / we clear up</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">Este asunto es muy delicado y requiere discreción.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">Vamos a tratar el asunto en la próxima reunión.  </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Este asunto es muy delicado y requiere discreción.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Vamos a tratar el asunto en la próxima reunión.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">No me metas en ese asunto, por favor.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 325px; left: 830px; font-size: 39px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Asunto</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">This matter is very delicate and requires discretion.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">We are going to deal with the issue at the next meeting.  </div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">This matter is very delicate and requires discretion.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">We are going to deal with the issue at the next meeting.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">Please don’t involve me in that matter.  </div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 336px; left: 599px; font-size: 30px; font-family: Amatic_bold; color: rgb(255, 255, 255);">matter, issue, subject, affair, business</div>`;
 

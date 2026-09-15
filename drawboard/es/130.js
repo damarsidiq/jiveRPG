@@ -15,13 +15,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/tablet-602968_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:712px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 16px; font-family: AvenirLight;">El banco tiene una 'bóveda' blindada donde guarda todo el dinero en efectivo</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 19px; font-family: Brandon_Grotesque_regular;">Los arqueólogos descubrieron una 'bóveda' secreta bajo el antiguo templo.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">El banco tiene una 'bóveda' blindada donde guarda todo el dinero en efectivo</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">Los arqueólogos descubrieron una 'bóveda' secreta bajo el antiguo templo.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">La 'bóveda' celeste se veía llena de estrellas aquella noche despejada.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 503px; left: 818px; font-size: 44px; font-family: Amatic_bold;">Bóveda</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 19px; font-family: AvenirLight;">The bank has a vault where it keeps all the cash</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 19px; font-family: Brandon_Grotesque_regular;">Archaeologists discovered a secret vault under the ancient temple</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">The bank has a vault where it keeps all the cash</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">Archaeologists discovered a secret vault under the ancient temple</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">The celestial vault looked full of stars that clear night</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 500px; left: 827px; font-size: 44px; font-family: Amatic_bold;">Vault</div>`;
 

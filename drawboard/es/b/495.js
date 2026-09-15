@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notepad-3297994_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:727px;top:-37px;left:3px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: FuturaBookItalic;">Viven en una quinta hermosa en las afueras de la ciudad.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 16px; font-family: AvenirBook;">La quinta sinfonía de Beethoven es mundialmente famosa.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 67px; left: 635px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Viven en una quinta hermosa en las afueras de la ciudad.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 161px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">La quinta sinfonía de Beethoven es mundialmente famosa.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 264px; left: 636px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Compró una quinta hectárea de terreno para construir su casa.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 569px; left: 1018px; font-size: 49px; font-family: Amatic_bold;">quinta</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: FuturaBookItalic;">They live in a beautiful country house on the outskirts of the city.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: AvenirBook;">Beethoven's Fifth Symphony is world-famous.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 75px; left: 637px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">They live in a beautiful country house on the outskirts of the city.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 171px; left: 635px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Beethoven's Fifth Symphony is world-famous.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 292px; left: 637px; font-family: OpenSansSemiboldItalic; font-size: 16px;">He bought a fifth of a hectare of land to build his house.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="width: 464px; white-space: normal; top: 532px; left: 666px; font-size: 15px; font-family: SourceSansProRegular; height: 90px;">Country house; estate; fifth — A rural property or villa; also the ordinal number fifth; in some contexts, a fifth of a quantity.</div>`;
 

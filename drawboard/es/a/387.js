@@ -15,15 +15,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 88px; left: 666px; font-size: 20px; font-family: DINRegular;">"Atentamente, Laura Pérez."</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 233px; left: 667px; font-size: 17px; font-family: DINRegular;">"El perro escuchó atentamente cada orden."</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 88px; left: 666px; font-size: 20px; font-family: NotoSansSemiCondensedLight;">"Atentamente, Laura Pérez."</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 233px; left: 667px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">"El perro escuchó atentamente cada orden."</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 369px; left: 670px; font-family: RalewayMedium; font-size: 16px;">"Le agradezco atentamente su ayuda."</div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 637px; left: 818px; font-size: 53px; font-family: AvenirBook;">Atentamente</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 637px; left: 818px; font-size: 53px; font-family: NotoSansSemiCondensedLight;">Atentamente</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 88px; left: 666px; font-size: 20px; font-family: DINRegular;">Sincerely, Laura Pérez.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 233px; left: 667px; font-size: 17px; font-family: DINRegular;">The dog listened attentively to every command.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 88px; left: 666px; font-size: 20px; font-family: NotoSansSemiCondensedLight;">Sincerely, Laura Pérez.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 233px; left: 667px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The dog listened attentively to every command.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 369px; left: 670px; font-family: RalewayMedium; font-size: 17px;">I sincerely thank you for your help.</div>`;
-vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 639px; left: 670px; font-size: 19px; font-family: AvenirBook;">attentively/sincerely. standard closing in letters/emails.</div>`;
+vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 639px; left: 670px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">attentively/sincerely. standard closing in letters/emails.</div>`;
 
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};

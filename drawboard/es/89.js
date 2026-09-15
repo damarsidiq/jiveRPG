@@ -16,13 +16,13 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 163px; left: 706px; font-size: 31px; font-family: Amatic;">Las entradas para el concierto se agotan muy rápido</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 19px; font-family: AvenirBook;">Se nos agotan las ideas para el regalo</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">Se nos agotan las ideas para el regalo</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 19px;">Si no compramos ahora, las ofertas se agotan</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 625px; left: 718px; font-size: 59px; font-family: Amatic_bold;">Se agotan</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 163px; left: 706px; font-size: 30px; font-family: Amatic;">The tickets for the concert sell out / run out very quickly.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 19px; font-family: AvenirBook;">We are running out of ideas for the gift.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">We are running out of ideas for the gift.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 19px;">If we don't buy now, the offers will run out.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 625px; left: 718px; font-size: 48px; font-family: Amatic_bold;">they're running out / they run out</div>`;
 

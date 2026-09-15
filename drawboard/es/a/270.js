@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 21px; font-family: AvenirBook; color: rgb(255, 255, 255);">Agregamos más sal a la sopa porque estaba sosa.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">En la reunión agregamos tres puntos nuevos a la agenda.  </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Agregamos más sal a la sopa porque estaba sosa.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">En la reunión agregamos tres puntos nuevos a la agenda.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">Agregamos tu nombre a la lista de invitados.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 339px; left: 780px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Agregamos</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">We added more salt to the soup because it was bland.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">In the meeting we added three new points to the agenda.  </div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">We added more salt to the soup because it was bland.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">In the meeting we added three new points to the agenda.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">We added your name to the guest list.  </div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 337px; left: 393px; font-size: 30px; font-family: Amatic_bold; color: rgb(255, 255, 255);">agregar (to add, to include, to append). “we add / we include.”</div>`;
 

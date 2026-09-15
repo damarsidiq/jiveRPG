@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">Me apetecía un helado, pero la heladería estaba cerrada.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">No me apetecía nada salir anoche.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Me apetecía un helado, pero la heladería estaba cerrada.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">No me apetecía nada salir anoche.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">A él le apetecía dormir una siesta después de comer.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 500px; left: 808px; font-size: 44px; font-family: Amatic_bold;">Apetecía</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">I felt like an ice cream, but the ice cream shop was closed.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">I didn't feel like going out at all last night.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">I felt like an ice cream, but the ice cream shop was closed.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">I didn't feel like going out at all last night.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">He felt like taking a nap after eating.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 503px; left: 463px; font-size: 21px; font-family: Amatic_bold;">I/He/She/It used to feel like / was feeling like / fancied (ongoing past desire).</div>`;
 

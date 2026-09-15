@@ -16,16 +16,16 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 340px; left: 139px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Defecto</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">El producto tiene un 'defecto' de fábrica. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Se detectaron 'defectos' en la construcción. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 340px; left: 139px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Defecto</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El producto tiene un 'defecto' de fábrica. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Se detectaron 'defectos' en la construcción. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Por 'defecto', la aplicación se abre en pantalla completa. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 626px; left: 903px; font-size: 50px; font-family: Amatic_bold;">Defecto</div>`;
 
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 342px; left: 156px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">defect</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">The product has a manufacturing defect</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Defects were detected in the construction</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 342px; left: 156px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">defect</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The product has a manufacturing defect</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Defects were detected in the construction</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 16px;">By default, the app opens in full screen</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 641px; left: 590px; font-size: 29px; font-family: Amatic_bold;">defect; flaw; default (e.g., "por defecto" = by default)</div>`;
 

@@ -21,7 +21,7 @@ vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 406px;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 628px; left: 781px; font-size: 40px; font-family: Amatic_bold;">despedazan</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 149px; left: 384px; font-size: 23px; font-family: Amatic;">Many fans tear the latest album apart, claiming it doesn't reflect the artist's style.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 17px; font-family: DINRegular;">And yet, you tear each other apart like wild beasts</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">And yet, you tear each other apart like wild beasts</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 407px; left: 390px; font-family: OpenSansSemiboldItalic; font-size: 15px;">The dogs tear the cardboard box to pieces in the yard</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 607px; left: 690px; font-size: 40px; font-family: Amatic_bold;">they chop, ravening</div>`;
 

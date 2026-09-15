@@ -21,7 +21,7 @@ vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 406px;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 621px; left: 787px; font-size: 40px; font-family: Amatic_bold;">restablecen</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 149px; left: 384px; font-size: 26px; font-family: Amatic;">Herbal extracts remove impurities, clarify, and restore the skin's balance</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 16px; font-family: DINRegular;">They eliminate fluid from the middle ear and restore hearing</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">They eliminate fluid from the middle ear and restore hearing</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 407px; left: 390px; font-family: OpenSansSemiboldItalic; font-size: 15px;">Passwords are reset regularly to ensure account security</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 604px; left: 760px; font-size: 40px; font-family: Amatic_bold;">restore, reset</div>`;
 

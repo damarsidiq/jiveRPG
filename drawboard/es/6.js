@@ -16,17 +16,17 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 
-vt[vt.length]=`<div id="text_13" class="textshirt mergershirt" style="top: 218px; left: 205px; width: 739px; height: 30px;"><div id="text_3" class="textshirt class" style="top: 218px; left: 205px; font-size: 21px; font-family: DINRegular;">El terapeuta recomendó un tratamiento</div><div id="text_9" class="textshirt class" style="font-weight: bold; text-decoration: underline; top: 218px; left: 580px; font-size: 21px; font-family: DINLight;">conductual</div><div id="text_11" class="textshirt class" style="top: 218px; left: 693px; font-size: 21px; font-family: DINRegular;">para controlar la ansiedad.</div></div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 348px; left: 205px; font-size: 21px; font-family: Baskerville6;">Los cambios conductuales en el niño fueron notables después de empezar la escuela</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 461px; left: 205px; font-family: AvenirOblique; font-size: 19px;">Conductual vs. actitudinal, cualitativo vs. cuantitativo</div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt wspeed_90" style="top: 591px; left: 833px; font-size: 30px; font-family: AvenirBookOblique;">Conductual</div>`;
+vt[vt.length]=`<div id="text_13" class="textshirt mergershirt" style="top: 218px; left: 205px; width: 739px; height: 30px;"><div id="text_3" class="textshirt class" style="top: 218px; left: 205px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">El terapeuta recomendó un tratamiento</div><div id="text_9" class="textshirt class" style="font-weight: bold; text-decoration: underline; top: 218px; left: 580px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">conductual</div><div id="text_11" class="textshirt class" style="top: 218px; left: 693px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">para controlar la ansiedad.</div></div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 348px; left: 205px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">Los cambios conductuales en el niño fueron notables después de empezar la escuela</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 461px; left: 205px; font-family: NotoSansSemiCondensedLight; font-size: 19px;">Conductual vs. actitudinal, cualitativo vs. cuantitativo</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt wspeed_90" style="top: 591px; left: 833px; font-size: 30px; font-family: NotoSansSemiCondensedLight;">Conductual</div>`;
 
 
 
-vte[vte.length]=`<div id="text_3" class="textshirt mergershirt `+transws+`" style="top: 218px; left: 205px; font-size: 21px; font-family: DINRegular;">The therapist recommended a 'behavioral' treatment to control anxiety.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt `+transws+`" style="top: 348px; left: 205px; font-size: 21px; font-family: Baskerville6;">The 'behavioral' changes in the child were noticeable after starting school.</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt `+transws+`" style="top: 461px; left: 205px; font-family: AvenirOblique; font-size: 19px;">Behavioural vs attitudinal, qualitative vs quantitative</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt `+transws+`" style="top: 591px; left: 833px; font-size: 30px; font-family: AvenirBookOblique;">Behavioural</div>`;
+vte[vte.length]=`<div id="text_3" class="textshirt mergershirt `+transws+`" style="top: 218px; left: 205px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">The therapist recommended a 'behavioral' treatment to control anxiety.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt `+transws+`" style="top: 348px; left: 205px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">The 'behavioral' changes in the child were noticeable after starting school.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt `+transws+`" style="top: 461px; left: 205px; font-family: NotoSansSemiCondensedLight; font-size: 19px;">Behavioural vs attitudinal, qualitative vs quantitative</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt `+transws+`" style="top: 591px; left: 833px; font-size: 30px; font-family: NotoSansSemiCondensedLight;">Behavioural</div>`;
 
 
 

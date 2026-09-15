@@ -17,13 +17,13 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 158px; left: 354px; font-size: 27px; font-family: Amatic;">Podemos resolver este problema 'mediante' una reunión honesta y directa.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 354px; font-size: 17px; font-family: AvenirBook;">La empresa aumentó sus ventas 'mediante' campañas digitales agresivas.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 354px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">La empresa aumentó sus ventas 'mediante' campañas digitales agresivas.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 361px; left: 352px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Accediste al sistema 'mediante' tu huella dactilar.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 501px; left: 801px; font-size: 40px; font-family: Amatic_bold;">Mediante</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 158px; left: 354px; font-size: 31px; font-family: Amatic;">We can solve this problem through an honest and direct meeting</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 354px; font-size: 17px; font-family: AvenirBook;">The company increased its sales through aggressive digital campaigns</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 354px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The company increased its sales through aggressive digital campaigns</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 361px; left: 352px; font-family: OpenSansSemiboldItalic; font-size: 19px;">You accessed the system by means of your fingerprint</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 501px; left: 670px; font-size: 40px; font-family: Amatic_bold;">By means of / Through</div>`;
 
@@ -34,13 +34,13 @@ dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 vt = [];
 vte = [];
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">Lo conseguimos mediante mucho esfuerzo.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">Mediante este método, resolverás el problema.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Lo conseguimos mediante mucho esfuerzo.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">Mediante este método, resolverás el problema.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">Se comunican mediante señales.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 499px; left: 790px; font-size: 44px; font-family: Amatic_bold;">Mediante</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">We achieved it through great effort.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">By means of this method, you will solve the problem.</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">We achieved it through great effort.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">By means of this method, you will solve the problem.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">They communicate through signals.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 501px; left: 647px; font-size: 44px; font-family: Amatic_bold;">Through / By means of</div>`;
 

@@ -15,15 +15,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 344px; left: 92px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Pacientemente</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">El profesor explicó 'pacientemente' el ejercicio otra vez.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 198px; left: 561px; font-size: 17px; font-family: AvenirBook;">Ella esperó 'pacientemente' en la fila durante una hora.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 344px; left: 92px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Pacientemente</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El profesor explicó 'pacientemente' el ejercicio otra vez.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 198px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ella esperó 'pacientemente' en la fila durante una hora.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 16px;">Debes escuchar 'pacientemente' antes de responder.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 638px; left: 811px; font-size: 49px; font-family: Amatic_bold;">Pacientemente</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 338px; left: 135px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">patiently</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">The professor patiently explained the exercise again.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: AvenirBook;">She waited patiently in line for an hour.</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 338px; left: 135px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">patiently</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The professor patiently explained the exercise again.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She waited patiently in line for an hour.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 16px;">You must listen patiently before answering.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 637px; left: 871px; font-size: 49px; font-family: Amatic_bold;">patiently</div>`;
 

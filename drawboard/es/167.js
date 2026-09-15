@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 454px; font-size: 14px; font-family: AvenirLight;">Está 'vendiendo' su coche para pagar las deudas</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 447px; font-size: 13px; font-family: AvenirBook;">Llevan toda la mañana 'vendiendo' frutas en el mercado</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 454px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Está 'vendiendo' su coche para pagar las deudas</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 447px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Llevan toda la mañana 'vendiendo' frutas en el mercado</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 454px; font-family: OpenSansSemiboldItalic; font-size: 13px;">No me gusta la idea de estar 'vendiendo' mi tiempo</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 590px; left: 682px; font-size: 32px; font-family: Amatic_bold;">Vendiendo</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 454px; font-size: 15px; font-family: AvenirLight;">He is selling his car to pay off debts</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 447px; font-size: 13px; font-family: AvenirBook;">They have been selling fruits at the market all morning</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 454px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">He is selling his car to pay off debts</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 447px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">They have been selling fruits at the market all morning</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 454px; font-family: OpenSansSemiboldItalic; font-size: 15px;">I don't like the idea of selling my time</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 591px; left: 702px; font-size: 35px; font-family: Amatic_bold;">selling</div>`;
 

@@ -15,15 +15,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 338px; left: 146px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Sacudió</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">El perro se 'sacudió' después de salir del agua.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 198px; left: 561px; font-size: 17px; font-family: AvenirBook;">Ella 'sacudió' la alfombra en el balcón.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 338px; left: 146px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Sacudió</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El perro se 'sacudió' después de salir del agua.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 198px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ella 'sacudió' la alfombra en el balcón.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 16px;">El terremoto 'sacudió' toda la ciudad.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 633px; left: 899px; font-size: 49px; font-family: Amatic_bold;">Sacudió</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 338px; left: 146px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">shook</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">The dog shook itself after getting out of the water.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: AvenirBook;">She shook the rug on the balcony.</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 338px; left: 146px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">shook</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The dog shook itself after getting out of the water.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She shook the rug on the balcony.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 16px;">The earthquake shook the whole city.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 635px; left: 794px; font-size: 49px; font-family: Amatic_bold;">he/she/it shook</div>`;
 

@@ -16,14 +16,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 158px; left: 354px; font-size: 18px; font-family: AvenirLight;">Para tener éxito, a veces hay que saber 'imponerse' ante las críticas.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 354px; font-size: 18px; font-family: AvenirBook;">Su talento natural logró 'imponerse' sobre la falta de experiencia.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 158px; left: 354px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Para tener éxito, a veces hay que saber 'imponerse' ante las críticas.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 258px; left: 354px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Su talento natural logró 'imponerse' sobre la falta de experiencia.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 361px; left: 352px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Es difícil 'imponerse' en una cultura corporativa tan rígida como esta.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 503px; left: 795px; font-size: 40px; font-family: Amatic_bold;">Imponerse</div>`;
 
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 158px; left: 354px; font-size: 15px; font-family: AvenirLight;">To succeed, sometimes you have to know how to assert yourself against criticism</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 354px; font-size: 18px; font-family: AvenirBook;">His natural talent managed to prevail over the lack of experience</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 158px; left: 354px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">To succeed, sometimes you have to know how to assert yourself against criticism</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 258px; left: 354px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">His natural talent managed to prevail over the lack of experience</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 361px; left: 352px; font-family: OpenSansSemiboldItalic; font-size: 17px;">It's hard to assert oneself in such a rigid corporate culture as this</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 502px; left: 589px; font-size: 40px; font-family: Amatic_bold;">To impose oneself / To prevail</div>`;
 

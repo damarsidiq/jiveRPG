@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/coffee-2425303_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 718px;"><img src="`+bimgpath+`" style=""></div>`;
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">Buscamos soluciones adecuadas para el problema.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">Las medidas no eran adecuadas para la situación.  </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Buscamos soluciones adecuadas para el problema.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Las medidas no eran adecuadas para la situación.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">Ella eligió las palabras más adecuadas para el discurso.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 335px; left: 827px; font-size: 29px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Adecuadas</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">We are looking for suitable solutions for the problem.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">The measures were not appropriate for the situation.  </div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">We are looking for suitable solutions for the problem.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">The measures were not appropriate for the situation.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">She chose the most suitable words for the speech.  </div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 337px; left: 505px; font-size: 29px; font-family: Amatic_bold; color: rgb(255, 255, 255);">adecuado(adequate, suitable, appropriate, fitting).</div>`;
 

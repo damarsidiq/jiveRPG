@@ -15,12 +15,12 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt copytopaste" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">Ellos iban caminando hacia la escuela todos los días.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt copytopaste" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">¿A dónde iban ustedes cuando los vi anoche?</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt copytopaste" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">¿A dónde iban ustedes cuando los vi anoche?</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt copytopaste" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">Las niñas iban vestidas de blanco para la ceremonia.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt copytopaste" style="top: 621px; left: 880px; font-size: 43px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Iban</div>`;
 
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">They used to walk to school every day.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">Where were you all going when I saw you last night?</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Where were you all going when I saw you last night?</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(95, 9, 105);">The girls were dressed in white for the ceremony. (Ir vestido = to be dressed)</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 627px; left: 542px; font-size: 18px; font-family: OswaldRegular; color: rgb(67, 17, 26);">They/You all were going / used to go / went (ongoing past action).</div>`;
 

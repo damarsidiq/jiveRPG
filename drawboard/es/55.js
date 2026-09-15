@@ -22,7 +22,7 @@ vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 566px;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 243px; left: 365px; font-size: 19px; font-family: SourceSansProItalic;">He wants to undertake a new business next year</div>`;
 vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 341px; left: 382px; font-size: 19px; font-family: SourceSansProItalic;">They decided to undertake the expedition to outer space</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 16px;">They decided to undertake a trip through Europe during the summer</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: NotoSansSemiCondensedLight; font-size: 16px;">They decided to undertake a trip through Europe during the summer</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 589px; left: 775px; font-size: 31px; font-family: OswaldRegular;">to undertake</div>`;
 
 

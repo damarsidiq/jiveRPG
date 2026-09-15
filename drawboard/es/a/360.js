@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Si no vas al médico, tu resfriado puede 'empeorar'.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">La lluvia hizo 'empeorar' el tráfico en la ciudad.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">La lluvia hizo 'empeorar' el tráfico en la ciudad.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">No digas nada, vas a 'empeorar' la situación.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 376px; left: 850px; font-size: 33px; font-family: FuturaBook;">Empeorar</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 376px; left: 850px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Empeorar</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 36px; font-family: Amatic;">If you don't go to the doctor, your cold might 'get worse'.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">The rain made the traffic in the city 'get worse'.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The rain made the traffic in the city 'get worse'.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 15px;">Don't say anything; you're going to 'make the situation worse'.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 379px; left: 747px; font-size: 13px; font-family: FuturaBook;">To worsen / to get worse / to deteriorate.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 379px; left: 747px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">To worsen / to get worse / to deteriorate.</div>`;
 
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};

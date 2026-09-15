@@ -16,12 +16,12 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="top: 0px; left:
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 44px; font-family: Amatic; color: rgb(0, 114, 3);">El coraje moral es más difícil que el físico</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">Tuvo el coraje de decir la verdad</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Tuvo el coraje de decir la verdad</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 22px; color: rgb(35, 105, 14);">El coraje no es ausencia de miedo, sino actuar a pesar de él</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 590px; left: 813px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">El coraje</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 44px; font-family: Amatic; color: rgb(0, 114, 3);">Moral courage is harder than physical courage</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">He had the courage to tell the truth.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">He had the courage to tell the truth.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">Courage is not the absence of fear, but acting despite it</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 609px; left: 801px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Courage</div>`;
 

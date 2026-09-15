@@ -17,14 +17,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 44px; font-family: Amatic; color: rgb(0, 114, 3);">Necesitamos linternas para entrar a la cueva</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">Caminamos por el sendero oscuro con nuestras linternas encendidas</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Caminamos por el sendero oscuro con nuestras linternas encendidas</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">Los campistas encendieron sus linternas para caminar en la oscuridad.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 609px; left: 801px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Linternas</div>`;
 
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 44px; font-family: Amatic; color: rgb(0, 114, 3);">We need flashlights to enter the cave</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">We walked along the dark path with our flashlights on</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">We walked along the dark path with our flashlights on</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 24px; color: rgb(95, 9, 105);">The campers turned on their flashlights to walk in the dark</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 614px; left: 729px; font-size: 33px; font-family: OswaldRegular; color: rgb(67, 17, 26);">flashlight / lanterns</div>`;
 

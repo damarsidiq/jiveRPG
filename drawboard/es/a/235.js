@@ -16,12 +16,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 94px; left: 163px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">El 'burro' lleva la carga por el sendero de montaña.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 228px; left: 171px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">No seas 'burro', piensa antes de actuar.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 228px; left: 171px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">No seas 'burro', piensa antes de actuar.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">Compraron un 'burro' para ayudar en la granja.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 475px; left: 919px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Burro</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 94px; left: 163px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">The donkey carries the load along the mountain trail</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 228px; left: 171px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">Don’t be a donkey, think before you act</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 228px; left: 171px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Don’t be a donkey, think before you act</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">They bought a donkey to help out on the farm</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 483px; left: 727px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">donkey; (slang) dumb person</div>`;
 

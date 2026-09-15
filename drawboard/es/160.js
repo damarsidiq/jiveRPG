@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 346px; left: 140px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Entrena</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Él entrena todos los días en el gimnasio.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Mi hermana entrena para el maratón de primavera.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 346px; left: 140px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Entrena</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Él entrena todos los días en el gimnasio.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Mi hermana entrena para el maratón de primavera.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Entrena con disciplina si quieres mejorar tus resultados!</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 641px; left: 908px; font-size: 40px; font-family: Amatic_bold;">Entrena</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 85px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Trains/Coaches</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">He trains every day at the gym</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">My sister is training for the spring marathon</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 85px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Trains/Coaches</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">He trains every day at the gym</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">My sister is training for the spring marathon</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Train with discipline if you want to improve your results!</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 641px; left: 720px; font-size: 40px; font-family: Amatic_bold;">trains; coaches; works out</div>`;
 

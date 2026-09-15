@@ -16,12 +16,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 30px; font-family: Amatic; color: rgb(255, 255, 255);">El superhéroe llevaba una 'capa' roja muy larga.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Hay una 'capa' de polvo sobre todos los muebles.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Hay una 'capa' de polvo sobre todos los muebles.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">Necesitas una segunda 'capa' de pintura en esta pared.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 337px; left: 858px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">capa</div>`;
 
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 29px; font-family: Amatic; color: rgb(255, 255, 255);">The superhero wore a very long red cape.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">There is a layer of dust on all the furniture.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">There is a layer of dust on all the furniture.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">You need a second coat of paint on this wall.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 335px; left: 759px; font-size: 24px; font-family: OswaldLight; color: rgb(255, 255, 255);">cape / layer / coat</div>`;
 

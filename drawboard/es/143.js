@@ -15,16 +15,16 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/paper-3316268_1280x.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;height:724px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 344px; left: 102px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Comprender</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Necesito tiempo para 'comprender' esta lección. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 14px; font-family: AvenirBook;">Es importante 'comprender' las reglas antes de jugar. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 344px; left: 102px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Comprender</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Necesito tiempo para 'comprender' esta lección. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Es importante 'comprender' las reglas antes de jugar. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">No puedo 'comprender' por qué hizo eso. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 638px; left: 885px; font-size: 40px; font-family: Amatic_bold;">Comprender</div>`;
 
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 95px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">to understand</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">I need time to understand this lesson</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: AvenirBook;">It's important to understand the rules before playing</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 95px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">to understand</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">I need time to understand this lesson</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 561px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">It's important to understand the rules before playing</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 17px;">I can't understand why he did that</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 644px; left: 607px; font-size: 36px; font-family: Amatic_bold;">to understand; to comprehend; to include</div>`;
 

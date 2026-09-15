@@ -16,11 +16,11 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 163px; left: 706px; font-size: 40px; font-family: Amatic;">Le encargué que comprara el pan</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 18px; font-family: AvenirBook;">Puedes confiar en ella, es muy responsable</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Puedes confiar en ella, es muy responsable</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 18px;">Le encomendaron la tarea más difícil del proyecto</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 625px; left: 718px; font-size: 48px; font-family: Amatic_bold;">Encargue</div>`;
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 163px; left: 706px; font-size: 40px; font-family: Amatic;">I asked / entrusted him to buy the bread.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 18px; font-family: AvenirBook;">You can trust her, she is very responsible.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">You can trust her, she is very responsible.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 16px;">They entrusted him with the most difficult task of the project.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 625px; left: 718px; font-size: 48px; font-family: Amatic_bold;">confiar, encomendar (entrust)</div>`;
 

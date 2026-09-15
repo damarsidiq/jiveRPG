@@ -15,14 +15,14 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/tablet-602968_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:712px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">La lluvia fuerte 'detiene' todo el tráfico en las carreteras principales.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 17px; font-family: Brandon_Grotesque_regular;">Nadie puede 'detener' el progreso de la tecnología si no lo frenamos nosotros mismos</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">La lluvia fuerte 'detiene' todo el tráfico en las carreteras principales.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Nadie puede 'detener' el progreso de la tecnología si no lo frenamos nosotros mismos</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayLight; font-size: 14px;">El semáforo rojo detiene a los conductores antes de cruzar la intersección peligrosa</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 504px; left: 814px; font-size: 44px; font-family: Amatic_bold;">Detiene</div>`;
 
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 23px; font-family: AvenirLight;">The heavy rain stops all traffic on the main roads</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 19px; font-family: Brandon_Grotesque_regular;">No one can stop technological progress if we don't slow it down ourselves</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 23px; font-family: NotoSansSemiCondensedLight;">The heavy rain stops all traffic on the main roads</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">No one can stop technological progress if we don't slow it down ourselves</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">The red light stops drivers before crossing the dangerous intersection</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 501px; left: 835px; font-size: 44px; font-family: Amatic_bold;">Stops</div>`;
 

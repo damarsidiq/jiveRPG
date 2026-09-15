@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Se ha sentido 'deprimido' desde que perdió su trabajo.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Si te sientes 'deprimido', habla con alguien de confianza.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Si te sientes 'deprimido', habla con alguien de confianza.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Estaba un poco 'deprimido' por el mal tiempo.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 380px; left: 820px; font-size: 33px; font-family: FuturaBook;">Deprimido</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 380px; left: 820px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Deprimido</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 36px; font-family: Amatic;">He has felt 'depressed' since he lost his job.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">If you feel 'depressed', talk to someone you trust.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">If you feel 'depressed', talk to someone you trust.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 15px;">He was a bit 'depressed' because of the bad weather.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 382px; left: 814px; font-size: 13px; font-family: FuturaBook;">Depressed / dejected / down.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 382px; left: 814px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Depressed / dejected / down.</div>`;
 
 /*deprimida (feminine), deprimidos (plural), deprimir (verb), deprimiéndose, depresión (noun).*/
 

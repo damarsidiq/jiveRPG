@@ -17,12 +17,12 @@ dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 94px; left: 163px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">El niño 'esconde' sus juguetes en el armario.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 228px; left: 171px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">Ella 'esconde' su verdadera identidad por seguridad.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 228px; left: 171px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Ella 'esconde' su verdadera identidad por seguridad.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">El viejo roble 'esconde' un secreto entre sus raíces.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 487px; left: 817px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Esconde</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 94px; left: 163px; font-size: 42px; font-family: Amatic; color: rgb(255, 255, 255);">The child hides his toys in the closet</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 228px; left: 171px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">She hides her true identity for safety</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 228px; left: 171px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">She hides her true identity for safety</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 362px; left: 173px; font-family: OpenSansSemiboldItalic; font-size: 18px; color: rgb(255, 255, 255);">The old oak tree hides a secret among its roots</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 487px; left: 817px; font-size: 61px; font-family: Amatic_bold; color: rgb(255, 255, 255);">hides; conceals</div>`;
 

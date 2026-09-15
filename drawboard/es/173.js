@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 452px; font-size: 16px; font-family: AvenirLight;">No juzgues a las personas por su 'apariencia'</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 443px; font-size: 13px; font-family: AvenirBook;">Cuida mucho su 'apariencia' en las entrevistas de trabajo</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 452px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">No juzgues a las personas por su 'apariencia'</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 443px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Cuida mucho su 'apariencia' en las entrevistas de trabajo</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 440px; font-family: OpenSansSemiboldItalic; font-size: 13px;">Bajo su 'apariencia' tranquila, se escondía un gran enojo</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 589px; left: 682px; font-size: 29px; font-family: Amatic_bold;">Apariencia</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 465px; font-size: 16px; font-family: AvenirLight;">Don't judge people by their appearance</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 443px; font-size: 14px; font-family: AvenirBook;">He cares a lot about his appearance in job interviews</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 465px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Don't judge people by their appearance</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 443px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">He cares a lot about his appearance in job interviews</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 440px; font-family: OpenSansSemiboldItalic; font-size: 13px;">Beneath his calm appearance, a great anger was hidden</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 587px; left: 543px; font-size: 29px; font-family: Amatic_bold;">appearance; looks; semblance</div>`;
 

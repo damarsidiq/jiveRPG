@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 454px; font-size: 14px; font-family: AvenirLight;">Vamos a 'abordar' el avión dentro de diez minutos. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 450px; font-size: 12px; font-family: AvenirBook;">El presidente tiene que 'abordar' el problema de la pobreza. </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 191px; left: 454px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">Vamos a 'abordar' el avión dentro de diez minutos. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 450px; font-size: 12px; font-family: NotoSansSemiCondensedLight;">El presidente tiene que 'abordar' el problema de la pobreza. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 454px; font-family: OpenSansSemiboldItalic; font-size: 15px;">Es necesario 'abordar' el asunto con calma. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 605px; left: 683px; font-size: 40px; font-family: Amatic_bold;">Abordar</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 454px; font-size: 14px; font-family: AvenirLight;">We are going to board the plane in ten minutes</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 450px; font-size: 12px; font-family: AvenirBook;">The president has to address the problem of poverty</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 191px; left: 454px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">We are going to board the plane in ten minutes</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 450px; font-size: 12px; font-family: NotoSansSemiCondensedLight;">The president has to address the problem of poverty</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 454px; font-family: OpenSansSemiboldItalic; font-size: 15px;">It's necessary to tackle the issue calmly</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 588px; left: 453px; font-size: 32px; font-family: Amatic_bold;">to board; to address/tackle (a topic)</div>`;
 

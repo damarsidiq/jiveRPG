@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">La madurez emocional se alcanza con el tiempo y la experiencia.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Demostró gran madurez al aceptar la crítica.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Demostró gran madurez al aceptar la crítica.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">La madurez de la fruta se nota en su color y textura.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 376px; left: 891px; font-size: 27px; font-family: FuturaBook;">Madurez</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 376px; left: 891px; font-size: 27px; font-family: NotoSansSemiCondensedLight;">Madurez</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">Emotional maturity is reached with time and experience.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">He showed great maturity by accepting the criticism.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">He showed great maturity by accepting the criticism.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">The ripeness of the fruit can be seen in its color and texture.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 376px; left: 476px; font-size: 15px; font-family: FuturaBook;">maturity, ripeness, or adulthood. (emotional, intellectual, or physical maturity)</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 376px; left: 476px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">maturity, ripeness, or adulthood. (emotional, intellectual, or physical maturity)</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

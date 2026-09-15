@@ -16,12 +16,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 256px; left: 387px; font-size: 19px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">La ley te 'obliga' a usar el cinturón de seguridad.</div>`;
 vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 341px; left: 382px; font-size: 21px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Nada me 'obliga' a aceptar esas condiciones.</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 19px; color: rgb(81, 81, 81);">Su contrato lo 'obliga' a trabajar los sábados.</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 396px; font-family: NotoSansSemiCondensedLight; font-size: 19px; color: rgb(81, 81, 81);">Su contrato lo 'obliga' a trabajar los sábados.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 562px; left: 826px; font-size: 31px; font-family: OswaldRegular; color: rgb(81, 81, 81);">obliga</div>`;
 
 vte[vte.length]=`<div id="text_16" class="textshirt mergershirt`+transws+`" style="top: 256px; left: 387px; font-size: 19px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">The law obliges you to wear a seatbelt.</div>`;
 vte[vte.length]=`<div id="text_17" class="textshirt mergershirt`+transws+`" style="top: 341px; left: 382px; font-size: 21px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Nothing forces me to accept those conditions.</div>`;
-vte[vte.length]=`<div id="text_18" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 19px; color: rgb(81, 81, 81);">His contract requires him to work on Saturdays.</div>`;
+vte[vte.length]=`<div id="text_18" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: NotoSansSemiCondensedLight; font-size: 19px; color: rgb(81, 81, 81);">His contract requires him to work on Saturdays.</div>`;
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 569px; left: 752px; font-size: 18px; font-family: OswaldRegular; color: rgb(81, 81, 81);">obliges / forces / requires</div>`;
 
 

@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">¿Reconocerías a tu hermano después de tantos años?  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Si lo vieras ahora, lo reconocerías de inmediato.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Si lo vieras ahora, lo reconocerías de inmediato.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Reconocerías el error si prestaras más atención.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 373px; left: 834px; font-size: 27px; font-family: FuturaBook;">Reconocerías</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 373px; left: 834px; font-size: 27px; font-family: NotoSansSemiCondensedLight;">Reconocerías</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">Would you recognize your brother after so many years?  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">If you saw him now, you would recognize him immediately.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">If you saw him now, you would recognize him immediately.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">You would recognize the mistake if you paid more attention.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 366px; left: 409px; font-size: 21px; font-family: FuturaBook;">you would recognize. reconocer (to recognize, to acknowledge). </div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 366px; left: 409px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">you would recognize. reconocer (to recognize, to acknowledge). </div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

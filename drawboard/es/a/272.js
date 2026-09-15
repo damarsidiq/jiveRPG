@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">No quiero hacerte esperar más tiempo.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">Voy a hacerte una pregunta importante.  </div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">No quiero hacerte esperar más tiempo.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Voy a hacerte una pregunta importante.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">Puedo hacerte un favor si lo necesitas.  </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 331px; left: 813px; font-size: 44px; font-family: Amatic_bold; color: rgb(255, 255, 255);">Hacerte</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: AvenirBook; color: rgb(255, 255, 255);">I don’t want to make you wait any longer.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: AvenirBook; color: rgb(255, 255, 255);">I’m going to ask you an important question.  </div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 20px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">I don’t want to make you wait any longer.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 17px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">I’m going to ask you an important question.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(255, 255, 255);">I can do you a favor if you need it.  </div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 332px; left: 391px; font-size: 29px; font-family: Amatic_bold; color: rgb(255, 255, 255);">hacer. to do / to make. to do to you / to make you / to cause you</div>`;
 

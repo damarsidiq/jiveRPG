@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 337px; left: 146px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Captan</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Las cámaras 'captan' imágenes de alta calidad. </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Los niños 'captan' las ideas rápidamente. </div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 337px; left: 146px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Captan</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Las cámaras 'captan' imágenes de alta calidad. </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Los niños 'captan' las ideas rápidamente. </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Esos sensores 'captan' movimientos sutiles. </div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 642px; left: 914px; font-size: 44px; font-family: Amatic_bold;">Captan</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 334px; left: 108px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">they capture</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">The cameras capture high-quality images</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Children grasp ideas quickly</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 334px; left: 108px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">they capture</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The cameras capture high-quality images</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Children grasp ideas quickly</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Those sensors detect subtle movements</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 647px; left: 650px; font-size: 37px; font-family: Amatic_bold;">they capture; catch; detect; perceive</div>`;
 

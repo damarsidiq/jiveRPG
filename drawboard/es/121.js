@@ -16,13 +16,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 16px; font-family: AvenirLight;">Es muy difícil estacionar el coche en el centro de la ciudad durante la hora pico</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">El guardia te multará si intentas 'estacionar' en la zona prohibida.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Es muy difícil estacionar el coche en el centro de la ciudad durante la hora pico</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">El guardia te multará si intentas 'estacionar' en la zona prohibida.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">Aprendí a 'estacionar' en paralelo hace poco, ¡y fue un desafío total!</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 502px; left: 772px; font-size: 44px; font-family: Amatic_bold;">Estacionar</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 17px; font-family: AvenirLight;">It is very difficult to park the car in the city center during peak hour</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">The guard will fine you if you try to park in the forbidden zone</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">It is very difficult to park the car in the city center during peak hour</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">The guard will fine you if you try to park in the forbidden zone</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">I learned to parallel park recently, and it was a total challenge!</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 500px; left: 811px; font-size: 44px; font-family: Amatic_bold;">To park</div>`;
 

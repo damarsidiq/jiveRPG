@@ -16,12 +16,12 @@ dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 32px; font-family: Amatic; color: rgb(255, 255, 255);">A veces la verdad surge de la oscuridad misma</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">La luz emerge de la oscuridad misma</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">La luz emerge de la oscuridad misma</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 236px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 15px; color: rgb(255, 255, 255);">Nació de la oscuridad misma una nueva esperanza</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 340px; left: 679px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">de la oscuridad misma</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 27px; font-family: Amatic; color: rgb(255, 255, 255);">Sometimes truth arises from darkness itself</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Light emerges from darkness itself</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Light emerges from darkness itself</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 236px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 15px; color: rgb(255, 255, 255);">Out of the very darkness, a new hope was born</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 690px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">From darkness itself</div>`;
 

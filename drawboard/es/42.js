@@ -19,13 +19,13 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 38px; font-family: Amatic; color: rgb(0, 114, 3);">El profesor va a 'plantear' un problema difícil en el examen</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">Me gustaría 'plantear' una nueva estrategia para el proyecto</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">Me gustaría 'plantear' una nueva estrategia para el proyecto</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 17px; color: rgb(35, 105, 14);">El diputado 'planteó' la cuestión del presupuesto en la reunión</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 590px; left: 813px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">Plantear</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">The teacher is going to 'pose' a difficult problem on the exam</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">I would like to 'suggest' a new strategy for the project</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">I would like to 'suggest' a new strategy for the project</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 16px; color: rgb(95, 9, 105);">The congressman 'raised' the budget issue in the meeting</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 605px; left: 549px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">to pose / suggest / raise</div>`;
 

@@ -15,15 +15,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">'Guárdalos' en el cajón para que no se pierdan.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">No tires esos documentos, mejor 'guárdalos'.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">No tires esos documentos, mejor 'guárdalos'.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Si compras pan, 'guárdalos' en la nevera.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 364px; left: 818px; font-size: 33px; font-family: FuturaBook;">Guárdalos</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 364px; left: 818px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Guárdalos</div>`;
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+` copytopaste" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">'Put them away' in the drawer so they don't get lost.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+` copytopaste" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Don't throw those documents away; you'd better 'put them away'.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+` copytopaste" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Don't throw those documents away; you'd better 'put them away'.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+` copytopaste" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">If you buy bread, 'put it away' in the fridge.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` copytopaste" style="top: 373px; left: 689px; font-size: 13px; font-family: FuturaBook;">Keep them; save them; store them; put them away.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+` copytopaste" style="top: 373px; left: 689px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Keep them; save them; store them; put them away.</div>`;
 
 
 //Forms: guardar (infinitive), guardarlo, guardarla, guardarlos, guardarlas, guardándolos, guárdalo, guárdalos.

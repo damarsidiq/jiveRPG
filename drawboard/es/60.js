@@ -22,7 +22,7 @@ vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 568px;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 243px; left: 365px; font-size: 19px; font-family: SourceSansProItalic;">The answer changes, depending on the type of question</div>`;
 vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 341px; left: 382px; font-size: 19px; font-family: SourceSansProItalic;">Prices vary, depending on the type of service</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 16px;">Depending on the kind of wine, it's served at different temperatures</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: NotoSansSemiCondensedLight; font-size: 16px;">Depending on the kind of wine, it's served at different temperatures</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 576px; left: 667px; font-size: 31px; font-family: OswaldRegular;">depending on the type</div>`;
 
 

@@ -18,12 +18,12 @@ dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 155px; left: 137px; font-size: 19px; font-family: SourceSansProItalic;">Los trabajadores están 'apilando' cajas en el almacén.</div>`;
 vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 279px; left: 141px; font-size: 21px; font-family: SourceSansProItalic;">El niño se entretenía 'apilando' bloques de colores.</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 144px; font-family: Trebuchet; font-size: 19px;">Pasó la tarde 'apilando' leña junto a la chimenea.</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 144px; font-family: NotoSansSemiCondensedLight; font-size: 19px;">Pasó la tarde 'apilando' leña junto a la chimenea.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 542px; left: 947px; font-size: 52px; font-family: OpenSansSemiboldItalic; color: rgb(165, 201, 169);">Apilando</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 155px; left: 137px; font-size: 19px; font-family: SourceSansProItalic;">The workers are stacking boxes in the warehouse</div>`;
 vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 279px; left: 141px; font-size: 21px; font-family: SourceSansProItalic;">The child entertained himself piling up colorful blocks</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 144px; font-family: Trebuchet; font-size: 19px;">He spent the afternoon stacking firewood by the fireplace</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 144px; font-family: NotoSansSemiCondensedLight; font-size: 19px;">He spent the afternoon stacking firewood by the fireplace</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 554px; left: 743px; font-size: 52px; font-family: OpenSansSemiboldItalic; color: rgb(165, 201, 169);">stacking; piling up</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};

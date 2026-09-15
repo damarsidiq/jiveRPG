@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 14px; font-family: FuturaBookItalic;">No importa cuánto aumente la presión; sé que tú la soportas con elegancia</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 198px; left: 561px; font-size: 12px; font-family: AvenirBook;">Muchos emprendedores fallan porque no pueden la soportas cuando las ventas caen</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">No importa cuánto aumente la presión; sé que tú la soportas con elegancia</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 198px; left: 561px; font-size: 12px; font-family: NotoSansSemiCondensedLight;">Muchos emprendedores fallan porque no pueden la soportas cuando las ventas caen</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Admiro la paciencia con la que la soportas durante sus berrinches</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 604px; left: 864px; font-size: 48px; font-family: Amatic_bold;">la soportas</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 556px; font-size: 11px; font-family: MontserratItalic;">No matter how much the pressure increases; I know you withstand it with elegance</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 557px; font-size: 15px; font-family: AvenirBook;">Many entrepreneurs fail because they cannot bear it when sales drop</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 198px; left: 557px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Many entrepreneurs fail because they cannot bear it when sales drop</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 558px; font-family: OpenSansSemiboldItalic; font-size: 14px;">I admire the patience with which you tolerate her during her tantrums</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 596px; left: 574px; font-size: 29px; font-family: Amatic_bold;">You withstand it / You endure it / You bear it  - Soportar</div>`;
 

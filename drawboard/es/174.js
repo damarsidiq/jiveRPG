@@ -14,13 +14,13 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/notebook-2637757_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; height: 720px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 192px; left: 439px; font-size: 15px; font-family: AvenirLight;">Los fieles dejaron 'ofrendas' de flores ante el altar</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 439px; font-size: 12px; font-family: AvenirBook;">En la ceremonia, presentaron 'ofrendas' de comida a los dioses</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 192px; left: 439px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Los fieles dejaron 'ofrendas' de flores ante el altar</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 287px; left: 439px; font-size: 12px; font-family: NotoSansSemiCondensedLight;">En la ceremonia, presentaron 'ofrendas' de comida a los dioses</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 404px; left: 440px; font-family: OpenSansSemiboldItalic; font-size: 12px;">Las 'ofrendas' del Día de Muertos honran a los seres queridos</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 589px; left: 698px; font-size: 29px; font-family: Amatic_bold;">Ofrendas</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 193px; left: 450px; font-size: 15px; font-family: AvenirLight;">The faithful left flower offerings before the altar</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 448px; font-size: 12px; font-family: AvenirBook;">In the ceremony, they presented food offerings to the gods</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 193px; left: 450px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">The faithful left flower offerings before the altar</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 287px; left: 448px; font-size: 12px; font-family: NotoSansSemiCondensedLight;">In the ceremony, they presented food offerings to the gods</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 404px; left: 453px; font-family: OpenSansSemiboldItalic; font-size: 12px;">Day of the Dead offerings honor loved ones</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 592px; left: 621px; font-size: 29px; font-family: Amatic_bold;">offerings; tributes</div>`;
 

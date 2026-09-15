@@ -16,16 +16,16 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 340px; left: 124px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Ventilador</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Enciende el ventilador, hace mucho calor aquí</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">El ventilador del techo hace un ruido extraño</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 340px; left: 124px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Ventilador</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Enciende el ventilador, hace mucho calor aquí</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">El ventilador del techo hace un ruido extraño</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Compré un ventilador nuevo para la oficina</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 646px; left: 880px; font-size: 40px; font-family: Amatic_bold;">Ventilador</div>`;
 
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 342px; left: 171px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Fan</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Turn on the fan; it's very hot in here</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">The ceiling fan is making a strange noise</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 342px; left: 171px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Fan</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Turn on the fan; it's very hot in here</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">The ceiling fan is making a strange noise</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">I bought a new fan for the office</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 641px; left: 607px; font-size: 40px; font-family: Amatic_bold;">fan (electric/hand fan); cooling fan</div>`;
 

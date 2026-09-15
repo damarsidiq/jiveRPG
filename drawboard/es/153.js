@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 340px; left: 126px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Ahogarías</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Si me lanzas al mar, me ahogarías.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">Ahogarías la planta si le echas demasiada agua.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 340px; left: 126px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Ahogarías</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Si me lanzas al mar, me ahogarías.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Ahogarías la planta si le echas demasiada agua.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Con tantos problemas, ahogarías a cualquiera con preocupaciones.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 643px; left: 891px; font-size: 40px; font-family: Amatic_bold;">Ahogarías</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 332px; left: 77px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">you would drown</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">If you threw me into the sea, you would drown me</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">You would drown the plant if you... You add too much water</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 332px; left: 77px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">you would drown</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">If you threw me into the sea, you would drown me</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">You would drown the plant if you... You add too much water</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">With so many problems, you’d overwhelm anyone with worries</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 643px; left: 620px; font-size: 37px; font-family: Amatic_bold;">you would drown; you would suffocate</div>`;
 

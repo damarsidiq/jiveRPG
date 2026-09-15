@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">El detective tenía un poder psíquico sorprendente.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">El dolor psíquico puede ser más intenso que el físico.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El dolor psíquico puede ser más intenso que el físico.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Consultaron a un psíquico para resolver el misterio.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 363px; left: 874px; font-size: 30px; font-family: FuturaBook;">Psíquico</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 363px; left: 874px; font-size: 30px; font-family: NotoSansSemiCondensedLight;">Psíquico</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 42px; font-family: Amatic;">The detective had a surprising psychic power.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Psychic pain can be more intense than physical pain.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Psychic pain can be more intense than physical pain.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">They consulted a psychic to solve the mystery.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 375px; left: 427px; font-size: 17px; font-family: FuturaBook;">adjective (sometimes noun) psychic, mental, or related to the mind/psyche.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 375px; left: 427px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">adjective (sometimes noun) psychic, mental, or related to the mind/psyche.</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

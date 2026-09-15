@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">La audiencia estuvo muy receptiva durante la conferencia.  </div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Ella es una persona receptiva a nuevas ideas.  </div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Ella es una persona receptiva a nuevas ideas.  </div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">La empresa se mostró receptiva a las sugerencias de los empleados.  </div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 379px; left: 895px; font-size: 24px; font-family: FuturaBook;">Receptiva</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 379px; left: 895px; font-size: 24px; font-family: NotoSansSemiCondensedLight;">Receptiva</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">The audience was very receptive during the conference.  </div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">She is a person who is open to new ideas.  </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">She is a person who is open to new ideas.  </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">The company showed itself receptive to the employees’ suggestions.  </div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 387px; left: 572px; font-size: 24px; font-family: FuturaBook;">“receptivo” (receptive, open, responsive)</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 387px; left: 572px; font-size: 24px; font-family: NotoSansSemiCondensedLight;">“receptivo” (receptive, open, responsive)</div>`;
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

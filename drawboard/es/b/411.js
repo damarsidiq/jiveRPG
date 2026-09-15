@@ -16,12 +16,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 256px; left: 387px; font-size: 19px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Los leones 'devoran' su presa en minutos.</div>`;
 vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 341px; left: 382px; font-size: 21px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Mis hijos 'devoran' los libros de aventuras.</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 19px; color: rgb(81, 81, 81);">Las redes sociales 'devoran' todo nuestro tiempo libre.</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 396px; font-family: NotoSansSemiCondensedLight; font-size: 19px; color: rgb(81, 81, 81);">Las redes sociales 'devoran' todo nuestro tiempo libre.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 562px; left: 826px; font-size: 31px; font-family: OswaldRegular; color: rgb(81, 81, 81);">devoran</div>`;
 
 vte[vte.length]=`<div id="text_16" class="textshirt mergershirt`+transws+`" style="top: 256px; left: 387px; font-size: 19px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">Lions devour their prey in minutes.</div>`;
 vte[vte.length]=`<div id="text_17" class="textshirt mergershirt`+transws+`" style="top: 341px; left: 382px; font-size: 21px; font-family: SourceSansProItalic; color: rgb(81, 81, 81);">My kids devour adventure books.</div>`;
-vte[vte.length]=`<div id="text_18" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: Trebuchet; font-size: 19px; color: rgb(81, 81, 81);">Social media devours all our free time.</div>`;
+vte[vte.length]=`<div id="text_18" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 396px; font-family: NotoSansSemiCondensedLight; font-size: 19px; color: rgb(81, 81, 81);">Social media devours all our free time.</div>`;
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 569px; left: 839px; font-size: 18px; font-family: OswaldRegular; color: rgb(81, 81, 81);">they devour</div>`;
 
 

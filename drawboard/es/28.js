@@ -16,14 +16,14 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 138px; left: 199px; font-size: 19px; font-family: FuturaMediumItalic; color: rgb(255, 253, 251);">La niña es muy educada y siempre saluda a los vecinos con una sonrisa</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 247px; left: 199px; font-size: 21px; font-family: Gotham; color: rgb(255, 253, 251);">Fue una conversación educada, aunque ambos sabían que no estaban de acuerdo</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 355px; left: 201px; font-family: Museo_Slab_500italic; font-size: 19px; color: rgb(255, 253, 251);">Su madre la crió para ser una persona educada y respetuosa</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 138px; left: 199px; font-size: 19px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 253, 251);">La niña es muy educada y siempre saluda a los vecinos con una sonrisa</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 247px; left: 199px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 253, 251);">Fue una conversación educada, aunque ambos sabían que no estaban de acuerdo</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 355px; left: 201px; font-family: NotoSansSemiCondensedLight; font-size: 19px; color: rgb(255, 253, 251);">Su madre la crió para ser una persona educada y respetuosa</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 528px; left: 1002px; font-size: 39px; font-family: OpenSansSemiboldItalic; color: rgb(255, 253, 251);">educada</div>`;
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 138px; left: 199px; font-size: 19px; font-family: FuturaMediumItalic; color: rgb(255, 253, 251);">The girl is very polite and always greets the neighbors with a smile</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 247px; left: 199px; font-size: 21px; font-family: Gotham; color: rgb(255, 253, 251);">It was a polite conversation, although both knew they disagreed</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 355px; left: 201px; font-family: Museo_Slab_500italic; font-size: 19px; color: rgb(255, 253, 251);">Her mother raised her to be a polite and respectful person</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 138px; left: 199px; font-size: 19px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 253, 251);">The girl is very polite and always greets the neighbors with a smile</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 247px; left: 199px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 253, 251);">It was a polite conversation, although both knew they disagreed</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 355px; left: 201px; font-family: NotoSansSemiCondensedLight; font-size: 19px; color: rgb(255, 253, 251);">Her mother raised her to be a polite and respectful person</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 517px; left: 844px; font-size: 39px; font-family: OpenSansSemiboldItalic; color: rgb(255, 253, 251);">polite / well-mannered</div>`;
 
 

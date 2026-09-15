@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_19" class="textshirt mergershirt" style="top: 66px; left: 327px; font-size: 37px; font-family: Amatic;">El 'promedio' de calificaciones de la clase es de 8.5.</div>`;
-vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">Gasto en 'promedio' 50 dólares a la semana en comida.</div>`;
+vt[vt.length]=`<div id="text_20" class="textshirt mergershirt" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Gasto en 'promedio' 50 dólares a la semana en comida.</div>`;
 vt[vt.length]=`<div id="text_21" class="textshirt mergershirt" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 17px;">Un estudiante 'promedio' estudia unas tres horas al día.</div>`;
-vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 376px; left: 850px; font-size: 33px; font-family: FuturaBook;">Promedio</div>`;
+vt[vt.length]=`<div id="text_22" class="textshirt mergershirt" style="top: 376px; left: 850px; font-size: 33px; font-family: NotoSansSemiCondensedLight;">Promedio</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 66px; left: 327px; font-size: 36px; font-family: Amatic;">The class's grade 'average' is 8.5.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: AvenirBook;">I spend 50 dollars a week on food on 'average'. </div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 154px; left: 326px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">I spend 50 dollars a week on food on 'average'. </div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 246px; left: 326px; font-family: OpenSansSemiboldItalic; font-size: 15px;">An 'average' student studies about three hours a day.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 379px; left: 747px; font-size: 13px; font-family: FuturaBook;">Average / mean / mediocre (as adjective).</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 379px; left: 747px; font-size: 13px; font-family: NotoSansSemiCondensedLight;">Average / mean / mediocre (as adjective).</div>`;
 
 
 

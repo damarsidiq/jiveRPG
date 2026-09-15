@@ -17,12 +17,12 @@ dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">Las 'fuentes' de la plaza están encendidas por la noche.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">El periodista citó varias 'fuentes' oficiales para el artículo.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">El periodista citó varias 'fuentes' oficiales para el artículo.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 23px; color: rgb(95, 9, 105);">Necesitamos encontrar nuevas 'fuentes' de energía renovable.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 623px; left: 847px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">Fuentes</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">The fountains in the plaza are lit up at night</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">The journalist cited several official sources for the article</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">The journalist cited several official sources for the article</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 23px; color: rgb(95, 9, 105);">We need to find new sources of renewable energy</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 636px; left: 654px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">sources; fountains</div>`;
 

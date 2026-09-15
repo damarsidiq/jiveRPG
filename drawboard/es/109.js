@@ -20,7 +20,7 @@ vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 406px;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 610px; left: 831px; font-size: 40px; font-family: Amatic_bold;">mania</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 149px; left: 384px; font-size: 32px; font-family: Amatic;">She has the habit of organizing her books by color</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 16px; font-family: DINRegular;">María has a habit of cleaning the house every day, even when it isn't dirty</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 288px; left: 386px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">María has a habit of cleaning the house every day, even when it isn't dirty</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 407px; left: 390px; font-family: OpenSansSemiboldItalic; font-size: 13px;">Juan has a habit of correcting everyone when they speak, even in casual conversations</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 605px; left: 504px; font-size: 40px; font-family: Amatic_bold;">habit, obsession,mania, craze, hobby</div>`;
 

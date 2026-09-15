@@ -16,12 +16,12 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#fff;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 73px; left: 397px; font-size: 30px; font-family: Amatic; color: rgb(255, 255, 255);">El artista 'expone' sus cuadros en la galería central.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: AvenirBook; color: rgb(255, 255, 255);">Este artículo 'expone' claramente los riesgos del tabaco.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 162px; left: 394px; font-size: 15px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">Este artículo 'expone' claramente los riesgos del tabaco.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">Si te 'expone' mucho al sol, te vas a quemar.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 338px; left: 839px; font-size: 40px; font-family: Amatic_bold; color: rgb(255, 255, 255);">expone</div>`;
 
 vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 73px; left: 397px; font-size: 29px; font-family: Amatic; color: rgb(255, 255, 255);">The artist exhibits his paintings in the central gallery.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 18px; font-family: AvenirBook; color: rgb(255, 255, 255);">This article clearly exposes the risks of tobacco.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 162px; left: 394px; font-size: 18px; font-family: NotoSansSemiCondensedLight; color: rgb(255, 255, 255);">This article clearly exposes the risks of tobacco.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 237px; left: 393px; font-family: OpenSansSemiboldItalic; font-size: 14px; color: rgb(255, 255, 255);">If you expose yourself to the sun too much, you'll get burned.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 338px; left: 679px; font-size: 24px; font-family: OswaldLight; color: rgb(255, 255, 255);">exposes / exhibits / presents</div>`;
 

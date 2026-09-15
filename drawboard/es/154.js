@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 339px; left: 140px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Sentado</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">Está sentado en el sofá viendo la televisión.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">El niño se quedó sentado esperando a su madre.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 339px; left: 140px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Sentado</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">Está sentado en el sofá viendo la televisión.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">El niño se quedó sentado esperando a su madre.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">Prefiero estar sentado que de pie durante el viaje.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 642px; left: 903px; font-size: 45px; font-family: Amatic_bold;">Sentado</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 149px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Seated</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">He is sitting on the sofa watching television</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">The boy sat waiting for his mother</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 339px; left: 149px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Seated</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">He is sitting on the sofa watching television</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">The boy sat waiting for his mother</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">I prefer sitting to standing during the trip</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 642px; left: 655px; font-size: 40px; font-family: Amatic_bold;">seated; sitting (past participle)</div>`;
 

@@ -16,15 +16,15 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px;h
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 337px; left: 106px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">Descendente</div>`;
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">El precio de la gasolina tiene una tendencia descendente.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">La gráfica muestra una línea descendente en las ventas.</div>`;
+vt[vt.length]=`<div id="text_15" class="textshirt mergershirt" style="top: 337px; left: 106px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">Descendente</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">El precio de la gasolina tiene una tendencia descendente.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">La gráfica muestra una línea descendente en las ventas.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">El avión inició su trayectoria descendente hacia la pista.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 645px; left: 868px; font-size: 40px; font-family: Amatic_bold;">Descendente</div>`;
 
-vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 116px; font-size: 34px; transform: rotate(23deg); font-family: FuturaMedium;">descending</div>`;
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: FuturaBookItalic;">The price of gasoline is on a downward trend</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: AvenirBook;">The graph shows a downward line in sales</div>`;
+vte[vte.length]=`<div id="text_15" class="textshirt mergershirt`+transws+`" style="top: 340px; left: 116px; font-size: 34px; transform: rotate(23deg); font-family: NotoSansSemiCondensedLight;">descending</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 102px; left: 563px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The price of gasoline is on a downward trend</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 216px; left: 561px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">The graph shows a downward line in sales</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 319px; left: 563px; font-family: OpenSansSemiboldItalic; font-size: 14px;">The plane began its descent toward the runway</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 645px; left: 763px; font-size: 40px; font-family: Amatic_bold;">descending; downward</div>`;
 

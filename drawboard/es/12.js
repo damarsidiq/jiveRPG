@@ -15,16 +15,16 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 192px; left: 223px; font-size: 21px; font-family: FuturaMediumItalic; color: rgb(210, 110, 15);">Los masajes 'alivian' el dolor de espalda después de un día largo de trabajo.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 318px; left: 237px; font-size: 21px; font-family: Gotham; color: rgb(12, 84, 17);">Las palabras de su madre 'alivian' su ansiedad antes del examen.</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 202px; font-family: Museo_Slab_500italic; font-size: 20px; color: rgb(8, 91, 109);">Estas políticas fiscales 'alivian' la carga económica de las familias de bajos recursos.</div>`;
-vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 590px; left: 876px; font-size: 34px; font-family: Museo_Slab_100italic;">Alivian</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 192px; left: 223px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(210, 110, 15);">Los masajes 'alivian' el dolor de espalda después de un día largo de trabajo.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 318px; left: 237px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(12, 84, 17);">Las palabras de su madre 'alivian' su ansiedad antes del examen.</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 441px; left: 202px; font-family: NotoSansSemiCondensedLight; font-size: 20px; color: rgb(8, 91, 109);">Estas políticas fiscales 'alivian' la carga económica de las familias de bajos recursos.</div>`;
+vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 590px; left: 876px; font-size: 34px; font-family: NotoSansSemiCondensedLight;">Alivian</div>`;
 
 
-vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 192px; left: 223px; font-size: 21px; font-family: FuturaMediumItalic; color: rgb(210, 110, 15);">The massages 'relieve' back pain after a long workday.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 318px; left: 237px; font-size: 21px; font-family: Gotham; color: rgb(12, 84, 17);">Her mother's words relieve her anxiety before the exam.</div>`;
-vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 202px; font-family: Museo_Slab_500italic; font-size: 20px; color: rgb(8, 91, 109);">These tax policies relieve the economic burden on low-income families.</div>`;
-vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 590px; left: 814px; font-size: 34px; font-family: Museo_Slab_100italic;">they relieve</div>`;
+vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 192px; left: 223px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(210, 110, 15);">The massages 'relieve' back pain after a long workday.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 318px; left: 237px; font-size: 21px; font-family: NotoSansSemiCondensedLight; color: rgb(12, 84, 17);">Her mother's words relieve her anxiety before the exam.</div>`;
+vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 441px; left: 202px; font-family: NotoSansSemiCondensedLight; font-size: 20px; color: rgb(8, 91, 109);">These tax policies relieve the economic burden on low-income families.</div>`;
+vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 590px; left: 814px; font-size: 34px; font-family: NotoSansSemiCondensedLight;">they relieve</div>`;
 
 
 

@@ -15,14 +15,14 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width: 1280px; 
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 163px; left: 706px; font-size: 37px; font-family: Amatic;">Dicen que ese castillo está embrujado</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 18px; font-family: AvenirBook;">Está obsesionado con los videojuegos, juega todo el día</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 276px; left: 711px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Está obsesionado con los videojuegos, juega todo el día</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 18px;">Se quedó embrujado / obsesionado con esa melodía</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 625px; left: 718px; font-size: 48px; font-family: Amatic_bold;">Embrujado</div>`;
 
 
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 163px; left: 706px; font-size: 37px; font-family: Amatic;">They say that castle is haunted.</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 18px; font-family: AvenirBook;">He is obsessed with video games, he plays all day.</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 276px; left: 711px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">He is obsessed with video games, he plays all day.</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 396px; left: 711px; font-family: OpenSansSemiboldItalic; font-size: 18px;">He became haunted / obsessed with that melody.</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 625px; left: 718px; font-size: 48px; font-family: Amatic_bold;">obsesionado (haunted, obsessed)</div>`;
 

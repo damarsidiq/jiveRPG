@@ -18,12 +18,12 @@ var dbbg= `<div id="dbbackg" class="textshirt imageshirt" style="top: 0px; left:
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 182px; left: 209px; font-size: 38px; font-family: Amatic; color: rgb(0, 114, 3);">El internet es un ámbito donde todo cambia muy rápido</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: AvenirBook; color: rgb(49, 77, 8);">En el ámbito de la ciencia, esta teoría es muy importante</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 315px; left: 213px; font-size: 26px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">En el ámbito de la ciencia, esta teoría es muy importante</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 23px; color: rgb(35, 105, 14);">El arte digital ha revolucionado el ámbito de la ilustración contemporánea.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 594px; left: 690px; font-size: 50px; font-family: OswaldRegular; color: rgb(32, 73, 48);">Ámbito / Reino</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 182px; left: 209px; font-size: 41px; font-family: Amatic; color: rgb(0, 114, 3);">The internet is a realm where everything changes very fast</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: AvenirBook; color: rgb(49, 77, 8);">In the realm of science, this theory is very important</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 313px; left: 212px; font-size: 24px; font-family: NotoSansSemiCondensedLight; color: rgb(49, 77, 8);">In the realm of science, this theory is very important</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 438px; left: 216px; font-family: OpenSansSemiboldItalic; font-size: 20px; color: rgb(95, 9, 105);">Digital art has revolutionized the realm of contemporary illustration</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 610px; left: 863px; font-size: 48px; font-family: OswaldRegular; color: rgb(67, 17, 26);">realm</div>`;
 

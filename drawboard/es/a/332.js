@@ -15,13 +15,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 
-vt[vt.length]=`<div id="text_14" class="textshirt mergershirt copytopaste" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">Obtendrás el visado en unas dos semanas.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt copytopaste" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">Si estudias mucho, obtendrás una beca completa.</div>`;
+vt[vt.length]=`<div id="text_14" class="textshirt mergershirt copytopaste" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Obtendrás el visado en unas dos semanas.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt copytopaste" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">Si estudias mucho, obtendrás una beca completa.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt copytopaste" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">No obtendrás resultados diferentes haciendo siempre lo mismo.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt copytopaste" style="top: 506px; left: 775px; font-size: 44px; font-family: Amatic_bold;">Obtendrás</div>`;
 
-vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: AvenirLight;">You will get the visa in about two weeks.</div>`;
-vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: Brandon_Grotesque_regular;">If you study hard, you will obtain a full scholarship.</div>`;
+vte[vte.length]=`<div id="text_19" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">You will get the visa in about two weeks.</div>`;
+vte[vte.length]=`<div id="text_20" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">If you study hard, you will obtain a full scholarship.</div>`;
 vte[vte.length]=`<div id="text_21" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 16px;">You won't get different results doing the same thing always.</div>`;
 vte[vte.length]=`<div id="text_22" class="textshirt mergershirt`+transws+`" style="top: 513px; left: 634px; font-size: 21px; font-family: Amatic_bold;">You will obtain / You will get / You will secure.</div>`;
 
