@@ -1,5 +1,5 @@
 export var qr = {
-    langsTotalDB:[499,0],
+    langsTotalDB:[523,0],
     langAvail:['-es','-de'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
@@ -15,7 +15,7 @@ export var qr = {
         link.href = storyline.jsonUrl+'./drawboard/dbard.css';
         document.head.appendChild(link);
         
-        if (!pdb || pdb.length === 0 || pdb.length == qr.totalDB) {
+        if (!pdb || pdb.length === 0 || pdb.length >= qr.totalDB) {
             qr.pool = Array.from({ length: qr.totalDB }, function(_, i) { return i; });
             return true;
         }
