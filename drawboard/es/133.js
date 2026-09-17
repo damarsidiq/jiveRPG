@@ -16,7 +16,7 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Ese viejo reloj es un 'trofeo' familiar que ha pasado de generación en generación.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">Ganaron el 'trofeo' de la liga después de una temporada increíble.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 20px; font-family: NotoSansSemiCondensedLight;">Ganaron el 'trofeo' de la liga después de una temporada increíble.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 17px;">El cazador colgó el 'trofeo' de su cacería en la pared de la casa.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 496px; left: 817px; font-size: 44px; font-family: Amatic_bold;">Trofeo</div>`;
 

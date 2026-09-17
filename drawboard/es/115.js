@@ -16,15 +16,13 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Necesitamos mejorar nuestras habilidades 'gerenciales' para liderar mejor al equipo</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">La estructura gerencial de la empresa es muy plana y permite decisiones rápidas</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">La estructura gerencial de la empresa es muy plana y permite decisiones rápidas</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 15px;">El puesto requiere experiencia 'gerencial' en industrias tecnológicas</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 499px; left: 781px; font-size: 44px; font-family: Amatic_bold;">Gerencial</div>`;
-
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">We need to improve our managerial skills to lead the team better</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">The company's managerial structure is very flat and allows for quick decisions</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 17px; font-family: NotoSansSemiCondensedLight;">The company's managerial structure is very flat and allows for quick decisions</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 15px;">The position requires managerial experience in tech industries</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 501px; left: 765px; font-size: 44px; font-family: Amatic_bold;">Managerial</div>`;
-
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 export function openBoard(){

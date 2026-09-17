@@ -15,8 +15,8 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">El corrupto político finalmente terminó en 'prisión' por sus delitos financieros.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 21px; font-family: NotoSansSemiCondensedLight;">La vida en 'prisión' sin libertad condicional es una sentencia muy dura</div>`;
-vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 15px;">Muchos artistas han escrito canciones sobre la sensación de estar en 'prisión'</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 19px; font-family: NotoSansSemiCondensedLight;">La vida en 'prisión' sin libertad condicional es una sentencia muy dura</div>`;
+vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 14px;">Muchos artistas han escrito canciones sobre la sensación de estar en 'prisión'</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 502px; left: 809px; font-size: 44px; font-family: Amatic_bold;">Prisión</div>`;
 
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">The corrupt politician finally ended up in prison for his financial crimes</div>`;

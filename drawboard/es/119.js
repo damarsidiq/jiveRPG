@@ -16,12 +16,11 @@ var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;he
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Fue muy 'vergonzoso' cuando tropecé frente a toda la audiencia en la conferencia.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">Es 'vergonzoso' que una empresa tan grande tenga tantos errores en su servicio al cliente.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 15px; font-family: NotoSansSemiCondensedLight;">Es 'vergonzoso' que una empresa tan grande tenga tantos errores en su servicio al cliente.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 15px;">Se sintió 'vergonzoso' admitir que no sabía cómo usar la nueva aplicación.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 499px; left: 765px; font-size: 44px; font-family: Amatic_bold;">Vergonzoso</div>`;
-
 vte[vte.length]=`<div id="text_14" class="textshirt mergershirt`+transws+`" style="top: 157px; left: 353px; font-size: 14px; font-family: NotoSansSemiCondensedLight;">It was very embarrassing when I tripped in front of the whole audience at the conference</div>`;
-vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">It is shameful that such a big company has so many errors in its customer service</div>`;
+vte[vte.length]=`<div id="text_4" class="textshirt mergershirt`+transws+`" style="top: 261px; left: 352px; font-size: 16px; font-family: NotoSansSemiCondensedLight;">It is shameful that such a big company has so many errors in its customer service</div>`;
 vte[vte.length]=`<div id="text_8" class="textshirt mergershirt`+transws+`" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 17px;">He felt ashamed to admit he didn't know how to use the new app</div>`;
 vte[vte.length]=`<div id="text_6" class="textshirt mergershirt`+transws+`" style="top: 502px; left: 615px; font-size: 44px; font-family: Amatic_bold;">Shameful / Embarrassing</div>`;
 

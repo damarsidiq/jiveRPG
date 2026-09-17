@@ -15,8 +15,9 @@ const bimgpath = storyline.jsonUrl+'./drawboard/bimg/tablet-602968_1280.jpg';
 var dbbg =`<div id="dbbackg" class="textshirt imageshirt" style="width:1280px;height:712px;"><img src="`+bimgpath+`"></div>`;
 dbbg += '<style>.textshirt{color:#000;}</style>';
 
+
 vt[vt.length]=`<div id="text_14" class="textshirt mergershirt" style="top: 157px; left: 353px; font-size: 18px; font-family: NotoSansSemiCondensedLight;">Es mejor que no 'finjas' interés si realmente no te importa el proyecto.</div>`;
-vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 23px; font-family: NotoSansSemiCondensedLight;">El actor tuvo que 'finja' estar enfermo para salir de la escena.</div>`;
+vt[vt.length]=`<div id="text_4" class="textshirt mergershirt" style="top: 261px; left: 352px; font-size: 22px; font-family: NotoSansSemiCondensedLight;">El actor tuvo que 'finja' estar enfermo para salir de la escena.</div>`;
 vt[vt.length]=`<div id="text_8" class="textshirt mergershirt" style="top: 373px; left: 352px; font-family: RalewayBold; font-size: 18px;">Aunque ella 'finja' estar tranquila, por dentro está muy nerviosa.</div>`;
 vt[vt.length]=`<div id="text_6" class="textshirt mergershirt" style="top: 496px; left: 817px; font-size: 44px; font-family: Amatic_bold;">Finja</div>`;
 
