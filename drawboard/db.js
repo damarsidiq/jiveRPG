@@ -1,5 +1,5 @@
 export var qr = {
-    langsTotalDB:[585,0],
+    langsTotalDB:[641,0],
     langAvail:['-es','-de'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
