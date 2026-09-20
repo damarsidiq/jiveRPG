@@ -15,7 +15,7 @@ export var qr = {
         link.href = storyline.jsonUrl+'./drawboard/dbard.css';
         document.head.appendChild(link);
         
-        if (!pdb || pdb.length === 0 || pdb.length >= qr.totalDB) {
+        if (!pdb || pdb.length === 0 || pdb.length == qr.totalDB) {
             qr.pool = Array.from({ length: qr.totalDB }, function(_, i) { return i; });
             return true;
         }
@@ -40,7 +40,9 @@ export var qr = {
             
         y = jve.dbF.qr.pool[x];
         
-        if(y>600) y = 'c/'+y;
+        if(y>1000) y = 'e/'+y;
+        else if(y>800) y = 'd/'+y;
+        else if(y>600) y = 'c/'+y;
         else if(y>400) y = 'b/'+y;
         else if(y>200) y = 'a/'+y;
         
