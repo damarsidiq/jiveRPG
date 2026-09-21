@@ -1,0 +1,93 @@
+.
+├── BIMG
+│   ├── # ***** contains the background images that are uploaded to imagekit.io
+│   ├── anc
+│   │   └── m
+│   ├── bc
+│   ├── ca
+│   ├── cd
+│   ├── cls
+│   ├── csh
+│   ├── ec
+│   ├── eu
+│   ├── gmp
+│   ├── int
+│   ├── mena
+│   ├── pd
+│   ├── rt
+│   ├── sc
+│   ├── sky
+│   ├── trm
+│   ├── up
+│   ├── wk
+│   ├── ws
+│   └── xternal
+│       ├── easternHead
+├── gameTape
+│   ├── archivedStories
+│   │   ├── eharch7.json
+│   │   ├── eharch8.json
+│   │   ├── eharch9.json
+│   │   ├── ssarch1.json
+│   │   ├── ssarch2.json
+│   │   ├── ssarch3.json
+│   │   ├── # ***** and all of the others eharch and ssarch files
+│   ├── dbards.json
+│   ├── drawboard
+│   │   ├── bimg
+│   │   ├── dbard.css
+│   │   ├── db.js
+│   │   ├── de
+│   │   ├── es
+│   │   ├── extfonts
+│   │   ├── fr
+│   │   ├── it
+│   │   └── sv
+│   ├── easternHead
+│   │   ├── About-Astronomy.js
+│   │   ├── ASMR.js
+│   │   ├── BBCMundo-Transcript.js  
+│   │   ├── # ***** and all of the other game tapes that are native for the easternHead.html app (.js)
+│   │   ├── a
+│   │   ├── b
+│   │   ├── c
+│   ├── gameTapesList-de.json
+│   ├── gameTapesList-es.json
+│   ├── gameTapesList_fin.json
+│   ├── gameTapesList-fr.json
+│   ├── gameTapesList-it.json
+│   ├── gameTapesList.json
+│   ├── gameTapesList_misc.json
+│   ├── gameTapesList-nl.json
+│   ├── gameTapesList-pt.json
+│   ├── gameTapesList_relig.json
+│   ├── gameTapesList_sci.json
+│   ├── imgSet
+│   │   ├── anc
+│   │   ├── anc.js
+│   │   ├── ca.js
+│   │   ├── cd.js
+│   │   ├── csh.js
+│   │   ├── eu.js
+│   │   ├── mena.js
+│   │   ├── rt.js
+│   │   ├── sky.js
+│   │   ├── up.js
+│   │   └── wk.js
+│   ├── sonido ***** contains the sound files that are uploaded to imagekit.io
+│   │   ├── A
+│   │   ├── # 
+│   ├── southSide # folder containing game tapes that are native for the southSide.html app (.js)
+│   │   ├── Affirmations.js
+│   │   ├── Bergman.js
+│   │   ├── Bernard.js
+│   │   ├── CoffeeStory.js
+│   │   ├── # ***** and all of the other game tapes that are native for the southSide.html app (.js)
+│   │   ├── a
+│   │   ├── b
+│   ├── SSGTList-da.json
+│   ├── SSGTList-fi.json
+│   ├── SSGTList.json
+│   ├── SSGTList-no.json
+│   ├── SSGTList-sv.json
+└── structure.txt
