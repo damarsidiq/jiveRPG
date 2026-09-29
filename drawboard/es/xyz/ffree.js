@@ -180,12 +180,12 @@ dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 
 vt=[];vte=[];
 vt[vt.length]=`<div id="text_86" class="textshirt mergershirt" style="top: 39px; left: 406px; font-size: 26px;"></div>`;
-vt[vt.length]=`<div id="text_83" class="textshirt mergershirt" style="width: 335px; white-space: normal; top: 56px; left: 407px; height: 360px;">Platforms / Models used:<br>DeepSeek, Mistral.ai, Gemini, ChatGPT, Zerotwo.ai, Grok<br><br>Spanish Translation:<br> https://laratranslate.com</div>`;
+vt[vt.length]=`<div id="text_83" class="textshirt mergershirt" style="width: 335px; white-space: normal; top: 56px; left: 407px; height: 360px;">Platforms / Models used:<br>DeepSeek, Mistral.ai, Gemini, ChatGPT, Zerotwo.ai, Grok, Tusk Central AI (new.tusksearch.com/ai)<br><br>Spanish Translation:<br> https://laratranslate.com</div>`;
 vt[vt.length]=`<div id="text_84" class="textshirt mergershirt" style="width: 335px; white-space: normal; top: 44px; left: 786px; height: 360px;"></div>`;
-
 vte[vte.length]=`<div id="text_86" class="textshirt mergershirt`+transws+`" style="top: 39px; left: 406px; font-size: 26px;"></div>`;
-vte[vte.length]=`<div id="text_83" class="textshirt mergershirt`+transws+`" style="width: 335px; white-space: normal; top: 56px; left: 407px; height: 360px;">Platforms / Models used:<br>DeepSeek, Mistral.ai, Gemini, ChatGPT, Zerotwo.ai, Grok<br><br>Spanish Translation:<br> https://laratranslate.com</div>`;
+vte[vte.length]=`<div id="text_83" class="textshirt mergershirt`+transws+`" style="width: 335px; white-space: normal; top: 56px; left: 407px; height: 360px;">Platforms / Models used:<br>DeepSeek, Mistral.ai, Gemini, ChatGPT, Zerotwo.ai, Grok, Tusk Central AI (new.tusksearch.com/ai)<br><br>Spanish Translation:<br> https://laratranslate.com</div>`;
 vte[vte.length]=`<div id="text_84" class="textshirt mergershirt`+transws+`" style="width: 335px; white-space: normal; top: 44px; left: 786px; height: 360px;"></div>`;
+
 
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 
