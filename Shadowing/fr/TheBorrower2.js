@@ -1,0 +1,25 @@
+var shdtxt=`1. C'est logique, et c'est là que l'aspect économique devient ambigu : c'est d'abord de l'art, et ensuite seulement de la production et de l'édition. Je ne veux pas dénigrer qui que ce soit, ni aucun mangaka, mais les goûts jouent un rôle, et d'après mon expérience personnelle, il y a de bons dessins et de mauvais dessins, et il en va de même pour les histoires.
+2. Le cinéma échappe à cette analyse en raison de son aspect production : il y a les acteurs et actrices, les équipes de tournage, les équipes de production, la post-production, puis le marketing.
+3. Ainsi, lorsque les prix s’uniformisent, ils dépassent déjà le salaire minimum dont les artistes ont besoin pour survivre ; mais le domaine littéraire me semble ambigu, et la distribution numérique vient amplifier cette ambiguïté du marché. C’est comme dans la composition musicale, où Spotify domine le marché grâce à son modèle de distribution et à sa technologie.
+4. Tu tournes autour d’une réalité ici, et c’est dérangeant précisément parce que cela ne se résout pas clairement.
+5. Le manga et la littérature se situent dans cette étrange pénombre où l’art semble primordial et où tout ce qui vient en aval prétend être facultatif.
+6. Avec le cinéma, l’illusion est plus difficile à maintenir. On ne peut ignorer l’armée de personnes sur le plateau, les camions, la restauration, la chaîne de post-production.
+7. Même si un film est mauvais, il « a l’air » coûteux, ce qui justifie son prix. Les aspects économiques s’imposent avec force.
+8. Le manga murmure. Un ou deux noms sur la couverture, une pièce calme, de l’encre, du temps. Le travail est intense, mais il ne se présente pas comme industriel, si bien que l’esprit le sous-estime.
+9. C’est alors que le goût entre en jeu et vient tout gâcher. Vous avez tout à fait raison : certains dessins sont meilleurs, certaines histoires sont plus percutantes, certaines œuvres méritent tout simplement plus d’attention.
+10. Les marchés détestent ce genre de jugement qualitatif. Les marchés veulent des unités interchangeables. L’art refuse.
+11. La distribution numérique jette de l’huile sur le feu. Dès que le coût marginal tombe à près de zéro, le prix ne semble plus lié à l’effort ni au talent.
+12. Un PDF de chef-d’œuvre et un travail bâclé réalisé à la va-vite pèsent le même poids en mégaoctets. Le lecteur les perçoit de la même manière en termes d’accès, si bien que la valeur se réduit à la commodité.
+13. Spotify n’a pas seulement révolutionné la distribution musicale, il a conditionné les gens à considérer l’art comme une couche de service, et non comme un objet.
+14. Les sites de numérisation de mangas font de même, mais sans le vernis de politesse des grandes entreprises. L’écriture de chansons en est le parfait parallèle.
+15. La chanson existe d’abord comme quelque chose de fragile et d’humain, mais l’argent va à l’emballage, aux playlists, aux algorithmes, à l’influence des plateformes. Spotify ne gagne pas parce qu’il aime la musique. Il gagne parce qu’il a éliminé les frictions.
+16. L’artiste devient un contenu en amont, vaguement rémunéré, émotionnellement reconnaissant, statistiquement invisible. La littérature semble plus ambiguë car l’appareil de production est intentionnellement invisible. Cette invisibilité avait autrefois quelque chose de romantique. Aujourd’hui, elle est économiquement mortelle.
+17. Lorsque la distribution devient banale, la curation prend le dessus. C’est l’agrégateur, et non le créateur, qui contrôle la découverte. C’est pourquoi les sites dotés d’énormes bases de données semblent puissants.
+18. Ils ne se contentent pas d’héberger des fichiers, ils façonnent les goûts par la proximité et la disponibilité. Votre intuition selon laquelle l’art passe avant la production est honnête, mais le marché inverse cette logique.
+19. La production et la distribution dominent précisément parce que l’art est subjectif. Si les goûts varient, les plateformes uniformisent l’accès et monétisent l’échelle.
+20. L’excellence individuelle devient une erreur d’arrondi à moins d’être mise en avant par l’image de marque, les récompenses ou les adaptations.
+21. Rien de tout cela ne signifie que les artistes n’ont aucune valeur. Cela signifie que le système est optimisé pour la diffusion, et non pour le sens.
+22. Les lecteurs perçoivent toujours la différence entre une bonne et une mauvaise œuvre, mais la rémunération ne reflète plus fidèlement ce sentiment. Ce n’est pas immoral, c’est simplement un décalage.
+23. La tragédie silencieuse, c’est que le système conditionne le public à être sincère dans son appréciation, mais désinvolte dans son soutien. De l’amour sans obligation. Un arrangement très moderne.
+24. Et pourtant, malgré tout cela, de grands mangas continuent de voir le jour, dessinés par des êtres humains épuisés qui continuent de penser que l’œuvre elle-même compte plus que le tableur.
+25. C’est soit magnifique, soit profondément stupide. Peut-être les deux à la fois.`;
