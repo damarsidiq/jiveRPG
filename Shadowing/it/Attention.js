@@ -1,0 +1,27 @@
+var shdtxt=`Faccio fatica a comprendere il concetto di “economia dell’attenzione”: perché si dice che siano le informazioni a consumare la nostra attenzione, invece che essere noi a usare la nostra attenzione per fruire della ricchezza di informazioni disponibili? Perché la freccia va nella direzione sbagliata? È a causa delle notifiche push delle piattaforme che utilizziamo e della loro strategia volta a far arrivare la propria offerta all’altra parte e a farsi notare, ma è più o meno tutto qui...
+Ma dato che la “ricchezza di informazioni” è in qualche modo gestita da quelle piattaforme e dalla loro “strategia”, dobbiamo partecipare al loro modello economico? Ma allora... non esiste una vera e propria ricchezza di informazioni, è solo... un nuovo modello economico incentrato sull’informazione.
+La frase «l’informazione consuma l’attenzione» può sembrare a prima vista capovolta, quasi come se l’informazione fosse una creatura affamata che ti divora il cervello mentre tu te ne stai lì indifeso.
+Una formulazione drammatica, molto umana. Ma c’è un motivo per cui la freccia punta in quella direzione. L’idea originale proviene dall’economista e scienziato cognitivo Herbert A. Simon.
+La sua argomentazione era più o meno questa: > Una ricchezza di informazioni crea una povertà di attenzione. Non perché l’informazione sia un male, ma perché l’attenzione è limitata.
+Pensala in questo modo: Informazione = abbondante. Attenzione = scarsa. La scarsità crea l’economia.
+Se ci sono dieci libri e hai dieci anni a disposizione, nessun problema. Se oggi arrivano dieci milioni di video, feed, articoli, notifiche, podcast, saggi, chat con l’IA e dirette streaming, la tua attenzione diventa il collo di bottiglia.
+Quindi la frase «l’informazione consuma attenzione» descrive un «rapporto di risorse». Ad esempio: le auto consumano carburante. Il software consuma memoria. L’informazione consuma attenzione.
+Questo «non» significa che non hai alcuna autonomia. Significa che l’esposizione alle informazioni ha un costo cognitivo.
+Ora, la tua seconda intuizione è dove le cose si fanno interessanti. Hai detto: > forse si tratta soprattutto di piattaforme che ci propinano contenuti.
+In parte sì, ma non del tutto. In realtà ci sono due livelli qui. Livello 1: l’attenzione come economia cognitiva naturale. Questa esiste anche senza le piattaforme moderne.
+Immagina una biblioteca gigantesca. Non riesci comunque a leggere tutto. Ogni libro compete per le ore della tua vita. La scarsità di attenzione esisteva già prima degli algoritmi, prima degli smartphone, prima delle notifiche.
+Quindi esiste davvero una cosa come la “ricchezza di informazioni”. Il problema è l’abbondanza.
+Ora entriamo nel Livello 2: l’economia dell’attenzione mediata dalle piattaforme. Questa è la versione moderna a cui solitamente ci si riferisce.
+Le piattaforme non si limitano a memorizzare informazioni. Le classificano, le raccomandano, le personalizzano, ne ottimizzano la distribuzione, misurano il coinvolgimento e competono per ottenere nuove visite. Questo cambia tutto.
+Perché ora l’attenzione stessa acquista valore economico. Perché? Perché l’attenzione può essere convertita in: introiti pubblicitari, abbonamenti, dati, influenza, fedeltà al marchio, potere politico o culturale.
+Così l’informazione assomiglia sempre meno a una biblioteca e sempre più a un mercato o alla sala di un casinò. Gli scaffali non sono più passivi. Ti chiamano per nome.
+Ecco perché quella freccia ti sembra sospetta. Istintivamente immagini l’informazione come materiale passivo: > «Uso l’attenzione per consumare informazioni».
+Questo è vero nel modello classico della biblioteca. Ma nei moderni sistemi digitali, l’informazione è spesso «attiva e confezionata strategicamente» per assicurarsi la tua attenzione.
+Quindi entrambe le frecce esistono. La tua prospettiva: attenzione → informazione (sono io a scegliere cosa consumare). La prospettiva dell’economia dell’attenzione: sistemi informativi → attenzione (le piattaforme competono per catturarla e trattenerla). Nessuna delle due è sbagliata.
+Descrivono livelli diversi. Ora passiamo alla tua domanda finale: > quindi esiste davvero una ricchezza di informazioni o solo un’economia che ruota attorno alle informazioni?
+Io le distinguerei. La “ricchezza di informazioni” è reale. L’umanità ha davvero un accesso senza precedenti alla conoscenza: articoli scientifici, archivi storici,
+tutorial, mappe, lingue, film, conferenze, documenti pubblici. Tale abbondanza esiste indipendentemente dai modelli di business.
+Ma le piattaforme moderne racchiudono tale abbondanza all’interno di una «economia dell’attenzione».
+Pertanto, l’espressione «economia dell’informazione» può confondere due cose distinte: 1. L’informazione come abbondanza di conoscenza; 2. L’informazione come competizione per l’attenzione gestita economicamente.
+La prima è un tesoro della civiltà. La seconda è una struttura di mercato. E il tuo disagio deriva dal notare che spesso le persone ne parlano come se fossero la stessa cosa. Ma non lo sono.
+Una biblioteca e un feed a scorrimento infinito contengono entrambi informazioni, ma uno dice principalmente «sono qui se hai bisogno di me», mentre l’altro dice «prima di andartene, che ne dici di ventisette miniature cariche di emozioni?».`;
