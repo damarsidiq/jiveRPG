@@ -190,6 +190,7 @@ export var qr = {
         $('body').addClass('pending');
         $('#text_3').addClass('ok');
         qr.drawPage();
+        xclicker.equip();
     },
     prevPage:function(){
         qr.currentdbsetidx--;
@@ -324,5 +325,63 @@ export var qrt = {
         else{
             qr.typecb();
         }
+    }
+};
+export var xclicker = {
+    equip:function(){
+        $.each( $('.mergershirt'),function(i,a){
+            xclicker.wrapTextNodes(a);
+        });
+        $('.xclick').on('click',function(e){
+            e.stopPropagation();
+            if(e.ctrlKey){
+                let x = this.innerHTML;
+                let y = this;
+                while(typeof $(y).next()[0] !== 'undefined'){
+                    y = $(y).next()[0];
+                    if (y.nodeName === 'BR') {
+                        break;
+                    }
+                    x += ' '+ y.innerHTML;
+                    if(y.innerHTML[y.innerHTML.length-1] == '.'){
+                        break;
+                    }
+                }
+                y = this;
+                while(typeof $(y).prev()[0] !== 'undefined'){
+                    y = $(y).prev()[0];
+                    if (y.nodeName === 'BR') {
+                        break;
+                    }
+                    if(y.innerHTML[y.innerHTML.length-1] == '.'){
+                        break;
+                    }
+                    x = y.innerHTML+ ' '+ x;
+                }
+                let z = x.split(' ');
+                let j = '';
+                for(var i=0;i<z.length;i++){
+                    j+= '#'+z[i]+tmlbr;
+                }
+                storyline.cptxt(x+tmlbr+tmlbr+j,false);
+            }
+        });
+    },
+    wrapTextNodes:function(element) {
+        $(element).contents().each(function() {
+            if (this.nodeType === 3) {
+                let text = this.nodeValue;
+                if (!text.trim()) return;
+                
+                let wrapped = text.split(/\s+/).map(word => {
+                    return word ? `<span class="xclick">${word}</span>` : '';
+                }).join(' ');
+                
+                $(this).replaceWith(wrapped);
+            } else if (this.nodeType === 1) {
+                // Recurse into child element tags (e.g., p, div, span)
+                xclicker.wrapTextNodes(this);
+            }
+        });
     }
 };
