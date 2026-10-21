@@ -69,6 +69,9 @@ export var qr = {
         },600);
     },
     pf:function(e){
+        if(e.which == 32 && e.ctrlKey){
+            apn.tn();return;
+        }
         if(e.key=='Escape'){
             if(qrt.ongoinganimId){
                 qr.stopTyping(false);
@@ -339,21 +342,21 @@ export var xclicker = {
                 let y = this;
                 while(typeof $(y).next()[0] !== 'undefined'){
                     y = $(y).next()[0];
-                    if (y.nodeName === 'BR') {
+                    if (y.className.indexOf('xclick') === -1 ) {
                         break;
                     }
                     x += ' '+ y.innerHTML;
-                    if(y.innerHTML[y.innerHTML.length-1] == '.'){
+                    if(y.innerHTML.endsWith('.') || y.innerHTML.endsWith('?')  ){
                         break;
                     }
                 }
                 y = this;
                 while(typeof $(y).prev()[0] !== 'undefined'){
                     y = $(y).prev()[0];
-                    if (y.nodeName === 'BR') {
+                    if (y.className.indexOf('xclick') === -1 ) {
                         break;
                     }
-                    if(y.innerHTML[y.innerHTML.length-1] == '.'){
+                    if(y.innerHTML.endsWith('.') || y.innerHTML.endsWith('?')  ){
                         break;
                     }
                     x = y.innerHTML+ ' '+ x;
@@ -361,6 +364,7 @@ export var xclicker = {
                 let z = x.split(' ');
                 let j = '';
                 for(var i=0;i<z.length;i++){
+                    if(j.indexOf('#'+z[i]+tmlbr) !== -1) continue;
                     j+= '#'+z[i]+tmlbr;
                 }
                 storyline.cptxt(x+tmlbr+tmlbr+j,false);
