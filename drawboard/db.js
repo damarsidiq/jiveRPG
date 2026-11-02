@@ -193,7 +193,6 @@ export var qr = {
         $('body').addClass('pending');
         $('#text_3').addClass('ok');
         qr.drawPage();
-        xclicker.equip();
     },
     prevPage:function(){
         qr.currentdbsetidx--;
@@ -229,6 +228,7 @@ export var qr = {
             qr.currentx = $('.mergershirt').eq($('.mergershirt').length-1)[0];
             $(qr.currentx).addClass('ok');
         }
+        xclicker.equip();
     },
     init:function(dbset,link,defspeed){
         qr.currentDrawBard = link;
@@ -346,7 +346,7 @@ export var xclicker = {
                         break;
                     }
                     x += ' '+ y.innerHTML;
-                    if(y.innerHTML.endsWith('.') || y.innerHTML.endsWith('?')  ){
+                    if(y.innerHTML.endsWith('.') || y.innerHTML.endsWith('?') || y.innerHTML.endsWith('!')  ){
                         break;
                     }
                 }
@@ -356,7 +356,7 @@ export var xclicker = {
                     if (y.className.indexOf('xclick') === -1 ) {
                         break;
                     }
-                    if(y.innerHTML.endsWith('.') || y.innerHTML.endsWith('?')  ){
+                    if(y.innerHTML.endsWith('.') || y.innerHTML.endsWith('?') || y.innerHTML.endsWith('!')  ){
                         break;
                     }
                     x = y.innerHTML+ ' '+ x;
