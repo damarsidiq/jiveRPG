@@ -1,6 +1,6 @@
 export var qr = {
-    langsTotalDB:[1072,0],
-    langAvail:['-es','-de'],
+    langsTotalDB:[1072,0,0],
+    langAvail:['-es','-de','-fr'],
     initPool:function(pdb){
         var tidx = qr.langAvail.indexOf(jve.foclang);
         if(tidx === -1){
@@ -8,7 +8,7 @@ export var qr = {
         }
         qr.totalDB = qr.langsTotalDB[tidx];
         if(qr.totalDB == 0){
-            return false;
+            return 0;
         }
         const link = document.createElement("link");
         link.rel = "stylesheet";
