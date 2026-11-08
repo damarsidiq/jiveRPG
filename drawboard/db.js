@@ -1,7 +1,11 @@
 export var qr = {
-    langsTotalDB:[1072,0,0,0],
-    langAvail:['-es','-de','-fr','-it'],
+    langsTotalDB:[1072,0,0,0,0],
+    langAvail:['-es','-de','-fr','-it','-sv'],
     initPool:function(pdb){
+        const link = document.createElement("link");
+        link.rel = "stylesheet";
+        link.href = storyline.jsonUrl+'./drawboard/dbard.css';
+        document.head.appendChild(link);
         var tidx = qr.langAvail.indexOf(jve.foclang);
         if(tidx === -1){
             return false;
@@ -10,12 +14,7 @@ export var qr = {
         if(qr.totalDB == 0){
             return 0;
         }
-        const link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.href = storyline.jsonUrl+'./drawboard/dbard.css';
-        document.head.appendChild(link);
-        
-        if (!pdb || pdb.length === 0 || pdb.length == qr.totalDB) {
+        if (!pdb || pdb.length === 0 || pdb.length >= qr.totalDB) {
             qr.pool = Array.from({ length: qr.totalDB }, function(_, i) { return i; });
             return true;
         }
