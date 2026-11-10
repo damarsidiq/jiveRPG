@@ -1,11 +1,17 @@
 export var qr = {
     langsTotalDB:[1072,0,0,0,0],
     langAvail:['-es','-de','-fr','-it','-sv'],
+    cstyle:false,
+    initcstyle:function(){
+        if(qr.cstyle!==false) return;
+        qr.cstyle = document.createElement("link");
+        qr.cstyle.rel = "stylesheet";
+        qr.cstyle.href = storyline.jsonUrl+'./drawboard/dbard.css';
+        document.head.appendChild(qr.cstyle);
+    },
     initPool:function(pdb){
-        const link = document.createElement("link");
-        link.rel = "stylesheet";
-        link.href = storyline.jsonUrl+'./drawboard/dbard.css';
-        document.head.appendChild(link);
+        qr.initcstyle();
+        
         var tidx = qr.langAvail.indexOf(jve.foclang);
         if(tidx === -1){
             return false;
