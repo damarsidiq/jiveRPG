@@ -126,10 +126,11 @@ dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 
 vt=[];vte=[];
 vt[vt.length]=`<div id="text_86" class="textshirt mergershirt" style="top: 49px; left: 401px; font-size: 26px;"></div>`;
-vt[vt.length]=`<div id="text_83" class="textshirt mergershirt" style="width: 340px; white-space: normal; top: 45px; left: 108px; height: 360px; font-size: 13px;"><p class="">Platforms / Models used:<br class="" style="top: 0px; left: 0px;">DeepSeek</p><br><div>Spanish Translation:<br>DeepL</div></div>`;
+vt[vt.length]=`<div id="text_83" class="textshirt mergershirt" style="width: 340px; white-space: normal; top: 45px; left: 108px; height: 360px; font-size: 13px;"><p>Platforms / Models used:<br style="top: 0px; left: 0px;">Grok &amp; ChatGPT (Sleepwalking)</p><br><div>Spanish Translation:<br>DeepL</div></div>`;
 vt[vt.length]=`<div id="text_84" class="textshirt mergershirt" style="width: 342px; white-space: normal; top: 52px; left: 778px; height: 360px;"></div>`;
+
 vte[vte.length]=`<div id="text_86" class="textshirt mergershirt`+transws+`" style="top: 49px; left: 401px; font-size: 26px;"></div>`;
-vte[vte.length]=`<div id="text_83" class="textshirt mergershirt`+transws+`" style="width: 340px; white-space: normal; top: 45px; left: 108px; height: 360px; font-size: 13px;"><p class="">Platforms / Models used:<br class="" style="top: 0px; left: 0px;">DeepSeek</p><br><div>Spanish Translation:<br>DeepL</div></div>`;
+vte[vte.length]=`<div id="text_83" class="textshirt mergershirt`+transws+`" style="width: 340px; white-space: normal; top: 45px; left: 108px; height: 360px; font-size: 13px;"><p>Platforms / Models used:<br style="top: 0px; left: 0px;">Grok &amp; ChatGPT (Sleepwalking)</p><br><div>Spanish Translation:<br>DeepL</div></div>`;
 vte[vte.length]=`<div id="text_84" class="textshirt mergershirt`+transws+`" style="width: 342px; white-space: normal; top: 52px; left: 778px; height: 360px;"></div>`;
 dbset[dbset.length] = {dbbg:dbbg,dbbtn:dbbtn,vt:vt,vte:vte};
 
