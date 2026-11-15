@@ -1,3 +1,4 @@
 [
-    ["zyx/Outopia","en,es","shortstory"],["zyx/OnSleep","en,es","shortstory"],["zyx/An-Incident","en,es","shortstory"],["zyx/Memories-of-a-Life","en,es","shortstory"]
+    ["zyx/Monoprompt","en,es","fantasy"],
+    ["zyx/Outopia","en,es","fiction"],["zyx/OnSleep","en,es","fiction"],["zyx/An-Incident","en,es","fiction"],["zyx/Memories-of-a-Life","en,es","fiction"]
 ]
