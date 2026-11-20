@@ -177,10 +177,30 @@ export var qr = {
     },
     timers:[false,false,false,false],
     customfn:function(){},
+    storybookbm:false,
+    cstorybookbm:false,
+    getstorybookbm:function(link){
+        qr.cstorybookbm = false;
+        if(qr.storybookbm === false){
+            qr.storybookbm = jve.localstorage.getItem('storybookbm');
+            if(qr.storybookbm == null){qr.storybookbm = [{name:link,bm:0}]; qr.cstorybookbm = 0; return 0;}
+            else qr.storybookbm = JSON.parse(qr.storybookbm);
+        }
+        for(var i=0;i<qr.storybookbm.length;i++){
+            if(qr.storybookbm[i].name == link){
+                qr.cstorybookbm = i;
+                return qr.storybookbm[i].bm;
+            }
+        }
+    },
+    setstorybookbm:function(){
+        qr.storybookbm[qr.cstorybookbm].bm = qr.currentdbsetidx;
+        jve.localstorage.setItem('storybookbm',JSON.stringify(qr.storybookbm));
+    },
     initBook:function(dbset,link){
         qr.currentDrawBard = link;
         qr.dbset = dbset;
-        qr.currentdbsetidx = 0;
+        qr.currentdbsetidx = qr.getstorybookbm(link);
         qr.currentdbset = qr.dbset[qr.currentdbsetidx];
         qr.vocabtext = qr.currentdbset.vt;
         qr.tellAStory();
@@ -204,6 +224,7 @@ export var qr = {
         if(qr.currentdbsetidx==-1){
             qr.currentdbsetidx=qr.dbset.length-1;
         }
+        qr.setstorybookbm();
         qr.currentdbset = qr.dbset[qr.currentdbsetidx];
         qr.vocabtext = qr.currentdbset.vt;
         qr.tellAStory();
@@ -213,6 +234,7 @@ export var qr = {
         if(qr.currentdbsetidx == qr.dbset.length){
             qr.currentdbsetidx=0;
         }
+        qr.setstorybookbm();
         qr.currentdbset = qr.dbset[qr.currentdbsetidx];
         qr.vocabtext = qr.currentdbset.vt;
         qr.tellAStory();
