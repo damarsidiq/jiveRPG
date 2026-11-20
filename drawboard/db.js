@@ -192,6 +192,9 @@ export var qr = {
                 return qr.storybookbm[i].bm;
             }
         }
+        qr.cstorybookbm = qr.storybookbm.length;
+        qr.storybookbm[qr.cstorybookbm] = {name:link,bm:0};
+        return 0;
     },
     setstorybookbm:function(){
         qr.storybookbm[qr.cstorybookbm].bm = qr.currentdbsetidx;
