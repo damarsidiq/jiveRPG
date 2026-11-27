@@ -197,6 +197,7 @@ export var qr = {
         return 0;
     },
     setstorybookbm:function(){
+        $('#progressindicator').css('width',(((qr.currentdbsetidx)/qr.dbset.length)*100)+'%');
         qr.storybookbm[qr.cstorybookbm].bm = qr.currentdbsetidx;
         jve.localstorage.setItem('storybookbm',JSON.stringify(qr.storybookbm));
     },
@@ -206,6 +207,7 @@ export var qr = {
         qr.currentdbsetidx = qr.getstorybookbm(link);
         qr.currentdbset = qr.dbset[qr.currentdbsetidx];
         qr.vocabtext = qr.currentdbset.vt;
+        $('#progressindicator').css('width',(((qr.currentdbsetidx)/qr.dbset.length)*100)+'%');
         qr.tellAStory();
     },
     tellAStory:function(){
